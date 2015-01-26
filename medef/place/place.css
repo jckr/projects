@@ -1,0 +1,62 @@
+@font-face {
+font-family: Neutra;
+src: url("Neutraface2Display-Medium.otf") format("opentype");
+}
+
+@font-face {
+font-family: Neutra;
+font-weight: bold;
+src: url("Neutraface2Display-Bold.otf") format("opentype");
+}
+
+h1,h2 {text-transform:uppercase;}
+h1 {font-weight:bold; font-size:36px;color:#604592;margin:5 0px;}
+h2 {font-weight:bold; font-size:36px;color:#fa6873;margin:5 0px;}
+
+.monde {fill:#604592;}
+.europe {fill:#fa6873;}
+.france {fill:#68cdbd;}
+
+
+
+body {background-color: #fff8ce;
+font-family:"Neutra";}
+
+input[type=range] {
+    -webkit-appearance: none;
+    background-color: rgb(110, 204, 189);
+
+    width: 800px;
+    height:20px;margin:10px;
+    border:2px solid #575757;
+    border-radius:5px;-moz-border-radius:5px
+}
+
+input[type="range"]::-webkit-slider-thumb {
+     -webkit-appearance: none;
+    background-color: rgb(201,255,237);
+    border:2px solid #575757;
+    opacity: 1;
+    width: 50px;
+    height: 30px;
+    border-radius:5px;-moz-border-radius:5px;
+
+li {text-align:right;}
+}
+
+.slider {height:40px;margin:20 0px;}
+
+.net {fill:"pink"}//"rgb(248, 246, 207)";}
+.CS {fill:"cyan"}//rgb(250, 104, 116)";}
+.CE {fill:"purple"}//"rgb(230, 225, 94)";}
+
+
+/*
+color backcol = color(201,255,237);
+color pink = color(250, 104, 116);
+color medblue = color(110, 204, 189);
+color purple = color(95, 69, 148);
+color yellow = color(230, 225, 94);
+color lightpink = color(248, 246, 207);
+color lightgrey = color(242, 242, 242);
+color darkgrey = color(87, 87, 87);*/

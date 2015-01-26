@@ -1,0 +1,578 @@
+cir,dpt,cn,FM,gPS,ht2,gUMP,st2,conf,chance,town,lat,lon,nom
+01-01,1,1,1,m,0.446049581,m,0.553950419,HH,0,Bourg-en-Bresse,46.2,5.216667,1<sup>ère</sup> circonscription de l'Ain
+01-02,1,2,1,m,0.414769186,m,0.585230814,HH,0,Miribel,45.8258,4.9544,2<sup>ème</sup> circonscription de l'Ain
+01-03,1,3,1,m,0.43638665,m,0.56361335,HH,0,Bellegarde-sur-Valserine,46.1,5.816667,3<sup>ème</sup> circonscription de l'Ain
+01-04,1,4,1,m,0.394087635,m,0.605912365,HH,0,Bourg-en-Bresse,46.2,5.216667,4<sup>ème</sup> circonscription de l'Ain
+01-05,1,5,1,f,0.455022395,m,0.544977605,HF,0.133071852,Oyonnax,46.25,5.666667,5<sup>ème</sup> circonscription de l'Ain
+02-01,2,1,1,m,0.548715135,f,0.451284865,HF,0.116109724,Laon,49.566667,3.616667,1<sup>ère</sup> circonscription de l'Aisne
+02-02,2,2,1,f,0.525731912,m,0.474268088,HF,0.745008041,Saint-Quentin,49.85,3.283333,2<sup>ème</sup> circonscription de l'Aisne
+02-03,2,3,1,m,0.530882939,m,0.469117061,HH,0,Hirson,49.916667,4.083333,3<sup>ème</sup> circonscription de l'Aisne
+02-04,2,4,1,m,0.535814875,f,0.464185125,HF,0.183578791,Soissons,49.366667,3.333333,4<sup>ème</sup> circonscription de l'Aisne
+02-05,2,5,1,m,0.483069977,f,0.516930023,HF,0.669387833,Château-Thierry,49.05,3.4,5<sup>ème</sup> circonscription de l'Aisne
+03-01,3,1,1,m,0.580318814,m,0.419681186,HH,0,Moulins,49.416667,3.683333,1<sup>ère</sup> circonscription de l'Allier
+03-02,3,2,1,m,0.60941786,m,0.39058214,HH,0,Montluçon,46.333333,2.6,2<sup>ème</sup> circonscription de l'Allier
+03-03,3,3,1,m,0.511827886,m,0.488172114,HH,0,Vichy,46.116667,3.416667,3<sup>ème</sup> circonscription de l'Allier
+04-01,4,1,1,m,0.518687156,f,0.481312844,HF,0.314614904,Digne-les-Bains,44.093333,6.236388,1<sup>ère</sup> circonscription des Alpes-de-Haute-Provence
+04-02,4,2,1,m,0.502838212,m,0.497161788,HH,0,Manosque,43.833333,5.783333,2<sup>ème</sup> circonscription des Alpes-de-Haute-Provence
+05-01,5,1,1,f,0.515065352,m,0.484934648,HF,0.65197298,Gap,44.566667,6.083333,1<sup>ère</sup> circonscription des Hautes-Alpes
+05-02,5,2,1,M,0.502212723,f,0.497787277,HF,0.476967115,Briançon,44.9,6.65,2<sup>ème</sup> circonscription des Hautes-Alpes
+06-01,6,1,1,m,0.404997304,m,0.595002696,HH,0,Nice,43.7,7.25,1<sup>ère</sup> circonscription des Alpes-Maritimes
+06-02,6,2,1,m,0.384576549,m,0.615423451,HH,0,Grasse,43.666667,6.916667,2<sup>ème</sup> circonscription des Alpes-Maritimes
+06-03,6,3,1,f,0.401231003,m,0.598768997,HF,0.016057762,Nice,43.7,7.25,3<sup>ème</sup> circonscription des Alpes-Maritimes
+06-04,6,4,1,f,0.34302787,m,0.65697213,HF,0.001441677,Menton,43.783333,7.5,4<sup>ème</sup> circonscription des Alpes-Maritimes
+06-05,6,5,1,m,0.370726886,m,0.629273114,HH,0,Nice,43.7,7.25,5<sup>ème</sup> circonscription des Alpes-Maritimes
+06-06,6,6,1,f,0.31075656,m,0.68924344,HF,0.000376151,Cagnes-sur-Mer,43.666667,7.15,6<sup>ème</sup> circonscription des Alpes-Maritimes
+06-07,6,7,1,M,0.337536359,m,0.662463641,HH,0,Antibes,43.583333,7.116667,7<sup>ème</sup> circonscription des Alpes-Maritimes
+06-08,6,8,1,f,0.318695433,m,0.681304567,HF,0.000523549,Cannes,43.55,7.016667,8<sup>ème</sup> circonscription des Alpes-Maritimes
+06-09,6,9,1,f,0.33547573,f,0.66452427,FF,1,Grasse,43.666667,6.916667,9<sup>ème</sup> circonscription des Alpes-Maritimes
+07-01,7,1,1,m,0.552273459,m,0.447726541,HH,0,Privas,44.733333,4.6,1<sup>ère</sup> circonscription de l'Ardèche
+07-02,7,2,1,m,0.498793186,m,0.501206814,HH,0,Annonay,45.233333,4.666667,2<sup>ème</sup> circonscription de l'Ardèche
+07-03,7,3,1,f,0.559477935,m,0.440522065,HF,0.922602735,Aubenas,44.616667,4.383333,3<sup>ème</sup> circonscription de l'Ardèche
+08-01,8,1,1,f,0.490492416,f,0.509507584,FF,1,Asfeld,49.466667,4.116667,1<sup>ère</sup> circonscription des Ardennes
+08-02,8,2,1,m,0.567696415,m,0.432303585,HH,0,Givet,50.084023,4.781113,2<sup>ème</sup> circonscription des Ardennes
+08-03,8,3,1,f,0.501785349,m,0.498214651,HF,0.518588814,Attigny,49.483333,4.583333,3<sup>ème</sup> circonscription des Ardennes
+09-01,9,1,1,f,0.673315652,f,0.326684348,FF,1,Foix,42.966667,1.6,1<sup>ère</sup> circonscription de l'Ariège
+09-02,9,2,1,m,0.62179855,m,0.37820145,HH,0,Pamiers,43.116667,1.6,2<sup>ème</sup> circonscription de l'Ariège
+10-01,10,1,1,m,0.394413863,m,0.605586137,HH,0,Troyes,48.3,4.083333,1<sup>ère</sup> circonscription de l'Aube
+10-02,10,2,1,m,0.417259229,m,0.582740771,HH,0,Troyes,48.3,4.083333,2<sup>ème</sup> circonscription de l'Aube
+10-03,10,3,1,f,0.468627892,m,0.531372108,HF,0.212960595,Troyes,48.3,4.083333,3<sup>ème</sup> circonscription de l'Aube
+11-01,11,1,1,m,0.573707265,f,0.426292735,HF,0.044313691,Carcassonne,43.216667,2.35,1<sup>ère</sup> circonscription de l'Aude
+11-02,11,2,1,f,0.533800488,m,0.466199512,HF,0.803506144,Narbonne,43.183333,3,2<sup>ème</sup> circonscription de l'Aude
+11-03,11,3,1,m,0.57714923,m,0.42285077,HH,0,Carcassonne,43.216667,2.35,3<sup>ème</sup> circonscription de l'Aude
+12-01,12,1,1,f,0.496456106,m,0.503543894,HF,0.463151368,Rodez,44.333333,2.566667,1<sup>ère</sup> circonscription de l'Aveyron
+12-02,12,2,1,f,0.607073386,m,0.392926614,HF,0.988585505,Conques,44.6,2.4,2<sup>ème</sup> circonscription de l'Aveyron
+12-03,12,3,1,f,0.533227766,m,0.466772234,HF,0.799711186,Millau,44.1,3.083333,3<sup>ème</sup> circonscription de l'Aveyron
+13-01,13,1,1,m,0.44222665,f,0.55777335,HF,0.917376431,Marseille,43.3,5.4,1<sup>ère</sup> circonscription des Bouches-du-Rhône
+13-02,13,2,1,m,0.392019738,m,0.607980262,HH,0,Marseille,43.3,5.4,2<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-03,13,3,1,f,0.50676037,f,0.49323963,FF,1,Marseille,43.3,5.4,3<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-04,13,4,1,m,0.69388994,f,0.30611006,HF,0.000309963,Marseille,43.3,5.4,4<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-05,13,5,1,f,0.502188665,m,0.497811335,HF,0.522782807,Marseille,43.3,5.4,5<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-06,13,6,1,m,0.440306583,m,0.559693417,HH,0,Marseille,43.3,5.4,6<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-07,13,7,1,m,0.670871534,f,0.329128466,HF,0.000808398,Marseille,43.3,5.4,7<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-08,13,8,1,m,0.427217494,m,0.572782506,HH,0,Salon-de-Provence,43.633333,5.1,8<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-09,13,9,1,m,0.434804406,m,0.565195594,HH,0,Aubagne,43.283333,5.566667,9<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-10,13,10,1,m,0.440352374,m,0.559647626,HH,0,Allauch,43.333333,5.483333,10<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-11,13,11,1,f,0.437554465,m,0.562445535,HF,0.069016414,Aix-en-Provence,43.533333,5.433333,11<sup>ère</sup> circonscription des Bouches-du-Rhône
+13-12,13,12,1,m,0.423746874,m,0.576253126,HH,0,Vitrolles,44.433333,5.933333,12<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-13,13,13,1,m,0.551192452,f,0.448807548,HF,0.105928744,Martigues,43.4,5.05,13<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-14,13,14,1,m,0.469949588,f,0.530050412,HF,0.777663256,Aix-en-Provence,43.533333,5.433333,14<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-15,13,15,1,f,0.396636491,m,0.603363509,HF,0.013297233,Châteaurenard,43.883333,4.85,15<sup>ème</sup> circonscription des Bouches-du-Rhône
+13-16,13,16,1,m,0.482250812,m,0.517749188,HH,0,Arles,43.666667,4.633333,16<sup>ème</sup> circonscription des Bouches-du-Rhône
+14-01,14,1,1,m,0.581366972,m,0.418633028,HH,0,Caen,49.183333,-0.35,1<sup>ère</sup> circonscription du Calvados
+14-02,14,2,1,f,0.64129126,f,0.35870874,FF,1,Caen,49.183333,-0.35,2<sup>ème</sup> circonscription du Calvados
+14-03,14,3,1,f,0.513988213,m,0.486011787,HF,0.641721136,Lisieux,49.15,0.233333,3<sup>ème</sup> circonscription du Calvados
+14-04,14,4,1,f,0.452194469,f,0.547805531,FF,1,Honfleur,49.416667,0.233333,4<sup>ème</sup> circonscription du Calvados
+14-05,14,5,1,f,0.501009309,m,0.498990691,HF,0.510512086,Bayeux,49.266667,-0.7,5<sup>ème</sup> circonscription du Calvados
+14-06,14,6,1,m,0.540045704,m,0.459954296,HH,0,Vire,48.833333,-0.883333,6<sup>ème</sup> circonscription du Calvados
+15-01,15,1,1,m,0.549896577,m,0.450103423,HH,0,Aurillac,44.916667,2.45,1<sup>ère</sup> circonscription du Cantal
+15-02,15,2,1,m,0.481213678,m,0.518786322,HH,0,Saint-Flour,45.7,3.516667,2<sup>ème</sup> circonscription du Cantal
+16-01,16,1,1,f,0.610393493,f,0.389606507,FF,1,Angoulême,45.65,0.15,1<sup>ère</sup> circonscription de la Charente
+16-02,16,2,1,f,0.548216178,m,0.451783822,HF,0.88173956,Cognac,45.7,-0.333333,2<sup>ème</sup> circonscription de la Charente
+16-03,16,3,1,m,0.605028026,m,0.394971974,HH,0,Brie,43.2,1.516667,3<sup>ème</sup> circonscription de la Charente
+17-01,17,1,1,f,0.55590488,f,0.44409512,FF,1,La Rochelle,46.166667,-1.15,1<sup>ère</sup> circonscription de la Charente-Maritime
+17-02,17,2,1,f,0.552021136,m,0.447978864,HF,0.897297161,Rochefort,45.933333,-0.983333,2<sup>ème</sup> circonscription de la Charente-Maritime
+17-03,17,3,1,f,0.546924013,m,0.453075987,HF,0.876008981,Saintes,45.75,-0.633333,3<sup>ème</sup> circonscription de la Charente-Maritime
+17-04,17,4,1,f,0.480902469,m,0.519097531,HF,0.310939555,Royan,45.633333,-1.033333,4<sup>ème</sup> circonscription de la Charente-Maritime
+17-05,17,5,1,m,0.449220601,m,0.550779399,HH,0,Royan,45.633333,-1.033333,5<sup>ème</sup> circonscription de la Charente-Maritime
+18-01,18,1,1,f,0.504589157,m,0.495410843,HF,0.547658595,Bourges,47.083333,2.4,1<sup>ère</sup> circonscription du Cher
+18-02,18,2,1,f,0.581320795,f,0.418679205,FF,1,Bourges,47.083333,2.4,2<sup>ème</sup> circonscription du Cher
+18-03,18,3,1,m,0.538437988,m,0.461562012,HH,0,Bourges,47.083333,2.4,3<sup>ème</sup> circonscription du Cher
+19-01,19,1,1,f,0.676351938,m,0.323648062,HF,0.999356534,Tulle,45.266667,1.766667,1<sup>ère</sup> circonscription de la Corrèze
+19-02,19,2,1,m,0.619255011,m,0.380744989,HH,0,Brive-la-Gaillarde,45.15,1.533333,2<sup>ème</sup> circonscription de la Corrèze
+2A-1,2A,1,1,m,0.445712107,m,0.554287893,HH,0,Ajaccio,41.916667,8.733333,1<sup>ère</sup> circonscription de la Corse-du-Sud
+2A-2,2A,2,1,m,0.404723592,m,0.595276408,HH,0,Ajaccio,41.916667,8.733333,2<sup>ème</sup> circonscription de la Corse-du-Sud
+2B-1,2B,1,1,m,0.447614779,m,0.552385221,HH,0,Bastia,42.7,9.45,1<sup>ère</sup> circonscription de la Haute-Corse
+2B-2,2B,2,1,m,0.463169981,f,0.536830019,HF,0.822676037,Corte,42.3,9.15,2<sup>ème</sup> circonscription de la Haute-Corse
+21-01,21,1,1,m,0.49025402,m,0.50974598,HH,0,Dijon,47.316667,5.016667,1<sup>ère</sup> circonscription de la Côte-d'Or
+21-02,21,2,1,m,0.488466443,m,0.511533557,HH,0,Dijon,47.316667,5.016667,2<sup>ème</sup> circonscription de la Côte-d'Or
+21-03,21,3,1,f,0.53493922,f,0.46506078,FF,1,Dijon,47.316667,5.016667,3<sup>ème</sup> circonscription de la Côte-d'Or
+21-04,21,4,1,m,0.477035994,m,0.522964006,HH,0,Montbard,47.616667,4.333333,4<sup>ème</sup> circonscription de la Côte-d'Or
+21-05,21,5,1,f,0.440957669,m,0.559042331,HF,0.078703294,Beaune,47.033333,4.833333,5<sup>ème</sup> circonscription de la Côte-d'Or
+22-01,22,1,1,m,0.613694617,f,0.386305383,HF,0.008686371,Saint-Brieuc,48.516667,-2.783333,1<sup>ère</sup> circonscription des Côtes-d'Armor
+22-02,22,2,1,f,0.547472833,m,0.452527167,HF,0.878471505,Dinan,48.456388,-2.236388,2<sup>ème</sup> circonscription des Côtes-d'Armor
+22-03,22,3,1,m,0.55707814,m,0.44292186,HH,0,Lamballe,48.466667,-2.516667,3<sup>ème</sup> circonscription des Côtes-d'Armor
+22-04,22,4,1,m,0.65702994,f,0.34297006,HF,0.001438214,Guingamp,48.55,-3.15,4<sup>ème</sup> circonscription des Côtes-d'Armor
+22-05,22,5,1,f,0.593308025,m,0.406691975,HF,0.979921726,Lannion,48.733333,-3.466667,5<sup>ème</sup> circonscription des Côtes-d'Armor
+23-01,23,1,1,m,0.610168139,m,0.389831861,HH,0,Guéret,46.166667,1.866667,1<sup>ère</sup> circonscription de la Creuse
+24-01,24,1,1,m,0.617362377,m,0.382637623,HH,0,Périgueux,45.183333,0.716667,1<sup>ère</sup> circonscription de la Dordogne
+24-02,24,2,1,f,0.547487528,m,0.452512472,HF,0.878536858,Bergerac,44.85,0.483333,2<sup>ème</sup> circonscription de la Dordogne
+24-03,24,3,1,f,0.592881138,f,0.407118862,FF,1,Thiviers,45.416667,0.916667,3<sup>ème</sup> circonscription de la Dordogne
+24-04,24,4,1,m,0.607510745,f,0.392489255,HF,0.01121068,Saint-Cyprien,45.25,1.35,4<sup>ème</sup> circonscription de la Dordogne
+25-01,25,1,1,f,0.536446288,f,0.463553712,FF,1,Besançon,47.25,6.033333,1<sup>ère</sup> circonscription du Doubs
+25-02,25,2,1,m,0.521693562,m,0.478306438,HH,0,Besançon,47.25,6.033333,2<sup>ème</sup> circonscription du Doubs
+25-03,25,3,1,m,0.477834179,m,0.522165821,HH,0,Montbéliard,47.516667,6.8,3<sup>ème</sup> circonscription du Doubs
+25-04,25,4,1,m,0.512713457,m,0.487286543,HH,0,Audincourt,47.483333,6.833333,4<sup>ème</sup> circonscription du Doubs
+25-05,25,5,1,f,0.367641632,f,0.632358368,FF,1,Pontarlier,46.9,6.366667,5<sup>ème</sup> circonscription du Doubs
+26-01,26,1,1,m,0.504687054,m,0.495312946,HH,0,Valence,45.883333,0.3,1<sup>ère</sup> circonscription de la Drôme
+26-02,26,2,1,f,0.473568151,m,0.526431849,HF,0.249491329,Montélimar,44.566667,4.75,2<sup>ème</sup> circonscription de la Drôme
+26-03,26,3,1,m,0.511457199,m,0.488542801,HH,0,Saint-Paul-Trois-Châteaux,44.35,4.766667,3<sup>ème</sup> circonscription de la Drôme
+26-04,26,4,1,f,0.476032725,f,0.523967275,FF,1,Romans-sur-Isère,45.05,5.05,4<sup>ème</sup> circonscription de la Drôme
+27-01,27,1,1,m,0.442475391,m,0.557524609,HH,0,Évreux,49.016667,1.15,1<sup>ère</sup> circonscription de l'Eure
+27-02,27,2,1,m,0.47613828,m,0.52386172,HH,0,Évreux,49.016667,1.15,2<sup>ème</sup> circonscription de l'Eure
+27-03,27,3,1,f,0.474760888,m,0.525239112,HF,0.258912283,Bernay,49.1,0.6,3<sup>ème</sup> circonscription de l'Eure
+27-04,27,4,1,m,0.513391087,m,0.486608913,HH,0,Louviers,49.216667,1.166667,4<sup>ème</sup> circonscription de l'Eure
+27-05,27,5,1,m,0.469872222,m,0.530127778,HH,0,Vernon,44.5,4.233333,5<sup>ème</sup> circonscription de l'Eure
+28-01,28,1,1,m,0.471555575,m,0.528444425,HH,0,Chartres,48.45,1.5,1<sup>ère</sup> circonscription de l'Eure-et-Loir
+28-02,28,2,1,f,0.476645573,m,0.523354427,HF,0.274262814,Dreux,48.733333,1.366667,2<sup>ème</sup> circonscription de l'Eure-et-Loir
+28-03,28,3,1,m,0.475480218,f,0.524519782,HF,0.735295351,Chartres,48.45,1.5,3<sup>ème</sup> circonscription de l'Eure-et-Loir
+28-04,28,4,1,m,0.434627407,m,0.565372593,HH,0,Châteaudun,48.083333,1.333333,4<sup>ème</sup> circonscription de l'Eure-et-Loir
+29-01,29,1,1,m,0.592200145,m,0.407799855,HH,0,Quimper,48,-4.1,1<sup>ère</sup> circonscription du Finistère
+29-02,29,2,1,f,0.626179404,m,0.373820596,HF,0.994818549,Brest,48.4,-4.483333,2<sup>ème</sup> circonscription du Finistère
+29-03,29,3,1,f,0.558764454,f,0.441235546,FF,1,Brest,48.4,-4.483333,3<sup>ème</sup> circonscription du Finistère
+29-04,29,4,1,f,0.607140192,f,0.392859808,FF,1,Morlaix,48.583333,-3.833333,4<sup>ème</sup> circonscription du Finistère
+29-05,29,5,1,f,0.553820727,m,0.446179273,HF,0.904004263,Landerneau,48.45,-4.25,5<sup>ème</sup> circonscription du Finistère
+29-06,29,6,1,m,0.592559248,m,0.407440752,HH,0,Plougastel-Daoulas,48.366667,-4.366667,6<sup>ème</sup> circonscription du Finistère
+29-07,29,7,1,f,0.589546852,m,0.410453148,HF,0.976594919,Douarnenez,48.1,-4.333333,7<sup>ème</sup> circonscription du Finistère
+29-08,29,8,1,m,0.597851401,m,0.402148599,HH,0,Concarneau,47.866667,-3.916667,8<sup>ème</sup> circonscription du Finistère
+30-01,30,1,1,f,0.477788653,m,0.522211347,HF,0.283844089,Nîmes,43.833333,4.35,1<sup>ère</sup> circonscription du Gard
+30-2,30,2,1,f,0.439688776,m,0.560311224,HF,0.074954084,Saint-Gilles,43.683333,4.433333,2<sup>ème</sup> circonscription du Gard
+30-03,30,3,1,m,0.446984035,m,0.553015965,HH,0,Bagnols-sur-Cèze,44.166667,4.616667,3<sup>ème</sup> circonscription du Gard
+30-04,30,4,1,m,0.516883693,m,0.483116307,HH,0,Alès,44.133333,4.083333,4<sup>ème</sup> circonscription du Gard
+30-05,30,5,1,m,0.567302002,m,0.432697998,HH,0,Alès,44.133333,4.083333,5<sup>ème</sup> circonscription du Gard
+30-06,30,6,1,m,0.469208063,m,0.530791937,HH,0,Nîmes,43.833333,4.35,6<sup>ème</sup> circonscription du Gard
+31-01,31,1,1,f,0.616667814,m,0.383332186,HF,0.992317964,Toulouse,43.6,1.433333,1<sup>ère</sup> circonscription de la Haute-Garonne
+31-2,31,2,1,m,0.587609092,m,0.412390908,HH,0,Toulouse,43.6,1.433333,2<sup>ème</sup> circonscription de la Haute-Garonne
+31-03,31,3,1,m,0.52662332,m,0.47337668,HH,0,Toulouse,43.6,1.433333,3<sup>ème</sup> circonscription de la Haute-Garonne
+31-4,31,4,1,f,0.643384615,m,0.356615385,HF,0.997463319,Toulouse,43.6,1.433333,4<sup>ème</sup> circonscription de la Haute-Garonne
+31-05,31,5,1,f,0.546342752,m,0.453657248,HF,0.873354312,Castelginest,43.7,1.433333,5<sup>ème</sup> circonscription de la Haute-Garonne
+31-6,31,6,1,f,0.592602069,f,0.407397931,FF,1,Colomiers,43.616667,1.35,6<sup>ème</sup> circonscription de la Haute-Garonne
+31-07,31,7,1,m,0.565492198,f,0.434507802,HF,0.06129278,Muret,43.466667,1.35,7<sup>ème</sup> circonscription de la Haute-Garonne
+31-08,31,8,1,f,0.598054097,f,0.401945903,FF,1,Saint-Gaudens,43.116667,0.733333,8<sup>ème</sup> circonscription de la Haute-Garonne
+31-9,31,9,1,m,0.636305368,f,0.363694632,HF,0.003404013,Toulouse,43.6,1.433333,9<sup>ème</sup> circonscription de la Haute-Garonne
+31-10,31,10,1,m,0.586379624,f,0.413620376,HF,0.026618983,Caraman,43.533333,1.766667,10<sup>ème</sup> circonscription de la Haute-Garonne
+32-1,32,1,1,m,0.594417271,f,0.405582729,HF,0.019188805,Auch,43.65,0.583333,1<sup>ère</sup> circonscription du Gers
+32-2,32,2,1,f,0.537037037,m,0.462962963,HF,0.823930862,L'Isle-Jourdain,43.616667,1.083333,2<sup>ème</sup> circonscription du Gers
+33-1,33,1,1,f,0.514851191,f,0.485148809,FF,1,Bordeaux,44.833333,-0.566667,1<sup>ère</sup> circonscription de la Gironde
+33-2,33,2,1,f,0.590091781,m,0.409908219,HF,0.977108325,Bordeaux,44.833333,-0.566667,2<sup>ème</sup> circonscription de la Gironde
+33-3,33,3,1,m,0.671536401,f,0.328463599,HF,0.000786328,Bordeaux,44.833333,-0.566667,3<sup>ème</sup> circonscription de la Gironde
+33-4,33,4,1,f,0.635480876,f,0.364519124,FF,1,Cenon,44.85,-0.533333,4<sup>ème</sup> circonscription de la Gironde
+33-5,33,5,1,f,0.550843032,m,0.449156968,HF,0.892684456,Eysines,44.883333,-0.65,5<sup>ème</sup> circonscription de la Gironde
+33-6,33,6,1,f,0.577785907,m,0.422214093,HF,0.962351239,Mérignac,45.7,-0.083333,6<sup>ème</sup> circonscription de la Gironde
+33-7,33,7,1,m,0.616750356,f,0.383249644,HF,0.007655863,Pessac,44.8,-0.616667,7<sup>ème</sup> circonscription de la Gironde
+33-8,33,8,1,f,0.453045212,m,0.546954788,HF,0.123851807,La Teste-de-Buch,44.6343,-1.13704,8<sup>ème</sup> circonscription de la Gironde
+33-9,33,9,1,m,0.58607628,m,0.41392372,HH,0,Léognan,44.733333,-0.6,9<sup>ème</sup> circonscription de la Gironde
+33-10,33,10,1,m,0.520623341,m,0.479376659,HH,0,Libourne,44.916667,-0.233333,10<sup>ème</sup> circonscription de la Gironde
+33-11,33,11,1,m,0.559589173,m,0.440410827,HH,0,Saint-André-de-Cubzac,44.991667,-0.441667,11<sup>ère</sup> circonscription de la Gironde
+33-12,33,12,1,f,0.561430793,m,0.438569207,HF,0.928216901,La Réole,44.583333,-0.033333,12<sup>ème</sup> circonscription de la Gironde
+34-1,34,1,1,m,0.503634544,m,0.496365456,HH,0,Montpellier,43.6,3.883333,1<sup>ère</sup> circonscription de l'Hérault
+34-2,34,2,1,f,0.652653741,f,0.347346259,FF,1,Montpellier,43.6,3.883333,2<sup>ème</sup> circonscription de l'Hérault
+34-3,34,3,1,f,0.504545823,m,0.495454177,HF,0.547211262,Montpellier,43.6,3.883333,3<sup>ème</sup> circonscription de l'Hérault
+34-4,34,4,1,m,0.523946963,m,0.476053037,HH,0,Mèze,43.416667,3.6,4<sup>ème</sup> circonscription de l'Hérault
+34-5,34,5,1,m,0.550461197,f,0.449538803,HF,0.108849234,Clermont-l'Hérault,43.616667,3.433333,5<sup>ème</sup> circonscription de l'Hérault
+34-6,34,6,1,f,0.461231235,m,0.538768765,HF,0.165845057,Béziers,43.35,3.25,6<sup>ème</sup> circonscription de l'Hérault
+34-7,34,7,1,m,0.465510064,m,0.534489936,HH,0,Sète,43.4,3.683333,7<sup>ème</sup> circonscription de l'Hérault
+34-8,34,8,1,m,0.517342295,m,0.482657705,HH,0,Montpellier,43.6,3.883333,8<sup>ème</sup> circonscription de l'Hérault
+34-9,34,9,1,m,0.483372109,m,0.516627891,HH,0,Montpellier,43.6,3.883333,9<sup>ème</sup> circonscription de l'Hérault
+35-1,35,1,1,f,0.650321286,f,0.349678714,FF,1,Rennes,48.083333,-1.683333,1<sup>ère</sup> circonscription de l'Ille-et-Vilaine
+35-2,35,2,1,f,0.597241902,m,0.402758098,HF,0.982905327,Rennes,48.083333,-1.683333,2<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-3,35,3,1,m,0.569139546,m,0.430860454,HH,0,Rennes,48.083333,-1.683333,3<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-4,35,4,1,m,0.557891646,m,0.442108354,HH,0,Redon,47.65,-2.083333,4<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-5,35,5,1,f,0.466270829,f,0.533729171,FF,1,Vitré,48.133333,-1.2,5<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-6,35,6,1,f,0.508846571,m,0.491153429,HF,0.591122368,Fougères,48.35,-1.2,6<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-7,35,7,1,f,0.496074887,m,0.503925113,HF,0.459204297,Saint-Malo,48.65,-2.016667,7<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+35-8,35,8,1,m,0.633757405,m,0.366242595,HH,0,Rennes,48.083333,-1.683333,8<sup>ème</sup> circonscription de l'Ille-et-Vilaine
+36-1,36,1,1,m,0.557086966,m,0.442913034,HH,0,Châteauroux,44.616667,6.516667,1<sup>ère</sup> circonscription de l'Indre
+36-2,36,2,1,f,0.556184546,m,0.443815454,HF,0.912218018,Issoudun,46.95,2,2<sup>ème</sup> circonscription de l'Indre
+37-1,37,1,1,m,0.56609102,m,0.43390898,HH,0,Tours,47.383333,0.683333,1<sup>ère</sup> circonscription de l'Indre-et-Loire
+37-2,37,2,1,m,0.494016966,f,0.505983034,HF,0.562002497,Amboise,47.416667,0.983333,2<sup>ème</sup> circonscription de l'Indre-et-Loire
+37-3,37,3,1,f,0.517885373,m,0.482114627,HF,0.678137116,Saint-Avertin,47.366667,0.733333,3<sup>ème</sup> circonscription de l'Indre-et-Loire
+37-4,37,4,1,m,0.520040168,m,0.479959832,HH,0,Joué-lès-Tours,47.351389,0.6625,4<sup>ème</sup> circonscription de l'Indre-et-Loire
+37-5,37,5,1,f,0.47468813,m,0.52531187,HF,0.258331018,Tours,47.383333,0.683333,5<sup>ème</sup> circonscription de l'Indre-et-Loire
+38-1,38,1,1,f,0.53950762,m,0.46049238,HF,0.838370146,Grenoble,45.166667,5.716667,1<sup>ère</sup> circonscription de l'Isère
+38-2,38,2,1,m,0.598335388,f,0.401664612,HF,0.016345729,Échirolles,45.133333,5.716667,2<sup>ème</sup> circonscription de l'Isère
+38-3,38,3,1,m,0.640228999,f,0.359771001,HF,0.002892103,Grenoble,45.166667,5.716667,3<sup>ème</sup> circonscription de l'Isère
+38-4,38,4,1,f,0.532554354,f,0.467445646,FF,1,Fontaine,48.216667,4.716667,4<sup>ème</sup> circonscription de l'Isère
+38-5,38,5,1,m,0.552929432,m,0.447070568,HH,0,Saint-Égrève,45.2325,5.683611,5<sup>ème</sup> circonscription de l'Isère
+38-6,38,6,1,f,0.433065231,m,0.566934769,HF,0.057924297,Bourgoin-Jallieu,45.591666,5.279722,6<sup>ème</sup> circonscription de l'Isère
+38-7,38,7,1,m,0.475812189,m,0.524187811,HH,0,Roussillon,45.366667,4.816667,7<sup>ème</sup> circonscription de l'Isère
+38-8,38,8,1,m,0.472177621,m,0.527822379,HH,0,Vienne,45.516667,4.866667,8<sup>ème</sup> circonscription de l'Isère
+38-9,38,9,1,f,0.513291271,m,0.486708729,HF,0.635017455,Voiron,45.366667,5.583333,9<sup>ème</sup> circonscription de l'Isère
+38-10,38,10,1,f,0.481232187,m,0.518767813,HF,0.313890678,Bourgoin-Jallieu,45.591666,5.279722,10<sup>ème</sup> circonscription de l'Isère
+39-1,39,1,1,f,0.503783203,m,0.496216797,HF,0.539326964,Lons-le-Saunier,46.666667,5.55,1<sup>ère</sup> circonscription du Jura
+39-2,39,2,1,m,0.454019353,f,0.545980647,HF,0.871676091,Saint-Claude,46.383333,5.866667,2<sup>ème</sup> circonscription du Jura
+39-3,39,3,1,f,0.517427277,m,0.482572723,HF,0.673956891,Dole,47.1,5.5,3<sup>ème</sup> circonscription du Jura
+40-1,40,1,1,m,0.55360588,m,0.44639412,HH,0,Mont-de-Marsan,43.883333,-0.5,1<sup>ère</sup> circonscription des Landes
+40-2,40,2,1,m,0.558790808,m,0.441209192,HH,0,Dax,43.716667,-1.05,2<sup>ème</sup> circonscription des Landes
+40-3,40,3,1,m,0.598093033,f,0.401906967,HF,0.016508888,Aire-sur-l'Adour,43.7,-0.266667,3<sup>ème</sup> circonscription des Landes
+41-1,41,1,1,m,0.507190499,m,0.492809501,HH,0,Blois,47.583333,1.333333,1<sup>ère</sup> circonscription du Loir-et-Cher
+41-2,41,2,1,f,0.458574119,m,0.541425881,HF,0.151089886,Romorantin-Lanthenay,47.358888,1.743611,2<sup>ème</sup> circonscription du Loir-et-Cher
+41-3,41,3,1,f,0.462156159,m,0.537843841,HF,0.171245367,Vendôme,47.8,1.066667,3<sup>ème</sup> circonscription du Loir-et-Cher
+42-1,42,1,1,m,0.562300319,m,0.437699681,HH,0,Saint-Étienne,45.433333,4.4,1<sup>ère</sup> circonscription de la Loire
+42-2,42,2,1,m,0.574598847,f,0.425401153,HF,0.042766786,Saint-Étienne,45.433333,4.4,2<sup>ème</sup> circonscription de la Loire
+42-3,42,3,1,m,0.501254766,m,0.498745234,HH,0,Saint-Chamond,45.466667,4.5,3<sup>ème</sup> circonscription de la Loire
+42-4,42,4,1,f,0.509345856,m,0.490654144,HF,0.596140821,Firminy,45.383333,4.3,4<sup>ème</sup> circonscription de la Loire
+42-5,42,5,1,f,0.484590347,m,0.515409653,HF,0.344779017,Roanne,46.036666,4.068888,5<sup>ème</sup> circonscription de la Loire
+42-6,42,6,1,f,0.451433812,m,0.548566188,HF,0.116748167,Montbrison,44.441667,5.016667,6<sup>ème</sup> circonscription de la Loire
+43-1,43,1,1,m,0.498184352,m,0.501815648,HH,0,Le Puy-en-Velay,45.044166,3.885833,1<sup>ère</sup> circonscription de la Haute-Loire
+43-2,43,2,1,m,0.532415843,m,0.467584157,HH,0,Le Puy-en-Velay,45.044166,3.885833,2<sup>ème</sup> circonscription de la Haute-Loire
+44-1,44,1,1,m,0.566886329,m,0.433113671,HH,0,Nantes,47.216667,-1.55,1<sup>ère</sup> circonscription de la Loire-Atlantique
+44-2,44,2,1,f,0.599987456,f,0.400012544,FF,1,Nantes,47.216667,-1.55,2<sup>ème</sup> circonscription de la Loire-Atlantique
+44-3,44,3,1,m,0.652244742,f,0.347755258,HF,0.001754998,Nantes,47.216667,-1.55,3<sup>ème</sup> circonscription de la Loire-Atlantique
+44-4,44,4,1,m,0.645444649,f,0.354555351,HF,0.002328514,Nantes,47.216667,-1.55,4<sup>ème</sup> circonscription de la Loire-Atlantique
+44-5,44,5,1,m,0.562540991,m,0.437459009,HH,0,Nantes,47.216667,-1.55,5<sup>ème</sup> circonscription de la Loire-Atlantique
+44-6,44,6,1,m,0.523836462,m,0.476163538,HH,0,Châteaubriant,47.716667,-1.383333,6<sup>ème</sup> circonscription de la Loire-Atlantique
+44-7,44,7,1,f,0.484611711,m,0.515388289,HF,0.344980139,La Baule-Escoublac,47.3,-2.366667,7<sup>ème</sup> circonscription de la Loire-Atlantique
+44-8,44,8,1,f,0.658697247,f,0.341302753,FF,1,Saint-Nazaire,47.283333,-2.2,8<sup>ème</sup> circonscription de la Loire-Atlantique
+44-9,44,9,1,f,0.498253824,m,0.501746176,HF,0.481818686,Pornic,47.116667,-2.1,9<sup>ème</sup> circonscription de la Loire-Atlantique
+44-10,44,10,1,f,0.513609279,m,0.486390721,HF,0.63808296,Vertou,47.166667,-1.483333,10<sup>ème</sup> circonscription de la Loire-Atlantique
+45-1,45,1,1,m,0.484468816,m,0.515531184,HH,0,Orléans,47.916667,1.9,1<sup>ère</sup> circonscription du Loiret
+45-2,45,2,1,m,0.482281901,m,0.517718099,HH,0,Orléans,47.916667,1.9,2<sup>ème</sup> circonscription du Loiret
+45-3,45,3,1,m,0.43646187,m,0.56353813,HH,0,Gien,47.7,2.633333,3<sup>ème</sup> circonscription du Loiret
+45-4,45,4,1,f,0.424545079,m,0.575454921,HF,0.041330128,Montargis,48,2.75,4<sup>ème</sup> circonscription du Loiret
+45-5,45,5,1,f,0.445392027,f,0.554607973,FF,1,Fleury-les-Aubrais,47.933333,1.916667,5<sup>ème</sup> circonscription du Loiret
+45-6,45,6,1,f,0.481611501,m,0.518388499,HF,0.317304412,Orléans,47.916667,1.9,6<sup>ème</sup> circonscription du Loiret
+46-1,46,1,1,f,0.613381199,m,0.386618801,HF,0.991200454,Cahors,44.433333,1.433333,1<sup>ère</sup> circonscription du Lot
+46-2,46,2,1,m,0.624799593,f,0.375200407,HF,0.005486391,Figeac,44.6,2.033333,2<sup>ème</sup> circonscription du Lot
+47-1,47,1,1,f,0.511556489,m,0.488443511,HF,0.618106825,Agen,44.2,0.633333,1<sup>ère</sup> circonscription du Lot-et-Garonne
+47-2,47,2,1,m,0.511131018,m,0.488868982,HH,0,Marmande,44.5,0.166667,2<sup>ème</sup> circonscription du Lot-et-Garonne
+47-3,47,3,1,m,0.518206024,m,0.481793976,HH,0,Villeneuve-sur-Lot,44.4,0.716667,3<sup>ème</sup> circonscription du Lot-et-Garonne
+48-1,48,1,1,m,0.499531514,m,0.500468486,HH,0,Mende,44.516667,3.5,1<sup>ère</sup> circonscription de la Lozère
+49-1,49,1,1,m,0.515791794,m,0.484208206,HH,0,Angers,47.466667,-0.55,1<sup>ère</sup> circonscription du Maine-et-Loire
+49-2,49,2,1,m,0.538391673,m,0.461608327,HH,0,Angers,47.466667,-0.55,2<sup>ème</sup> circonscription du Maine-et-Loire
+49-3,49,3,1,m,0.465600802,m,0.534399198,HH,0,Saumur,47.266667,-0.083333,3<sup>ème</sup> circonscription du Maine-et-Loire
+49-4,49,4,1,f,0.440947752,m,0.559052248,HF,0.078673338,Saumur,47.266667,-0.083333,4<sup>ème</sup> circonscription du Maine-et-Loire
+49-5,49,5,1,f,0.487823028,m,0.512176972,HF,0.375809362,Cholet,47.066667,-0.883333,5<sup>ème</sup> circonscription du Maine-et-Loire
+49-6,49,6,1,f,0.470522034,m,0.529477966,HF,0.226488112,Angers,47.466667,-0.55,6<sup>ème</sup> circonscription du Maine-et-Loire
+49-7,49,7,1,f,0.491105337,m,0.508894663,HF,0.408393401,Angers,47.466667,-0.55,7<sup>ème</sup> circonscription du Maine-et-Loire
+50-1,50,1,1,f,0.49126108,m,0.50873892,HF,0.409962194,Saint-Lô,49.116667,-1.083333,1<sup>ère</sup> circonscription de la Manche
+50-2,50,2,1,m,0.446707481,m,0.553292519,HH,0,Granville,48.833333,-1.6,2<sup>ème</sup> circonscription de la Manche
+50-3,50,3,1,m,0.485045576,m,0.514954424,HH,0,Coutances,49.05,-1.433333,3<sup>ème</sup> circonscription de la Manche
+50-4,50,4,1,m,0.581429494,m,0.418570506,HH,0,Cherbourg-Octeville,49.6425,-1.6253,4<sup>ème</sup> circonscription de la Manche
+51-1,51,1,1,f,0.480845469,m,0.519154531,HF,0.310430925,Reims,49.25,4.033333,1<sup>ère</sup> circonscription de la Marne
+51-2,51,2,1,m,0.464055934,f,0.535944066,HF,0.817226621,Reims,49.25,4.033333,2<sup>ème</sup> circonscription de la Marne
+51-3,51,3,1,m,0.447120051,m,0.552879949,HH,0,Reims,49.25,4.033333,3<sup>ème</sup> circonscription de la Marne
+51-4,51,4,1,m,0.45627691,m,0.54372309,HH,0,Reims,49.25,4.033333,4<sup>ème</sup> circonscription de la Marne
+51-5,51,5,1,f,0.392887227,m,0.607112773,HF,0.011395991,Vitry-le-François,48.733333,4.583333,5<sup>ème</sup> circonscription de la Marne
+52-1,52,1,1,f,0.468345874,m,0.531654126,HF,0.210997714,Nogent,48.030278,5.346111,1<sup>ère</sup> circonscription de la Haute-Marne
+52-2,52,2,1,m,0.440629471,m,0.559370529,HH,0,Saint-Dizier,48.633333,4.95,2<sup>ème</sup> circonscription de la Haute-Marne
+53-1,53,1,1,m,0.513008531,f,0.486991469,HF,0.36771731,Laval,45.25,5.933333,1<sup>ère</sup> circonscription de la Mayenne
+53-2,53,2,1,f,0.44756268,m,0.55243732,HF,0.101115753,Laval,45.25,5.933333,2<sup>ème</sup> circonscription de la Mayenne
+53-3,53,3,1,m,0.448940574,m,0.551059426,HH,0,Mayenne,48.3,-0.616667,3<sup>ème</sup> circonscription de la Mayenne
+54-1,54,1,1,f,0.537243655,m,0.462756345,HF,0.825176291,Nancy,48.683333,6.2,1<sup>ère</sup> circonscription de la Meurthe-et-Moselle
+54-2,54,2,1,m,0.530107667,f,0.469892333,HF,0.221924535,Nancy,48.683333,6.2,2<sup>ème</sup> circonscription de la Meurthe-et-Moselle
+54-3,54,3,1,m,0.589118914,m,0.410881086,HH,0,Longwy,49.516667,5.766667,3<sup>ème</sup> circonscription de la Meurthe-et-Moselle
+54-4,54,4,1,f,0.494513342,m,0.505486658,HF,0.443094932,Lunéville,48.6,6.5,4<sup>ème</sup> circonscription de la Meurthe-et-Moselle
+54-5,54,5,1,m,0.471620931,f,0.528379069,HF,0.765390047,Toul,48.683333,5.9,5<sup>ème</sup> circonscription de la Meurthe-et-Moselle
+54-6,54,6,1,m,0.564414053,m,0.435585947,HH,0,Pont-à-Mousson,48.9,6.066667,6<sup>ème</sup> circonscription de la Meurthe-et-Moselle
+55-1,55,1,1,f,0.468240866,m,0.531759134,HF,0.21027024,Bar-le-Duc,48.783333,5.166667,1<sup>ère</sup> circonscription de la Meuse
+55-2,55,2,1,m,0.453822804,m,0.546177196,HH,0,Verdun,42.8,1.683333,2<sup>ème</sup> circonscription de la Meuse
+56-1,56,1,1,f,0.482158257,m,0.517841743,HF,0.322259804,Vannes,47.666667,-2.75,1<sup>ère</sup> circonscription du Morbihan
+56-2,56,2,1,f,0.4940729,m,0.5059271,HF,0.438571272,Auray,47.666667,-2.983333,2<sup>ème</sup> circonscription du Morbihan
+56-3,56,3,1,m,0.509335518,m,0.490664482,HH,0,Pontivy,48.066667,-2.983333,3<sup>ème</sup> circonscription du Morbihan
+56-4,56,4,1,m,0.496298813,m,0.503701187,HH,0,Ploërmel,47.933333,-2.4,4<sup>ème</sup> circonscription du Morbihan
+56-5,56,5,1,m,0.576472121,f,0.423527879,HF,0.039683083,Lorient,47.75,-3.366667,5<sup>ème</sup> circonscription du Morbihan
+56-6,56,6,1,m,0.563948074,m,0.436051926,HH,0,Hennebont,47.8,-3.283333,6<sup>ème</sup> circonscription du Morbihan
+57-1,57,1,1,f,0.522701371,m,0.477298629,HF,0.720287965,Metz,49.133333,6.166667,1<sup>ère</sup> circonscription de la Moselle
+57-2,57,2,1,m,0.455436263,m,0.544563737,HH,0,Metz,49.133333,6.166667,2<sup>ème</sup> circonscription de la Moselle
+57-3,57,3,1,f,0.475285101,f,0.524714899,FF,1,Metz,49.133333,6.166667,3<sup>ème</sup> circonscription de la Moselle
+57-4,57,4,1,m,0.366993549,m,0.633006451,HH,0,Sarrebourg,48.733333,7.05,4<sup>ème</sup> circonscription de la Moselle
+57-5,57,5,1,f,0.394517043,f,0.605482957,FF,1,Sarreguemines,49.1,7.05,5<sup>ème</sup> circonscription de la Moselle
+57-6,57,6,1,m,0.469883547,m,0.530116453,HH,0,Forbach,49.183333,6.9,6<sup>ème</sup> circonscription de la Moselle
+57-7,57,7,1,f,0.453408305,m,0.546591695,HF,0.125502844,Saint-Avold,49.1,6.7,7<sup>ème</sup> circonscription de la Moselle
+57-8,57,8,1,m,0.58159375,f,0.41840625,HF,0.032303604,Hayange,49.333333,6.05,8<sup>ème</sup> circonscription de la Moselle
+57-9,57,9,1,m,0.453645906,f,0.546354094,HF,0.873406574,Thionville,49.366667,6.166667,9<sup>ème</sup> circonscription de la Moselle
+58-1,58,1,1,f,0.593043776,m,0.406956224,HF,0.979703947,Nevers,46.983333,3.166667,1<sup>ère</sup> circonscription de la Nièvre
+58-2,58,2,1,m,0.583799639,f,0.416200361,HF,0.029550703,Varennes-Vauzelles,47.081812,3.13797,2<sup>ème</sup> circonscription de la Nièvre
+59-1,59,1,1,m,0.620716292,m,0.379283708,HH,0,Lille,50.633333,3.066667,1<sup>ère</sup> circonscription du Nord
+59-2,59,2,1,f,0.608295075,f,0.391704925,FF,1,Lille,50.633333,3.066667,2<sup>ème</sup> circonscription du Nord
+59-3,59,3,1,m,0.523908736,f,0.476091264,HF,0.269689728,Maubeuge,50.283333,3.966667,3<sup>ème</sup> circonscription du Nord
+59-4,59,4,1,f,0.458458597,m,0.541541403,HF,0.150473545,Lille,50.633333,3.066667,4<sup>ème</sup> circonscription du Nord
+59-5,59,5,1,m,0.502702034,m,0.497297966,HH,0,Haubourdin,50.6,2.983333,5<sup>ème</sup> circonscription du Nord
+59-6,59,6,1,f,0.438619705,m,0.561380295,HF,0.071923421,Orchies,50.466667,3.233333,6<sup>ème</sup> circonscription du Nord
+59-7,59,7,1,f,0.471356289,m,0.528643711,HF,0.232635698,Roubaix,50.7,3.166667,7<sup>ème</sup> circonscription du Nord
+59-8,59,8,1,m,0.611902514,f,0.388097486,HF,0.009353522,Roubaix,50.7,3.166667,8<sup>ème</sup> circonscription du Nord
+59-9,59,9,1,m,0.417273753,m,0.582726247,HH,0,Lille,50.633333,3.066667,9<sup>ème</sup> circonscription du Nord
+59-10,59,10,1,f,0.46806238,m,0.53193762,HF,0.209037951,Tourcoing,50.716667,3.15,10<sup>ème</sup> circonscription du Nord
+59-11,59,11,1,m,0.538348467,m,0.461651533,HH,0,Lille,50.633333,3.066667,11<sup>ère</sup> circonscription du Nord
+59-12,59,12,1,m,0.540204276,m,0.459795724,HH,0,Hautmont,50.25,3.933333,12<sup>ème</sup> circonscription du Nord
+59-13,59,13,1,m,0.597373843,m,0.402626157,HH,0,Dunkerque,51.05,2.366667,13<sup>ème</sup> circonscription du Nord
+59-14,59,14,1,m,0.494613397,m,0.505386603,HH,0,Dunkerque,51.05,2.366667,14<sup>ème</sup> circonscription du Nord
+59-15,59,15,1,m,0.492693913,f,0.507306087,HF,0.575522737,Hazebrouck,50.716667,2.533333,15<sup>ème</sup> circonscription du Nord
+59-16,59,16,1,m,0.63583278,f,0.36416722,HF,0.003471472,Sin-le-Noble,50.366667,3.116667,16<sup>ème</sup> circonscription du Nord
+59-17,59,17,1,f,0.566471244,m,0.433528756,HF,0.941012739,Douai,50.366667,3.066667,17<sup>ème</sup> circonscription du Nord
+59-18,59,18,1,f,0.518930759,m,0.481069241,HF,0.687569662,Cambrai,50.166667,3.233333,18<sup>ème</sup> circonscription du Nord
+59-19,59,19,1,f,0.607957475,m,0.392042525,HF,0.988993787,Denain,50.333333,3.383333,19<sup>ème</sup> circonscription du Nord
+59-20,59,20,1,m,0.55839625,f,0.44160375,HF,0.080677513,Saint-Amand-les-Eaux,50.433333,3.433333,20<sup>ème</sup> circonscription du Nord
+59-21,59,21,1,f,0.522229834,m,0.477770166,HF,0.716312467,Valenciennes,50.35,3.533333,21<sup>ère</sup> circonscription du Nord
+60-1,60,1,1,f,0.485568537,m,0.514431463,HF,0.354043824,Beauvais,49.433333,2.083333,1<sup>ère</sup> circonscription de l'Oise
+60-2,60,2,1,f,0.438758004,m,0.561241996,HF,0.072309018,Beauvais,49.433333,2.083333,2<sup>ème</sup> circonscription de l'Oise
+60-3,60,3,1,m,0.529134862,f,0.470865138,HF,0.229002434,Creil,49.266667,2.483333,3<sup>ème</sup> circonscription de l'Oise
+60-4,60,4,1,m,0.397927386,m,0.602072614,HH,0,Senlis,49.2,2.583333,4<sup>ème</sup> circonscription de l'Oise
+60-5,60,5,1,m,0.496034064,m,0.503965936,HH,0,Compiègne,49.416667,2.833333,5<sup>ème</sup> circonscription de l'Oise
+60-6,60,6,1,m,0.476765466,m,0.523234534,HH,0,Compiègne,49.416667,2.833333,6<sup>ème</sup> circonscription de l'Oise
+60-7,60,7,1,m,0.515181682,m,0.484818318,HH,0,Creil,49.266667,2.483333,7<sup>ème</sup> circonscription de l'Oise
+61-1,61,1,1,m,0.471537452,m,0.528462548,HH,0,Alençon,48.433333,0.083333,1<sup>ère</sup> circonscription de l'Orne
+61-2,61,2,1,f,0.422938663,f,0.577061337,FF,1,L'Aigle,48.75,0.633333,2<sup>ème</sup> circonscription de l'Orne
+61-3,61,3,1,m,0.515902556,m,0.484097444,HH,0,Flers,48.75,-0.566667,3<sup>ème</sup> circonscription de l'Orne
+62-1,62,1,1,m,0.490200198,m,0.509799802,HH,0,Brebières,50.3375,3.023611,1<sup>ère</sup> circonscription du Pas-de-Calais
+62-2,62,2,1,f,0.536997463,m,0.463002537,HF,0.823691528,Arras,50.283333,2.783333,2<sup>ème</sup> circonscription du Pas-de-Calais
+62-3,62,3,1,m,0.640365074,f,0.359634926,HF,0.002875799,Lens,50.433333,2.833333,3<sup>ème</sup> circonscription du Pas-de-Calais
+62-4,62,4,1,m,0.465925139,m,0.534074861,HH,0,Berck,50.408889,1.593333,4<sup>ème</sup> circonscription du Pas-de-Calais
+62-5,62,5,1,m,0.574729479,m,0.425270521,HH,0,Boulogne-sur-Mer,50.716667,1.616667,5<sup>ème</sup> circonscription du Pas-de-Calais
+62-6,62,6,1,f,0.519162627,m,0.480837373,HF,0.689641281,Guînes,50.866667,1.866667,6<sup>ème</sup> circonscription du Pas-de-Calais
+62-7,62,7,1,m,0.5732771,m,0.4267229,HH,0,Calais,50.95,1.833333,7<sup>ème</sup> circonscription du Pas-de-Calais
+62-8,62,8,1,m,0.58389281,m,0.41610719,HH,0,Saint-Omer,48.916667,-0.433333,8<sup>ème</sup> circonscription du Pas-de-Calais
+62-9,62,9,1,m,0.529312498,m,0.470687502,HH,0,Béthune,50.533333,2.633333,9<sup>ème</sup> circonscription du Pas-de-Calais
+62-10,62,10,1,m,0.626556742,f,0.373443258,HF,0.005101036,Bruay-la-Buissière,50.481944,2.548611,10<sup>ème</sup> circonscription du Pas-de-Calais
+62-11,62,11,1,m,0.604374064,m,0.395625936,HH,0,Hénin-Beaumont,50.416667,2.933333,11<sup>ère</sup> circonscription du Pas-de-Calais
+62-12,62,12,1,m,0.625938093,m,0.374061907,HH,0,Liévin,50.416667,2.766667,12<sup>ème</sup> circonscription du Pas-de-Calais
+63-1,63,1,1,f,0.645117453,m,0.354882547,HF,0.997639599,Clermont-Ferrand,45.783333,3.083333,1<sup>ère</sup> circonscription du Puy-de-Dôme
+63-2,63,2,1,f,0.608590584,m,0.391409416,HF,0.989277257,Riom,45.9,3.116667,2<sup>ème</sup> circonscription du Puy-de-Dôme
+63-3,63,3,1,f,0.55172715,m,0.44827285,HF,0.89616281,Clermont-Ferrand,45.783333,3.083333,3<sup>ème</sup> circonscription du Puy-de-Dôme
+63-4,63,4,1,m,0.631367825,m,0.368632175,HH,0,Clermont-Ferrand,45.783333,3.083333,4<sup>ème</sup> circonscription du Puy-de-Dôme
+63-5,63,5,1,f,0.58991787,m,0.41008213,HF,0.976945681,Thiers,45.85,3.566667,5<sup>ème</sup> circonscription du Puy-de-Dôme
+64-1,64,1,1,f,0.579479171,m,0.420520829,HF,0.964825712,Pau,43.3,-0.366667,1<sup>ère</sup> circonscription des Pyrénées-Atlantiques
+64-2,64,2,1,f,0.568866664,m,0.431133336,HF,0.946315126,Pau,43.3,-0.366667,2<sup>ème</sup> circonscription des Pyrénées-Atlantiques
+64-3,64,3,1,m,0.607412523,f,0.392587477,HF,0.011256137,Pau,43.3,-0.366667,3<sup>ème</sup> circonscription des Pyrénées-Atlantiques
+64-4,64,4,1,m,0.596924233,m,0.403075767,HH,0,Oloron-Sainte-Marie,43.2,-0.6,4<sup>ème</sup> circonscription des Pyrénées-Atlantiques
+64-5,64,5,1,f,0.56762011,m,0.43237989,HF,0.943614442,Anglet,43.483333,-1.533333,5<sup>ème</sup> circonscription des Pyrénées-Atlantiques
+64-6,64,6,1,f,0.515906739,f,0.484093261,FF,1,Biarritz,43.483333,-1.566667,6<sup>ème</sup> circonscription des Pyrénées-Atlantiques
+65-1,65,1,1,m,0.649616666,m,0.350383334,HH,0,Tarbes,43.233333,0.083333,1<sup>ère</sup> circonscription des Hautes Pyrénées
+65-2,65,2,1,f,0.600224969,m,0.399775031,HF,0.984873133,Tarbes,43.233333,0.083333,2<sup>ème</sup> circonscription des Hautes Pyrénées
+66-1,66,1,1,m,0.497378101,m,0.502621899,HH,0,Perpignan,42.683333,2.883333,1<sup>ère</sup> circonscription des Pyrénées-Orientales
+66-2,66,2,1,f,0.477625836,m,0.522374164,HF,0.282467076,Perpignan,42.683333,2.883333,2<sup>ème</sup> circonscription des Pyrénées-Orientales
+66-3,66,3,1,f,0.529701593,m,0.470298407,HF,0.775140123,Perpignan,42.683333,2.883333,3<sup>ème</sup> circonscription des Pyrénées-Orientales
+66-4,66,4,1,m,0.518723547,f,0.481276453,HF,0.314288034,Argelès-sur-Mer,42.55,3.016667,4<sup>ème</sup> circonscription des Pyrénées-Orientales
+67-1,67,1,1,m,0.565620811,f,0.434379189,HF,0.060985175,Strasbourg,48.583333,7.75,1<sup>ère</sup> circonscription du Bas-Rhin
+67-2,67,2,1,m,0.515557618,m,0.484442382,HH,0,Strasbourg,48.583333,7.75,2<sup>ème</sup> circonscription du Bas-Rhin
+67-3,67,3,1,f,0.476150761,m,0.523849239,HF,0.270178271,Strasbourg,48.583333,7.75,3<sup>ème</sup> circonscription du Bas-Rhin
+67-4,67,4,1,f,0.338414071,f,0.661585929,FF,1,Ostwald,48.55,7.716667,4<sup>ème</sup> circonscription du Bas-Rhin
+67-5,67,5,1,m,0.329402033,m,0.670597967,HH,0,Sélestat,48.266667,7.45,5<sup>ème</sup> circonscription du Bas-Rhin
+67-6,67,6,1,f,0.324931256,m,0.675068744,HF,0.000678782,Obernai,48.466667,7.483333,6<sup>ème</sup> circonscription du Bas-Rhin
+67-7,67,7,1,f,0.296684499,m,0.703315501,HF,0.000209311,Saverne,48.733333,7.366667,7<sup>ème</sup> circonscription du Bas-Rhin
+67-8,67,8,1,f,0.269272358,m,0.730727642,HF,6.68059E-05,Woerth,48.933333,7.75,8<sup>ème</sup> circonscription du Bas-Rhin
+67-9,67,9,1,f,0.301775236,f,0.698224764,FF,1,Haguenau,48.816667,7.783333,9<sup>ème</sup> circonscription du Bas-Rhin
+68-1,68,1,1,f,0.38243317,m,0.61756683,HF,0.007401688,Colmar,48.083333,7.366667,1<sup>ère</sup> circonscription du Haut-Rhin
+68-2,68,2,1,f,0.351999884,m,0.648000116,HF,0.002093815,Guebwiller,47.916667,7.2,2<sup>ème</sup> circonscription du Haut-Rhin
+68-3,68,3,1,m,0.288729239,m,0.711270761,HH,0,Saint-Louis,48.716667,7.183333,3<sup>ème</sup> circonscription du Haut-Rhin
+68-4,68,4,1,m,0.369617655,m,0.630382345,HH,0,Wittelsheim,47.816667,7.25,4<sup>ème</sup> circonscription du Haut-Rhin
+68-5,68,5,1,m,0.41682109,f,0.58317891,HF,0.969698498,Mulhouse,47.75,7.333333,5<sup>ème</sup> circonscription du Haut-Rhin
+68-6,68,6,1,f,0.397454716,m,0.602545284,HF,0.013752046,Mulhouse,47.75,7.333333,6<sup>ème</sup> circonscription du Haut-Rhin
+69-1,69,1,1,m,0.539801093,m,0.460198907,HH,0,Lyon,45.75,4.85,1<sup>ère</sup> circonscription du Rhône
+69-2,69,2,1,m,0.569745966,m,0.430254034,HH,0,Lyon,45.75,4.85,2<sup>ème</sup> circonscription du Rhône
+69-3,69,3,1,m,0.561811113,f,0.438188887,HF,0.07073437,Lyon,45.75,4.85,3<sup>ème</sup> circonscription du Rhône
+69-4,69,4,1,f,0.461198283,f,0.538801717,FF,1,Lyon,45.75,4.85,4<sup>ème</sup> circonscription du Rhône
+69-5,69,5,1,m,0.389075257,m,0.610924743,HH,0,Caluire-et-Cuire,45.8,4.85,5<sup>ème</sup> circonscription du Rhône
+69-6,69,6,1,f,0.580125442,f,0.419874558,FF,1,Villeurbanne,45.766667,4.883333,6<sup>ème</sup> circonscription du Rhône
+69-7,69,7,1,f,0.580063537,m,0.419936463,HF,0.965642744,Bron,45.733333,4.916667,7<sup>ème</sup> circonscription du Rhône
+69-8,69,8,1,f,0.391549008,m,0.608450992,HF,0.010784617,Écully,45.766667,4.766667,8<sup>ème</sup> circonscription du Rhône
+69-9,69,9,1,m,0.393297639,m,0.606702361,HH,0,Villefranche-sur-Saône,45.983333,4.716667,9<sup>ème</sup> circonscription du Rhône
+69-10,69,10,1,f,0.396913529,m,0.603086471,HF,0.013449539,Saint-Genis-Laval,45.683333,4.8,10<sup>ème</sup> circonscription du Rhône
+69-11,69,11,1,f,0.467003123,m,0.532996877,HF,0.201834184,Givors,45.583333,4.766667,11<sup>ère</sup> circonscription du Rhône
+69-12,69,12,1,f,0.46155249,m,0.53844751,HF,0.167705123,Oullins,45.716667,4.8,12<sup>ème</sup> circonscription du Rhône
+69-13,69,13,1,f,0.439949411,m,0.560050589,HF,0.075710542,Saint-Priest,46.083333,2.333333,13<sup>ème</sup> circonscription du Rhône
+69-14,69,14,1,m,0.613406581,m,0.386593419,HH,0,Vénissieux,45.683333,4.883333,14<sup>ème</sup> circonscription du Rhône
+70-1,70,1,1,f,0.480365905,m,0.519634095,HF,0.306169826,Vesoul,47.633333,6.166667,1<sup>ère</sup> circonscription de la Haute-Saône
+70-2,70,2,1,m,0.512350851,m,0.487649149,HH,0,Héricourt,50.35,2.25,2<sup>ème</sup> circonscription de la Haute-Saône
+71-1,71,1,1,m,0.487994504,m,0.512005496,HH,0,Mâcon,46.3,4.833333,1<sup>ère</sup> circonscription de la Saône-et-Loire
+71-2,71,2,1,m,0.508791969,m,0.491208031,HH,0,Paray-le-Monial,46.45,4.116667,2<sup>ème</sup> circonscription de la Saône-et-Loire
+71-3,71,3,1,m,0.519932226,m,0.480067774,HH,0,Le Creusot,46.8,4.433333,3<sup>ème</sup> circonscription de la Saône-et-Loire
+71-4,71,4,1,f,0.510012333,m,0.489987667,HF,0.602808382,Chalon-sur-Saône,46.783333,4.85,4<sup>ème</sup> circonscription de la Saône-et-Loire
+71-5,71,5,1,m,0.559319258,f,0.440680742,HF,0.077870696,Chalon-sur-Saône,46.783333,4.85,5<sup>ème</sup> circonscription de la Saône-et-Loire
+72-1,72,1,1,f,0.503682362,f,0.496317638,FF,1,Le Mans,48,0.2,1<sup>ère</sup> circonscription de la Sarthe
+72-2,72,2,1,f,0.584441274,m,0.415558726,HF,0.971206415,Le Mans,48,0.2,2<sup>ème</sup> circonscription de la Sarthe
+72-3,72,3,1,m,0.5136444,f,0.4863556,HF,0.361579167,La Flèche,47.7,-0.083333,3<sup>ème</sup> circonscription de la Sarthe
+72-4,72,4,1,m,0.526297452,m,0.473702548,HH,0,Le Mans,48,0.2,4<sup>ème</sup> circonscription de la Sarthe
+72-5,72,5,1,m,0.505612771,m,0.494387229,HH,0,Le Mans,48,0.2,5<sup>ème</sup> circonscription de la Sarthe
+73-1,73,1,1,m,0.4364493,m,0.5635507,HH,0,Aix-les-Bains,45.7,5.916667,1<sup>ère</sup> circonscription de la Savoie
+73-2,73,2,1,f,0.436363957,m,0.563636043,HF,0.065896508,Albertville,45.683333,6.383333,2<sup>ème</sup> circonscription de la Savoie
+73-3,73,3,1,f,0.485245902,m,0.514754098,HF,0.350975491,La Ravoire,45.55,5.966667,3<sup>ème</sup> circonscription de la Savoie
+73-4,73,4,1,f,0.53063131,f,0.46936869,FF,1,Chambéry,45.566667,5.933333,4<sup>ème</sup> circonscription de la Savoie
+74-1,74,1,1,f,0.410920011,m,0.589079989,HF,0.023853861,Annecy,45.9,6.116667,1<sup>ère</sup> circonscription de la Haute-Savoie
+74-2,74,2,1,m,0.427031179,m,0.572968821,HH,0,Annecy,45.9,6.116667,2<sup>ème</sup> circonscription de la Haute-Savoie
+74-3,74,3,1,m,0.397472198,m,0.602527802,HH,0,Bonneville,45.833333,-0.033333,3<sup>ème</sup> circonscription de la Haute-Savoie
+74-4,74,4,1,m,0.405933624,f,0.594066376,HF,0.980534083,Annemasse,46.2,6.25,4<sup>ème</sup> circonscription de la Haute-Savoie
+74-5,74,5,1,f,0.386138759,m,0.613861241,HF,0.008626792,Thonon-les-Bains,46.366667,6.483333,5<sup>ème</sup> circonscription de la Haute-Savoie
+74-6,74,6,1,f,0.358965883,f,0.641034117,FF,1,Sallanches,45.933333,6.633333,6<sup>ème</sup> circonscription de la Haute-Savoie
+75-1,75,1,1,f,0.450107727,m,0.549892273,HF,0.111170071,Paris,48.866667,2.333333,1<sup>ère</sup> circonscription de Paris
+75-2,75,2,1,m,0.449892627,m,0.550107373,HH,0,Paris,48.866667,2.333333,2<sup>ème</sup> circonscription de Paris
+75-3,75,3,1,f,0.582561457,f,0.417438543,FF,1,Paris,48.866667,2.333333,3<sup>ème</sup> circonscription de Paris
+75-4,75,4,1,f,0.248302131,m,0.751697869,HF,2.78845E-05,Paris,48.866667,2.333333,4<sup>ème</sup> circonscription de Paris
+75-5,75,5,1,f,0.669937556,m,0.330062444,HF,0.999159549,Paris,48.866667,2.333333,5<sup>ème</sup> circonscription de Paris
+75-6,75,6,1,f,0.712738184,m,0.287261816,HF,0.999858644,Paris,48.866667,2.333333,6<sup>ème</sup> circonscription de Paris
+75-7,75,7,1,m,0.636459809,f,0.363540191,HF,0.003382253,Paris,48.866667,2.333333,7<sup>ème</sup> circonscription de Paris
+75-8,75,8,1,f,0.587684237,m,0.412315763,HF,0.974753815,Paris,48.866667,2.333333,8<sup>ème</sup> circonscription de Paris
+75-9,75,9,1,m,0.653843969,f,0.346156031,HF,0.001642052,Paris,48.866667,2.333333,9<sup>ème</sup> circonscription de Paris
+75-10,75,10,1,m,0.634792343,m,0.365207657,HH,0,Paris,48.866667,2.333333,10<sup>ème</sup> circonscription de Paris
+75-11,75,11,1,m,0.558382761,m,0.441617239,HH,0,Paris,48.866667,2.333333,11<sup>ère</sup> circonscription de Paris
+75-12,75,12,1,f,0.412951168,m,0.587048832,HF,0.025905963,Paris,48.866667,2.333333,12<sup>ème</sup> circonscription de Paris
+75-13,75,13,1,m,0.478430904,m,0.521569096,HH,0,Paris,48.866667,2.333333,13<sup>ème</sup> circonscription de Paris
+75-14,75,14,1,f,0.233973972,m,0.766026028,HF,1.53494E-05,Paris,48.866667,2.333333,14<sup>ème</sup> circonscription de Paris
+75-15,75,15,1,f,0.705114796,f,0.294885204,FF,1,Paris,48.866667,2.333333,15<sup>ème</sup> circonscription de Paris
+75-16,75,16,1,m,0.676638067,m,0.323361933,HH,0,Paris,48.866667,2.333333,16<sup>ème</sup> circonscription de Paris
+75-17,75,17,1,m,0.720826898,f,0.279173102,HF,0.000100916,Paris,48.866667,2.333333,17<sup>ème</sup> circonscription de Paris
+75-18,75,18,1,m,0.678676699,m,0.321323301,HH,0,Paris,48.866667,2.333333,18<sup>ème</sup> circonscription de Paris
+76-1,76,1,1,f,0.562435605,m,0.437564395,HF,0.930956997,Rouen,49.433333,1.083333,1<sup>ère</sup> circonscription de la Seine-Maritime
+76-2,76,2,1,f,0.463976345,f,0.536023655,FF,1,Boos,43.9,-0.983333,2<sup>ème</sup> circonscription de la Seine-Maritime
+76-3,76,3,1,f,0.668270798,m,0.331729202,HF,0.999099161,Rouen,49.433333,1.083333,3<sup>ème</sup> circonscription de la Seine-Maritime
+76-4,76,4,1,m,0.639020716,m,0.360979284,HH,0,Le Grand-Quevilly,49.416667,1.033333,4<sup>ème</sup> circonscription de la Seine-Maritime
+76-5,76,5,1,m,0.564921408,f,0.435078592,HF,0.062675515,Barentin,49.55,0.95,5<sup>ème</sup> circonscription de la Seine-Maritime
+76-6,76,6,1,f,0.508564664,m,0.491435336,HF,0.588280359,Dieppe,49.933333,1.083333,6<sup>ème</sup> circonscription de la Seine-Maritime
+76-7,76,7,1,m,0.517135511,m,0.482864489,HH,0,Le Havre,49.5,0.133333,7<sup>ème</sup> circonscription de la Seine-Maritime
+76-8,76,8,1,f,0.642113111,f,0.357886889,FF,1,Le Havre,49.5,0.133333,8<sup>ème</sup> circonscription de la Seine-Maritime
+76-9,76,9,1,f,0.513598618,m,0.486401382,HF,0.637980371,Fécamp,49.75,0.366667,9<sup>ème</sup> circonscription de la Seine-Maritime
+76-10,76,10,1,f,0.501103491,m,0.498896509,HF,0.511492673,Yvetot,49.616667,0.766667,10<sup>ème</sup> circonscription de la Seine-Maritime
+77-1,77,1,1,m,0.489564535,m,0.510435465,HH,0,Melun,48.533333,2.666667,1<sup>ère</sup> circonscription de la Seine-et-Marne
+77-2,77,2,1,f,0.453034837,f,0.546965163,FF,1,Fontainebleau,48.4,2.7,2<sup>ème</sup> circonscription de la Seine-et-Marne
+77-3,77,3,1,f,0.497213333,m,0.502786667,HF,0.471004787,Montereau-Fault-Yonne,48.3853,2.9508,3<sup>ème</sup> circonscription de la Seine-et-Marne
+77-4,77,4,1,f,0.430829362,m,0.569170638,HF,0.053045053,Provins,48.55,3.3,4<sup>ème</sup> circonscription de la Seine-et-Marne
+77-5,77,5,1,f,0.439210641,m,0.560789359,HF,0.073584396,Coulommiers,48.816667,3.083333,5<sup>ème</sup> circonscription de la Seine-et-Marne
+77-6,77,6,1,f,0.480098927,m,0.519901073,HF,0.303811847,Meaux,48.95,2.866667,6<sup>ème</sup> circonscription de la Seine-et-Marne
+77-7,77,7,1,f,0.48439559,m,0.51560441,HF,0.342948131,Villeparisis,48.933333,2.616667,7<sup>ème</sup> circonscription de la Seine-et-Marne
+77-8,77,8,1,m,0.511831534,f,0.488168466,HF,0.37919167,Ozoir-la-Ferrière,48.766667,2.666667,8<sup>ème</sup> circonscription de la Seine-et-Marne
+77-9,77,9,1,m,0.482114135,m,0.517885865,HH,0,Pontault-Combault,48.80136,2.60752,9<sup>ème</sup> circonscription de la Seine-et-Marne
+77-10,77,10,1,m,0.579087925,f,0.420912075,HF,0.035731738,Chelles,49.35,3.033333,10<sup>ème</sup> circonscription de la Seine-et-Marne
+77-11,77,11,1,m,0.59944466,f,0.40055534,HF,0.01561896,Savigny-le-Temple,48.566667,2.583333,11<sup>ère</sup> circonscription de la Seine-et-Marne
+78-1,78,1,1,f,0.442320966,m,0.557679034,HF,0.082921927,Versailles,48.8,2.133333,1<sup>ère</sup> circonscription des Yvelines
+78-2,78,2,1,m,0.431159854,f,0.568840146,HF,0.946258965,Versailles,48.8,2.133333,2<sup>ème</sup> circonscription des Yvelines
+78-3,78,3,1,f,0.361405805,m,0.638594195,HF,0.003095338,Le Chesnay,48.825,2.125,3<sup>ème</sup> circonscription des Yvelines
+78-4,78,4,1,f,0.429895997,m,0.570104003,HF,0.051125162,Houilles,48.916667,2.2,4<sup>ème</sup> circonscription des Yvelines
+78-5,78,5,1,f,0.438485636,m,0.561514364,HF,0.07155143,Sartrouville,48.95,2.183333,5<sup>ème</sup> circonscription des Yvelines
+78-6,78,6,1,m,0.419434108,m,0.580565892,HH,0,Saint-Germain-en-Laye,48.9,2.083333,6<sup>ème</sup> circonscription des Yvelines
+78-7,78,7,1,f,0.493239252,m,0.506760748,HF,0.430037579,Conflans-Sainte-Honorine,48.983333,2.1,7<sup>ème</sup> circonscription des Yvelines
+78-8,78,8,1,f,0.555572281,f,0.444427719,FF,1,Mantes-la-Jolie,48.983333,1.716667,8<sup>ème</sup> circonscription des Yvelines
+78-9,78,9,1,m,0.459042645,m,0.540957355,HH,0,Les Mureaux,49,1.916667,9<sup>ème</sup> circonscription des Yvelines
+78-10,78,10,1,f,0.447952766,m,0.552047234,HF,0.102602671,Rambouillet,48.65,1.833333,10<sup>ème</sup> circonscription des Yvelines
+78-11,78,11,1,m,0.570793739,m,0.429206261,HH,0,Élancourt,48.783333,1.95,11<sup>ère</sup> circonscription des Yvelines
+78-12,78,12,1,m,0.478719576,m,0.521280424,HH,0,Poissy,48.933333,2.05,12<sup>ème</sup> circonscription des Yvelines
+79-1,79,1,1,f,0.609449907,m,0.390550093,HF,0.989650491,Niort,46.316667,-0.466667,1<sup>ère</sup> circonscription des Deux-Sèvres
+79-2,79,2,1,f,0.593285025,m,0.406714975,HF,0.979902862,Celles-sur-Belle,46.266667,-0.2,2<sup>ème</sup> circonscription des Deux-Sèvres
+79-3,79,3,1,m,0.512291067,m,0.487708933,HH,0,Airvault,46.833333,-0.15,3<sup>ème</sup> circonscription des Deux-Sèvres
+80-1,80,1,1,f,0.595207971,m,0.404792029,HF,0.981421532,Amiens,49.9,2.3,1<sup>ère</sup> circonscription de la Somme
+80-2,80,2,1,f,0.544803503,m,0.455196497,HF,0.866089041,Amiens,49.9,2.3,2<sup>ème</sup> circonscription de la Somme
+80-3,80,3,1,m,0.530906583,m,0.469093417,HH,0,Friville-Escarbotin,50.083333,1.55,3<sup>ème</sup> circonscription de la Somme
+80-4,80,4,1,f,0.514980171,m,0.485019829,HF,0.651167216,Doullens,50.15,2.35,4<sup>ème</sup> circonscription de la Somme
+80-5,80,5,1,f,0.535848513,m,0.464151487,HF,0.816631182,Albert,50,2.65,5<sup>ème</sup> circonscription de la Somme
+81-1,81,1,1,m,0.53965922,m,0.46034078,HH,0,Albi,43.933333,2.15,1<sup>ère</sup> circonscription du Tarn
+81-2,81,2,1,m,0.599243367,m,0.400756633,HH,0,Albi,43.933333,2.15,2<sup>ème</sup> circonscription du Tarn
+81-3,81,3,1,f,0.523555783,m,0.476444217,HF,0.727403955,Castres,49.8,3.233333,3<sup>ème</sup> circonscription du Tarn
+82-1,82,1,1,f,0.516589551,f,0.483410449,FF,1,Montauban,44.016667,1.35,1<sup>ère</sup> circonscription du Tarn-et-Garonne
+82-2,82,2,1,f,0.508591017,m,0.491408983,HF,0.588546286,Castelsarrasin,44.033333,1.1,2<sup>ème</sup> circonscription du Tarn-et-Garonne
+83-1,83,1,1,m,0.401100904,f,0.598899096,HF,0.984027662,Toulon,43.116667,5.933333,1<sup>ère</sup> circonscription du Var
+83-2,83,2,1,f,0.410776756,m,0.589223244,HF,0.023715269,Ollioules,43.133333,5.85,2<sup>ème</sup> circonscription du Var
+83-3,83,3,1,m,0.370716963,m,0.629283037,HH,0,Hyères,43.116667,6.116667,3<sup>ème</sup> circonscription du Var
+83-4,83,4,1,m,0.323789284,m,0.676210716,HH,0,Sainte-Maxime,43.3,6.633333,4<sup>ème</sup> circonscription du Var
+83-5,83,5,1,f,0.307218596,m,0.692781404,HF,0.000324611,Fréjus,43.433888,6.736111,5<sup>ème</sup> circonscription du Var
+83-6,83,6,1,f,0.403500796,f,0.596499204,FF,1,Saint-Maximin-la-Sainte-Baume,43.45,5.866667,6<sup>ème</sup> circonscription du Var
+83-7,83,7,1,m,0.381471176,m,0.618528824,HH,0,La Seyne-sur-Mer,43.1,5.883333,7<sup>ème</sup> circonscription du Var
+83-8,83,8,1,m,0.395926129,m,0.604073871,HH,0,Draguignan,43.533333,6.466667,8<sup>ème</sup> circonscription du Var
+84-1,84,1,1,f,0.522200169,f,0.477799831,FF,1,Avignon,43.95,4.816667,1<sup>ère</sup> circonscription du Vaucluse
+84-2,84,2,1,m,0.421785971,m,0.578214029,HH,0,Cavaillon,43.8375,5.038055,2<sup>ème</sup> circonscription du Vaucluse
+84-3,84,3,1,f,0.397509034,m,0.602490966,HF,0.013782776,Carpentras,44.05,5.05,3<sup>ème</sup> circonscription du Vaucluse
+84-4,84,4,1,m,0.399804452,f,0.600195548,HF,0.984854859,Orange,44.133333,4.8,4<sup>ème</sup> circonscription du Vaucluse
+84-5,84,5,1,m,0.445918685,m,0.554081315,HH,0,Carpentras,44.05,5.05,5<sup>ème</sup> circonscription du Vaucluse
+85-1,85,1,1,f,0.464743196,m,0.535256804,HF,0.187089562,La Roche-sur-Yon,46.666667,-1.433333,1<sup>ère</sup> circonscription de la Vendée
+85-2,85,2,1,f,0.479670978,m,0.520329022,HF,0.300053611,La Roche-sur-Yon,46.666667,-1.433333,2<sup>ème</sup> circonscription de la Vendée
+85-3,85,3,1,f,0.397617151,m,0.602382849,HF,0.013844145,Les Sables-d'Olonne,46.5,-1.783333,3<sup>ème</sup> circonscription de la Vendée
+85-4,85,4,1,f,0.406922565,f,0.593077435,FF,1,Les Herbiers,46.866667,-1.016667,4<sup>ème</sup> circonscription de la Vendée
+85-5,85,5,1,m,0.483710761,m,0.516289239,HH,0,Fontenay-le-Comte,46.466667,-0.816667,5<sup>ème</sup> circonscription de la Vendée
+86-1,86,1,1,m,0.604332897,f,0.395667103,HF,0.012777571,Poitiers,46.583333,0.333333,1<sup>ère</sup> circonscription de la Vienne
+86-2,86,2,1,f,0.596353248,m,0.403646752,HF,0.982271925,Poitiers,46.583333,0.333333,2<sup>ème</sup> circonscription de la Vienne
+86-3,86,3,1,m,0.553295197,m,0.446704803,HH,0,Chauvigny,46.566667,0.65,3<sup>ème</sup> circonscription de la Vienne
+86-4,86,4,1,f,0.530189774,m,0.469810226,HF,0.778665642,Châtellerault,46.8,0.533333,4<sup>ème</sup> circonscription de la Vienne
+87-1,87,1,1,m,0.659400093,f,0.340599907,HF,0.001303145,Limoges,45.85,1.25,1<sup>ère</sup> circonscription de la Haute-Vienne
+87-2,87,2,1,m,0.631338802,m,0.368661198,HH,0,Limoges,45.85,1.25,2<sup>ème</sup> circonscription de la Haute-Vienne
+87-3,87,3,1,f,0.630282877,m,0.369717123,HF,0.995629306,Limoges,45.85,1.25,3<sup>ème</sup> circonscription de la Haute-Vienne
+88-1,88,1,1,m,0.501891048,m,0.498108952,HH,0,Épinal,48.183333,6.45,1<sup>ère</sup> circonscription des Vosges
+88-2,88,2,1,m,0.497362898,m,0.502637102,HH,0,Saint-Dié,48.283333,6.95,2<sup>ème</sup> circonscription des Vosges
+88-3,88,3,1,f,0.47493896,m,0.52506104,HF,0.260338489,Gérardmer,48.066667,6.883333,3<sup>ème</sup> circonscription des Vosges
+88-4,88,4,1,m,0.486172854,m,0.513827146,HH,0,Neufchâteau,48.35,5.7,4<sup>ème</sup> circonscription des Vosges
+89-1,89,1,1,m,0.479129522,m,0.520870478,HH,0,Auxerre,47.8,3.566667,1<sup>ère</sup> circonscription de l'Yonne
+89-2,89,2,1,m,0.486098823,m,0.513901177,HH,0,Avallon,47.483333,3.9,2<sup>ème</sup> circonscription de l'Yonne
+89-3,89,3,1,m,0.444099049,f,0.555900951,HF,0.911267179,Sens,48.198055,3.283888,3<sup>ème</sup> circonscription de l'Yonne
+90-1,90,1,1,f,0.480957746,m,0.519042254,HF,0.311433247,Belfort,47.633333,6.866667,1<sup>ère</sup> circonscription du Territoire de Belfort
+90-2,90,2,1,m,0.529516188,m,0.470483812,HH,0,Belfort,47.633333,6.866667,2<sup>ème</sup> circonscription du Territoire de Belfort
+91-1,91,1,1,m,0.636985108,f,0.363014892,HF,0.00330927,Évry,48.266667,3.25,1<sup>ère</sup> circonscription de l'Essonne
+91-2,91,2,1,f,0.460652393,m,0.539347607,HF,0.162535338,Étampes,48.433333,2.15,2<sup>ème</sup> circonscription de l'Essonne
+91-3,91,3,1,m,0.502267984,f,0.497732016,HF,0.476392732,Brétigny-sur-Orge,48.616667,2.316667,3<sup>ème</sup> circonscription de l'Essonne
+91-4,91,4,1,m,0.490033674,f,0.509966326,HF,0.602349313,Longjumeau,48.7,2.3,4<sup>ème</sup> circonscription de l'Essonne
+91-5,91,5,1,f,0.545467977,m,0.454532023,HF,0.869267658,Gif-sur-Yvette,48.683333,2.133333,5<sup>ème</sup> circonscription de l'Essonne
+91-6,91,6,1,m,0.56818717,m,0.43181283,HH,0,Massy,46.483333,4.616667,6<sup>ème</sup> circonscription de l'Essonne
+91-7,91,7,1,f,0.541874897,f,0.458125103,FF,1,Savigny-sur-Orge,48.666667,2.35,7<sup>ème</sup> circonscription de l'Essonne
+91-8,91,8,1,f,0.541302524,m,0.458697476,HF,0.848249682,Yerres,48.716667,2.5,8<sup>ème</sup> circonscription de l'Essonne
+91-9,91,9,1,m,0.524344251,m,0.475655749,HH,0,Draveil,48.683333,2.416667,9<sup>ème</sup> circonscription de l'Essonne
+91-10,91,10,1,m,0.587181406,m,0.412818594,HH,0,Sainte-Geneviève-des-Bois,47.816667,2.816667,10<sup>ème</sup> circonscription de l'Essonne
+92-1,92,1,1,m,0.699619944,f,0.300380056,HF,0.000244147,Colombes,48.916667,2.25,1<sup>ère</sup> circonscription des Hauts-de-Seine
+92-2,92,2,1,m,0.511444497,m,0.488555503,HH,0,Asnières-sur-Seine,48.91075,2.288933,2<sup>ème</sup> circonscription des Hauts-de-Seine
+92-3,92,3,1,m,0.436942718,m,0.563057282,HH,0,Courbevoie,48.897778,2.253056,3<sup>ème</sup> circonscription des Hauts-de-Seine
+92-4,92,4,1,m,0.606915891,m,0.393084109,HH,0,Nanterre,48.9,2.2,4<sup>ème</sup> circonscription des Hauts-de-Seine
+92-5,92,5,1,m,0.490397351,m,0.509602649,HH,0,Levallois-Perret,48.9,2.283333,5<sup>ème</sup> circonscription des Hauts-de-Seine
+92-6,92,6,1,f,0.310726987,m,0.689273013,HF,0.000375688,Courbevoie,48.897778,2.253056,6<sup>ème</sup> circonscription des Hauts-de-Seine
+92-7,92,7,1,m,0.388758335,m,0.611241665,HH,0,Rueil-Malmaison,48.883333,2.2,7<sup>ème</sup> circonscription des Hauts-de-Seine
+92-8,92,8,1,f,0.450237142,m,0.549762858,HF,0.111704009,Meudon,48.808333,2.241667,8<sup>ème</sup> circonscription des Hauts-de-Seine
+92-9,92,9,1,f,0.346861899,m,0.653138101,HF,0.001690981,Boulogne-Billancourt,48.833333,2.25,9<sup>ème</sup> circonscription des Hauts-de-Seine
+92-10,92,10,1,f,0.534580368,m,0.465419632,HF,0.808586038,Boulogne-Billancourt,48.833333,2.25,10<sup>ème</sup> circonscription des Hauts-de-Seine
+92-11,92,11,1,f,0.65575429,m,0.34424571,HF,0.998483393,Montrouge,48.816667,2.316667,11<sup>ère</sup> circonscription des Hauts-de-Seine
+92-12,92,12,1,m,0.535152048,m,0.464847952,HH,0,Clamart,48.8,2.266667,12<sup>ème</sup> circonscription des Hauts-de-Seine
+92-13,92,13,1,m,0.526453731,m,0.473546269,HH,0,Antony,48.75,2.3,13<sup>ème</sup> circonscription des Hauts-de-Seine
+93-1,93,1,1,m,0.72476715,f,0.27523285,HF,8.56378E-05,Saint-Denis,43.366667,2.216667,1<sup>ère</sup> circonscription de la Seine-Saint-Denis
+93-2,93,2,1,m,0.768367206,m,0.231632794,HH,0,Saint-Denis,43.366667,2.216667,2<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-3,93,3,1,m,0.580032606,m,0.419967394,HH,0,Noisy-le-Grand,48.85,2.566667,3<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-4,93,4,1,f,0.706603373,m,0.293396627,HF,0.999817481,Le Blanc-Mesnil,48.933333,2.45,4<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-5,93,5,1,f,0.663996327,m,0.336003673,HF,0.998923733,Drancy,48.933333,2.45,5<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-6,93,6,1,f,0.721112101,f,0.278887899,FF,1,Aubervilliers,48.916667,2.383333,6<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-7,93,7,1,m,0.75001446,f,0.24998554,HF,2.99106E-05,Montreuil,48.766667,1.366667,7<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-8,93,8,1,f,0.527744931,m,0.472255069,HF,0.760612198,Rosny-sous-Bois,48.866667,2.483333,8<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-9,93,9,1,m,0.664597775,m,0.335402225,HH,0,Bondy,48.9,2.466667,9<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-10,93,10,1,m,0.61265454,m,0.38734546,HH,0,Aulnay-sous-Bois,48.95,2.516667,10<sup>ème</sup> circonscription de la Seine-Saint-Denis
+93-11,93,11,1,m,0.656729074,f,0.343270926,HF,0.00145633,Sevran,48.933333,2.533333,11<sup>ère</sup> circonscription de la Seine-Saint-Denis
+93-12,93,12,1,m,0.523644008,m,0.476355992,HH,0,Livry-Gargan,48.916667,2.55,12<sup>ème</sup> circonscription de la Seine-Saint-Denis
+94-1,94,1,1,m,0.475292756,m,0.524707244,HH,0,Saint-Maur-des-Fossés,48.8,2.5,1<sup>ère</sup> circonscription du Val-de-Marne
+94-2,94,2,1,m,0.655570118,m,0.344429882,HH,0,Créteil,48.783333,2.466667,2<sup>ème</sup> circonscription du Val-de-Marne
+94-3,94,3,1,m,0.563132828,m,0.436867172,HH,0,Boissy-Saint-Léger,48.75,2.516667,3<sup>ème</sup> circonscription du Val-de-Marne
+94-4,94,4,1,f,0.48629061,m,0.51370939,HF,0.360954307,Sucy-en-Brie,48.766667,2.533333,4<sup>ème</sup> circonscription du Val-de-Marne
+94-5,94,5,1,f,0.506624836,m,0.493375164,HF,0.568573844,Champigny-sur-Marne,48.816667,2.516667,5<sup>ème</sup> circonscription du Val-de-Marne
+94-6,94,6,1,f,0.527574902,m,0.472425098,HF,0.759319855,Fontenay-sous-Bois,48.85,2.483333,6<sup>ème</sup> circonscription du Val-de-Marne
+94-7,94,7,1,m,0.580142593,m,0.419857407,HH,0,L'Hay-les-Roses,48.783333,2.333333,7<sup>ème</sup> circonscription du Val-de-Marne
+94-8,94,8,1,f,0.501633135,m,0.498366865,HF,0.517005262,Maisons-Alfort,48.8,2.433333,8<sup>ème</sup> circonscription du Val-de-Marne
+94-9,94,9,1,m,0.648343904,f,0.351656096,HF,0.002064097,Vitry-sur-Seine,48.783333,2.4,9<sup>ème</sup> circonscription du Val-de-Marne
+94-10,94,10,1,m,0.701319818,m,0.298680182,HH,0,Vitry-sur-Seine,48.783333,2.4,10<sup>ème</sup> circonscription du Val-de-Marne
+94-11,94,11,1,m,0.678297624,f,0.321702376,HF,0.000593388,Villejuif,48.8,2.366667,11<sup>ère</sup> circonscription du Val-de-Marne
+95-1,95,1,1,f,0.487515656,m,0.512484344,HF,0.372809911,Pontoise,49.05,2.1,1<sup>ère</sup> circonscription du Val-d'Oise
+95-2,95,2,1,m,0.51024665,m,0.48975335,HH,0,Cergy,49.033333,2.066667,2<sup>ème</sup> circonscription du Val-d'Oise
+95-3,95,3,1,m,0.503872397,m,0.496127603,HH,0,Taverny,49.033333,2.216667,3<sup>ème</sup> circonscription du Val-d'Oise
+95-4,95,4,1,m,0.507155523,m,0.492844477,HH,0,Franconville,48.5,6.45,4<sup>ème</sup> circonscription du Val-d'Oise
+95-5,95,5,1,m,0.64785239,m,0.35214761,HH,0,Argenteuil,48.95,2.25,5<sup>ème</sup> circonscription du Val-d'Oise
+95-6,95,6,1,f,0.504395836,m,0.495604164,HF,0.545662375,Sannois,48.966667,2.25,6<sup>ème</sup> circonscription du Val-d'Oise
+95-7,95,7,1,f,0.491553476,m,0.508446524,HF,0.412912419,Sarcelles,49,2.383333,7<sup>ème</sup> circonscription du Val-d'Oise
+95-8,95,8,1,m,0.651855161,f,0.348144839,HF,0.001783668,Villiers-le-Bel,49,2.383333,8<sup>ème</sup> circonscription du Val-d'Oise
+95-9,95,9,1,m,0.549584222,m,0.450415778,HH,0,Goussainville,48.766667,1.55,9<sup>ème</sup> circonscription du Val-d'Oise
+95-10,95,10,1,m,0.606957251,f,0.393042749,HF,0.011469228,Cergy,49.033333,2.066667,10<sup>ème</sup> circonscription du Val-d'Oise
+ZA-1,ZA,1,0,m,0.753389707,m,0.246610293,HH,0,,,,1<sup>ère</sup> circonscription de la Guadeloupe
+ZA-2,ZA,2,0,f,0.705737864,m,0.294262136,HF,0.99981078,,,,2<sup>ème</sup> circonscription de la Guadeloupe
+ZA-3,ZA,3,0,m,0.738369755,m,0.261630245,HH,0,,,,3<sup>ème</sup> circonscription de la Guadeloupe
+ZA-4,ZA,4,0,m,0.678601124,f,0.321398876,HF,0.000585936,,,,4<sup>ème</sup> circonscription de la Guadeloupe
+ZB-1,ZB,1,0,m,0.681149377,f,0.318850623,HF,0.000526943,,,,1<sup>ère</sup> circonscription de la Martinique
+ZB-2,ZB,2,0,m,0.659417972,m,0.340582028,HH,0,,,,2<sup>ème</sup> circonscription de la Martinique
+ZB-3,ZB,3,0,m,0.687596485,m,0.312403515,HH,0,,,,3<sup>ème</sup> circonscription de la Martinique
+ZB-4,ZB,4,0,m,0.711850761,m,0.288149239,HH,0,,,,4<sup>ème</sup> circonscription de la Martinique
+ZC-1,ZC,1,0,m,0.62283683,m,0.37716317,HH,0,,,,1<sup>ère</sup> circonscription de la Guyane
+ZC-2,ZC,2,0,f,0.616721495,m,0.383278505,HF,0.992334995,,,,2<sup>ème</sup> circonscription de la Guyane
+ZD-1,ZD,1,0,f,0.650346014,m,0.349653986,HF,0.998100792,,,,1<sup>ère</sup> circonscription de La Réunion
+ZD-2,ZD,2,0,f,0.742169589,f,0.257830411,FF,1,,,,2<sup>ème</sup> circonscription de La Réunion
+ZD-3,ZD,3,0,m,0.697396721,f,0.302603279,HF,0.000267837,,,,3<sup>ème</sup> circonscription de La Réunion
+ZD-4,ZD,4,0,m,0.711434536,f,0.288565464,HF,0.000149245,,,,4<sup>ème</sup> circonscription de La Réunion
+ZD-5,ZD,5,0,m,0.750677292,m,0.249322708,HH,0,,,,5<sup>ème</sup> circonscription de La Réunion
+ZD-6,ZD,6,0,f,0.722407735,m,0.277592265,HF,0.999905516,,,,6<sup>ème</sup> circonscription de La Réunion
+ZD-7,ZD,7,0,m,0.725289289,m,0.274710711,HF,0,,,,7<sup>ème</sup> circonscription de La Réunion
+ZM-1,ZM,1,0,f,0.550862689,m,0.449137311,HF,0.892762893,,,,1<sup>ère</sup> circonscription de Mayotte
+ZM-2,ZM,2,0,m,0.444642043,m,0.555357957,HH,0,,,,2<sup>ème</sup> circonscription de Mayotte
+ZZ-1,ZZ,1,0,f,0.463697202,m,0.536302798,HF,0.18055134,,,,1<sup>ère</sup> circonscription des Français établis hors de France
+ZZ-2,ZZ,2,0,m,0.476200695,m,0.523799305,HH,0,,,,2<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-3,ZZ,3,0,f,0.530976815,f,0.469023185,FF,1,,,,3<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-4,ZZ,4,0,m,0.468769513,f,0.531230487,HF,0.786048695,,,,4<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-5,ZZ,5,0,m,0.465998383,f,0.534001617,HF,0.804825905,,,,5<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-6,ZZ,6,0,f,0.377135522,f,0.622864478,FF,1,,,,6<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-7,ZZ,7,0,m,0.546610979,m,0.453389021,HH,0,,,,7<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-8,ZZ,8,0,f,0.370929411,f,0.629070589,FF,1,,,,8<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-9,ZZ,9,0,f,0.616826767,f,0.383173233,FF,1,,,,9<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-10,ZZ,10,0,m,0.446790717,m,0.553209283,HH,0,,,,10<sup>ème</sup> circonscription des Français établis hors de France
+ZZ-11,ZZ,11,0,m,0.424523655,m,0.575476345,HH,0,,,,11<sup>ère</sup> circonscription des Français établis hors de France
+ZN-1,ZN,1,0,m,0.30879528,m,0.69120472,HH,0,,,,1<sup>ère</sup> circonscription de Nouvelle-Caledonie
+ZN-2,ZN,2,0,m,0.418841995,m,0.581158005,HH,0,,,,2<sup>ème</sup> circonscription de Nouvelle Caledonie
+ZP-1,ZP,1,0,m,0.444377631,f,0.555622369,HF,0.910324107,,,,1<sup>ère</sup> circonscription de Polynésie Française
+ZP-2,ZP,2,0,m,0.47801892,m,0.52198108,HH,0,,,,2<sup>ème</sup> circonscription de Polynésie Française
+ZP-3,ZP,3,0,m,0.483784922,m,0.516215078,HH,0,,,,3<sup>ème</sup> circonscription de Polynésie Française
+ZX-1,ZX,1,0,m,0.405710072,m,0.594289928,HH,0,,,,1<sup>ère</sup> circonscription de Saint-Barthélemy / Saint-Martin
+ZS-1,ZS,1,0,f,0.653061224,m,0.346938776,HF,0.998303603,,,,1<sup>ère</sup> circonscription de Saint-Pierre-et-Miquelon
+ZW-1,ZW,1,0,m,0.560644113,m,0.439355887,HH,0,,,,1<sup>ère</sup> circonscription de Wallis-et-Futuna

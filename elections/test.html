@@ -1,0 +1,11 @@
+<head>
+<script src="../lib/jquery/jquery.js"></script>
+<script src="../lib/jquery-ui/jquery-ui.min.js"></script>
+
+<script src="../lib/jquery-ui/jquery.tipsy.js"></script>
+<script src="../lib/d3.v2.min.js?2.8.1"></script>
+<body>
+<script>
+d3.select("body").append("svg").append("rect").attr("x",200).attr("y",200).attr("width",100).attr("height",100).append("title").text("my title");
+$('rect').tipsy({html: true, gravity: 'w'});
+</script>

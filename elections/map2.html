@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.frame {
+  stroke: #000;
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  fill: #eee;
+  stroke: #ccc;
+}
+
+</style>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<script src="../d3.v2.js"></script>
+
+<script src="data-elections.js"></script>
+
+<body>
+<form class="form-horizontal">
+        <fieldset>
+
+          <div class="control-group">
+            <label class="control-label" for="select01">Select list</label>
+            <div class="controls">
+              <select id="select01">
+                <option value=8>Nathalie Arthaud</option>
+                <option value=10>François Bayrou</option>
+                <option value=9>Jacques Cheminade</option>
+                <option value=11>Nicolas Dupont-Aignan</option>
+                <option value=12>François Hollande</option>
+                <option value=3>Eva Joly</option>
+                <option value=4>Marine Le Pen</option>
+                <option value=5>Nicolas Sarkozy</option>
+                <option value=6>Jean-Luc Mélenchon</option>
+                <option value=6>Philippe Poutou</option>
+              </select>
+            </div>
+          </div>
+        </fieldset>
+      </form>
+<script>
+s=d3.select("#select01")
+v=8;
+var xy = d3.geo.mercator().scale(16000).translate([550, 2650]);
+
+var svg = d3.select("body")
+  .append("svg:svg")
+    .append("svg:g") ;
+
+var rScale=d3.scale.linear().domain([0,1000]).range([0,30]);
+var mlpScale=d3.scale.linear().domain([0,1]).range(["white","blue"]);
+
+
+//borders
+
+svg.selectAll("villes")
+    .data(data.filter(function(d) {return (d.votes[0]>1000)&&("geo" in d);}))
+    .enter().append("circle")
+     .attr("cx", function(d) {return xy(d.geo)[0];})
+     .attr("cy", function(d) {return xy(d.geo)[1];})
+     .attr("r",function(d) {return rScale(Math.sqrt(d.votes[0]));})
+     .style("opacity",function(d) {return 2*d3.scale.linear()(d.votes[v]/(d.votes[0]-d.votes[1]-d.votes[2]));})
+	.style("fill","blue")
+     //.style("fill",function(d) {return mlpScale(d.votes[5]/(d.votes[0]-d.votes[1]-d.votes[2]));})
+     ;
+s.on("change",function() {
+	v=+s.property("value");
+		svg.selectAll("circle")
+//			.transition()
+			.style("opacity",function(d) {return d3.scale.linear()(d.votes[v]/(d.votes[0]-d.votes[1]-d.votes[2]));})
+		;})
+
+
+</script>

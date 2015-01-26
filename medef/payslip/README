@@ -1,0 +1,29 @@
+WKSlider - Usage
+
+First, include the main JavaScript file and CSS stylesheet in the header of your HTML document:
+
+<link rel="stylesheet" href="WKSlider.css" />
+<script type="text/javascript" src="WKSlider.js" ></script>
+
+Next, insert the following markup into your HTML for the slider:
+
+<div id="mySlider1" class="slider">
+	<div class="track"></div>
+	<div class="knob"></div>
+</div>
+
+Finally, initialize the plugin by including the following JavaScript just before the end </body> tag in your HTML. Put your own code within the callback() method for what you want to happen when the slider is moved. The callback() method by default returns a variable that contains percentage (0 to 100).
+
+<script type="text/javascript"> 
+window.onload = function() {
+
+	//slider 1
+	var mySlider1 = new WKSlider('mySlider1');
+
+	//slider 1 callback
+	mySlider1.callback = function (percentage) {
+
+		document.getElementById('mySlider1-output').innerHTML = percentage;
+	}
+};
+</script>

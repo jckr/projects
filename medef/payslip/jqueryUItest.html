@@ -1,0 +1,57 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Feuille de paie</title>
+	<script type="text/javascript" src="d3.js"></script>
+
+	<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="jquery.tipsy.js"></script>
+	<script type="text/javascript" src="jquery-ui-1.8.17.custom.min.js"></script>
+	<script type="text/javascript" src="jquery.ui.touch-punch.js"></script>
+	<script type="text/javascript" src="WKSlider.js"></script>
+
+
+	<style>
+		@import url("jquery-ui-1.8.17.custom.css");
+		@import url("touch.css");
+		<!--@import url("WKSlider.css");-->
+		@import url("payslip.css");
+
+	</style>
+	</head>
+	<body>
+	<div id="sliders">
+	<div id="slider1" class=".slider"></div>
+	</body>
+	<div id="slider2" class=".slider"></div>
+	</body>
+	</div>
+
+	<div id="boutons">
+		<div id="bouton1" class="bouton on">
+			<p class="cas">Cas d'un cadre à 80 000€ par an</p>
+			<p class="marie">Marié, deux enfants</p>
+		</div>
+		<div id="bouton2" class="bouton">
+			<p class="cas">Cas d'un salarié à 30 000€ par an</p>
+			<p class="marie">Marié, deux enfants</p>
+		</div>
+	</div>
+
+	<script type="text/javascript">
+
+	$('#slider1').slider({
+			handle: '#slider-handle',
+			min: 0,
+			max: 100,
+			change: function(e,ui) {console.log(ui.value);}
+	});
+	$('#slider2').slider({
+				handle: '#slider-handle',
+				min: 0,
+				max: 100,
+				change: function(e,ui) {console.log(ui.value);}
+	});
+
+
+	</script>
+</html>
+

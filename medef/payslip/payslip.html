@@ -1,0 +1,42 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Feuille de paie</title>
+	<script type="text/javascript" src="d3.js"></script>
+
+	<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="jquery-ui-1.8.17.custom.min.js"></script>
+	<script type="text/javascript" src="jquery.ui.touch-punch.js"></script>
+
+	<style>
+		@import url("jquery-ui-1.8.17.custom.css");
+		@import url("touch.css");
+		@import url("payslip.css");
+	</style>
+	</head>
+	<body>
+	<div class="content">
+		<p style="font-family:'Neutra';font-weight:bold;font-size:36px;color:#fa6873;margin:20 15px;line-height:50px">Feuille de paie: comparaison France/Allemagne</p>
+
+		<div id="boutons">
+				<div id="bouton1" class="bouton on">
+					<p class="cas">Cas d'un cadre à 80 000€ par an</p>
+					<p class="marie">Marié, deux enfants</p>
+				</div>
+				<div id="bouton2" class="bouton">
+					<p class="cas">Cas d'un salarié à 30 000€ par an</p>
+					<p class="marie">Marié, deux enfants</p>
+				</div>
+		</div>
+
+		<div id="chart"></div>
+		<div id="sliders">
+			<div id="slider1" class=".slider"></div>
+			<div id="slider2" class=".slider"></div>
+			<div class="label"><strong>Glissez pour découvrir les </strong><br/>charges pour l'employeur</div>
+			<div class="label" style="top:35px"><strong>Glissez pour découvrir les </strong><br/>charges pour les salariés</div>
+
+		</div>
+	</div>
+
+	<script type="text/javascript" src="payslip.js"></script>
+	</body>
+</html>

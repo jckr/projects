@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<title>Les meilleurs candidats</title>
+<link href='http://fonts.googleapis.com/css?family=News+Cycle:400,700' rel='stylesheet' type='text/css'>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+.rank {width:22px;float:left;text-align:right;background-color:#fff}
+.star {width:20px;float:left;height:14px;padding-top:4px;text-align:center;background-color:#fff}
+.circo {width:50px;float:left;text-align:right;background-color:#fff}
+.candidat{width:178px;float:left;overflow:hidden;height:18px;background-color:#fff}
+.ctitre{width:188px;}
+.headertitre{width:50px;float:left;text-align:left;}
+.numbertitre{width:45px;float:left;text-align:left;}
+.number{width:40px;float:left;text-align:right;font-weight:bold;background-color:#fff}
+.line{clear:both;font-family:"news cycle";background-color:#fff;}
+#comments{width:400px;height:82px;font-family:"news cycle";padding-left:20px;}
+#candidats{width:400px;height:360px;margin-bottom:10px;overflow-x: hidden; overflow-y: scroll;}
+.coordLine{stroke:black;}
+.selected{background-color:#eee;}
+</style>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<script src="../d3.v2.min.js"></script>
+
+<div class="container-fluid">
+  <div class="row"><div class="span2">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="jcukier">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+  </div></div>
+  <div class="row">
+    <div class="span12 well">
+    <h3>Quels candidats ont fait mieux que le représentant de leur parti à l'élection présidentielle?</h3>
+    </div>
+  </div>
+  <div class="row">
+    
+    <div class="span12" style="width:950px"> 
+      <div class="row">
+        <div class="span6" style="width:400px">
+          <div class="row">
+            <ul id="partis" class="nav nav-pills">
+                <li style="line-height:14px;padding:8px 12px 8px 20px;">Choix d'un parti: </li>
+                <li><a href="#">Centre/MoDem</a></li>
+                <li><a href="#">FN</a></li>
+                <li class="active"><a href="#">PS</a></li>
+                <li><a href="#">UMP</a></li>
+            </ul>
+            <p id="comments"/>
+          </div>
+          <div class="row">
+            <div class="span12">
+            <h3>Liste des candidats</h3>
+            <div id="titre" class="line">
+              <div class="rank">&nbsp;</div>
+              <div class="star">&nbsp;</div>
+              <div class="candidat ctitre"><a href="#" id="sortCandidat">Candidat<i id="candsort"></i></a></div>
+              <div class="circo headertitre"><a href="#" id="sortCirco">Circ.<i id="circosort"></i></a></div>
+              <div class="score numbertitre"><a href="#" id="sortScore">Score<i id="scoresort"></i></a></div>
+              <div class="scorediff numbertitre"><a href="#" id="sortScoreDiff">Diff.<i id="diffsort" class="icon-chevron-down"></i></a></div>
+            </div>
+            </div>
+          </div>
+          <div class="row">
+            <div id="candidats" class="span12"></div>
+          </div>
+          <div class="span12"><i class="icon-star"></i>&nbsp;Élu(e) au premier tour&nbsp;<i class="icon-star-empty"></i>&nbsp;Qualifié(é) pour le 2ème tour</div>
+        </div>
+        
+        <div class="span6" style="width:530px">
+          <div class="row">
+            <div id="chart" style="width:530px;height:600px;overflow:hidden">
+              <svg
+               xmlns:dc="http://purl.org/dc/elements/1.1/"
+               xmlns:cc="http://creativecommons.org/ns#"
+               xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+               xmlns:svg="http://www.w3.org/2000/svg"
+               xmlns="http://www.w3.org/2000/svg"
+               xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+               xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+               width="530"
+               height="600"
+               version="1.1"
+               id="svg6921"
+               inkscape:version="0.48.2 r9819"
+               sodipodi:docname="basemap.svg">
+                <defs
+                   id="defs6923">
+                  <style
+                     id="style6925">.depts {stroke:white;stroke-width:1.25;fill:#eee}
+                  </style>
+                  <pattern id="hashed" x="0" y="0" width="3" height="3" patternUnits="userSpaceOnUse">
+                    <path d="M0,0L5,5" style="stroke: black; fill: none;"/>
+                  </pattern>
+                </defs>
+              </svg>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+<footer>
+
+<hr>
+<div class="span2"><a href="https://twitter.com/jcukier" class="twitter-follow-button" data-show-count="false">Follow @jcukier</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+</script></div>
+
+<div class="span4" id="#about"> Un projet de <a href="http://jeromecukier.net">Jérôme Cukier</a></br>
+<a href="halloffame.csv">données (csv)</a>&nbsp;</div>
+<div class="span4"><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/fr/"><img alt="reative Commons Attribution-ShareAlike 3.0 France License<" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/fr/88x31.png" /></a></div>
+
+<script src="routine-halloffame.js"></script>
+<script src="../bootstrap/js/jquery.js"></script>
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+
+</body>
+</html>

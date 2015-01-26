@@ -1,0 +1,102 @@
+@font-face {
+font-family: Neutra;
+src: url("Neutraface2Display-Medium.otf") format("opentype");
+}
+
+@font-face {
+font-family: Neutra;
+font-weight: bold;
+src: url("Neutraface2Display-Bold.otf") format("opentype");
+}
+
+
+@font-face {
+font-family: Neutra;
+font-weight: bold;
+src: url("Neutraface2Display-Bold.otf") format("opentype");
+}
+
+.charges {font-family:'Lucida Grande','Lucida Sans',Tahoma, Verdana, sans-serif;text-transform:none;}
+
+h1 {font-family:"Neutra" !important,font-weight:bold;font-size:36px;color:#604592;margin:5 0px;}
+h2 {font-family:"Neutra"!important,font-weight:bold; font-size:36px;color:#fa6873;margin:5 0px;}
+
+body {background-color: black;
+font-family:"Neutra";font-weight:bold;text-transform:uppercase;font-size:18px;}
+
+.content {background-color: #fff8ce;width:1024px;height:748px;}
+
+#chart {position:absolute;top:50px;left:0px;width:1024px;height:608px;
+//border:1px solid red;
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    background-color: rgb(110, 204, 189);
+
+    width: 800px;
+    height:10px;margin:10px;
+    border:3px solid #575757;
+    border-radius:5px;-moz-border-radius:5px
+}
+
+input[type="range"]::-webkit-slider-thumb {
+     -webkit-appearance: none;
+    background-color: rgb(201,255,237);
+    border:2px solid #575757;
+    opacity: 1;
+    width: 40px;
+    height: 40px;
+    border-radius:20px;-moz-border-radius:20px;
+
+li {text-align:right;}
+}
+
+#chFrance, #chAllemagne, #chEFrance, #chEAllemagne {position:fixed;width:250px;}
+
+.slider {height:40px;margin:20 0px;}
+
+.net {fill:"pink"}//"rgb(248, 246, 207)";}
+.CS {fill:"cyan"}//rgb(250, 104, 116)";}
+.CE {fill:"purple"}//"rgb(230, 225, 94)";}
+
+
+/*
+color backcol = color(201,255,237);
+color pink = color(250, 104, 116);
+color medblue = color(110, 204, 189);
+color purple = color(95, 69, 148);
+color yellow = color(230, 225, 94);
+color lightpink = color(248, 246, 207);
+color lightgrey = color(242, 242, 242);
+color darkgrey = color(87, 87, 87);*/
+
+.notbold {font-weight:400;}
+
+#sliders {position:absolute;top:660px;left:260px;z-index:5;}
+#slider1 {position:absolute;top:0px;left:0px;width:480px;}
+#slider1.ui-widget-content {background:none;background-color:#604592;border:none;}
+
+#slider2 {position:absolute;top:40px;left:0px;width:480px;}
+#slider2.ui-widget-content {background:none;background-color:#fa6873;border:none;}
+.label { color: #575757; position: absolute; left: -230px; top:-5px;font-size: 14px; }
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default {background:#fff;border-radius:20px;-moz-border-radius:20px;border:2px solid #575757;}
+
+#boutons {position:absolute;top:0px;left:0px;}
+#bouton1 {position:absolute;top:80px;left:180px;height:50px;z-index:5;
+
+}
+#bouton2 {position:absolute;top:80px;left:530px;height:50px;z-index:5;
+
+}
+
+.bouton {width: 320px;height:50px;border-radius:25px;-moz-border-radius:25px;border:3 px solid #604592;color:#604592;background-color:"rbga(255,255,255,.01)"}
+.bouton.on{background-color:#604592;color:#fff8ce;}
+p.cas {font-family:"Neutra";font-weight:bold;text-transform:uppercase;font-size:14px;margin:10 0 3 25px;}
+p.marie {font-family:"Neutra";font-weight:normal;text-transform:uppercase;font-size:12px;margin:0 0 10 25px;}
+
+.bouton.{background-color:#604592;color:#fff8ce;}
+
+
+

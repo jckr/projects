@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="http://twitter.github.com/bootstrap/assets/css/bootstrap.css" rel="stylesheet">
+<link href="../lib/jquery-ui/jquery-ui.css" rel="stylesheet">
+
+<style>
+
+svg {
+  font: 10px sans-serif;
+}
+.rightalign{text-align:right !important;}
+.background path {
+  fill: none;
+  stroke: #eee;
+  stroke-opacity: .4;
+  shape-rendering: crispEdges;
+}
+
+.foreground path {
+  fill: none;
+  stroke-opacity: .5;
+}
+
+.brush .extent {
+  fill-opacity: .3;
+  stroke: #fff;
+  shape-rendering: crispEdges;
+}
+
+.axis line, .axis path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  text-shadow: 0 1px 0 #fff;
+  cursor: move;
+}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+<script src="http://mbostock.github.com/d3/d3.v2.min.js?2.8.1">
+</script>
+
+
+<div class="container">
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<div class="row">
+<div class="span7"><h1>Résultats des deux tours</h1>
+
+<p>Chaque ligne représente une ville de plus de 10000 électeurs, un département ou une région.<br>
+Les lignes sont colorées par région. <br>
+Cliquez-glissez le long des axes pour définir des intervalles, et voir qui a voté selon ces critères.<br></p></div>
+<div class="span4 well"><div class="ui-widget">
+	<label for="ville">Rechercher une ville, un département, une région: </label>
+	<input id="ville" type="text" class="span4" style="margin: 0 auto;" data-provide="typeahead" data-items="8">
+</div>
+</div></div>
+
+
+<div class="row"><div class="span12"><div id="parallel"></div></div></div>
+<div class="row"><div class="span12"><div id="myGrid"></div></div></div>
+<footer>
+<div id="#about" style="text-align:right">Source: <a href="https://docs.google.com/open?id=0B_w-HzR97DkJVmJXOXIwQVlUWFU">Résultats détaillés du 1er tour</a><br><a href="http://jeromecukier.net">Jérôme Cukier</a> <a href="https://twitter.com/jcukier" class="twitter-follow-button" data-show-count="false">Follow @jcukier</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+
+
+
+
+
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../lib/jquery/jquery.js"></script>
+<script src="../lib/jquery-ui/jquery-ui.min.js"></script>
+
+<script src="../bootstrap/js/bootstrap-typeahead.forked.js"></script>
+
+<script src="t2.js"></script>
+<script src="pc2.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+
+<!--<script src="../bootstrap/js/bootstrap-alert.js"></script>-->
+<!--<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+-->
+
+</body>
+</html>

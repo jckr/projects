@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700|Vollkorn:400italic,400,700' rel='stylesheet' type='text/css'>
+<style>
+.container {position:relative;}
+#buttons {position:absolute;top:80px;left:10px;}
+#core {position:absolute;top:375px;left:400px;width:150px;text-align:center;}
+footer {position:absolute;top:800px;}
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+<script src="../../d3.v2.min.js"></script>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jeromecukier.net/projects/cartel/cartel.html" data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="container">
+
+<h1>Correspondance in the DVC</h1>
+<!--<p>This shows the main characters of the Songs of Ice and Fire series and what happens to them.</p>-->
+<div class="row"><div class="span" id="chart"></div></div>
+<div id="buttons">See messages by:<div class="btn-group">
+  <button class="btn active btn-primary" id="b1">Age</button>
+  <button class="btn" id="b2">Day of week</button>
+  <button class="btn" id="b3">Time of day</button>
+</div>
+<div id="core">
+  <span id="toggle"><em style="text-align:middle"><br>Click anywhere<br>to toggle the view</em></span>
+  <p id="name"><strong></strong></p>
+  <p id="info"><span id="dow"></span>&nbsp;<span id="date"></span><br><span id="hour"></span></p>
+</div> 
+<footer class="span12">
+<div class="row">
+<div class="span4 pull-right">
+A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+</div>
+</footer>
+</div>
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+
+<script src="routine-cartel.js">
+</script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

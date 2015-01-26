@@ -1,0 +1,74 @@
+//// Console Example
+// Open dom.html
+
+// CSS Selectors
+document.querySelector("p")
+document.querySelectorAll("p")
+document.querySelectorAll(".emph")
+document.querySelectorAll(".emph, .imp")
+document.querySelectorAll("#list")
+
+// Functional Programming
+var data = [1,2,3,4,5];
+function plusOne(x) { return x+1; }
+plusOne(data[0])
+plusOne(data[1])
+data.map(plusOne)
+
+// Functions are Objects, Too
+plusOne.myname
+var p1 = plusOne;
+p1.myname = "plusOne";
+p1.myname
+plusOne.myname
+data.map(p1)
+
+// Method Chaining
+var squared = function(x) { return x*x; };
+data.map(plusOne).map(squared)
+
+// Higher-Order Functions
+var plusX = function(x) { return function(d) { return d+x; }; };
+data.map(plusX(2));
+
+//// SVG Example
+// Open svg.html
+
+//// Select Example
+// Open dom.html
+
+d3.select("body");
+d3.select("div");
+d3.selectAll("div");
+
+d3.selectAll("div").style("border", "1px solid red");
+d3.selectAll("div").text("New text!");
+
+//// Selection Operators Example
+// apply in console for dom.html
+
+d3.select("body").selectAll("div")
+  .data([1,2,3])
+ .enter().append("div")
+  .attr("class", function(d,i) { return "para"+d; })
+  .style("font-family", "Gill Sans")
+  .style("font-size", function(d,i) { return (16+i)+"pt"; })
+  .text("Div Text!");
+
+//// Transition Example
+// apply in console for dom.html
+
+d3.selectAll("div").transition()
+  .duration(3000)
+  .delay(function(d,i) { return 500*i; })
+  .style("font-size", "10pt");
+
+//// Interaction Example
+// apply in console for dom.html
+
+d3.selectAll("li")
+  .on("mouseover", function() { d3.select(this).style("color","red"); })
+  .on("mouseout", function() { d3.select(this).style("color",null); })
+  .on("click", function(d,i) { alert("clicked "+i+": "+this); });
+
+//// Show API Documentation

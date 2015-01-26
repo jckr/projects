@@ -1,0 +1,170 @@
+/* HTML ELEMENTS
+/////////////////////////////////////////////////////////////////*/
+.visualization{
+  padding: 20px;
+  position: relative;
+}
+#chart{
+}
+#chart_overlays{
+}
+.chart_overlay{
+  position: absolute;
+}
+/* VIEW SELECTION
+/////////////////////////////////////////////////////////////////*/
+.view_selection{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  @include clearfix
+}
+.view_selection li {
+  color: #999;
+  cursor: pointer;
+  float: left;
+  padding: 5px 10px;
+  border: solid 1px $border-superlight;
+  margin: 0 0 0 -1px;
+  z-index: 1;
+  position: relative;
+}
+
+.view_selection li:first-of-type{
+  border-radius: 4px 0 0 4px;
+  margin-left: 0;
+}
+.view_selection li:last-of-type{
+  border-radius: 0 4px 4px 0;
+}
+.view_selection li.active {
+  color: $text-dark;
+  background: lighten($border-superlight, 5%);
+  border-color: darken($border-superlight, 10%);
+  box-shadow: inset 0px 0px 4px rgba(0,0,0,0.1);
+  z-index: 2;
+}
+.view_selection li:hover {
+  color: $text-dark;
+  border-color: darken($border-superlight, 10%);
+  box-shadow: inset 0px 1px 0px rgba(255,255,255,0.5);
+}
+.view_selection li.active:hover {
+  box-shadow: inset 0px 0px 4px rgba(0,0,0,0.1);
+}
+/* SVG ELEMENTS
+/////////////////////////////////////////////////////////////////*/
+svg {
+  overflow: hidden;
+}
+/* VISUALIZATION ELEMENTS
+/////////////////////////////////////////////////////////////////*/
+.axis,
+.grid {
+  shape-rendering: crispEdges;
+}
+
+/* TOOLTIP
+/////////////////////////////////////////////////////////////////*/
+.tooltip {
+  @include single-box-shadow();
+  @include border-radius();
+  background: #fff;
+}
+.tooltip .ui-tooltip-titlebar,
+.tooltip .ui-tooltip-content{
+  @include border-radius();
+  background-color: #fff;
+  border-color:#ccc;
+  color: $text-dark;
+  padding: 10px;
+  text-align: center;
+}
+/* VISUALIZATIONS
+/////////////////////////////////////////////////////////////////*/
+line{
+  opacity(0.5);
+}
+
+background: #fff;
+
+video_duration_ray: #aaa;
+video_views_ray: #888;
+node_label: #222;
+sublabel: #999;
+node_circle: #f0f0f0;
+svg{
+  background: $background;
+}
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}
+.depth_0{
+  stroke-width: 1px;
+  display: none;
+}
+.depth_1{
+  stroke-width: 1px;
+}
+.depth_2{
+  stroke-width: 1px;
+}
+.node_duration_circle{
+  fill: #f0f0f0;
+  //stroke: #517cbb;
+}
+.node_views_circle{
+  display: none;
+  fill: #f0f0f0;
+  //stroke: #7ba15f;
+}
+.node_views_circle_inner{
+  fill: transparent;
+  stroke: #fff;
+  stroke-width: 2px;
+}
+.node_views_circle_outer{
+  fill: transparent;
+  stroke: #f0f0f0;
+  stroke-width: 1px;
+}
+.video_duration_ray{
+  fill: #aaa;
+  &.max_duration{
+    //fill: #7ba15f;
+  }
+}
+.video_views_ray{
+  fill: #888;
+  &.max_views{
+    //fill: #517cbb;
+  }
+}
+.video_label,
+.playlist_label,
+.topic_label,
+.node_label{
+  font-size: 10px;
+  fill: #222;
+}
+.root_label,
+.topic_label,
+.subtopic_label{
+  font-size: 12px;
+}
+.sublabel{
+  font-size: 10px;
+  fill: #999;
+}
+.root_node{
+  .root_label,
+  .sublabel,
+  .node_views_circle,
+  .node_duration_circle,
+  .node_views_circle_inner,
+  .node_views_circle_outer{
+    display: none;
+  }
+}

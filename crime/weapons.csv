@@ -1,0 +1,18 @@
+weapon,lName,sName,phrase
+11,Firearm, type not stated. (Does not include mechanics grease gun or caulking gun.),firearm,shot
+12,Handgun - pistol, revolver, etc.,handgun,shot with a handgun
+13,Rifle,rifle,shot with a rifle
+14,Shotgun,shotfun,shot with a shotgun
+15,Other gun/Unknown Gun,other gun,shot with another gun
+20,Knife or cutting instrument - include icepick, screwdriver, ax, etc.,bladed weapon,killed with a bladed weapon
+30,Blunt object - hammer, club, etc. Facts must suggest weapon was not hands and/or feet.,blunt weapon,killed with a blunt weapon
+40,Personal weapons - include beating by hands, feet, and/or other body members or use of teeth.,bare hands,killed without weapons
+50,Poison - does not include gas.,poison,poisoned
+55,Pushed or thrown out window (Defenestration),pushed,pushed to death
+60,Explosives,explosives,killed by explosives
+65,Fire,fire,killed by fire
+70,Narcotics and drugs - includes sleeping pills.,drugs,killed by drugs
+75,Drowning,drowning,drowned
+80,Strangulation - hanging,,strangled
+85,Asphyxiation - include asphyxiation or death by gas.,,asphyxiated
+90,Other - type of weapon not designated or type unknown.,,killed

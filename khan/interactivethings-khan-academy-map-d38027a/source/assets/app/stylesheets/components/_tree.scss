@@ -1,0 +1,82 @@
+$background: #fff;
+$link_stroke: #ccc;
+$video_duration_ray: #aaa;
+$video_views_ray: #888;
+$node_label: #222;
+$sublabel: #999;
+$node_circle: #f0f0f0;
+svg{
+  background: $background;
+}
+.link {
+  fill: none;
+  stroke: $link_stroke;
+  stroke-width: 1px;
+}
+.depth_0{
+  stroke-width: 1px;
+  display: none;
+}
+.depth_1{
+  stroke-width: 1px;
+}
+.depth_2{
+  stroke-width: 1px;
+}
+.node_duration_circle{
+  fill: $node_circle;
+  //stroke: #517cbb;
+}
+.node_views_circle{
+  display: none;
+  fill: $node_circle;
+  //stroke: #7ba15f;
+}
+.node_views_circle_inner{
+  fill: transparent;
+  stroke: $background;
+  stroke-width: 2px;
+}
+.node_views_circle_outer{
+  fill: transparent;
+  stroke: $node_circle;
+  stroke-width: 1px;
+}
+.video_duration_ray{
+  fill: $video_duration_ray;
+  &.max_duration{
+    //fill: #7ba15f;
+  }
+}
+.video_views_ray{
+  fill: $video_views_ray;
+  &.max_views{
+    //fill: #517cbb;
+  }
+}
+.video_label,
+.playlist_label,
+.topic_label,
+.node_label{
+  font-size: 10px;
+  fill: $node_label;
+}
+.root_label,
+.topic_label,
+.subtopic_label{
+  font-size: 12px;
+}
+.sublabel{
+  font-size: 10px;
+  fill: $sublabel;
+}
+.root_node{
+  .root_label,
+  .sublabel,
+  .node_views_circle,
+  .node_duration_circle,
+  .node_views_circle_inner,
+  .node_views_circle_outer{
+    display: none;
+  }
+}

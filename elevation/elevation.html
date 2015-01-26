@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+  <title></title>
+  <style> body {background-color: #fff}</style>
+ </head>
+<body>
+<script src="../d3.v3.min.js"></script>
+
+<div id="chart"></div>
+
+<script>
+
+var height = 7000; width = 2000;
+var svg = d3.select("#chart").append("svg").attr({width: width, height: height});
+var data, lowest;
+	var runningy=0;
+
+var res = 72; // 72 dpi
+var w = 11.5 * res;
+var hstep = 72 * 1 / 8 + 2;
+var vstep = 72 * 2 / 8 + 2;
+
+var coeff = 15 * 1/176; // real
+d3.csv("results-87-415.csv", function(error, csv) {
+	
+	lowest = d3.min(csv, function(d) {return +d.z;})
+
+	data = d3.nest()
+		.key(function(d) {return +d.x;})
+		.entries(csv);
+
+
+	/*var g = svg.selectAll("g").data(data).enter().append("g");
+	g.append("path")
+		.attr("d", function(d) {
+			var maxy = d3.max(d.values, function(v) {return +v.z;})
+		
+			miny = -120 // lower than lowest point;
+
+			runningy = runningy + maxy * coeff + 120 * coeff + 20;
+			var path = "M0," + runningy;
+
+			console.log(runningy)
+			d.values.forEach(function(v,i) {
+				path = path + "L" + (v.y * 2) + "," + (runningy - (coeff * (+v.z + 120)));
+			})
+			path = path + "L960," + runningy + "Z"
+			return path;
+		})
+		.style({stroke: "black", "stroke-width": ".1", fill: "none"})*/
+	var g = svg.selectAll("g").data(data).enter().append("g");
+	g.append("path").classed("land", 1)
+		.attr("d", function(d, i) {
+			var maxy = d3.max(d.values, function(v) {return +v.z;})
+			
+			d.maxy = coeff * (maxy + 300); 
+			//runningy = runningy + maxy * coeff + 120 * coeff + 20;
+			runningy = 300;
+			
+			var path = "M0," + runningy;
+			
+			console.log(runningy)
+			d.values.forEach(function(v,i) {
+				var z = +v.z; 
+				if (z < 0) {z = 0;}
+
+				path = path + "L" + (v.y * 2) + "," + (runningy - (coeff * (z + 300)));
+			})
+			path = path + "L" + w + "," + runningy;
+			if (!i || i == d.values.length -1) {
+				path = path + "Z"; return path;
+			}
+			path = path + "h-" + hstep + "v" + vstep + "H" + hstep + "v-" + vstep + "Z";
+			return path;
+		})
+		//.style({stroke: d3.rgb("#dcbc95").darker(), "stroke-width": "1", fill: "#dcbc95", "fill-opacity": 1})
+		.style({stroke: "#000", "stroke-width": .1, fill: "none"});
+	g.append("text").attr({
+		x: function(d, i) {return i ? 20 : 432}, 
+		y: 295,
+		"text-anchor": function(d, i) {return i ? null : "middle"}
+	})
+	.text(function(d, i) {
+		if (!i) {return ""}
+		return d3.format("02f")(i);
+	}).style("font-family", "HelveticaNeue");
+	/*g.append("path").classed("water", 1)
+		.attr("d", function(d) {
+			var values = d.values;
+			var path = "";
+			var underwater = 0;
+			var bottom = 250 - coeff * 120;
+			if (values[0]<0) { // slice starts under water
+				path = "M0," + bottom + "L0," + (250 - coeff * (+values[0].z + 120))
+				underwater = 1;
+			} 
+			values.forEach(function(v, i) {
+				if (i) { // we've dealt with 0 abovr
+					if (+v.z<0) {	// underwater! 
+						if (underwater) { // this is cool, adding a line
+							path = path + "L" + (i * 2) + "," + (250 - coeff * (+v.z + 120));
+						} else { // figuring out exactly when we hit the water 
+							path = path + "M" + (i * 2) + "," + bottom + "L" + (i * 2) + "," + (250 - coeff * (+v.z + 120));
+							underwater = 1;
+						}
+					} else {
+						if (underwater) {
+							path = path + "L" + ((i - 1) * 2) + "," + bottom + "Z";
+							underwater = 0;
+						}
+					}
+				}
+			})
+			if (underwater) {
+				path = path + "L958," + bottom + "Z";
+			}
+			return d.path = path;
+		})
+		.style({stroke: "#000", "stroke-width": .1, fill: "#7ba9ac", "fill-opacity": .5})*/
+	/*g.attr("transform", function(d, i) {
+			var sq2 = Math.sqrt(2) / 2;
+			var offset =  3 * sq2 * (96 - i);
+
+			return "translate(" + offset + ",-" + offset + ")";
+		})*/
+	runningy = -300;
+	page = 0;
+	svg.selectAll("g").attr("transform", function(d, i) {
+		var x = 0;
+		if (i % 2) {runningy = runningy + 80;}
+		else {x = 864;} 
+		/*if (Math.floor((runningy - 100 * page) / 864) > page) {
+			runningy = runningy + 100;
+			page = page + 1;
+		}*/
+			return "translate(" + x + "," + runningy + ")";
+		
+	})/*
+	svg.selectAll("path.water").attr("transform", function(d, i) {
+		if (d.path != "") {
+			runningy = runningy + 20; 
+		}
+		return "translate(0," + runningy + ")";
+
+	})*/
+})
+
+
+</script>
+</body>
+</html>

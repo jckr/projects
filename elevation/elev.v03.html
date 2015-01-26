@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title></title>
+	
+	</style>
+</head>
+<body>
+<script src="../d3.min.js">
+</script>
+<script src="../queue.min.js"></script>
+<script src="../binaryHeap.js"></script>
+
+
+
+<div id="chart"></div>
+<script src="elevation.v03.js"></script>
+<script>
+var params = {nodes: "nodes.csv", coastPath: "coastline.csv", coastNodes: "coastNodes.csv", paths: "path.csv", streets: "streets.csv",  width:1920,height:1920};
+var query = window.location.search.substring(1);
+
+var vars = query.split("&");
+vars.forEach(function(v) {
+	p=v.split("=");
+	params[p[0]]=p[1]
+})
+vis.init(params);
+</script>
+</body>
+</html>

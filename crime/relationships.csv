@@ -1,0 +1,30 @@
+code,lName,phrase,type,relNb
+HU,Husband,husband,0,95
+WI,Wife,wife,0,95
+CH,Common-Law Husband,common-law husband,0,95
+CW,Common-Law Wife,common-law wife,0,95
+MO,Mother,mother,0,99
+FA,Father,father,0,99
+SO,Son,son,0,99
+DA,Daughter,daughter,0,99
+BR,Brother,brother,0,95
+SI,Sister,sister,0,95
+IL,In-Law,in-law,1,90
+SF,Stepfather,stepfather,0,90
+SM,Stepmother,stepmother,0,90
+SS,Stepson,stepson,0,90
+SD,Stepdaughter,stepdaughter,0,90
+OF,Other Family,other family member,1,70
+NE,Neighbor,neighbor,3,50
+AQ,Acquaintance,acquaintance,3,30
+BF,Boyfriend,boyfriend,0,95
+GF,Girlfriend,girlfriend,0,95
+XH,Ex-Husband,ex-husband,1,90
+XW,Ex-Wife,ex-wife,1,90
+EE,Employee,employee,2,50
+ER,Employer,employer,2,50
+FR,Friend,friend,2,40
+HO,Homosexual Relationship,gay lover,0,95
+OK,Other - known to vic,,3,30
+ST,Stranger,,4,0
+UN,All instances where relationship of victim to offender cannot be determined,,5,20

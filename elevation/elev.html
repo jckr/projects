@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title></title>
+	
+<link href="//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
+
+	<style>
+	body {
+		font-family: Raleway;
+		font-size: 14px;
+		color: #4A4A4A;
+		line-height: 19px;
+	}
+	h1 {
+		font-family: Raleway;
+		font-weight: 800;
+		font-size: 36px;
+		color: #4A4A4A;
+		line-height: 49px;
+	}
+	h2 {
+		font-family: "Palatino"; 
+		font-style: italic;
+		font-size: 22px;
+		color: #4A4A4A;
+		line-height: 34px;
+	}
+	.bold {
+		font-family: Raleway;
+		font-weight: bold;
+		font-size: 14px;
+		color: #4A4A4A;
+		line-height: 19px;
+	}
+		#title {position: absolute;top: 53px;left: 70px;}
+	#subtitle {position: absolute;top: 101.5px;left: 70px;}
+	#from {position: absolute;top: 162px;left: 70px;}
+	#legend {position: absolute; top: 90px;left: 832px; width: 128px;}
+	#legend .title {float:left;margin-left:46px;height: 24px; text-align: right}
+	#legend .item {float: left; height: 24px;}
+	
+	#legend .item .label {float: left; margin-left: 14px;}
+	#legend .item .color {
+		float: left; 
+		border-radius: 8px; 
+		-moz-border-radius: 8px; 
+		-webkit-border-radius: 8px; 
+		width: 30px; height: 19px; border: 1px solid #979797;
+	}
+	#legend .item1 .color {background-color: #FF003C;}
+	#legend .item2 .color {background-color: #FABE28;}
+	#legend .item3 .color {background-color: #88C100;}
+
+
+	
+	#chart {position: absolute;top: 200px; left: 70px; width: 890px; height: 720px; overflow: scroll;};
+	</style>
+</head>
+<body>
+<script src="../d3.min.js">
+</script>
+<script src="../queue.min.js"></script>
+<script src="../binaryHeap.js"></script>
+
+<h1 id="title">
+	San Francisco streets by slope
+</h1>
+<h2 id="subtitle">
+	Click anywhere on the map to show the streets you should take from there.
+</h2>
+
+<div id="from">
+<span id="sourceNode" class="bold"></span>
+<span id="and"></span>
+<span id="destNode" class="bold"></span>
+</div>
+
+<div id="legend">
+<div class="title bold">Street slope:</div>
+<div class="item item1">
+	<div class="color">&nbsp;</div>
+	<div class="label">Flat</div>
+</div>
+<div class="item item2">
+	<div class="color">&nbsp;</div>
+	<div class="label">Steep</div>
+</div>
+<div class="item item3">
+	<div class="color">&nbsp;</div>
+	<div class="label">Very steep</div>
+</div>
+</div>
+
+<div id="chart"></div>
+<script src="elevation.js"></script>
+<script>
+var params = {nodes: "nodes.csv", coastPath: "coastline.csv", coastNodes: "coastNodes.csv", paths: "path.csv", streets: "streets.csv",  width:1011,height:720};
+var query = window.location.search.substring(1);
+
+var vars = query.split("&");
+vars.forEach(function(v) {
+	p=v.split("=");
+	params[p[0]]=p[1]
+})
+vis.init(params);
+</script>
+</body>
+</html>

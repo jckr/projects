@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+@font-face {
+    font-family: "Open Sans";
+    src: url(fonts/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: "Vollkorn";
+    src: url(fonts/Vollkorn/Vollkorn-Regular.ttf);
+}
+
+body {padding-top: 60px;font-family:Vollkorn;}
+circle.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+#slider {width:940px;}
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+.background {stroke-dasharray:1 2;fill:none;stroke:#ccc;}
+.character {stroke:#888;fill:none;}
+.ray, .chord, .center {visibility:hidden;}
+.link {fill:none;stroke:#ccc;stroke-opacity:.5;}
+
+path.highlighted {stroke:black;stroke-opacity:1;}
+.highlighted circle {stroke:black;}
+.highlighted .background {stroke-dasharray:null;fill:#eee;stroke-width:2px;stroke:black;}
+.team.text{visibility:hidden;}
+h6 {margin:0px;font-family:"Open Sans";color:"#333339";}
+hr {margin:5px 0;}
+#sliderdiv {position:absolute;bottom:120px;}
+#slider {width:720px;}
+#infobox {position:absolute;display:none;width:200px;background-color:white;padding:5px;border:1px solid #ccc;}
+.container {position:relative;width:940px;height:957px;margin:auto;}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+<script src="../../d3.v2.min.js">
+</script>
+
+<!--<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jeromecukier.net/projects/agot/agot.html" data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+-->
+
+</div>
+
+<div class="container">
+
+<!--<h1>Events in the Game of Thrones</h1>
+<p>This shows the main characters of the Songs of Ice and Fire series and what happens to them.</p>-->
+<div class="row"><div class="span" id="chart"></div></div>
+<div id="sliderdiv">
+<div class="span" style="width:162px"><button class="btn" id="stop">Stop</button></div>
+<div class="span" style="width:725px"><input type="range" value="72" min="0" max="72" step="1" id="slider"></div>
+</div>
+<div class="row" style="height:30px"><div class="span12" id="legend"></div></div>
+<div id="infobox"></div>
+<footer class="span12">
+<div class="row">
+<div class="span4 pull-right">
+A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+Songs of Ice and Fire &copy; George R.R. Martin. 
+</div>
+</footer>
+</div>
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+
+<script src="routine-events-v2.js">
+</script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+  </head>
+  <body style="margin-left: 40px;">
+<h4>Key Functions for Data Joins</h4>
+The <tt>data</tt> operator also accepts a <tt>key</tt> function:<br/>
+&nbsp; <tt>d3.selectAll(...)
+&nbsp;&nbsp;&nbsp;.data([{id:"42",value:1028}, ...],<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;function(d) { return d.id; })
+</tt><br/><br/>
+The <tt>key</tt> function is used to uniquely join data elements with
+DOM elements. Unmatched keys are assigned to the <tt>enter</tt> selection
+(for data without a matching DOM element)
+or the <tt>exit</tt> selection (vice versa).<br/><br/>
+<a href="http://bl.ocks.org/3808218">Online Example</a>
+  </body>
+</html>

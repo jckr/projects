@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href='http://fonts.googleapis.com/css?family=Lato:300|Cutive' rel='stylesheet' type='text/css'>
+<style>
+
+body {padding-top: 60px;font-family:Lato;}
+circle.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+h1,h2,h3 {font-family:Cutive;}
+h2 {font-size:16px;line-height: 20px;margin-top:0px;}
+.background {stroke-dasharray:1 2;fill:none;stroke:#ccc;}
+.character {stroke:#888;fill:none;}
+.ray, .chord, .center {visibility:hidden;}
+.link {fill:none;stroke:#ccc;stroke-opacity:.5;}i
+
+path.highlighted {stroke:black;stroke-opacity:1;}
+.highlighted circle {stroke:black;}
+.highlighted .background {stroke-dasharray:null;fill:#eee;stroke-width:2px;stroke:black;}
+.team.text{visibility:hidden;}
+h6 {margin:0px;font-family:"Lato";color:"#333339";}
+hr {margin:5px 0;}
+
+#sliderdiv {height:30px;display:none;}
+#slider {width:700px;}
+#infobox {position:absolute;display:none;width:200px;background-color:white;padding:5px;border:1px solid #ccc;}
+.container {position:relative;width:1240px;margin:auto;}
+.tblock {width:120px;padding:10px;padding-top:0px;}
+.block {position:relative;height:627px;}
+
+#victimTotal {font-size:20px;font-weight: bold}
+
+#header,#pages {height:25px;}
+#st {line-height:24px;}
+#sort {position:relative;height:25px;}
+
+.selector {
+    padding: 1px 4px 2px;
+
+  -webkit-border-radius: 3px;
+     -moz-border-radius: 3px;
+          border-radius: 3px;
+  margin-right:5px;
+  display:inline-block; color:#222;border:1px #222;background-color: #eee;}
+#records {height:240px;width:1040px;overflow:scroll;}
+
+#total {font-family:cutive;margin:15px 0;}
+#ltotalVictims,#ltotalKillers,#ltotalCases {width:310px;}
+.Lbl {display:inline-block;font-family:Cutive;font-size:10px !important;}
+.stateLbl {width:50px;}
+.stateSlct {width:40px;padding-left: 10px}
+  
+.agencyLbl {width:150px;}
+.agencySlct {width:140px;padding-left:10px;}
+.monthLbl {width:70px;}
+.monthSlct {width:60px;padding-left:10px;}
+.iimLbl,.iimSlct {width:50px;}
+.totVictimsLbl {width:220px;}
+.totalVictimsSlct {width:220px}
+.totKillersLbl {width:80px;}
+.totalKillersSlct {width:80px;}
+.victimsSlct,.killersSlct {width:25px;}
+
+.totRelationLbl {width:130px;}
+.relationSlct {width:130px;}
+.circLbl,.circSlct {width:130px;}
+#records {font-size:10px;}
+#records span, #records abbr {display:inline-block;}
+#records li {list-style-type:none;margin-left:-25px;}
+.vAgeUnk, .kAgeUnk {color:#ccc;}
+.vAge0, .kAge0 {color:pink;}
+.vAge1, .kAge1 {color:green;}
+.vAge2, .kAge2 {color:red;}
+.vAge3, .kAge3 {color:blue;}
+.vAge4, .kAge4 {color:yellow;}
+.kF,.vF {font-size:14px;}
+.kM,.vM {font-size:11px;}
+.kU,.vU {vertical-align:2px;} 
+.rtstranger {background-image:url("stranger.png");width:24px;height:13px;}
+.rtclose {background-image:url("close.png");width:24px;height:13px;}
+.rtknown {background-image:url("known.png");width:24px;height:13px;}
+
+.pages   {font-family:lato;}
+.nbPages {text-align:left;width:100px;}
+.first,.last,.p-3,.p-2,.p-1,.p1,.p2,.p3,.p  {width:29px;}
+.pdwn,.prev,.pup,.next    {width:29px;}
+.p       {font-weight:bold;}
+.pagesgination {text-align:center;border:1px solid #eee;}
+.pagesgination:hover {background-color:#eee;}
+.reveal {opacity:0;}
+
+</style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+</head>
+<body>
+
+<script src="../../d3.v3.min.js"></script>
+<script src="../../topojson.js"></script>
+<script src="../../d3.hexbin.v0.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js">
+</script>
+<script src="http://d3js.org/topojson.v0.min.js"></script>
+<script src="http://d3js.org/d3.hexbin.v0.min.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://jeromecukier.net/projects/murders/murders.html" data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+<div class="container">
+  <div class="row" id="r1">
+    <div class="tblock span"></div>
+    <div class="span">
+      <h1>Gun homicides in America 2010
+    </div>
+  </div>
+  <div class="row" id="r2">
+    <div class="tblock span reveal">
+      <h2>1. Deaths over time</h2>
+      <button class="btn" id="stop">Play&nbsp;<i class="icon-play"></i></button>
+      <!--<p id="date"></p>--><p></p>
+      <p id="victimTotal"></p>
+    </div>
+    <div class="span">
+      <div class="row" id="loadbar">
+        Loading data...
+        <div class="progress" style="width:300px">
+          <div class="bar" style="width: 0%;"></div>
+        </div>
+      </div>
+      <div class="row" id="chart"></div>
+    </div>
+  </div>
+  <div class="row reveal" id="r3">
+    <div class="tblock span"></div>
+    <div class="span" id="sliderdiv">
+      <div class="span" style="width:98px" id="date"></div>
+      <div class="span" style="width:705px"><input type="range" value="364" min="0" max="364" step="1" id="slider"></div>
+    </div>
+  </div>
+  <div class="row reveal" id="r4">
+    <div class="tblock span">
+      <h2>2. Explore homicides</h2>
+    </div>
+    <div class="span">
+      <div id="lower"></div>
+    </div>
+  </div>
+</div>
+
+<footer class="span12">
+<div class="row">
+<div class="span4 pull-right">
+  <p></p>
+Data source: FBI, <a href="SHR all.txt">SHR 2010</a></br>
+A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+
+</div>
+</footer>
+</div>
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+
+<script src="routine-murders.js">
+</script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

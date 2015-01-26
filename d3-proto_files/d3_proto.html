@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=utf-8">
+		<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.0.0"></script>
+		<script type="text/javascript" src="http://blog.oecdfactblog.org/wp-includes/js/protovis-r3.2.js"></script>
+		<style>
+			@import url("http://mbostock.github.com/d3/style.css?1.10.0");
+			@import url("http://mbostock.github.com/d3/syntax.css?1.10.0");
+		</style>
+		<style>
+		.cell {position:absolute; overflow:hidden; height:15;width:15;}
+		</style>
+	</head>
+	<body>
+		<div id="chart">
+		</div>
+
+		<script type="text/javascript">
+		data=d3.range(100).map(function(d) {return {'attr1':~~(Math.random()*10), 'attr2':~~(Math.random()*10), 'id':d};})
+		var mode=0;
+		glyph="*%$^=#!§|-".split("")
+		cols=["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"];
+		var vis=d3.select("#chart");
+		var cells=vis.selectAll("div").data(data).enter()
+			.append("div");
+		cells.attr("class","cell")
+			.style("top", function(d,i) {return 50+~~(i/10)*15})
+			.style("left",function(d,i) {return 50+(i%10)*15;})
+			.style("color", function(d) {return cols[d.attr1];})
+			.html(function(d) {return glyph[d.attr2];})
+			.on("mousedown", function() {
+				mode=(++mode)%3;
+
+				cells.transition()
+					.style("top", function() {return 250*Math.random();})
+					.style("left",function() {return 250*Math.random();})
+					.delay(0)
+					.duration(500)
+				cells.sort(function(a,b) {
+					if(mode==0){return a.id-b.id;};
+					if(mode==1){return a.attr1-b.attr1;};
+					if(mode==2){return a.attr2-b.attr2;};
+				}).transition()
+					.style("top", function(d,i) {return 50+~~(i/10)*15})
+					.style("left",function(d,i) {return 50+(i%10)*15;})
+					.delay(500)
+					.duration(500)
+			})
+		</script>
+	</body>
+</html>

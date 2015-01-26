@@ -1,0 +1,33 @@
+circumstance,lName,phrase,name,type,typeNb,circNb
+2,Rape, after a rape.,rape,crime,0,0
+3,Robbery, during a robbery.,robbery,crime,0,1
+5,Burglary, during a burglary.,burglary,crime,0,2
+6,Larceny, during a theft.,theft,crime,0,3
+7,Motor Vehicle Theft, and a car was stolen.,car theft,crime,0,4
+9,Arson, and there was a criminal fire.,fire,crime,0,5
+10,Prostitution and Commercialized Vice, connected with prostitution.,prostitution,crime,0,6
+17,Other Sex Offense, connected with a sex crime.,sex crime,crime,0,7
+32,Abortion, connected with an abortion.,abortion,crime,0,8
+18,Narcotic Drug Laws, connected with a drug crime.,drug crime,crime,0,9
+19,Gambling, related to gambling.,gambling,crime,0,10
+26,Other - not specified,. Another felony happened.,,crime,0,11
+42,Brawl Due to Influence of Alcohol,. A fight broke up because of alcohol.,alcohol,fight,1,12
+43,Brawl Due to Influence of Narcotics,. A fight broke up because of drugs.,drugs,fight,1,13
+44,Argument Over Money or Property,. There was an argument over money.,money,fight,1,14
+45,Other Arguments,. There was an argument.,other,fight,1,15
+80,Felon killed by a private citizen,. The victim was a criminal killed by a citizen.,by citizen,criminal shot,2,16
+81,Felon killed by police,. The victim was a criminal killed by a police officer.,by police,criminal shot,2,17
+40,Lover's Triangle,. There was a lover's triangle.,lover triangle,other,3,18
+41,Child Killed by Babysitter,. The child was killed by the babysitter.,babysitter,other,3,19
+50,Victim shot in hunting accident,It was a hunting accident,hunting,accident,3,20
+51,Gun-cleaning death other than self-inflicted,It happened while cleaning the gun,cleaning gun,accident,3,21
+52,Children playing with gun,The child was playing with the gun,child playing,accident,3,22
+53,Other negligent handling of gun which results in the death of another,It was an accident,gun,accident,3,23
+59,All other manslaughter by negligence except traffic deaths,It was an accident,other,accident,3,24
+46,Gangland Killings,. It was a gang killing.,gang,other,4,25
+47,Juvenile Gang Killings,. It was a gang killing.,gang,other,4,26
+48,Institutional Killings,. It was institutional killing.,institutional,other,4,27
+49,Sniper Attack,. It was a sniper attack.,sniper,other,4,28
+60,Other,. Another felony happened.,other,crime,4,29
+70,All suspected felony type,. Another felony happened.,suspected,crime,4,30
+99,All instances where facts provided do not permit determination of circumstances.,.,unknown,other,4,31

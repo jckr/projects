@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+  </head>
+  <body style="margin-left: 40px;">
+<h4>Data Binding</h4>
+The <tt>data</tt> operator binds data to DOM elements:<br/>
+&nbsp; <tt>d3.selectAll("div").data([1,2,3])</tt>
+<br/><br/>
+
+The input should be an array of data values.<br/><br/>
+The result is a triple of selections:<br/>
+
+- Update <small>(DOM elements mapped to data)</small><br/>
+- Enter <small>(Data without corresponding DOM elements)</small><br/>
+- Exit <small>(DOM elements now missing data)</small><br/>
+  </body>
+</html>

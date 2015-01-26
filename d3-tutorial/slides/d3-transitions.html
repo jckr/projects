@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+<style>
+.cmt { color: #aaa; }
+</style>
+  </head>
+  <body style="margin-left: 40px;">
+<h4>D3 Transitions</h4>
+Transitions interpolate values, typically for animation.
+<br/><br/>
+
+<tt>d3.selectAll(foo).transition() <br/>
+&nbsp; .duration(1000) <span class="cmt">// in milliseconds</span><br/>
+&nbsp; .ease("cubic-in-out") <span class="cmt">// controls pacing</span><br/>
+&nbsp; .delay(...) &nbsp;&nbsp;&nbsp;&nbsp;<span class="cmt">// can stagger elements</span><br/>
+&nbsp; .attr("x", function(d) { ... }) <br/>
+</tt>
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+svg {
+  font: 10px sans-serif;
+}
+path {
+  fill: steelblue;
+}
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+</style>
+<body>
+<script src="../d3.v2.js"></script>
+<script>
+
+// set up basic geometry for our charts
+var margin = {top: 10, right: 10, bottom: 100, left: 40},
+    margin2 = {top: 430, right: 10, bottom: 20, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom,
+    height2 = 500 - margin2.top - margin2.bottom;
+
+// parse date-time values
+var formatDate = d3.time.format("%b %Y");
+
+</script>

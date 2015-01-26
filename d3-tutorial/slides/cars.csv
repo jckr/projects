@@ -1,0 +1,407 @@
+name,cylinders,displacement (cc),power (hp),weight (lb),0-60 mph (s),economy (mpg),year
+AMC Ambassador Brougham,8,360,175,3821,11,13,73
+AMC Ambassador DPL,8,390,190,3850,8.5,15,70
+AMC Ambassador SST,8,304,150,3672,11.5,17,72
+AMC Concord DL 6,6,232,90,3265,18.2,20.2,79
+AMC Concord DL,6,258,120,3410,15.1,18.1,78
+AMC Concord DL,4,151,,3035,20.5,23,82
+AMC Concord,6,232,90,3210,17.2,19.4,78
+AMC Concord,4,151,90,3003,20.1,24.3,80
+AMC Gremlin,6,232,100,2789,15,18,73
+AMC Gremlin,6,232,100,2634,13,19,71
+AMC Gremlin,6,232,100,2914,16,20,75
+AMC Gremlin,6,199,90,2648,15,21,70
+AMC Hornet Sportabout (Wagon),6,258,110,2962,13.5,18,71
+AMC Hornet,6,199,97,2774,15.5,18,70
+AMC Hornet,6,232,100,2945,16,18,73
+AMC Hornet,6,232,100,2901,16,19,74
+AMC Hornet,6,232,90,3085,17.6,22.5,76
+AMC Matador (Wagon),8,304,150,4257,15.5,14,74
+AMC Matador (Wagon),8,304,150,3892,12.5,15,72
+AMC Matador,8,304,150,3672,11.5,14,73
+AMC Matador,6,258,110,3730,19,15,75
+AMC Matador,8,304,120,3962,13.9,15.5,76
+AMC Matador,6,258,110,3632,18,16,74
+AMC Matador,6,232,100,3288,15.5,18,71
+AMC Pacer D/L,6,258,95,3193,17.8,17.5,76
+AMC Pacer,6,232,90,3211,17,19,75
+AMC Rebel SST (Wagon),8,360,175,3850,11,,70
+AMC Rebel SST,8,304,150,3433,12,16,70
+AMC Spirit DL,4,121,80,2670,15,27.4,79
+Audi 100 LS,4,114,91,2582,14,20,73
+Audi 100 LS,4,115,95,2694,15,23,75
+Audi 100 LS,4,107,90,2430,14.5,24,70
+Audi 4000,4,97,78,2188,15.8,34.3,80
+Audi 5000,5,131,103,2830,15.9,20.3,78
+Audi 5000S (Diesel),5,121,67,2950,19.9,36.4,80
+Audi Fox,4,98,83,2219,16.5,29,74
+BMW 2002,4,121,113,2234,12.5,26,70
+BMW 320i,4,121,110,2600,12.8,21.5,77
+Buick Century 350,8,350,175,4100,13,13,73
+Buick Century Limited,6,181,110,2945,16.4,25,82
+Buick Century Luxus (Wagon),8,350,150,4699,14.5,13,74
+Buick Century Special,6,231,105,3380,15.8,20.6,78
+Buick Century,6,231,110,3907,21,17,75
+Buick Century,6,231,110,3415,15.8,22.4,81
+Buick Electra 225 Custom,8,455,225,4951,11,12,73
+Buick Estate Wagon (Wagon),8,455,225,3086,10,14,70
+Buick Estate Wagon (Wagon),8,350,155,4360,14.9,16.9,79
+Buick Lesabre Custom,8,350,155,4502,13.5,13,72
+Buick Opel Isuzu Deluxe,4,111,80,2155,14.8,30,77
+Buick Regal Sport Coupe (Turbo),6,231,165,3445,13.4,17.7,78
+Buick Skyhawk,6,231,110,3039,15,21,75
+Buick Skylark 320,8,350,165,3693,11.5,15,70
+Buick Skylark Limited,4,151,90,2670,16,28.4,79
+Buick Skylark,6,231,105,3425,16.9,20.5,77
+Buick Skylark,4,151,84,2635,16.4,26.6,81
+Cadillac Eldorado,8,350,125,3900,17.4,23,79
+Cadillac Seville,8,350,180,4380,12.1,16.5,76
+Chevroelt Chevelle Malibu,6,250,105,3897,18.5,16,75
+Chevrolet Bel Air,8,350,145,4440,14,15,75
+Chevrolet Camaro,4,151,90,2950,17.3,27,82
+Chevrolet Caprice Classic,8,400,150,4464,12,13,73
+Chevrolet Caprice Classic,8,305,130,3840,15.4,17,79
+Chevrolet Caprice Classic,8,305,145,3880,12.5,17.5,77
+Chevrolet Cavalier 2-Door,4,112,88,2395,18,34,82
+Chevrolet Cavalier Wagon,4,112,88,2640,18.6,27,82
+Chevrolet Cavalier,4,112,88,2605,19.6,28,82
+Chevrolet Chevelle Concours (Wagon),8,350,165,4142,11.5,,70
+Chevrolet Chevelle Concours (Wagon),8,307,130,4098,14,13,72
+Chevrolet Chevelle Malibu Classic,6,250,100,3781,17,16,74
+Chevrolet Chevelle Malibu Classic,8,305,140,4215,13,17.5,76
+Chevrolet Chevelle Malibu,6,250,100,3329,15.5,17,71
+Chevrolet Chevelle Malibu,8,307,130,3504,12,18,70
+Chevrolet Chevette,4,85,52,2035,22.2,29,76
+Chevrolet Chevette,4,98,68,2155,16.5,30,78
+Chevrolet Chevette,4,98,63,2051,17,30.5,77
+Chevrolet Chevette,4,98,70,2120,15.5,32.1,80
+Chevrolet Citation,6,173,110,2725,12.6,23.5,81
+Chevrolet Citation,4,151,90,2678,16.5,28,80
+Chevrolet Citation,6,173,115,2595,11.3,28.8,79
+Chevrolet Concours,6,250,110,3520,16.4,17.5,77
+Chevrolet Impala,8,400,150,4997,14,11,73
+Chevrolet Impala,8,350,165,4274,12,13,72
+Chevrolet Impala,8,350,165,4209,12,14,71
+Chevrolet Impala,8,454,220,4354,9,14,70
+Chevrolet Malibu Classic (Wagon),8,267,125,3605,15,19.2,79
+Chevrolet Malibu,8,350,145,3988,13,13,73
+Chevrolet Malibu,6,200,95,3155,18.2,20.5,78
+Chevrolet Monte Carlo Landau,8,350,170,4165,11.4,15.5,77
+Chevrolet Monte Carlo Landau,8,305,145,3425,13.2,19.2,78
+Chevrolet Monte Carlo S,8,350,145,4082,13,15,73
+Chevrolet Monte Carlo,8,400,150,3761,9.5,15,70
+Chevrolet Monza 2+2,8,262,110,3221,13.5,20,75
+Chevrolet Nova Custom,6,250,100,3278,18,16,73
+Chevrolet Nova,6,250,100,3336,17,15,74
+Chevrolet Nova,6,250,105,3459,16,18,75
+Chevrolet Nova,6,250,105,3353,14.5,22,76
+Chevrolet Vega (Wagon),4,140,72,2408,19,22,71
+Chevrolet Vega 2300,4,140,90,2264,15.5,28,71
+Chevrolet Vega,4,140,90,2408,19.5,20,72
+Chevrolet Vega,4,140,72,2401,19.5,21,73
+Chevrolet Vega,4,140,75,2542,17,25,74
+Chevrolet Woody,4,98,60,2164,22.1,24.5,76
+Chevy C10,8,350,145,4055,12,13,76
+Chevy C20,8,307,200,4376,15,10,70
+Chevy S-10,4,119,82,2720,19.4,31,82
+Chrysler Cordoba,8,400,190,4325,12.2,15.5,77
+Chrysler Lebaron Medallion,4,156,92,2585,14.5,26,82
+Chrysler Lebaron Salon,6,225,85,3465,16.6,17.6,81
+Chrysler Lebaron Town & Country (Wagon),8,360,150,3940,13,18.5,79
+Chrysler New Yorker Brougham,8,440,215,4735,11,13,73
+Chrysler Newport Royal,8,400,190,4422,12.5,13,72
+Citroen DS-21 Pallas,4,133,115,3090,17.5,,70
+Datsun 1200,4,72,69,1613,18,35,71
+Datsun 200SX,4,119,97,2405,14.9,23.9,78
+Datsun 200SX,4,119,100,2615,14.8,32.9,81
+Datsun 210,4,85,65,2020,19.2,31.8,79
+Datsun 210,4,85,65,1975,19.4,37,81
+Datsun 210,4,85,65,2110,19.2,40.8,80
+Datsun 280ZX,6,168,132,2910,11.4,32.7,80
+Datsun 310 GX,4,91,67,1995,16.2,38,82
+Datsun 310,4,86,65,2019,16.4,37.2,80
+Datsun 510 (Wagon),4,97,92,2288,17,28,72
+Datsun 510 Hatchback,4,119,92,2434,15,37,80
+Datsun 510,4,119,97,2300,14.7,27.2,78
+Datsun 610,4,108,94,2379,16.5,22,73
+Datsun 710,4,119,97,2545,17,24,75
+Datsun 710,4,83,61,2003,19,32,74
+Datsun 810 Maxima,6,146,120,2930,13.8,24.2,81
+Datsun 810,6,146,97,2815,14.5,22,77
+Datsun B-210,4,85,70,1990,17,32,76
+Datsun B210 GX,4,85,70,2070,18.6,39.4,78
+Datsun B210,4,79,67,1950,19,31,74
+Datsun F-10 Hatchback,4,85,70,1945,16.8,33.5,77
+Datsun PL510,4,97,88,2130,14.5,27,70
+Datsun PL510,4,97,88,2130,14.5,27,71
+Dodge Aries SE,4,135,84,2525,16,29,82
+Dodge Aries Wagon (Wagon),4,156,92,2620,14.4,25.8,81
+Dodge Aspen 6,6,225,110,3360,16.6,20.6,79
+Dodge Aspen SE,6,225,100,3651,17.7,20,76
+Dodge Aspen,6,225,110,3620,18.7,18.6,78
+Dodge Aspen,6,225,90,3381,18.7,19.1,80
+Dodge Challenger SE,8,383,170,3563,10,15,70
+Dodge Charger 2.2,4,135,84,2370,13,36,82
+Dodge Colt (Wagon),4,98,80,2164,15,28,72
+Dodge Colt Hardtop,4,97.5,80,2126,17,25,72
+Dodge Colt Hatchback Custom,4,98,80,1915,14.4,35.7,79
+Dodge Colt M/M,4,98,83,2075,15.9,33.5,77
+Dodge Colt,4,98,79,2255,17.7,26,76
+Dodge Colt,4,156,105,2800,14.4,27.9,80
+Dodge Colt,4,90,75,2125,14.5,28,74
+Dodge Coronet Brougham,8,318,150,4190,13,16,76
+Dodge Coronet Custom (Wagon),8,318,150,4457,13.5,14,74
+Dodge Coronet Custom,8,318,150,3777,12.5,15,73
+Dodge D100,8,318,150,3755,14,13,76
+Dodge D200,8,318,210,4382,13.5,11,70
+Dodge Dart Custom,8,318,150,3399,11,15,73
+Dodge Diplomat,8,318,140,3735,13.2,19.4,78
+Dodge Magnum XE,8,318,140,4080,13.7,17.5,78
+Dodge Monaco (Wagon),8,383,180,4955,11.5,12,71
+Dodge Monaco Brougham,8,318,145,4140,13.7,15.5,77
+Dodge Omni,4,105,75,2230,14.5,30.9,78
+Dodge Rampage,4,135,84,2295,11.6,32,82
+Dodge St. Regis,8,318,135,3830,15.2,18.2,79
+Fiat 124 Sport Coupe,4,98,90,2265,15.5,26,73
+Fiat 124 TC,4,116,75,2246,14,26,74
+Fiat 124B,4,88,76,2065,14.5,30,71
+Fiat 128,4,90,75,2108,15.5,24,74
+Fiat 128,4,68,49,1867,19.5,29,73
+Fiat 131,4,107,86,2464,15.5,28,76
+Fiat Strada Custom,4,91,69,2130,14.7,37.3,79
+Fiat X1.9,4,79,67,2000,16,31,74
+Ford Capri II,4,140,92,2572,14.9,25,76
+Ford Country Squire (Wagon),8,400,170,4746,12,13,71
+Ford Country Squire (Wagon),8,351,142,4054,14.3,15.5,79
+Ford Country,8,400,167,4906,12.5,12,73
+Ford Escort 2H,4,98,65,2380,20.7,29.9,81
+Ford Escort 4W,4,98,65,2045,16.2,34.4,81
+Ford F108,8,302,130,3870,15,13,76
+Ford F250,8,360,215,4615,14,10,70
+Ford Fairmont (Auto),6,200,85,2965,15.8,20.2,78
+Ford Fairmont (Man),4,140,88,2720,15.4,25.1,78
+Ford Fairmont 4,4,140,88,2890,17.3,22.3,79
+Ford Fairmont Futura,4,140,92,2865,16.4,24,82
+Ford Fairmont,4,140,88,2870,18.1,26.4,80
+Ford Fiesta,4,98,66,1800,14.4,36.1,78
+Ford Futura,8,302,139,3205,11.2,18.1,78
+Ford Galaxie 500,8,351,153,4129,13,14,72
+Ford Galaxie 500,8,351,153,4154,13.5,14,71
+Ford Galaxie 500,8,429,198,4341,10,15,70
+Ford Gran Torino (Wagon),8,302,140,4294,16,13,72
+Ford Gran Torino (Wagon),8,302,140,4638,16,14,74
+Ford Gran Torino,8,302,137,4042,14.5,14,73
+Ford Gran Torino,8,351,152,4215,12.8,14.5,76
+Ford Gran Torino,8,302,140,4141,14,16,74
+Ford Granada Ghia,6,250,78,3574,21,18,76
+Ford Granada GL,6,200,88,3060,17.1,20.2,81
+Ford Granada L,6,232,112,2835,14.7,22,82
+Ford Granada,6,250,98,3525,19,18.5,77
+Ford LTD Landau,8,302,129,3725,13.4,17.6,79
+Ford LTD,8,351,158,4363,13,13,73
+Ford LTD,8,351,148,4657,13.5,14,75
+Ford Maverick,6,250,72,3158,19.5,15,75
+Ford Maverick,6,250,88,3021,16.5,18,73
+Ford Maverick,6,200,,2875,17,21,74
+Ford Maverick,6,200,85,2587,16,21,70
+Ford Maverick,6,200,81,3012,17.6,24,76
+Ford Mustang Boss 302,8,302,140,3353,8,,70
+Ford Mustang Cobra,4,140,,2905,14.3,23.6,80
+Ford Mustang GL,4,140,86,2790,15.6,27,82
+Ford Mustang II 2+2,4,140,89,2755,15.8,25.5,77
+Ford Mustang II,8,302,129,3169,12,13,75
+Ford Mustang,6,250,88,3139,14.5,18,71
+Ford Pinto (Wagon),4,122,86,2395,16,22,72
+Ford Pinto Runabout,4,122,86,2226,16.5,21,72
+Ford Pinto,6,171,97,2984,14.5,18,75
+Ford Pinto,4,122,85,2310,18.5,19,73
+Ford Pinto,4,140,83,2639,17,23,75
+Ford Pinto,4,98,,2046,19,25,71
+Ford Pinto,4,122,80,2451,16.5,26,74
+Ford Pinto,4,140,72,2565,13.6,26.5,76
+Ford Ranger,4,120,79,2625,18.6,28,82
+Ford Thunderbird,8,351,149,4335,14.5,16,77
+Ford Torino (Wagon),8,351,153,4034,11,,70
+Ford Torino 500,6,250,88,3302,15.5,19,71
+Ford Torino,8,302,140,3449,10.5,17,70
+Hi 1200D,8,304,193,4732,18.5,9,70
+Honda Accord CVCC,4,98,68,2045,18.5,31.5,77
+Honda Accord LX,4,98,68,2135,16.6,29.5,78
+Honda Accord,4,107,72,2290,17,32.4,80
+Honda Accord,4,107,75,2205,14.5,36,82
+Honda Civic (Auto),4,91,67,1965,15.7,32,82
+Honda Civic 1300,4,81,60,1760,16.1,35.1,81
+Honda Civic 1500 GL,4,91,67,1850,13.8,44.6,80
+Honda Civic CVCC,4,91,53,1795,17.5,33,75
+Honda Civic CVCC,4,91,60,1800,16.4,36.1,78
+Honda Civic,4,120,97,2489,15,24,74
+Honda Civic,4,91,53,1795,17.4,33,76
+Honda Civic,4,91,67,1965,15,38,82
+Honda Prelude,4,107,75,2210,14.4,33.7,81
+Maxda GLC Deluxe,4,86,65,1975,15.2,34.1,79
+Maxda RX-3,3,70,90,2124,13.5,18,73
+Mazda 626,4,120,75,2542,17.5,31.3,80
+Mazda 626,4,120,74,2635,18.3,31.6,81
+Mazda GLC 4,4,91,68,1985,16,34.1,81
+Mazda GLC Custom L,4,91,68,2025,18.2,37,82
+Mazda GLC Custom,4,91,68,1970,17.6,31,82
+Mazda GLC Deluxe,4,78,52,1985,19.4,32.8,78
+Mazda GLC,4,86,65,2110,17.9,46.6,80
+Mazda RX-2 Coupe,3,70,97,2330,13.5,19,72
+Mazda RX-4,3,80,110,2720,13.5,21.5,77
+Mazda RX-7 Gs,3,70,100,2420,12.5,23.7,80
+Mercedes-Benz 240D,4,146,67,3250,21.8,30,80
+Mercedes-Benz 280S,6,168,120,3820,16.7,16.5,76
+Mercedes-Benz 300D,5,183,77,3530,20.1,25.4,79
+Mercury Capri 2000,4,122,86,2220,14,23,71
+Mercury Capri V6,6,155,107,2472,14,21,73
+Mercury Cougar Brougham,8,302,130,4295,14.9,15,77
+Mercury Grand Marquis,8,351,138,3955,13.2,16.5,79
+Mercury Lynx L,4,98,70,2125,17.3,36,82
+Mercury Marquis Brougham,8,429,198,4952,11.5,12,73
+Mercury Marquis,8,429,208,4633,11,11,72
+Mercury Monarch Ghia,8,302,139,3570,12.8,20.2,78
+Mercury Monarch,6,250,72,3432,21,15,75
+Mercury Zephyr 6,6,200,85,2990,18.2,19.8,79
+Mercury Zephyr,6,200,85,3070,16.7,20.8,78
+Nissan Stanza XE,4,120,88,2160,14.5,36,82
+Oldsmobile Cutlass Ciera (Diesel),6,262,85,3015,17,38,82
+Oldsmobile Cutlass LS,8,350,105,3725,19,26.6,81
+Oldsmobile Cutlass Salon Brougham,8,260,110,3365,15.5,19.9,78
+Oldsmobile Cutlass Salon Brougham,8,260,90,3420,22.2,23.9,79
+Oldsmobile Cutlass Supreme,8,260,110,4060,19,17,77
+Oldsmobile Delta 88 Royale,8,350,160,4456,13.5,12,72
+Oldsmobile Omega Brougham,6,173,115,2700,12.9,26.8,79
+Oldsmobile Omega,8,350,180,3664,11,11,73
+Oldsmobile Starfire SX,4,151,85,2855,17.6,23.8,78
+Oldsmobile Vista Cruiser,8,350,180,4499,12.5,12,73
+Opel 1900,4,116,81,2220,16.9,25,76
+Opel 1900,4,116,90,2123,14,28,71
+Opel Manta,4,116,75,2158,15.5,24,73
+Opel Manta,4,97,78,2300,14.5,26,74
+Peugeot 304,4,79,70,2074,19.5,30,71
+Peugeot 504 (Wagon),4,120,87,2979,19.5,21,72
+Peugeot 504,4,120,88,3270,21.9,19,76
+Peugeot 504,4,120,88,2957,17,23,75
+Peugeot 504,4,110,87,2672,17.5,25,70
+Peugeot 504,4,141,71,3190,24.8,27.2,79
+Peugeot 505S Turbo Diesel,4,141,80,3230,20.4,28.1,81
+Peugeot 604SL,6,163,133,3410,15.8,16.2,78
+Plymouth Arrow GS,4,122,96,2300,15.5,25.5,77
+Plymouth Barracuda 340,8,340,160,3609,8,14,70
+Plymouth Champ,4,86,64,1875,16.4,39,81
+Plymouth Cricket,4,91,70,1955,20.5,26,71
+Plymouth Custom Suburb,8,360,170,4654,13,13,73
+Plymouth Duster,6,198,95,3102,16.5,20,74
+Plymouth Duster,6,198,95,2833,15.5,22,70
+Plymouth Duster,6,198,95,2904,16,23,73
+Plymouth Fury Gran Sedan,8,318,150,4237,14.5,14,73
+Plymouth Fury III,8,318,150,4096,13,14,71
+Plymouth Fury III,8,440,215,4312,8.5,14,70
+Plymouth Fury III,8,318,150,4135,13.5,15,72
+Plymouth Fury,6,225,95,3785,19,18,75
+Plymouth Grand Fury,8,318,150,4498,14.5,16,75
+Plymouth Horizon 4,4,105,63,2215,14.9,34.7,81
+Plymouth Horizon Miser,4,105,63,2125,14.7,38,82
+Plymouth Horizon TC3,4,105,70,2150,14.9,34.5,79
+Plymouth Horizon,4,105,70,2200,13.2,34.2,79
+Plymouth Reliant,4,135,84,2490,15.7,27.2,81
+Plymouth Reliant,4,135,84,2385,12.9,30,81
+Plymouth Sapporo,4,156,105,2745,16.7,23.2,78
+Plymouth Satellite (Wagon),8,383,175,4166,10.5,,70
+Plymouth Satellite Custom (Wagon),8,318,150,4077,14,14,72
+Plymouth Satellite Custom,6,225,105,3439,15.5,16,71
+Plymouth Satellite Sebring,6,225,105,3613,16.5,18,74
+Plymouth Satellite,8,318,150,3436,11,18,70
+Plymouth Valiant Custom,6,225,95,3264,16,19,75
+Plymouth Valiant,6,225,105,3121,16.5,18,73
+Plymouth Valiant,6,225,100,3233,15.4,22,76
+Plymouth Volare Custom,6,225,100,3630,17.7,19,77
+Plymouth Volare Premier V8,8,318,150,3940,13.2,13,76
+Plymouth Volare,6,225,100,3430,17.2,20.5,78
+Pontiac Astro,4,140,78,2592,18.5,23,75
+Pontiac Catalina Brougham,8,400,175,4464,11.5,14,71
+Pontiac Catalina,8,400,175,4385,12,14,72
+Pontiac Catalina,8,455,225,4425,10,14,70
+Pontiac Catalina,8,400,170,4668,11.5,16,75
+Pontiac Firebird,6,250,100,3282,15,19,71
+Pontiac Grand Prix Lj,8,400,180,4220,11.1,16,77
+Pontiac Grand Prix,8,400,230,4278,9.5,16,73
+Pontiac J2000 Se Hatchback,4,112,85,2575,16.2,31,82
+Pontiac Lemans V6,6,231,115,3245,15.4,21.5,79
+Pontiac Phoenix LJ,6,231,105,3535,19.2,19.2,78
+Pontiac Phoenix,4,151,90,2735,18,27,82
+Pontiac Phoenix,4,151,90,2556,13.2,33.5,79
+Pontiac Safari (Wagon),8,400,175,5140,12,13,71
+Pontiac Sunbird Coupe,4,151,88,2740,16,24.5,77
+Pontiac Ventura Sj,6,250,110,3645,16.2,18.5,76
+Renault 12 (Wagon),4,96,69,2189,18,26,72
+Renault 12TL,4,101,83,2202,15.3,27,76
+Renault 18I,4,100,,2320,15.8,34.5,81
+Renault 5 Gtl,4,79,58,1825,18.6,36,77
+Renault Lecar Deluxe,4,85,,1835,17.3,40.9,80
+Saab 900S,4,121,110,2800,15.4,,81
+Saab 99E,4,104,95,2375,17.5,25,70
+Saab 99GLE,4,121,115,2795,15.7,21.6,78
+Saab 99LE,4,121,110,2660,14,24,73
+Saab 99LE,4,121,115,2671,13.5,25,75
+Subaru DL,4,97,67,1985,16.4,30,77
+Subaru DL,4,97,67,2145,18,33.8,80
+Subaru,4,108,93,2391,15.5,26,74
+Subaru,4,97,67,2065,17.8,32.3,81
+Toyota Carina,4,97,88,2279,19,20,73
+Toyota Celica GT Liftback,4,134,95,2515,14.8,21.1,78
+Toyota Celica GT,4,144,96,2665,13.9,32,82
+Toyota Corolla 1200,4,71,65,1773,19,31,71
+Toyota Corolla 1200,4,71,65,1836,21,32,74
+Toyota Corolla 1600 (Wagon),4,97,88,2100,16.5,27,72
+Toyota Corolla Liftback,4,97,75,2265,18.2,26,77
+Toyota Corolla Tercel,4,89,60,1968,18.8,38.1,80
+Toyota Corolla,4,97,75,2155,16.4,28,76
+Toyota Corolla,4,97,75,2171,16,29,75
+Toyota Corolla,4,108,75,2265,15.2,32.2,80
+Toyota Corolla,4,108,75,2350,16.8,32.4,81
+Toyota Corolla,4,108,70,2245,16.9,34,82
+Toyota Corona Hardtop,4,113,95,2278,15.5,24,72
+Toyota Corona Liftback,4,134,90,2711,15.5,29.8,80
+Toyota Corona Mark II,4,113,95,2372,15,24,70
+Toyota Corona,4,134,96,2702,13.5,24,75
+Toyota Corona,4,113,95,2228,14,25,71
+Toyota Corona,4,134,95,2560,14.2,27.5,78
+Toyota Corona,4,76,52,1649,16.5,31,74
+Toyota Cressida,6,168,116,2900,12.6,25.4,81
+Toyota Mark II,6,156,108,2930,15.5,19,76
+Toyota Mark II,6,156,122,2807,13.5,20,73
+Toyota Starlet,4,79,58,1755,16.9,39.1,81
+Toyota Tercel,4,89,62,2050,17.3,37.7,81
+Toyouta Corona Mark II (Wagon),4,120,97,2506,14.5,23,72
+Triumph TR7 Coupe,4,122,88,2500,15.1,35,80
+Vokswagen Rabbit,4,89,62,1845,15.3,29.8,80
+Volkswagen 1131 Deluxe Sedan,4,97,46,1835,20.5,26,70
+Volkswagen 411 (Wagon),4,121,76,2511,18,22,72
+Volkswagen Dasher (Diesel),4,90,48,2335,23.7,43.4,80
+Volkswagen Dasher,4,90,71,2223,16.5,25,75
+Volkswagen Dasher,4,79,67,1963,15.5,26,74
+Volkswagen Dasher,4,97,78,2190,14.1,30.5,77
+Volkswagen Jetta,4,105,74,2190,14.2,33,81
+Volkswagen Model 111,4,97,60,1834,19,27,71
+Volkswagen Pickup,4,97,52,2130,24.6,44,82
+Volkswagen Rabbit C (Diesel),4,90,48,2085,21.7,44.3,80
+Volkswagen Rabbit Custom Diesel,4,90,48,1985,21.5,43.1,78
+Volkswagen Rabbit Custom,4,97,78,1940,14.5,29,77
+Volkswagen Rabbit Custom,4,89,71,1925,14,31.9,79
+Volkswagen Rabbit L,4,105,74,1980,15.3,36,82
+Volkswagen Rabbit,4,90,70,1937,14,29,75
+Volkswagen Rabbit,4,90,70,1937,14.2,29,76
+Volkswagen Rabbit,4,97,71,1825,12.2,29.5,76
+Volkswagen Rabbit,4,98,76,2144,14.7,41.5,80
+Volkswagen Scirocco,4,89,71,1990,14.9,31.5,78
+Volkswagen Super Beetle 117,4,97,48,1978,20,,71
+Volkswagen Super Beetle,4,97,46,1950,21,26,73
+Volkswagen Type 3,4,97,54,2254,23.5,23,72
+Volvo 144EA,4,121,112,2868,15.5,19,73
+Volvo 145E (Wagon),4,121,112,2933,14.5,18,72
+Volvo 244DL,4,121,98,2945,14.5,22,75
+Volvo 245,4,130,102,3150,15.7,20,76
+Volvo 264GL,6,163,125,3140,13.6,17,78
+Volvo Diesel,6,145,76,3160,19.6,30.7,81

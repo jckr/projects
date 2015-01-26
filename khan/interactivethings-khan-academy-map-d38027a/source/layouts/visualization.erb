@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- ——————————————————————————————————————————————————————————————————— META -->
+  <meta charset="UTF-8" />
+  <title><%= "#{ data.page.title if data.page.title }" %></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- ——————————————————————————————————————————————————————————————————— CSS -->
+  <%= stylesheet_vendor_tag "bootstrap/css/bootstrap.min" %>
+  <%= stylesheet_vendor_tag "bootstrap/css/bootstrap-responsive.min" %>
+  <%= stylesheet_link_tag 'style' %>
+  <!-- ——————————————————————————————————————————————————————————————————— JS -->
+</head>
+<body class="<%= data.page.slug %>">
+  <%= yield %>
+  <!-- ——————————————————————————————————————————————————————————————————— JS -->
+  <%= javascript_vendor_tag 'jquery/jquery-1.7.2.min' %>
+  <%= javascript_vendor_tag 'd3/d3.min' %>
+  <%= javascript_vendor_tag 'd3/d3.layout.min' %>
+  <%= javascript_vendor_tag 'd3/d3.time.min' %>
+  <%= javascript_include_tag data.page.script%>
+</body>
+</html>

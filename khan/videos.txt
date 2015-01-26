@@ -1,0 +1,3200 @@
+Intro to Cryptography	Kf9KjCKmDcU
+The Fundamental Theorem of Arithmetic	8CluknrLeys
+Probability Space	1dPMsJ7I6BY
+Frequency Stability	vVXbgbMp0oY
+Caesar Cipher	sMOZf4GN3oc
+Polyalphabetic Cipher	BgFJD7oCmDE
+One-time pad	FlIG3TvQCBQ
+
+Subtracting fractions (ex 1)	zGk6exFyQl0
+Subtracting fractions with common denominators (ex 1)	qpCoiTcRxAE
+Converting mixed numbers and improper fractions (ex 2)	NO8r40tJQ1o
+Converting mixed numbers and improper fractions (ex 1)	n3cKK0xBK64
+Multiplying Fractions Word Problems (ex 1)	jZUgNoj-oHY
+Adding fractions (ex 1)	TuId1spuyoc
+Fraction word problems 1 (ex 4)	OOiFJ2FxtDA
+Fraction word problems 1 (ex 3)	VwzPJY5Zv7s
+Fraction word problems 1 (ex 2)	pxznZKskjyE
+Fraction word problems 1 (ex 1)	apCS_vP-ccg
+Multiplying mixed numbers 1 (ex 1)	gIIOKMSKZ9s
+Adding subtracting mixed numbers 1 (ex 2)	_btQus9HV_I
+Adding subtracting mixed numbers 1 (ex 1)	8Eb5MWwcMMY
+Adding subtracting mixed numbers 0.5 (ex 2)	q19UnHEofOA
+Adding subtracting mixed numbers 0.5 (ex 1)	EGy1W24EPEI
+Fractions on the number line 1 (ex 2)	Tp6CNr9X74A
+Fractions on the number line 1 (ex 1)	W6cabLzQyeU
+Fractions on the number line 2 (ex 1)	mhE652KeyAA
+Fractions on the number line 3 (ex 2)	xWfWfekidjs
+Fractions on the number line 3 (ex 1)	nyf6mEKit2c
+Subtracting fractions (ex 1)	zGk6exFyQl0
+Subtracting fractions with common denominators (ex 1)	qpCoiTcRxAE
+Converting mixed numbers and improper fractions (ex 2)	NO8r40tJQ1o
+Converting mixed numbers and improper fractions (ex 1)	n3cKK0xBK64
+Multiplying Fractions Word Problems (ex 1)	jZUgNoj-oHY
+Adding fractions (ex 1)	TuId1spuyoc
+Fraction word problems 1 (ex 4)	OOiFJ2FxtDA
+Fraction word problems 1 (ex 3)	VwzPJY5Zv7s
+Fraction word problems 1 (ex 2)	pxznZKskjyE
+Fraction word problems 1 (ex 1)	apCS_vP-ccg
+Multiplying mixed numbers 1 (ex 1)	gIIOKMSKZ9s
+Adding subtracting mixed numbers 1 (ex 2)	_btQus9HV_I
+Adding subtracting mixed numbers 1 (ex 1)	8Eb5MWwcMMY
+Adding subtracting mixed numbers 0.5 (ex 2)	q19UnHEofOA
+Adding subtracting mixed numbers 0.5 (ex 1)	EGy1W24EPEI
+
+Production Possibilities Frontier	_7VHfuWV-Qg
+Opportunity Cost	pkEiHZAtoro
+Increasing Opportunity Cost	00fgAG6VrRQ
+Allocative Efficiency and Marginal Benefit	MT4akJsAmb0
+Economic Growth through Investment	a9aUMpGs6c8
+Comparative Advantage Specialization and Gains from ...	xx9xNJlPOJo
+Comparative Advantage and Absolute Advantage	xN3UV5FsBkU
+Law of Demand	ShzPtU7IOXs
+Price of Related Products and Demand	-oClpRv7msg
+Changes in Income, Population, or Preferences	do1HDIdfQkU
+Normal and Inferior Goods	wYuAwm-5-Bk
+Inferior Goods Clarification	TAhRoJB34nw
+Law of Supply	3xCzhdVtdMI
+Factors Affecting Supply	0isM0GF-rMI
+Market Equilibrium	PEMkfgrifDw
+Changes in Market Equilibrium	NgPqyM3I_8o
+Price Elasticity of Demand	slP8XZ6Nq40
+More on Elasticity of Demand	YOT8ryWzwbY
+Perfect Inelasticity and Perfect Elasticity of Demand	6udRtn5jSWk
+Constant Unit Elasticity	m7qXvQvWlY4
+Total Revenue and Elasticity	Udltkvm9HLc
+More on Total Revenue and Elasticity	KgrLUQYgIJE
+Cross Elasticity of Demand	Ngv0Be9NxAw
+Elasticity of Supply	AAWsuFXojgo
+Elasticity and Strange Percent Changes	fUxSB3yYIbs
+Demand Curve as Marginal Benefit Curve	KrkbbRxdDZ8
+Consumer Surplus Introduction	_6kwhF6hoqQ
+Total Consumer Surplus as Area	RBUBIRtn0xQ
+Producer Surplus	-V-Y5klejSg
+Rent Control and Deadweight Loss	ZrNKHCCVfB8
+Minimum Wage and Price Floors	j0c2vmFGbtk
+Taxation and Dead Weight Loss	NuLlNAdrom4
+Percentage Tax on Hamburgers	xwOTlMaerEQ
+Taxes and Perfectly Inelastic Demand	lsn16U5DWD4
+Taxes and Perfectly Elastic Demand	z1yJPpGC3-o
+Marginal Utility	Kf9KhwryQNE
+Equalizing Marginal Utility per Dollar Spent	KbW6OiuRa1Y
+Deriving Demand Curve from Tweaking Marginal Utility...	4-_-wQc3EGE
+Budget Line	Uq5Wzs96tiw
+Optimal Point on Budget Line	nhSSu0Nzs30
+Types of Indifference Curves	kJ43GdU5Uzc
+Economic Profit vs Accounting Profit	06j_zPdPWOY
+Depreciation and Opportunity Cost of Capital	ckBKDrKVIMU
+Fixed, Variable, and Marginal Cost.	bBQVaRnHqLs
+Visualizing Average Costs and Marginal Costs as Slope	k1iHDu9GrJE
+Marginal Cost and Average Total Cost	7t8gdc3YogM
+Marginal Revenue and Marginal Cost	xGkE0oHyNhk
+Marginal Revenue Below Average Total Cost	ni0TL4pXG5w
+Long Term Supply Curve and Economic Profit	CWiHA5XtqgU
+Perfect Competition	_NznT4Cn8As
+Monopoly Basics	77CApfQlTuE
+Monopolist Optimizing Price (part 1)- Total Revenue.	cczABrLd_uA
+Monopolist Optimizing Price (part 2)- Marginal Revenue	s1UQQELPyrc
+Monopolist Optimizing Price (part 3)- Dead Weight Lo...	daxL1ZLrUzg
+Optional Calculus Proof to Show that MR has Twice Sl...	atI4QH2acuw
+Review of Revenue and Cost Graphs for a Monopoly	jJip-WyQtpk
+Oligopolies and Monopolisitc Competition	PzDthFTzEa0
+Monopolistic Competition and Economic Profit	RUVsEovktGU
+Oligopolies, Duopolies, Collusion, and Cartels	N0L00FZnhtg
+Prisoners&#39; Dilemma and Nash Equilibrium	UkXI-zPcDIM
+More on Nash Equilibrium	ewu_7Dmj_18
+Why Parties to Cartels Cheat	S6TvRDwgQag
+Game Theory of Cheating Firms	XTMbRDRaviM
+Negative Externalities	nBw6KvU51BE
+Taxes for Factoring in Negative Externalities	UYShebe44Xs
+Positive Externalities	TSTLLFJbaA4
+Tragedy of the Commons	0b2Tl0x-niw
+First Degree Price Discrimination	z0wg9ZPyL38
+A Firm&#39;s Marginal Product Revenue Curve	cwClnv9Y1Y0
+How Many People to Hire Given the MPR curve	p8PSIpMkEvA
+Adding Demand Curves	gHs3zuRek7o
+Circular Flow of Income and Expenditures	Hfz1bwK5C4o
+Parsing Gross Domestic Product	zh8XASZxo1Q
+More on Final and Intermediate GDP Contributions	C1pHvEAKmLA
+Investment and Consumption	N9VIsauE0RA
+Income and Expenditure Views of GDP	Z9b8nnvpim0
+Components of GDP	Rgr1vRjxzFg
+Examples of Accounting for GDP	BMNj7-Okclk
+Real GDP and Nominal GDP	lBDT2w5Wl84
+GDP Deflator	L-0LuSw2bTM
+Example Calculating Real GDP with a Deflator	v5YT8GlSxoU
+Introduction to Inflation	AaR1mPrdbTc
+Actual CPI-U Basket of Goods	-JTw7gNwT6Y
+Phillips Curve	v7ZWTZ9NgU4
+Interest as Rent for Money	Lru0vKmkzR8
+Money Supply and Demand Impacting Interest Rates	vItRHYu-A88
+The Business Cycle	TXrOpjG4dUs
+Aggregate Demand	oLhohwfwf_U
+Shifts in Aggregate Demand	scN-1B6plos
+Long-Run Aggregate Supply	8W0iZk8Yxhs
+Short Run Aggregate Supply	3nbalsyibKU
+Demand-Pull Inflation under Johnson	HdqbCvqTb20
+Real GDP driving Price	XsD7mqFDJs0
+Cost Push Inflation	3A-nAw2tY_4
+Monetary and Fiscal Policy	ntxMOKXHlfo
+Tax Lever of Fiscal Policy	BRXBCxKjiK8
+Breakdown of Gas Prices	1YYy0DEOpoU
+Short-Run Oil Prices	ZxtlcZ-d90o
+Keynesian Economics	hPkh8kOldU4
+Risks of Keynesian Thinking	EVSkf7l7EuI
+Overview of Fractional Reserve Banking	3mUi9IZb4T4
+Weaknesses of Fractional Reserve Lending	1HYSMxu-Dns
+Full Reserve Banking	RGMcswR8DnY
+Money Supply- M0 M1 and M2	_LPh72gx6GE
+Simple Fractional Reserve Accounting (part 2)	PASajlCGBTw
+MPC and Multiplier	O_Oozju3RRI
+Mathy Version of MPC and Multiplier (optional)	czfJKPN-HEo
+Consumption Function Basics	o5iot_ZsoV0
+Generalized Linear Consumption Function	N44RZtJ4jj4
+Consumption Function with Income Dependent Taxes	wHPGFPIcILM
+Keynesian Cross	sTw0e-hwYAQ
+Details on Shifting Aggregate Planned Expenditures	xF_Z4QK0tsA
+Keynesian Cross and the Multiplier	aSY8XPGChAU
+Investment and Real Interest Rates	72p6uw5y-Rw
+Connecting the Keynesian Cross to the IS-Curve	AW3bPaErUWU
+Loanable Funds Interpretation of IS Curve	blbR5f2dq_g
+Polyalphabetic Cipher	BgFJD7oCmDE
+LM part of the IS-LM model	yro2jLBfyDQ
+Government Spending and the IS-LM model	pzQnc_0eZA8
+Balance of Payments- Current Account	dirBYVjDk7A
+Balance of Payments- Capital Account	AimYG1jYD0A
+Why Current and Capital Accounts Net Out	tYmMEqro8D4
+Accumulating Foreign Currency Reserves	HiphWQfB6J0
+Using Reserves to Stablize Currency	TZ7d5kjAlQw
+Financial Crisis in Thailand Caused by Speculative A...	lA3sjWwu5-s
+Math Mechanics of Thai Banking Crisis	9p3HNMe-oAI
+
+Graphings Systems of Equations	MRAIgJmRmag
+Testing a solution for a system of equations	SkMNREAMNvc
+Consistent and Inconsistent Systems	Ix8Nne-a-KQ
+Independent and Dependent Systems	czXPYCWUmvc
+Graphical Systems Application Problem	3mimxluSVBo
+u14 l1 t1 we INT Consistent System of Independent Eq...	dHVLkFQCsmY
+Graphical System of Inequalities	CA4S7S-3Lg4
+Testing Solutions for a System of Inequalities	XzYNh2wpO0A
+System of Inequalities Application	G0fH6blRMHI
+Substitution Method	lRMV6I_TM4U
+Substitution Method 2	2VeqrZ_PMiY
+Substitution Method 3	v6L8--MlnKo
+Addition Elimination Method 1	0P0SCQf-hWQ
+Addition Elimination Method 2	hJOqGkWElNs
+Addition Elimination Method 3	mKu0L46Qed4
+Addition Elimination Method 4	DxSmZ0MDSxM
+Systems of Three Variables	pANZpI9sOYg
+Systems of Three Variables 2	f7cX-Ar2cEM
+Three Equation Application Problem	TJaHNxJk5-4
+Solutions to Three Variable System	145zOBT0LD4
+Domain of a Rational Expression 1	PnGZz-GuKfw
+Simplifying Rational Expressions Example 2	RXMSlFtJlEs
+Multiplying and Simplifying Rational Expressions	x6FFjiHPlSI
+Dividing and Simplifying Rational Expressions	Olntk2qhqGs
+Algebraic Expression Least Common Multiple	MNeNHoCXoGU
+Adding Rational Expressions	jE0YCSo4qO8
+Subtracting Rational Expressions	YO_SwIKGMqQ
+Simplifying First for Subtracting Rational Expressions	tmpa8Q240XY
+Adding and Subtracting Rational Expressions	y_DweTAEYWk
+Complicated Rational Expressions	ALO87_KDoTs
+Rational Equations	bRwJ-QCz9XU
+Extraneous Solutions to Rational Equations	bml74_PsfwA
+Rate Problem Involving Rational Equations	rX8ZBP3nXvI
+Another Take on the Rate Problem	hAy_bavEVCQ
+Solving for a Variable	fnuIT7EhAvs
+Direct Inverse and Joint Variation	v-k5L0BPOmc
+Proportionality Constant for Direct Variation	c6-FJRda_Vc
+Direct Variation Application	ZsjfUUJUq9s
+Inverse Variation Application	lkP-E2LUnjA
+Joint Variation Application	5SXN3gdF3CM
+Approximating Square Roots	EFVrAk61xjE
+Simplifying Square Roots	uggD8mwglyc
+Simplifying Square Roots Comment Response	qFFhdLlX220
+Finding Cube Roots	DKh16Th8x6o
+Simplifying Cube Roots	c-wtvEdEoVs
+Radical Equivalent to Rational Exponents	jO4wOQQiVZg
+Radical Equivalent to Rational Exponents 2	zlRKO21qEpQ
+Rational Exponents and Exponent Laws	NuccqpiUHrk
+More Rational Exponents and Exponent Laws	rco7DMcy-oE
+Multiply and Simplify a Radical Expression 1	GEeKOeGHddY
+Multiply and Simplify a Radical Expression 2	sBvRJUwXJPo
+Adding and Simplifying Radicals	egNq4tSfi1I
+Subtracting and Simplifying Radicals	qH4IQfDD1Nw
+Multiplying Binomials with Radicals	yAH3722GrP8
+Rationalizing Denominators of Expressions	Z3db5itCIiQ
+Rationalizing Denominators with Conjugates	ENIUcjdPO54
+Solving Radical Equations	pFFoAGIEyJc
+Extraneous Solutions for Radical Equations	CV64oTCzp3s
+Radical Equation Application Problem	j9In_uGFQpQ
+Complex Numbers	MEuPzvh0roM
+Imaginary Roots of Negative Numbers	s03qez-6JMA
+Adding Complex Numbers	SfbjqVyQljk
+Subtracting Complex Numbers	tvXRaZbIjO8
+Multiplying Complex Numbers	cWn6g8Qqvs4
+Complex Conjugates Example	dbxJ6LD0344
+Dividing Complex Numbers	Z8j5RDOibV4
+Simple Quadratic Equation	RweAgQwLdMs
+Completing Perfect Square Trinomials	tYv-Pchyu0Y
+Completing the Square to Solve Quadratic Equations	TV5kDqiJ1Os
+Quadratic Equations in Standard Form	ty4Ohya4hdE
+Applying the Quadratic Formula	_E3gx_yQhHQ
+Complex Roots from the Quadratic Formula	dnjK4DPqh0k
+Discriminant for Types of Solutions for a Quadratic	1213qW5k55I
+Application Problem with Quadratic Formula	OZtqz_xw0SQ
+Domain and Range of a Relation	g3LrOw1JMi8
+Relations and Functions	Uz0MtFlLD-k
+Graphical Relations and Functions	qGmJ4F3b5W8
+Evaluating Functions	E9YEUQR9NAU
+[Vidéo supprimée]	R1i8k3n-wHY
+Graphing a  Basic Function	2-dUHLHeyTY
+Graphing a Quadratic Function	3a7UbMJpeIM
+Graphing Radical Functions	Mi6OJ4TAufY
+Domain and Range of a Function Given a Formula	za0QJRZ-yQ4
+Domain of a Radical Function	4h54s7BBPpA
+Sum of Functions	n34dqyVCXs4
+Difference of Functions	KvMyZY9upuA
+Product of Functions	JKvmAexeMgY
+Quotient of Functions	u9v_bakOIcU
+Graphing Exponential Functions	9SOSfRNCQZQ
+Exponential Application	Ofnvrti6gh4
+Logarithmic Equations	fyshrv6YDVY
+Logarithmic Equations 2	vtStuLV-HvQ
+Graphing Logarithmic Functions	DuYgVVU_BwY
+Solving Logarithmic Equations	oqAYqT70EBQ
+Sum of Logarithms with Same Base	pkGrXzakRFs
+Difference of Logarithms with Same Base	m9xVp6p7MTU
+Logarithm of a Power	Pb9V374iOas
+Using Multiple Logarithm Properties to Simplify	RhzXX5PbsuQ
+Natural Logarithm with a Calculator	Dpo_-GrMpNE
+Graphing Natural Logarithm Function	xmjy-0TxgI8
+u18_l3_t1_we4 Calculator for Powers of e	2TtPbVobfh4
+Calculator for Powers of 10	qRmlIfsbWQA
+Calculator for Natural Logarithms	r0eFSS8CN-Q
+Calculator for Logarithms	6ZGQkGZf6sw
+Solving Exponential Equations	zHJpqliPTpc
+Solving Logarithmic Equations	Kv2iHde7Xgw
+Applying Logarithms	OKO41aLl8l8
+Applying Logarithms 2	_WIfQbcY4x4
+
+Glucose Insulin and Diabetes	rPLjSY00JlE
+Blood Sugar Levels	JSFiOF7xGfE
+Glucose Concentration Conversion	j37Mx24JHC4
+A1C Levels	MOH33-jFOwo
+Heart Disease and Heart Attacks	vYnreB1duro
+Thrombo-emboli and Thromboembolisms	h0207xMD6b8
+Stenosis, ischemia and heart failure	3858MaULDdI
+Strokes	xbyfeEW56Nc
+Normal Colon Tissue	fif5ghe8JM0
+Hyperplasia in Colon Tissue	C0frzmxc5KU
+Colon Dysplasia	CGrbnripinU
+Cancerous Colon Tissue	KyJs9H0vzTM
+Adequacy of the Lateral Cervical Spine X-Ray	cbkTTluHaTw
+Assessing Alignment of the Lateral Cervical Spine (n...	PV5u5xskBKM
+Cervical Spine Protection in Airway Management (not ...	DJY89_jC_ZY
+Intro to the Endocrine System	f_Z1zsR9lFM
+Bacterial Meningitis	CnXuSCaCNBo
+Precocious Puberty	XhYQYVQq6K0
+Childhood Growth	gF0aA-si89Y
+Ritual of the Bedside Exam	w2QVg9mezcY
+Systemic Thinking About Cancer	7zk0ubr_lzo
+Vitamin C and the Limeys	Mp9II8MmuoA
+Inflammation	GZ6I3T1RAnQ
+Blue Cross and Blue Shield	S9xdJgPWO-w
+Conversation About Drug Pricing	8t-Un7yH99g
+Health Care Costs in US vs Europe	6YU9HVS2GT0
+Healthcare System Overview	LMHxxvbzFqc
+Paying Doctors	4J-dRA3MGc8
+Medicare Overview	VpLKdKkpg68
+
+The Beauty of Algebra	kpCJyQ2usJ4
+SOPA and PIPA	tzqMoOk9NWc
+Thank You Khan Academy!	UDA3fF6WsVQ
+Vitamin C and the Limeys	Mp9II8MmuoA
+How Earth&#39;s Tilt Causes Seasons	05qDIjKevJo
+Salman Khan talk at TED 2011 (from ted.com)	gM95HHI4gLk
+Visualizing Taylor Series Approximations	8dMLK2Wueaw
+Correlation and Causality	ROpbdO-gRUo
+Gravity for Astronauts in Orbit	oIZV-ixRTcY
+The Golden Ratio	5zosU6XTgSY
+Carry Trade Basics	8In5PK1yUAA
+Heart Disease and Heart Attacks	vYnreB1duro
+Koch Snowflake Fractal	azBNsPa1WC4
+Galactic Collisions	QXYbGZ3T3_k
+Systemic Thinking About Cancer	7zk0ubr_lzo
+Elements and Atoms	IFKnq9QM6_A
+Scale of the Small	ERKx3Oa2omo
+How Earth&#39;s Tilt Causes Seasons	05qDIjKevJo
+Gravity for Astronauts in Orbit	oIZV-ixRTcY
+Primaries and Caucuses	z_QeYCg4yJ8
+Deficit and Debt Ceiling	-05OfTp6ZEE
+Social Security Intro	gLHUCUv1e5Y
+FICA Tax	UP9xy2eVj7s
+Glucose Insulin and Diabetes	rPLjSY00JlE
+Carbon 14 Dating 1	8wYvKeSK1IY
+Scale of Earth and  Sun	GZx3U0dbASg
+Introduction to Light	rLNM8zI4Q_M
+US and Japanese Quantitative Easing	a-R8qpea6lc
+Newton&#39;s First Law of Motion	CQYELiTtUs8
+Clearing the Green Monster at Fenway	2Epyz-OFRn8
+Addition Rule for Probability	QE2uR6Z-NcU
+Basic Trigonometry	Jsiy4TxgIME
+Khan Academy Exercise Software	hw5k98GV7po
+Richter Scale	RFn-IGlayAg
+Logarithmic Scale	sBhEi4L91Sg
+Firestick Farming	mwUyaeWxJhA
+Proof by Induction	wblW_M_HVQ8
+Human Evolution Overview	frE1rjhH77Y
+Hubble&#39;s Law	1V9wVmO0Tfg
+The Kidney and Nephron	cc8sUv2SuaY
+Electoral College	oTbvYGH_Hiw
+French Invasion of Russia	F_ySQvjtAxQ
+Black Holes	JoL2pO3O0rg
+Glucose Insulin and Diabetes	rPLjSY00JlE
+Diffusion and Osmosis	aubZU0iWtgI
+Why Gravity Gets So Strong Near Dense Objects	RpOHZc6cDIw
+Earth Formation	VbNXh0GaLYo
+Appomattox Court House and Lincoln&#39;s Assassination	Frpq_A7Ky_Q
+Plate Tectonics -- Evidence of plate movement	6EdsBabSZ4g
+Vi and Sal Explore How We Think About Scale	4xfOq00BzJA
+Pangaea	axB6uhEx628
+Introduction to Programs Data Types and Variables	husPzLE6sZc
+Stock Dilution	tjQzJ7GY0GY
+Fair Value Accounting	s-5_H3z-Cv0
+American Call Options	nnl3x1wo25g
+Calculus: Derivatives 1 (new HD version)	ANyVpMS3HL4
+Challenging Perimeter Problem	1uWZNW5PF-s
+The Gates Notes: Teachers in Los Altos	RoGgxrCsCEQ
+Vi and Sal Talk About the Mysteries of Benford&#39;s Law	6KmeGpjeLZ0
+Probability with Playing Cards and Venn Diagrams	obZzOq_wSCg
+Are Southern Hemisphere Seasons More Severe?	umvNQj-zmq4
+Introduction to i and Imaginary Numbers	ysVcAYo7UPI
+Tau versus Pi	1jDDfkKKgmc
+Ideal Math and Science Class Time	AkSGR_oj0rg
+Development of Agriculture and Writing	iU58AIjh3YA
+Economic Profit vs Accounting Profit	06j_zPdPWOY
+Inferior Goods Clarification	TAhRoJB34nw
+Thomas Malthus and Population Growth	r1ywppAJ1xs
+Origins of Algebra	_LDR1_Prveo
+Abstract-ness	ZOYRb2sYrL0
+Newton Leibniz and Usain Bolt	EKvHQc3QEow
+
+Electoral College	oTbvYGH_Hiw
+Primaries and Caucuses	z_QeYCg4yJ8
+Deficit and Debt Ceiling	-05OfTp6ZEE
+Government&#39;s Financial Condition	LOiw5aBrm4Y
+Social Security Intro	gLHUCUv1e5Y
+FICA Tax	UP9xy2eVj7s
+Medicare Sustainability	o1Y0G8Z67iU
+SOPA and PIPA	tzqMoOk9NWc
+
+Introduction to Programs Data Types and Variables	husPzLE6sZc
+Python Lists	zEyEC34MY1A
+For Loops in Python	9LgyKiq_hU0
+While Loops in Python	D0Nb2Fs3Q8c
+Fun with Strings	iZAtkS0F-Zo
+Writing a Simple Factorial Program. (Python 2)	ZyYp1V84Xqc
+Stepping Through the Factorial Program	dn9XjHz33O8
+Flowchart for the Factorial Program	EiR6cf8Towc
+Python 3 Not Backwards Compatible with Python 2	WT-gS-8p7KA
+Defining a Factorial Function	JwO_25S_eWE
+Diagramming What Happens with a Function Call	6qCQB8E5bkI
+Recursive Factorial Function	o920mj0NbhE
+Comparing Iterative and Recursive Factorial Functions	kx6DfrYfWnQ
+Exercise - Write a Fibonacci Function	Bdbc1ZC-vhw
+Iterative Fibonacci Function Example	94O_3QCvfqI
+Stepping Through Iterative Fibonacci Function	-BE7FEouGeI
+Recursive Fibonacci Example	urPVT1lymzU
+Stepping Through Recursive Fibonacci Function	zg-ddPbzcKM
+Exercise - Write a Sorting Function	Qbl-RZS2-4g
+Insertion Sort Algorithm	lCzQvQr8Utw
+Insertion Sort in Python	lEA31vHiry4
+Stepping Through Insertion Sort Function	6pyeMmJTefg
+Simpler Insertion Sort Function	hh3AkOGnnpE
+
+Introduction to motion	8wZugqi_uCg
+Introduction to motion (part 2)	OKXyKt40WFE
+Introduction to motion (part 3)	enmHaVxLfAE
+Projectile motion (part 1)	15zliAL4llE
+Projectile motion (part 2)	emdHj6WodLw
+Projectile motion (part 3)	Y5cSGxdDHz4
+Projectile motion (part 4)	-W3RkgvLrGI
+Projectile motion (part 5)	dlpmllTx5MY
+Projectile motion (part 6)	bl2DvFn8LjM
+Projectile motion (part 7)	-uAfg0t6NmM
+Projectile motion (part 8)	oDcPHWX2Nv0
+Projectile motion (part 9)	uHwKV2NzDno
+Projectile motion (part 10)	zbZyiyzMUQ8
+Newton&#39;s First Law of Motion	D9y0RlF_DqA
+Newton&#39;s Second Law of Motion	3FQ58lVtbCg
+Newton&#39;s Third Law of Motion	NfuKfbpkIrQ
+2 dimensional projectile motion (part 1)	RcSadoSQhdA
+2 dimensional projectile motion (part 2)	cEOxZWGp-8E
+2-dimensional projectile motion (part 3)	o2ZrX9MbIwU
+2 dimensional projectile motion part 4	5GRlLD7M430
+2-dimensional projectile motion part 5	8PXJ3hHPxlo
+Introduction to centripetal acceleration (part 1)	GBGGh2Ie4d0
+Centripetal Acceleration (part 2)	UmiotSKSRvw
+Visual Proof: a= v^2/r	TNX-Z6XR3gA
+Calculus Proof that a=v^2/r	YRBRarbMCyE
+Introduction to angular velocity	X4UTe1fZUzI
+Centripetal Acceleration (part 3)	p3AGlD6g8X8
+
+Basic Trigonometry	F21S9Wpi0y8
+Basic Trigonometry II	QS4r_mqs-rY
+
+Reading Pictographs	qrVvpYt3Vl0
+Reading Bar Graphs	kiQ6MUQZHSs
+Reading Pie Graphs (Circle Graphs)	4JqH55rLGKY
+u08_l1_t2_we2 Reading Line Graphs	36v2EXZRzUE
+u08_l1_t2_we3 Stem-and-leaf Plots	LEFE1km5ROY
+Mean Median and Mode	k3aKKasOmIw
+Range and Mid-range	7DtWXEPB_AI
+Measures of Center	F6zcGSY15Vw
+Reading Box-and-Whisker Plots	b2C9I8HuCe4
+Box-and-Whisker Plots	-M0Fi0ijnJs
+Misleading Line Graphs	gs-OPF3KEGU
+Simple Probability	yUaI0JriZtY
+Probability of More Complex Outcome	zlqvSLvhIXE
+Coin Flipping Example	3UlE8gyKbkU
+Variables and Expressions 1	AJNDeVt9UOo
+Evaluating Expressions with Two Variables	BXHNzUaIRR0
+Locate integers on a number line	TlZVPfvTLXA
+Absolute Value of Integers	r6hS_8nm1jM
+Opposite of a given number	zsnkK43UtfY
+u09 l1 t2 we4 Adding Real Numbers Application	fFdOr8U4mnI
+Points on a number line	uC09taczvOo
+Number Sets	Ksu1lo312BM
+Comparing Rational Numbers	VZOHWaw5dqM
+Identifying Rational Numbers	joZ3TOTfPkg
+Adding Negative Numbers	AcpIO62x2oo
+Adding integers with different signs	NrVvu7cM8_o
+Adding real numbers with different signs	3O1wcDGXEgA
+Adding fractions with different signs	QS1LMomm0Gk
+Identity property of 0	uXTRmzXlorI
+Application of addition of real numbers	5liQvZAC7-Q
+Subtracting Real Numbers	Zjul_nJnh1c
+Adding and subtracting real numbers	jvad-axh3ww
+Adding and subtracting real numbers application	T2RQxi76aig
+Multiplying negative real numbers	4ve7OaCnDLs
+Dividing real numbers with different signs	hrNeFsCBq_8
+Identity property of 1 (second example)	_86K0yQ8BQY
+Multiplying real number application	BdDkQJ0rolc
+Commutative Property for Addition	UeG_EYd-0xw
+Associative property for multiplication	fUgkIcx82xY
+Distributive property 3	uu0Cchc7T14
+Order of Operations 1	gjrGd9TjjnY
+Order of Operations 2 (old)	_sJXUM8W4LY
+Solving One-Step Equations	VidnbCEOGdg
+Solving One-Step Equations 2	DqeMQHomwAU
+Multi-step equations 1	CGS0vihzSlc
+One-Step Equation Involving Fractions	KGukNWo_j88
+Multi-step equations 2	CJyVct57-9s
+More Involved Multi-Step Equation	AmIeRC8qy5k
+Equation Special Cases	zKotuhQWIRg
+Application problems with equation in one variable	iimpwYBiKNg
+Evaluate a formula using substitution	tC1SfxRvtmM
+Rearrange formulas to isolate specific variables	eTSVTTg_QZ4
+Inequalities on a number line	dTwZ5N126gw
+One-Step Inequalities	17a443nL7Qw
+One-Step Inequalities 2	D1cKk48kz-E
+Multi-Step Inequalities	SgKBBUFaGb4
+Multi-Step Inequalities 2	XOAn5z8mkvI
+Compund Inequalities	0YErxSShF0A
+Compund Inequalities 2	d2cnQ5ahHgE
+Compound Inequalities 3	cvB8b4AACyE
+Compound Inequalities 4	ZF_cZ-GX9PI
+Absolute Value Equations Example 1	LRlVWC0FMQc
+Absolute Value Inequalities Example 2	YKQLZOq4HTA
+Absolute Value Equations 2	w5YltRetIQ0
+Evaluating exponential expressions	0uCslW40VHQ
+Evaluating exponential expressions 2	NEaLgGi4Vh4
+Negative and Positive Exponents	JUGmviJC_pk
+Exponent Properties 1	-TpiL4J_yUA
+Exponent Properties 2	tvj42WdKlH4
+Exponent Properties 3	Of8ezQj1hRk
+Exponent Properties 4	X6zD3SoN3iY
+Exponent Properties 5	4jhG7g5qgO0
+Exponent Properties 6	BwmTemng9lc
+Exponent Properties 7	IF-8VOiEOes
+Scientific Notation I	6phoVfGKKec
+Scientific Notation Example 2	xxAFh-qHPPA
+Scientific Notation 3 (new)	dD71fFNwVJw
+Multiplying in Scientific Notation	67jn5Zv-myg
+Terms coefficients and exponents in a polynomial	REiDXCN0lGU
+Evaluating a polynomial at a given value	03yq7XsErqo
+Simply a polynomial	vN0aL-_vIKM
+Adding Polynomials	Oe1PKI_6-38
+Opposite of a Polynomial	pb8vGcMlRmU
+Subtracting Polynomials	5ZdxnFspyP8
+Multiplying Monomials	ssY1dFl7d30
+Multiplying Monomials by Polynomials	pD2-H15ucNE
+Multiplying Binomials	ZMLFfTX615w
+Multiplying Polynomials	yJzLYa-_Y1k
+Special Polynomials Products 1	h6HmHjkA034
+Square a Binomial	xjkbR7Gjgjs
+Polynomial divided by monomial	UquFdMg6Z_U
+Dividing Monomials	4Eax48gDg9g
+Dividing polynomials 1	8Wxw9bpKEGQ
+Dividing polynomials with remainders	pLCmwHsDYqo
+Evaluating an expression with multiple variables	UH0HuxtBhEM
+Simplifying an expression with multiple variables	MjAcASWqZS4
+Simplifying Multivariable Polynomial	8jEaFV5PY2s
+Subtracting polynomials with multiple variables	AqMT_zB9rP8
+More multiplying polynomials	D6mivA_8L8U
+Dividing multivariable polynomial with monomial	Yu00YJ3tAlo
+Monomial Greatest Common Factor	_01wqwsb66E
+GCF to Factor a Polynomial	FvS7v6KM1ig
+Factor expressions by grouping	rR4FfB-FZJw
+Factoring trinomials with a leading 1 coefficient	nOZTe8jU2g4
+Factoring trinomials with a common factor	GMoqg_s4Dl4
+Factoring trinomials with a non-1 leading coefficien...	ISPxJ6JXT8o
+Factoring perfect square trinomials	liRNTieIU_k
+Factoring difference of squares	tvnOWIoeeaU
+Factoring Sum of Cubes	Touv2APcBRw
+Difference of Cubes Factoring	CxcP4ylUP5w
+Solving factored equations	8Olab1Es-eA
+Solving quadratics by factoring	uktzcTg_N7U
+Applications Problem Factoring Quadratics	STcsaKuW-24
+Plotting (x,y) relationships	86NwKBcOlow
+Quadrants of Coordinate Plane	1op92ojA6q0
+Graphing using X and Y intercepts	6m642-2D3V4
+Ordered Pair Solutions of Equations	SSNA9gaAOVc
+Application problem with graph	ljROszF_rqs
+Graphical Slope of a Line	81SseQCpGws
+Slope of a Line 2	WkspBxrzuZo
+Slope of a Line 3	CFSHq099Mx0
+Hairier Slope of Line	oUV_yL7FjYc
+Equation of a line 1	AqFwKecNaTk
+Equation of a line 2	MxiqyE2uMCo
+Equation of a line 3	XMJ72mtMn4Y
+Perpendicular Line Slope	ndPq7gbin7A
+Equation of a Line hairier example	k8EfLFvUI5U
+Parallel Line Equation	4Cmv7dUgggU
+Graphing Inequalities 1	2oGsLdAWxlk
+Graphing Inequalities 2	-aTy1ED1m5I
+Plot ordered pairs	5ctsUsvIp8w
+
+2003 AIME II Problem 1	JPQ8cfOsYxo
+2003 AIME II Problem 3	JU67TL2L1CA
+2003 AIME II Problem 4 (part 1)	gXnHodHNusg
+Sum of factors of 27000	17st-s5gg10
+Sum of factors 2	tbQ_7zvRoN4
+2003 AIME II Problem 5	EzE53aPGbrQ
+2003 AIME II Problem 5 Minor Correction	yXg5CYuCcU4
+2003 AIME II Problem 6	l9j26EOvTYc
+Area Circumradius Formula Proof	x_aax6LSRtE
+2003 AIME II Problem 8	ZFN63oTeYzc
+Sum of Polynomial Roots (Proof)	9eWyvWq9CCs
+Sum of Squares of Polynomial Roots	bbeWLtarzrE
+2003 AIME II Problem 9	ZSESJ8TeGSI
+2003 AIME II Problem 12	KD46pC_KFWk
+2003 AIME II Problem 13	vKMNRcctwL4
+2003 AIME II Problem 10	Hh3iY4tdkGI
+2003 AIME II Problem 11.avi	smtrrefmC40
+2003 AIME II Problem 14	Ec-BKdC8vOo
+2003 AIME II Problem 15 (part 1)	2eLAEMRrR7Q
+2003 AIME II Problem 15 (part 2)	TljVBB7gxbE
+2003 AIME II Problem 15 (part 3)	JTpXK2mENH4
+
+IIT JEE Trigonometry Problem 1	X7GT9JKoAbo
+IIT JEE Perpendicular Planes (Part 1)	2u535-HVJ_o
+IIT JEE Perpendicular Plane (part 2)	66pQLO--Ghk
+IIT JEE Complex Root Probability (part 1)	bV_HSZ_W0nk
+IIT JEE Complex Root Probability (part 2)	S3KMyYYGuPE
+IIT JEE Position Vectors	GDXyGy5TjnI
+IIT JEE Integral Limit	pnwrNnZGVEw
+IIT JEE Algebraic Manipulation	zs5LM7dxyTo
+IIT JEE Function Maxima	2E_DB5VuAoo
+IIT JEE Diameter Slope	pdXcf5ZWHf0
+IIT JEE Hairy Trig and Algebra (part 1)	dOxXl_6BDQc
+IIT JEE Hairy Trig and Algebra (Part 2)	6t9ogglXNIM
+IIT JEE Hairy Trig and Algebra (Part 3)	KVRpXvrsSKM
+IIT JEE Complex Numbers (part 1)	_5ei_I02huY
+IIT JEE Complex Numbers (part 2)	pQwoBOpVoWw
+IIT JEE Complex Numbers (part 3)	FwA_UZkI-JM
+IIT JEE Differentiability and Boundedness	FIt1RNiCO6U
+IIT JEE Integral with Binomial Expansion	1-5sTDLrcp4
+IIT JEE Symmetric and Skew-Symmetric Matrices	G6OoxGmJzuc
+IIT JEE Trace and Determinant	5S03uylNn-Q
+IIT JEE Divisible Determinants	9vlsBN3pFE0
+IIT JEE Circle Hyperbola Intersection	6g3DPg2HqGw
+IIT JEE Circle Hyperbola Common Tangent Part 1	MhLfun2Vask
+IIT JEE Circle Hyperbola Common Tangent Part 2	0imeUgSxR10
+IIT JEE Circle Hyperbola Common Tangent Part 3	RomnHMWSLoE
+IIT JEE Circle Hyperbola Common Tangent Part 4	eGo8C2Jshzs
+IIT JEE Circle Hyperbola Common Tangent Part 5	rPoqpQcgNv4
+IIT JEE Trigonometric Constraints	EjtjdJZ2x8w
+IIT JEE Trigonometric Maximum	tzR9jUCSniQ
+Vector Triple Product Expansion (very optional)	b7JTVLc_aMk
+IIT JEE Lagrange&#39;s Formula	rndex9FCIdo
+Tangent Line Hyperbola Relationship (very optional)	c_8QQbVQKU0
+2010 IIT JEE Paper 1 Problem 50 Hyperbola Eccentricity	4ES_vbSJ7LU
+Normal vector from plane equation	gw-4wltP5tY
+Point distance to plane	7rIFO8hct9g
+Distance Between Planes	v8plb6V8BQo
+Complex Determinant Example	E7OkUomRq1Q
+Series Sum Example	A6fbDssPeac
+Trigonometric System Example	Y2ed-g8Lpdc
+Simple Differential Equation Example	fqnPabGV6A4
+
+Scale of Earth and  Sun	GZx3U0dbASg
+Scale of Solar System	GP53b__h4ew
+Scale of Distance to Closest Stars	jEeJkkMXt6c
+Scale of the Galaxy	rcLnMe1ELPA
+Intergalactic Scale	JiE_kNk3ucI
+Hubble Image of Galaxies	Wl4re38deh0
+Big Bang Introduction	eUF59jCFcyQ
+Radius of Observable Universe	6nVysrZQnOQ
+(Correction) Radius of Observable Universe	b6VQv76BQDs
+Red Shift	mx2M_ZKXM_c
+Cosmic Background Radiation	sxbPwl_KRuA
+Cosmic Background Radiation 2	06z7Q8TWPyU
+Cosmological Time Scale 1	DRtLXagrMHw
+Cosmological Time Scale 2	LO7-3MpWijU
+Four Fundamental Forces	FEF6PxWOvsk
+Birth of Stars	i-NNWI8Ccas
+Becoming a Red Giant	kJSOqlcFpJw
+White and Black Dwarfs	EdYyuUUY-nc
+A Universe Smaller than the Observable	0w9R_foNLrg
+Star Field and Nebula Images	w3IKEa_GOYs
+Parallax in Observing Stars	ETzUpoqZIHY
+Stellar Parallax	omvNINaRdxg
+Stellar Distance Using Parallax	lVadjWOjvV8
+Stellar Parallax Clarification	6FP-hLuAlr4
+Parsec Definition	6zV3JEjLoyE
+Hubble&#39;s Law	1V9wVmO0Tfg
+Lifecycle of Massive Stars	UhIwMAhZpCo
+Supernova (Supernovae)	qOwCpnQsDLM
+Supernova clarification	QMv4kxATfzs
+Black Holes	JoL2pO3O0rg
+Cepheid Variables 1	BWs-ONRDDG4
+Why Cepheids Pulsate	X_3QAB3o4Vw
+Why Gravity Gets So Strong Near Dense Objects	RpOHZc6cDIw
+Supermassive Black Holes	DxkkAHnqlpY
+Quasars	4LmIyMyAuN0
+Quasar Correction	PX_XSnVWlNc
+Galactic Collisions	QXYbGZ3T3_k
+Earth Formation	VbNXh0GaLYo
+Beginnings of Life	nYFuxTXDj90
+Ozone Layer and Eukaryotes Show Up in the Proterozoi...	E1P79uFLCMc
+Biodiversity Flourishes in Phanerozoic Eon	MS7x2hDEhrw
+First living things on land clarification	3gUE_P9T-Wk
+Plate Tectonics-- Difference between crust and litho...	f2BWsPVN7c4
+Structure of the Earth	4AxZ-6MOznY
+Plate Tectonics -- Evidence of plate movement	6EdsBabSZ4g
+Plate Tectonics -- Geological Features of Divergent ...	FK1s1-OJ5BE
+Plate Tectonics-- Geological features of Convergent ...	Y0eWnOZpSpQ
+Plates Moving Due to Convection in Mantle	f8GK2oEN-uI
+Hawaiian Islands Formation	D1eibbfAEVk
+Compositional and Mechanical Layers of the Earth	hHteUIS0OFY
+Seismic Waves	NhioAAdYDJM
+Why S-Waves Only Travel in Solids	BTWLwoaNeBA
+Refraction of Seismic Waves	UNZ171fDja4
+The Mohorovicic Seismic Discontinuity	yAQSucmHrAk
+How we know about the Earth&#39;s core	KL0i1RSnpfI
+Pangaea	axB6uhEx628
+Scale of the Large	5FEjrStgcF8
+Scale of the Small	ERKx3Oa2omo
+Detectable Civilizations in our Galaxy 1	YYEgq1bweN4
+Detectable Civilizations in our Galaxy 2	jN03g05TSWM
+Detectable Civilizations in our Galaxy 3	LRmwUsxNSL0
+Detectable Civilizations in our Galaxy 4	T5DGZIsfK-0
+Detectable Civilizations in our Galaxy 5	xL9ejqb53ms
+Human Evolution Overview	frE1rjhH77Y
+Understanding Calendar Notation	EKKe7DBZVhI
+Correction Calendar Notation	N06Jy-gQog8
+Development of Agriculture and Writing	iU58AIjh3YA
+Introduction to Light	rLNM8zI4Q_M
+Seasons Aren&#39;t Dictated by Closeness to Sun	SJUd5du0T08
+How Earth&#39;s Tilt Causes Seasons	05qDIjKevJo
+Milankovitch Cycles   Precession and Obliquity	ZD8THEz18gc
+Are Southern Hemisphere Seasons More Severe?	umvNQj-zmq4
+Precession Causing Perihelion to Happen Later	2o-Sef6wllg
+What Causes Precession and Other Orbital Changes	nL6LMX8-bPY
+Apsidal Precession (Perihelion Precession) and Milan...	m6lMGoZTJnc
+Firestick Farming	mwUyaeWxJhA
+Carbon 14 Dating 1	8wYvKeSK1IY
+Carbon 14 Dating 2	4YUtnod-YuE
+Potassium-Argon (K-Ar) Dating	NMZ5kJEviD0
+K-Ar Dating Calculation	iLFcSfzrlMk
+Chronometric Revolution	5mNTvtjDnP8
+Collective Learning	NqR_dtZu4Mo
+Land Productivity Limiting Human Population	xM8szz4VB28
+Energy Inputs for Tilling a Hectare of Land	5I9dH5im24U
+Random Predictions for 2060	E4rbS0oxg30
+
+Currency Exchange Introduction	itoNb1lb5hY
+Currency Effect on Trade	5HVCFrXQ9pw
+Currency Effect on Trade Review	Ysk1ySejuCQ
+Pegging the Yuan	S-9iY1OgbDE
+Chinese Central Bank Buying Treasuries	MN4SWiEEqKo
+American-Chinese Debt Loop	m5xu4r0szaA
+Debt Loops Rationale and Effects	XBI7DqttyOQ
+China keeps peg but diversifies holdings	4aNoZjAhSr8
+
+Algebra: Linear Equations 1	bAerID24QJ0
+Algebra: Linear Equations 2	DopnmxeMt-s
+Algebra: Linear Equations 3	Zn-GbH2S0Dk
+Ordering Numeric Expressions	w7k1YEcAaaE
+Ordering numeric expressions	Llt-KkHugRQ
+Probability (part 1)	3ER8OkqBdpE
+
+i and Imaginary numbers	rDLDGQMKT3M
+
+Place Value 1	jxA8MffVmPs
+Place Value 2	wd4cRAoBOiE
+Place Value 3	iK0y39rjBgQ
+Rounding Whole Numbers 1	_qzs1zozTBo
+Rounding Whole Numbers 2	fh8gkPW_6g4
+Rounding Whole Numbers 3	3jBfLaLrk6I
+Comparing Whole Numbers	9Jg5S7F2SMQ
+Comparing Whole Numbers 2	KMwzeYAtJDc
+Comparing Whole Numbers 3	zVqLlUpCnd0
+Adding Whole Numbers and Applications 1	b22tMEc6Kko
+Adding Whole Numbers and Applications 2	8TD6iDzt4oQ
+Adding Whole Numbers and Applications 3	YB2ATNCMciY
+Adding Whole Numbers and Applications 4	-HaI9U9w3CM
+Subtracting Whole Numbers	sAw71J2kYJE
+Subtraction with Borrowing or Regrouping	QD86addRZEw
+Subtraction Word Problem	QY8vv7eVVJE
+Rounding to Estimate Differences	XBarsXzUtuE
+Rounding to Estimate Sums	lNfZQNWZklI
+Rounding to Estimate Sums 2	j21X53Rwqt4
+Multiplying Whole Numbers and Applications 1	Yw3EoxC_GXU
+Multiplying Whole Numbers and Applications 2	0WUXQNjdRvM
+Multiplying Whole Numbers and Applications 3	CCPrxewq4bU
+Multiplying Whole Numbers and Applications 4	tx2Niw7aJJ8
+Multiplying Whole Numbers and Applications 5	_AP6rM49rOc
+Multiplying Whole Numbers and Applications 6	bS6EmYzpou4
+Dividing Whole Numbers and Applications 1	4I9iibPLdBw
+Dividing Whole Numbers and Applications 2	chWcaZSLmHE
+Dividing Whole Numbers and Applications 3	qoDJwyyD_pg
+Dividing Whole Numbers and Applications 4	4yp5v64XuRc
+Dividing Whole Numbers and Applications 5	MS7k0BVR_uM
+Dividing Whole Numbers and Applications 6	SQ523h4CTMM
+Properties of Whole Numbers	HhwqS_d7Qp8
+Identity Property of 1	6nZp2QGeQ9k
+Commutative Law of Addition	HwSszh3L358
+Commutative Law of Multiplication	ENKH97PYssg
+Associative Law of Addition	oTKVXJ7TcbA
+Associative Law of Multiplication	5RzDVNob0-0
+The Distributive Property	gl_-E6iVAg4
+The Distributive Property 2	Badvask-UDU
+Understanding Exponents	mJ1P4A-KA8k
+Understanding Exponents 2	5qfOViJda_g
+Understanding Square Roots	ROIfbUQrSY4
+Order of Operations	GiSpzFKI5_w
+Order of Operations 2	_xuXwHhqNUg
+Numerator and Denominator of a Fraction	3XOt1fjWKi8
+Identifying Fraction Parts	-a_w0_VAo6U
+Proper and Improper Fractions	2h8XiqSnzaU
+Converting Mixed Numbers to Improper Fractions	-sA-vI2a2mM
+Changing an Improper Fraction to a Mixed Number	8JyPzTeA_8w
+Recognizing Divisibility	2G_Jr_XpnY4
+Finding Factors of a Number	vcn2ruTOwFo
+Prime Factorization	ZKKDTfHcsG0
+Recognizing Prime Numbers	3h4UK62Qrbo
+Equivalent Fractions Example	0JW9P_T4P_Y
+Fractions in lowest terms	WPimvspI0_c
+Comparing Fractions	Io9i1JkKgN4
+Comparing Fractions 2	2dbasvm3iG0
+Multiplying Fractions	CTKMK1ZGLuk
+Multiplying  Mixed Numbers	RPhaidW0dmY
+Multiplying Fractions and Mixed Numbers	p729tFmpOXg
+Multiplying Fractions Word Problem	YJgIGwTysk0
+Reciprocal of a Mixed Number	6YYiiixYz9A
+Dividing Fractions Example	tnkPY4UqJ44
+Dividing Mixed Numbers	51-U-Jkq79A
+Dividing Mixed Numbers and Fractions	aNeCGxJVG7w
+Dividing Fractions Word Problem	PQsgXNggV7Q
+Adding Fractions with Like Denominators	EJjnEau6aeI
+Least Common Multiple (LCM)	D6yHKOYJiso
+Finding Common Denominators	lxjmR4pYIVU
+Adding Fractions with Unlike Denominators	OVMceVL_CEQ
+Adding Mixed Numbers	4TBVB4hLQhY
+Adding Mixed Numbers with Unlike Denominators	CfBYGFm5gPA
+Adding Mixed Numbers Word Problem	o0arqcKC7QE
+Subtracting  Fractions	UbUdyE1_b9g
+Subtracting Mixed Numbers	WF7L2waDwLw
+Subtracting Mixed Numbers 2	4LYtLMmDuzw
+Subtracting Mixed Numbers Word Problem	tj9oLZYA-AQ
+Decimal Place Value	x-Dqe5U1TXA
+Decimal Place Value 2	AuD2TX-90Cc
+Decimals and Fractions	NzIoHQfStoM
+Converting Fractions to Decimals Example	Y1V5mZaMfTk
+Comparing Decimals	HCC96awA-FM
+Rounding Decimals	_MIn3zFkEcc
+Decimals on a Number Line	LpLnmuAyNWg
+Comparing Decimals 4	FwMYoK1QKso
+Adding Decimals	w616LEmrHVE
+Subtracting Decimals	Eq4mVCd-yyo
+Subtracting Decimals Word Problem	hy_bDS3aHO4
+Multiplying Decimals	JEHejQphIYc
+Multiplying a Decimal by a Power of 10	mV0RxDZG05A
+Dividing Decimals	Nqts8zW8RxM
+Dividing a Decimal by a Power of 10	W_VhVHRal6o
+Dividing Decimals 2.1	HLGCq2h4ihY
+Mulitplyling Decimals 3	W7dImsrVa0Y
+Estimation with Decimals	BkwI6Uu0vi4
+Ratios as Fractions in Simplest Form	JWmCiZwoyMs
+Simplifying Rates and Ratios	p5nomPfUF9k
+Finding Unit Rates	Zm0KaIw-35k
+Finding Unit Prices	d7rAlcNHDUI
+Understanding Proportions	V3FvaClh6LY
+Find an Unknown in a Proportion	GO5ajwbFqVQ
+Find an Unknown in a Proportion 2	4ywTWCaLmXE
+Describing the Meaning of Percent	Lvr2YsxG10o
+Describing the Meaning of Percent 2	MokI3Fi8jpc
+Representing a number as a decimal, percent, and fra...	-gB1y-PMWfs
+Representing a number as a decimal, percent, and fra...	Hkwfibux88s
+Identifying Percent Amount and Base	JaScdH47PYg
+Solving Percent Problems 2	N4kDzoQOngY
+Solving Percent Problems 3	DAikW24_O0A
+Unit Conversion with Fractions	jFSenp9ueaI
+Adding different units of length	CAXqVVxn9zA
+Converting units of length	AGFO-ROxH_I
+Converting pounds to ounces	IrvEHVn-fks
+Adding different units for weight	gRAwbGqnEqk
+Application problems involving units of weight	gnCL_0uA6Ds
+Converting Gallons to quarts pints and cups	4uQtJDf7drU
+Performing arithmetic calculations on units of volume	hShqXKpI6KA
+Solving application problems involving units of volume	KgoXx_58QyQ
+U.S. Customary and Metric units	y2RHWA7t0WM
+Conversion between metric units	SYkmadc2wOI
+Converting within the metric system	uHaKyNplino
+Perimeter and Unit Conversion	q9XCrpLPfGk
+Comparing Celsius and Farenheit temperature scales	aASUZqJCHHA
+Converting Farenheit to Celsius	NqbkvEK46xM
+Congruent and Similar Triangles	0mKmYxuMirE
+Similar Triangles Corresponding Sides and Angles	ST2P6Sn3cuo
+Missing Measurements for Similar Triangles	JfqLblHox3o
+Application of Similar Triangles	UgiRvl6iJzc
+Using the Pythagorean Theorem	UJHONfWW9T0
+Pythagorean Theorem Application	l43fgfJ376c
+Quadrilateral Properties	5CeBlu260Rw
+Parts of a Circle	04N79tItPEA
+Circumference of a Circle	WgW_KwtBvro
+Area of a Circle	lDKjX5ouoic
+Area and Perimeter of Composite Figures	WlGuG_VZl5c
+Identifying Geometric Solids	Cn3QiGlklRI
+Volume of a Composite Shape	Q9vYvyvDzI8
+Identifying Rays	w9jEq6dmqPg
+Acute Obtuse and Right Angles	qdYx4qk2UHU
+Identifying Parallel and Perpendicular Lines	aq_XL6FrmGs
+Identifying Complementary and Supplementary Angles	o-TWOYoxjUo
+Finding Missing Angles	z8BoVhTkaBw
+Perimeter of a Polygon	5ZCKr4wTQvI
+Area of a Trapezoid	qAs50nzzrP4
+Perimeter and Area of a Non-Standard Polygon	7S1MLJOG-5A
+Volume of a Sphere	IelS2vg7JO8
+
+Representing Structures of Organic Molecules	pMoA65Dj-zk
+Naming Simple Alkanes	NRFPvLp3r3g
+Naming Alkanes with Alkyl Groups	KKAD-OOOHxg
+Correction - 2-Propylheptane should never be the name!	CFBKfgGTP98
+Common and Systematic Naming-Iso, Sec and Tert Prefixes	TJUm860AjNw
+More Organic Chemistry Naming Examples 1	96D7RHUQvMA
+Organic Chemistry Naming Examples 2	CJRQ8gOjq4E
+Organic Chemistry Naming Examples 3	Se-ekDNhCDk
+Organic Chemistry Naming Examples  4	25axjMBeMxE
+Organic Chemistry Naming Examples 5	6BR0Q5e74bs
+Naming Alkenes Examples	KWv5PaoHwPA
+Naming Alkyl Halides	jiJdNWzETSk
+sp3 Hybridized Orbitals and Sigma Bonds	u1eGSL6J6Fo
+Pi bonds and sp2 Hybridized Orbitals	lJX8DxoPRfk
+Newman Projections	IkmM4CPnqF0
+Newman Projections 2	ryJvNEHcuDg
+Chair and Boat Shapes for Cyclohexane	YUEkOBvJSNg
+Double Newman Diagram for Methcyclohexane	I6LsWSXx8fg
+Introduction to Chirality	tk-SNvCPLCE
+Chiral Examples 1	0XSSPow5oAc
+Chiral Examples 2	QQMZ1ljepWg
+Cahn-Ingold-Prelog System for Naming Enantiomers	DfO27juYly8
+R,S (Cahn-Ingold-Prelog) Naming System Example 2	peQsBg9P4ms
+Stereoisomers, Enantiomers, Diastereomers, Constitut...	457xnJv80O0
+Cis-Trans and E-Z Naming Scheme for Alkenes	oYoQpDtBLac
+Entgegen-Zusammen Naming Scheme for Alkenes Examples	GFiizJ-jGVw
+Introduction to Reaction Mechanisms	Z_GWBW_GVGA
+Markovnikov&#39;s Rule and Carbocations	X-VCk3WrGlM
+Addition of Water (Acid-Catalyzed) Mechanism	sEiQm7IzUg8
+Polymerization of Alkenes with Acid	tR-hzV5Tkxo
+Sn2 Reactions	Z_85KXnBSYc
+Sn1 Reactions	3e0ScEkz8oU
+Steric Hindrance	NypbNw1iJ-E
+Sn2 Stereochemistry	QxIUeYAQRy0
+Solvent Effects on Sn1 and Sn2 Reactions	8J0ys3z5wzo
+Nucleophilicity (Nucleophile Strength)	Z9Jh-Q59xso
+Nucleophilicity vs. Basicity	Mx7KM-k2MMo
+E2 Reactions	J0gXdEAaSiA
+E1 Reactions	U9dGHwsewNk
+Zaitsev&#39;s Rule	2jO--kC3aqk
+Comparing E2 E1 Sn2 Sn1 Reactions	12Rvts2NR7M
+E2 E1 Sn2 Sn1 Reactions Example 2	vinEPfrqfiU
+E2 E1 Sn2 Sn1 Reactions Example 3	MtwvLru62Qw
+Free Radical Reactions	5HgzsltWwK8
+Alcohols	nQ7QSV4JRSs
+Alcohol Properties	Aa1CMokCch4
+Resonance	6XOm3Km7r30
+Ether Naming and Introduction	roUGDG1rhPI
+Cyclic ethers and epoxide naming	5d63YMUxcS4
+Ring-opening Sn2 reaction of expoxides	hMguUHeYf0g
+Sn1 and Sn2 epoxide opening discussion	Ordpoq2dHAk
+Aromatic Compounds and Huckel&#39;s Rule	RaBI3lAACKg
+Naming Benzene Derivatives Introduction	A5r7wkwDID4
+Electrophilic Aromatic Substitution	fpq0eICjuSI
+Bromination of Benzene	K2tIixiXGOM
+Amine Naming Introduction	Kpov3GS6tjM
+Amine Naming 2	CJzuu_k9Nv0
+Amine as Nucleophile in Sn2 Reaction	O4dvuimcVBA
+Amine in Sn2 part 2	w8LS4fRQvMk
+Sn1 Amine Reaction	pBAwbypjW9s
+Aldehyde Introduction	oeyBfrx5RJY
+Ketone Naming	wD15pD5pCt4
+Friedel Crafts Acylation	vFfriC55fFw
+Friedel Crafts Acylation Addendum	0YD5xSvseIw
+Keto Enol Tautomerization	SXbc4J1qWjE
+Carboxlic Acid Introduction	xheOq0XZ-so
+Carboxylic Acid Naming	z8h7QgevqjM
+Fisher Esterification	dbdVMThH1n8
+Acid Chloride Formation	XKk9K5xTgDA
+Amides, Anhydrides, Esters and Acyl Chlorides	SRPQ62dR6b4
+Relative Stability of Amides Esters Anhydrides and A...	NYI0bJK64MY
+Amide Formation from Acyl Chloride	gMKtGulgGH8
+Aldol Reaction	3XiHrsZNZko
+
+Solving Equations 1	p5e5mf_G3FI
+Solving Equations 2	1c5HY3z4k8M
+Solving Equations with the Distributive Property	YZBStgZGyDY
+Solving equations with the distributive property 2	PL9UYj2awDc
+Algebraic Word Problem	cNlwi6lUCEM
+Sum of Consecutive Odd Integers	d8De3xcVmnw
+Example of Solving for a Variable	Aig1hkq3OsU
+Solving for a Variable 2	BR5yFOt0zao
+Absolute Value 1	NvGTCzAfvr0
+Absolute Value and Number Lines	frBJEYvyd-8
+Absolute Value Equations 1	GwjiR2_7A7Y
+Absolute Value Equation Example 2	jaizi_1IB5c
+Patterns in Sequences 1	Zj-a_9cd5jc
+Patterns in Sequences 2	zIcxrhyJs6M
+Equations of Sequence Patterns	_3BnyEr5fG4
+Finding the 100th Term in a Sequence	JtsyP0tnVRY
+Functional Relationships 1	5cK86VKoBPw
+Testing if a relationship is a function	3SO1BQQ9_1E
+Domain and Range 1	C6F33Ir-sY4
+Domain and Range 2	0lY4PcCYoyE
+Direct Variation 1	rSadG6EtJmY
+Basic Rate Problem	7WXijfIZh64
+Basic Linear Function	YB1XuQ1Pc5s
+Exploring linear relationships	qPx7i1jwXX4
+Recognizing Linear Functions	AZroE4fJqtQ
+Exploring nonlinear relationships	D-0E9weT_t0
+Slope of a line	R948Tsyq4vA
+Slope Example	jTCZfMMcHBo
+X  and Y intercepts	xGmef7lFc5w
+X and Y intercepts 2	405boztgZig
+Graphing a line in slope intercept form	uk7gS3cZVp4
+Equation of a line 2	-BuoPowT86M
+Converting to slope-intercept form	V6Xynlqc_tc
+Point-slope and standard form	-6Fu2T_RSGM
+Parallel Lines	T-aCweuimis
+Parallel Lines 2	lOWXZFP8Vuc
+Parallel lines 3	y5yNi08cr6I
+Perpendicular Lines	0671cRNjeKI
+Perpendicular lines 2	TsEhZRT16LU
+Interpreting Inequalities	wo7DSaPP8hQ
+Solving Inequalities	y7QLay8wrW8
+Inequalities	FZ2APP6-grU
+Absolute value inequalities Example 1	TvUCe6Bomy4
+Absolute Inequalities 2	x5EJG_rAtkY
+Absolute value inequalities example 3	y9MGpOGQVqQ
+Writing and using inequalities	RHe9X2HDEjA
+Writing and using inequalities 2	cCMpin3Te4s
+Writing and using inequalities 3	pbLiN8D9gAk
+Solving and graphing linear inequalities in two vari...	EoCeL4SPIcA
+Graphing linear inequalities in two variables 2	lxTQrsUip9g
+Graphing linear inequalities in two variables 3	YBYu5aZPLeg
+Solving systems by graphing	1CiBuN6qraY
+Solving systems by graphing 2	BNHLzEv6Mjg
+Solving systems by graphing 3	F5Nb6cIRZLU
+Solving systems by substitution 1	HJV_HY0Sh0s
+Solving systems by substitution 2	wB3QCk0MGuw
+Solving systems by substitution 3	0BgUKHTW37E
+Solving systems by elimination	z1hz8-Kri1E
+Solving systems by elimination 2	Y6JsEja15Vk
+Solving systems by elimination 3	Dqp6xOeR3Ls
+Systems and rate problems	at4T4n4JYNc
+Systems and rate problems 2	H5w55UbIZTw
+Systems and rate problems 3	hTBQUibtnBk
+Mixture problems 1	5Dzdrb8MKBg
+Mixture problems 2	OBVGQt1Eeug
+Mixture problems 3	JVlfQEhzLMM
+Graphing systems of inequalities	TqsRlc02rtc
+Graphing systems of inequalities 2	YjT3QYfoy4Q
+Graphing systems of inequalities 3	UUwmo5qaTuI
+Exponent Rules 1	kSYJxGqOcjA
+Exponent Rules 2	6ND4nKwyCEc
+Exponent Rules 3	AbmQNC-iE84
+Scientific notation 1	kSx873lOgIc
+Scientific notation 2	vDfd0bj3mo0
+Scientific notation 3	XJBwJjP2_hM
+Simplifying Expressions with Exponents	tdO4UOLW9d8
+Simplifying Expressions with Exponents 2	xnLcxdM8OD8
+Simplifying Expressions with Exponents 3	zwUnRQbWPJU
+Pythagorean Theorem 1	JVrkLIcA2qw
+Pythagorean Theorem 2	O64YFlX1_aI
+Pythagorean Theorem 3	T0IOrRETWhI
+Simplifying Radical Expressions1	drhoIgAhlQM
+Simplifying Radical Expressions 2	F5iMsjwFLX8
+Simplifying Radical Expressions 3	s9i2aVKyxTY
+Solving Radical Equations 1	y4C81qAa3pY
+Solving Radical Equations 2	b6WtwQddAcY
+Solving Radical Equations 3	g6nGcnVB8BM
+Applying Radical Equations 1	U3JxFFdKCKM
+Applying Radical Equations 2	YghRP8S2K-4
+Applying Radical Equations 3	npUtXLjTnxg
+Fractional Exponent Expressions 1	xjCnmPvcmOo
+Fractional Exponent Expressions 2	4F6cFLnAAFc
+Fractional Exponent Expressions 3	Ay0B6Kh9Y3Q
+Multiplying and Dividing  Monomials 1	p_61XhXdlxI
+Multiplying and Dividing Monomials 2	Rtje3kbC9lM
+Multiplying and Dividing Monomials 3	abuhkDhowyc
+Polynomials1	EvvxBdNIUeQ
+Polynomials 2	IGs7IB48Fvg
+Adding and Subtracting Polynomials 1	ahdKdxsTj8E
+Adding and Subtracting Polynomials 2	ZGl2ExHwdak
+Adding and Subtracting Polynomials 3	DMyhUb1pZT0
+Multiplying Polynomials1	HB48COey2O8
+Multiplying Polynomials 2	J1HAY8E3gms
+Multiplying Polynomials 3	bamcYQDzVTw
+Special Products of Polynomials 1	4GcNzvILqtM
+Special Products of Polynomials 2	4fQeHtSdw80
+U08_L2_T4_we3 Special Products of Polynomials 3	jYfWFy0yxB4
+Bay Area CBS Station with Salman Khan	PhHWmehThg8
+Factoring and the Distributive Property	auQU-9KNG74
+Factoring and the Distributive Property 2	499MvHFrqUU
+Factoring and the Distributive Property 3	MZl6Mna0leQ
+Factoring Trinomials by Grouping 1	HXIj16mjfgk
+Factoring Trinomials by Grouping 2	QQhkEGp-YQQ
+U09_L1_T2_we3 Factoring Trinomials by Grouping 3	fVIZmOQBS5M
+Factoring Trinomials by Grouping 4	u1SAo2GiX8A
+Factoring Trinomials by Grouping 5	R-rhSQzFJL0
+Factoring Trinomials by Grouping 6	d-2Lcp0QKfI
+U09_L2_T1_we1 Factoring Special Products 1	XuwldEyWjH0
+Factoring Special Products 2	o-ZbdYVGehI
+U09_L2_T1_we3 Factoring Special Products 3	YahJQvY396o
+Solving Quadratic Equations by Factoring.avi	2ZzuZvz33X0
+Solving Quadratic Equations by Factoring 2.avi	04RpkdaNzr8
+Solving Quadratic Equations by Factoring 3.avi	vl9o9XEfXtw
+Quadratic Functions 1	CuPgmA7ytWA
+Quadratic Functions 2	dfoXtodyiIA
+Quadratic Functions 3	TgKBc3Igx1I
+Completing the Square 1	VvuuRpJbbHE
+Completing the Square 2	6agzj3A9IgA
+Completing the Square 3	02h9yhc7ruc
+Completing the Square 4	95tChNVzodY
+Quadratic Formula 1	iulx0z1lz8M
+Quadratic Formula 2	CLrImGKeuEI
+Quadratic Formula 3	XUvKjC21fYU
+Applying Quadratic Functions 1	Zoa485PqK_M
+Applying Quadratic Functions 2	HtN86WyZ6zY
+Applying Quadratic Functions 3	huZBkYgGrKo
+Non-Linear Systems of Equations 1	hjigR_rHKDI
+Non-Linear Systems of Equations 2	XPf8LMu7QSw
+Non-Linear Systems of Equations 3	FksgVpM_iXs
+Simplifying Rational Expressions 1	XChok8XlF90
+Simplifying Rational Expressions 2	dstNU7It-Ro
+Simplifying Rational Expressions 3	ey_b3aPsRl8
+Multiplying and Dividing Rational Expressions 1	3GL69IA2q4s
+Multiplying and Dividing Rational Expressions 2	f-wz_ZzSDdg
+Multiplying and Dividing Rational Expressions 3	gcnk8TnzsLc
+Adding and Subtracting Rational Expressions 1	c_N9G3N9Ubc
+Adding and Subtracting Rational Expressions 2	3tmFTHOP6Pc
+Adding and Subtracting Rational Expressions 3	IKsi-DQU2zo
+Solving Rational Equations 1	Yaeze9u6Cv8
+Solving Rational Equations 2	RdYA8ZpqdJE
+Solving Rational Equations 3	5wUJLMWZ5Fw
+Applying Rational Equations 1	gD7A1LA4jO8
+Applying Rational Equations 2	E1j8W64NQ0Y
+Applying Rational Equations 3	B0Z4s38YIgQ
+Number Sets 1	aqsIWLqlDhE
+Number Sets 2	qfQv8GzyjB4
+Number Sets 3	psyWUUkI-aw
+Understanding Logical Statements 1	I6hz8mhaRB0
+Understanding Logical Statements 2	0Sx5aJoAkW8
+Understanding Logical Statements 3	fs7fz3MLpC8
+Understanding Logical Statements 4	mLCD0ez-yO0
+Understanding Logical Statements Commentary	okNqf2NGnpk
+U12_L1_T3_we1 Inductive Reasoning 1	MnQ7Lizkpqk
+Inductive Reasoning 2	ZSsBh4Ybbj8
+Inductive Reasoning 3	pgfWkaySFGY
+Deductive Reasoning 1	GEId0GonOZM
+Deductive Reasoning 2	VMEV__2wW3E
+Deductive Reasoning 3	lYLaaMObgkw
+Events and Outcomes 1	cdRLBOnLTDk
+Events and Outcomes 2	vB4FuGmfEGY
+Events and Outcomes 3	3_otNr9kRuY
+U12_L2_T2_we1 Independent Events 1	Za7G_eWKiF4
+Independent Events 2	VWAfEbgf1Po
+Independent Events 3	2MYA8Ba2PvM
+Permutations and Combinations 1	oQpKtm5TtxU
+Permutations and Combinations 2	v9NLtiVt3XY
+Permutations and Combinations 3	SbpoyXTpC84
+Permutations and Combinations 4	DIjlllgq3dc
+Probability of Dependent Events	l9ft9jpriNA
+Probability of Dependent Events 2	ccrYD6iX_SY
+U02_L2_T2_we1 Absolute Value Equations.avi	ZEml96_kyN4
+U06_L3_T1_we3 Graphing Systems of Inequalities	BUmLw5m6F9s
+U06_L1_T1_we1 Solving Systems by Graphing	Li5XGPiLLAY
+Graphing Linear Inequalities in Two Variables Example 2	FnrqBgot3jM
+U03_L2_T1_we2 Representing Functions as Graphs	12w3qsF4xmE
+U03_L1_T1_we2 Inductive Patterns	GvbrtnEYRpY
+
+Variable Expressions	aoXUWSwiDzE
+Order of Operations Example	3Po3nfITsok
+Patterns and Equations	rUT0pa87m7E
+Equations and Inequalities	hJ-_OoCHTks
+Domain and Range of a Function	O0uUVH8dRiU
+Functions as Graphs	jQ-fS2lsslU
+Word Problem Solving Plan 1	Xz6rT9k8ftg
+Word Problem Solving Strategies	SpDIXJ2I2D4
+Integers and Rational Numbers	kyu-IQ-gBIg
+Addition of Rational  Numbers	BKEtsv9MbyY
+Subraction of Rational Numbers	lLIo4kGRBEw
+Multiplication of Rational Numbers	lBi9bwz08EY
+Distributive Property Example 1	ewEorPD4kdA
+Division of Rational Numbers	I0b5-7UuwQ8
+Square Roots and Real Numbers	BpBh8gvMifs
+Problem Solving Word Problems 2	s1QN7sSfBM8
+One Step Equations	9DxrF6Ttws4
+Two-Step Equations	tuVd355R-OQ
+Multi-Step Equations	a5uNoOnEy_A
+Equations with Variables on Both Sides	xMsG9hvqzbY
+Ratio and Proportion	WfqgFBGet7s
+Scale and Indirect Measurement	GfNB14D55gQ
+Percent Problems	1LtBcfk1uHg
+Word Problem Solving 3	LRKMoqrMbGw
+The Coordinate Plane	VhNkWdLGpmA
+Graphing Using Intercepts	6zixwWZ88tk
+Graphs of Linear Equations	rgvysb9emcQ
+Slope and Rate of Change	Iqws-qzyZwc
+Graphs Using Slope-Intercept Form	9wOalujeZf4
+Direct Variation Models	9M-B5qU7ezY
+Linear Function Graphs	EmTvdKkAUtE
+Word Problem Solving 4	5EdbPz1ZVn0
+Linear Equations in Slope Intercept Form	5fkh01mClLU
+Linear Equations in Point Slope Form	zqCokP2vDGo
+Linear Equations in Standard Form	BaQXFstxCMo
+Equations of Parallel and Perpendicular Lines	9hryH94KFJA
+Fitting a Line to Data	OhUkMQtBGmE
+Predicting with Linear Models	aVDiAGZmcPo
+Using a Linear Model	Gjv25aOuD00
+Inequalities Using Addition and Subtraction	UTs4uZhu5t8
+Inequalities Using Multiplication and Division	PNXozoJWsWc
+Multi-Step Inequalities	xOxvyeSl0uA
+Compound Inequalities	A3xPhzs-KBI
+Absolute Value Equations	u6zDpUL5RkU
+Absolute Value Inequalities	iI_2Piwn_og
+Graphing Inequalities	unSBFwK881s
+Solving Linear Systems by Graphing	5a6zpfl50go
+Solving Linear Systems by Substitution	V7H1oUHXPkg
+Solving Systems of Equations by Elimination	vA-55wZtLeE
+Solving Systems of Equations by Multiplication	wYrxKGt_bLg
+Special Types of Linear Systems	5qkyuHIE2GM
+Systems of Linear Inequalities	5xQqwgS3O4U
+Exponent Properties Involving Products	zM_p7tfWvLU
+Exponent Properties Involving Quotients	AR1uqNbjM5s
+Zero, Negative, and Fractional Exponents	tOuCdKqO6-s
+Scientific Notation	i6lfVUp5RW8
+Exponential Growth Functions	6WMZ7J0wwMI
+Exponential Decay Functions	AXAMVxaxjDg
+Geometric Sequences (Introduction)	pXo0bG4iAyg
+Word Problem Solving- Exponential Growth and Decay	m5Tf6vgoJtQ
+Addition and Subtraction of Polynomials	ZgFXL6SEUiI
+Multiplication of Polynomials	fGThIRpWEE4
+Special Products of Binomials	bFtjG45-Udk
+Polynomial Equations in Factored Form	zxz0WNVnF38
+Factoring Quadratic Expressions	eF6zYNzlZKQ
+Factoring Special Products	BI_jmI4xRus
+Factor by Grouping and Factoring Completely	X7B_tH4O-_s
+Graphs of Quadratic Functions	RjkTEyO5Zso
+Solving Quadratic Equations by Graphing	JHUju_Qkqbg
+Solving Quadratic Equations by Square Roots	55G8037gsKY
+Solving Quadratic Equations by Completing the Square	bNQY0z76M5A
+Using the Quadratic Formula	i7idZfS8t8w
+Proof of Quadratic Formula	r3SEkdtpobo
+Discriminant of Quadratic Equations	JBSDQLZtjFo
+Linear, Quadratic, and Exponential Models	CxEFOozrMSE
+Identifying Quadratic Models	o1npPDCq-4M
+Identifying Exponential Models	s8PKFcrrbNQ
+Quadratic Regression	z_hEVWSkQHo
+Graphs of Square Root Functions	outcfkh69U0
+Radical Expressions with Higher Roots	iX7ivCww2ws
+More Simplifying Radical Expressions	VWlFMfPVmkU
+How to Rationalize a Denominator	gY5TvlHg4Vk
+Extraneous Solutions to Radical Equations	711pdW8TbbY
+Radical Equation Examples	dKuk8PybYs4
+More Involved Radical Equation Example	5pqzmUxOw_E
+Pythagorean Theorem	AEIzy1kNRqo
+Distance Formula	nyZuite17Pc
+Midpoint Formula	Ez_-RwV9WVo
+Visual Pythagorean Theorem Proof	r382kfkqAF4
+Average or Central Tendency: Arithmetic Mean, Median...	GrynkZB3E7M
+Range, Variance and Standard Deviation as Measures o...	E4HAYd0QnRc
+Stem and Leaf Plots	OaJXJduRiIE
+Histograms	4eLJGG2Ad30
+Box-and-whisker Plot	BXq5TFLvsVw
+Proportionality	AQFZuih2odo
+Asymptotes of Rational Functions	2N62v_63SBo
+Another Rational Function Graph Example	ReEMqdZEEX0
+A Third Example of Graphing a Rational Function	p7ycTWq6BFk
+Polynomial Division	FXgV9ySNusc
+Simplifying Rational Expressions Introduction	7Uos1ED3KHI
+Multiplying and Dividing Rational Expressions	x_5hDLe8UL0
+Adding Rational Expressions Example 1	nWEso_M7By4
+Adding Rational Expressions Example 2	euyg3SwS2lU
+Adding Rational Expressions Example 3	4VO-BgDgAHE
+Solving Rational Equations	6eqgIZyXgK8
+Two more examples of solving rational equations	u28w46QrE0Q
+Surveys and Samples	nabw6v93Xns
+
+US History Overview 1: Jamestown to the Civil War	ghgPq2wjQUQ
+Appomattox Court House and Lincoln&#39;s Assassination	Frpq_A7Ky_Q
+US History Overview 2 - Reconstruction to the Great ...	zmBV87XA52Q
+US History Overview 3 - WWII to Vietnam	j2eKaxU-8kA
+Communism	MmRgMAZyYN0
+Korean War Overview	MEGyRgYJKEY
+Bay of Pigs Invasion	XmkbAduMD_E
+Cuban Missile Crisis	VO40SpSBjbc
+Vietnam War	9e9GWdT2pEQ
+Pattern of US Cold War Interventions	aNkrawaaiZQ
+Allende and Pinochet in Chile	Um92GZLCQ_Q
+When Capitalism is Great and Not-so-great	8NJEeEUUhaI
+20th Century Capitalism and Regulation in the United...	J33nVRyTeyU
+French Revolution (Part 1)	BDWqwcTtZa0
+French Revolution (Part 2)	0t4MF9ZoppM
+French Revolution (Part 3) - Reign of Terror	BZmtnCqTWik
+French Revolution (Part 4) - The Rise of Napoleon Bo...	KYoB2mjNdr0
+Haitian Revolution (Part 1)	Qz5zFzvbib4
+Haitian Revolution (Part 2)	gU-5bjpAPmA
+Napoleon and the Wars of the First and Second Coalit...	OzyH-1p9nAg
+Napoleon and the War of the Third Coalition	yogD_-Op4Wc
+Napoleon and the War of the Fourth Coalition	O3HxPDH-s7w
+Napoleon&#39;s Peninsular Campaigns	ALJGz4r_VF0
+French Invasion of Russia	F_ySQvjtAxQ
+Napoleon Forced to Abdicate	CH6FQhlZn6k
+Thomas Malthus and Population Growth	r1ywppAJ1xs
+
+PBS NewsHour on the Khan Academy	HycjWQcAymQ
+Salman Khan on CNN	PY5VKiG_IXE
+Salman Khan Speaks at GEL (Good Experience Live) Con...	yTXKCzrFh3c
+Salman Khan Talk at the MIT Club of Northern California	1C7FH7El35w
+Salman Khan talk at Castilleja School on January 5th...	VsS7bo3JMqk
+Sal Khan Interview with IT Conversations - January 3...	1uf_DeazfZg
+Salman Khan interview with NPR&#39;s All Things Consider...	po3DAsr6mDE
+Khan Academy on PBS NewsHour (Edited)	4jXv03sktik
+Sal Khan (with a severe cold!) on Future Talk	oPZQu5mIiRQ
+Brian Lehrer Interview with Salman Khan	72wRgtH6eJ0
+Salman Khan Interview with Mixergy.com	YQtXHp5wXLE
+Bill Gates talks about the Khan Academy at Aspen Ide...	6A07Pj71TUA
+Khan Academy Vision and Social Return	wRf6XiEZ_Y8
+Bay Area CBS Station with Salman Khan	PhHWmehThg8
+CNN:  Google award to Khan Academy	QGxgAHer3Ow
+Fareed Zakaria talks about Khan Academy on CNN GPS	ngk8k04zKHY
+Khan Academy on the Gates Notes	UuMTSU9DcqQ
+Sal on ABC News	RXeDxJfrqdw
+Forbes  Names You Need To Know:  Khan Academy	UkfppuS0Plg
+Salman Khan on KQED MindShift	Tksh1zHEkIM
+Khan Academy Exercise Software	hw5k98GV7po
+Salman Khan talk at TED 2011 (from ted.com)	gM95HHI4gLk
+Khan Academy on Nightly News	T4dk6woz4Do
+Khan Academy on Nightly News	T4dk6woz4Do
+Sal on Dylan Ratigan show	1nIbQK3Gwfo
+Authors@Google: Salman Khan	PhO2gshIVuE
+LinkedIn Speaker Series  Salman Khan	t1F15l7UfqE
+TEDxSanJoseCA - Salman Khan - (Sequel to talk at TED)	pRevFhvu8yc
+Salman Khan on Charlie Rose	fJFKE8kyz7w
+Salman Khan on Big Think	h8GfMq4-K6g
+Salman Khan on Marketplace (NPR) on 5-24-2011	uMjyAp3cs3c
+May 29th, 2011 CNN Piece	DvyAc6PNbVo
+Salman Khan at TiEcon 2011	JZ-v4_3Zf4c
+Khan Academy on Perry&#39;s Principles (6/2/2011)	7w3DHilPtI4
+Khan Academy on California Report (June 2011)	rpPbt8EOf00
+Ideal Math and Science Class Time	AkSGR_oj0rg
+NPR Story on KA Los Altos Pilots (June 2011)	VGxGrEnWVsg
+Salman Khan interviewed on NPR&#39;s On Point	Tz2H8dMMwi0
+Questions from Superinteressante (8-22-2011)	YGIw-H0AtwU
+21st Century Challenges (Royal Geographic Society)	FU5twilx7nw
+Answers for Malibu Magazine	kMCP4njGAMw
+NCSU Answers	US9i6UpzDM8
+Questions from Superinteressante (8-22-2011)	YGIw-H0AtwU
+Answers to Questions from the Independent	NV4_Xra0g8E
+The Gates Notes: Sal on Khan Academy	raP1ZWQSXjY
+The Gates Notes:  Students in Los Altos	q7lttowsC0Y
+The Gates Notes: Teachers in Los Altos	RoGgxrCsCEQ
+The Gates Notes: Administrators in Los Altos	2DlxIXYEu4s
+The Gates Notes:  Insights into students&#39; progress	zscrs94_pFc
+Early Show	2sTkub_aYt4
+Brainwave Sep 2011	0MzIJfmSa5k
+School Leadership Briefing Questions (Sep 12 2011) 2	nxQ-5li9rbA
+School Leadership Briefing (Sep 12 2011)	epQlOmZ0Kzs
+Center for Future of Museums	PGr1rqZ_3xo
+Sal during Education Week (Sep 2011) 1	pw9fPU4YqUA
+Khan Academy on 20 20 (Sep 2011)	da-9vUVr9tA
+KA on John Stossel  Documentary	_4qoTgnx1oQ
+Tom Brokaw interviews Sal at Education Nation 2011	YtIHBa54ce0
+Financial Times October 2011	1Hoo7MASKq0
+2011 Roundtable at Stanford: Education Nation 2.0	zv-9GXi9VLc
+Year 2060: Education Predictions	CiKrFcgVSIU
+Verbal Answers to &quot;Ask Me Anything&quot; on Reddit	2DVDI-HF4Eg
+Elizabeth Slavitt	RTtHES2VY1c
+Marcos Ojeda	LeeqlXUHNuU
+Minli Virdone	2onEj_Y9JHc
+Value of KA in India	hc_s3U1HDjQ
+
+MTEL Math Practice Test: 1-4	VSnaItss8Xc
+MTEL Math Practice Test: 5-8	fjPvQoShHYc
+MTEL Math Practice Test: 9-11	kE95P0oXXSw
+MTEL Math Practice Test: 12 -15	BSVUG-F6W1Y
+MTEL Math Practice Test: 16-19	nIGAejpOaII
+MTEL Math Practice Test: 20-23	RnJEqQdfkCM
+MTEL Math Practice Test: 24-27	mG94FpywnZw
+MTEL Math Practice Test: 28-30	I3yhRywRCaQ
+MTEL Math Practice Test: 31-35	JGeqb4VloPg
+MTEL Math Practice Test: 36-40	tIEGPkZVUj8
+MTEL Math Practice Test: 41-45	4bIqWXStPEI
+
+CAHSEE Practice: Problems 1-3	_yv3BrPt-cs
+CAHSEE Practice: Problems 4-9	i1CSuZdIu98
+CAHSEE Practice: Problems 10-12	4PIn_9cxefI
+CAHSEE Practice: Problems 13-14	9xwAPXM0Flg
+CAHSEE Practice: Problems 15-16	MwdwuDy0rRs
+CAHSEE Practice: Problems 17-19	ah39bUxYDEg
+CAHSEE Practice: Problems 20-22	ceM2u6IABWU
+CAHSEE Practice: Problems 23-27	glumochcaw0
+CAHSEE Practice: Problems 28-31	6Sy4E_8Psos
+CAHSEE Practice: Problems 32-34	1k-jqxMuUaM
+CAHSEE Practice: Problems 35-37	3A305Mhtkug
+CAHSEE Practice: Problems 38-42	_qB9JCpr8Co
+CAHSEE Practice: Problems 43-46	_rof2ExUzOU
+CAHSEE Practice: Problems 47-51	ENg2ajvKYss
+CAHSEE Practice: Problems 52-53	FdD0Wu032R4
+
+Introduction to Evolution and Natural Selection	GcjgWov7mTM
+Ape Clarification	oFGkYA_diDA
+Intelligent Design and Evolution	qxOEz9aPZNY
+Evolution Clarification	nh1R-gyY7es
+Natural Selection and the Owl Butterfly	dR_BFmDMRaI
+DNA	_-vZ_g7K6P0
+Variation in a Species	DuArVnT1i-E
+Chromosomes, Chromatids, Chromatin, etc.	s9HPNwXd9fk
+Mitosis, Meiosis and Sexual Reproduction	kaSIjIzAtYA
+Phases of Mitosis	LLKX_4DHE3I
+Phases of Meiosis	ijLc52LmFQg
+Embryonic Stem Cells	-yCIMk1x0Pk
+Cancer	RZhL7LDPk8w
+Introduction to Heredity	eEUvRrhmcxM
+Punnett Square Fun	D5ymMYcLtv0
+Hardy-Weinberg Principle	4Kbruik_LOo
+Sex-Linked Traits	-ROhfKyxgCo
+Bacteria	TDoGrbpJJ14
+Viruses	0h5Jd7sgQWY
+ATP: Adenosine Triphosphate	YQfWiDlFEcA
+Introduction to Cellular Respiration	2f7YwCtHcgk
+Oxidation and Reduction Review From Biological Point...	orI2m6IarJg
+Oxidation and Reduction in Cellular Respiration	_KyyVhlUDNU
+Glycolysis	FE2jfTXAJHg
+Krebs / Citric Acid Cycle	juM2ROSLWfw
+Electron Transport Chain	mfgCcFXUZRk
+Oxidative Phosphorylation and Chemiosmosis	W_Q17tqw_7A
+Photosynthesis	-rsYk4eCKnA
+Photosynthesis: Light Reactions 1	GR2GA7chA_c
+Photosynthesis:  Light Reactions and Photophosphoryl...	yfR36PMWegg
+Photosynthesis:  Calvin Cycle	slm6D2VEXYs
+Photorespiration	EQvTEFCANTM
+C-4 Photosynthesis	7ynX_F-SwNY
+CAM Plants	xp6Zj24h8uA
+Parts of a cell	Hmwvj9X4GNY
+Diffusion and Osmosis	aubZU0iWtgI
+The Lungs and Pulmonary System	SPGRkexI_cs
+Red blood cells	fLKOBQ6cZHA
+Circulatory System and the Heart	QhiVnFvshZg
+Hemoglobin	LWtXthfG9_M
+Anatomy of a Neuron	ob5U8zPbAX4
+Sodium Potassium Pump	C_H-ONQFjpQ
+Correction to Sodium and Potassium Pump Video	ye3rTjLCvAU
+Electrotonic and Action Potentials	gkQtRec2464
+Saltatory Conduction in Neurons	7wgb7ggzFNs
+Neuronal Synapses (Chemical)	Tbq-KZaXiL4
+Myosin and Actin	zopoN2i7ALQ
+Tropomyosin and troponin and their role in regulatin...	LiOfeSsjrB8
+Role of the Sarcoplasmic Reticulum in Muscle Cells	SauhB2fYQkM
+Anatomy of a muscle cell	uY2ZOsCnXIA
+Role of Phagocytes in Innate or Nonspecific Immunity	O1N2rENXq_Y
+Types of immune responses: Innate and Adaptive.  Hum...	rp7T4IItbtM
+B Lymphocytes (B cells)	Z36dUduOk1Y
+Professional Antigen Presenting Cells (APC) and MHC ...	j_kSmmEpvQk
+Helper T Cells	uwMYpTYsNZM
+Cytotoxic T Cells	oqI4skjr6lQ
+Review of B cells,  CD4+ T cells and CD8+ T cells	xaz5ftvZCyI
+Inflammatory Response	FXSuEIMrPQk
+The Kidney and Nephron	cc8sUv2SuaY
+Secondary Active Transport in the Nephron	czY5nyvZ7cU
+Species	Tmt4zrDK3dA
+Taxonomy and the Tree of Life	oHvLlS_Sc54
+
+Elements and Atoms	IFKnq9QM6_A
+Introduction to the atom	1xSQlwWGT8M
+Orbitals	yBrp8uvNAhI
+More on orbitals and electron configuration	FmQoSenbtnU
+Electron Configurations	RJlEH5Jz80w
+Electron Configurations 2	YURReI6OJsg
+Valence Electrons	1TZA171yxY4
+Groups of the Periodic Table	LDHg7Vgzses
+Periodic Table Trends: Ionization Energy	ywqg9PorTAw
+Other Periodic Table Trends	XMLd-O6PgVs
+Ionic, Covalent, and Metallic Bonds	CGA8sRwqIFg
+Molecular and Empirical Formulas	gfBcM3uvWfs
+The Mole and Avogadro&#39;s Number	AsqEkF7hcII
+Formula from Mass Composition	xatVrAh2U0E
+Another mass composition problem	sXOIIEZh6qg
+Balancing Chemical Equations	RnGu3xO2h74
+Stoichiometry	SjQG3rKSZUQ
+Stoichiometry: Limiting Reagent	rESzyhPOJ7I
+Ideal Gas Equation: PV=nRT	WScwPIPqZa0
+Ideal Gas Equation Example 1	erjMiErRgSQ
+Ideal Gas Equation Example 2	GwoX_BemwHs
+Ideal Gas Equation Example 3	69V-60sga3M
+Ideal Gas Example 4	Osl6HEDZZ-E
+Partial Pressure	d4bqNf37mBY
+States of Matter	pKvo0XWZtjo
+States of Matter Follow-Up	WenwtcuqOj8
+Specific Heat, Heat of Fusion and Vaporization	zz4KbvF_X-0
+Chilling Water Problem	lsXcKgjg8Hs
+Phase Diagrams	Qp87Z4m8R-w
+Van Der Waals Forces	8qfzpJvsp04
+Covalent Networks, Metallic, and Ionic Crystals	Rw_pDVbnfQk
+Vapor Pressure	hA5jddDYcyg
+Suspensions, Colloids and Solutions	3ROWXs3jtQU
+Solubility	zjIVJh4JLNo
+Boiling Point Elevation and Freezing Point Supression	z9LxdqYntlU
+Introduction to Kinetics	__zy-oOLPug
+Reactions in Equilibrium	CGJjjm7-DJ4
+Mini-Video on Ion Size	HBi8xjMchZc
+Keq Intuition (mathy and not necessary to progress)	ONBJo7dXJm8
+Keq derivation intuition (can skip; bit mathy)	psLX080RQR8
+Heterogenous Equilibrium	TsXlTWgyItw
+Le Chatelier&#39;s Principle	4-fEvpVNTlE
+Introduction to pH, pOH, and pKw	2q4vSKwaBtw
+Acid Base Introduction	vShCnTY1-T0
+pH, pOH of Strong Acids and Bases	tS2YJPmKOFQ
+pH of a Weak Acid	dencuBNp_Ck
+pH of a Weak Base	gDJtOIxDu78
+Conjugate Acids and Bases	0LM6wPpypxM
+pKa and pKb Relationship	3Gm4nAAc3zc
+Buffers and Hendersen-Hasselbalch	LJmFbcaxDPE
+Strong Acid Titration	299o6c-Fkz4
+Weak Acid Titration	gbpc_JBG1F0
+Half Equivalence Point	1u0PU2BcxKg
+Titration Roundup	BBIGR0RAMtY
+Introduction to Oxidation States	_fNNQfGGYr4
+More on Oxidation States	GA88JI4AymY
+Hydrogen Peroxide Correction	YPjtG5PA-iY
+Redox Reactions	yp60-oVxrT4
+Galvanic Cells	N4L3dDIixSU
+Types of Decay	3koOwozY4oc
+Half-Life	9REPnibO4IQ
+Exponential Decay Formula Proof (can skip, involves ...	H7nrVDV8ahc
+Introduction to Exponential Decay	HTDop6eEsaA
+More Exponential Decay Examples	Hqzakjo_dYg
+Macrostates and Microstates	5EU-y1VF7g4
+Quasistatic and Reversible Processes	lKq-10ysDb4
+First Law of Thermodynamics/ Internal Energy	Xb05CaG7TsQ
+More on Internal Energy	aOSlXuDO4UU
+Work from Expansion	obeGVTOZyfE
+PV-diagrams and Expansion Work	M5uOIy-JTmo
+Proof: U=(3/2)PV or U=(3/2)nRT	qSFY7GKhSRs
+Work Done by Isothermic Process	iiFWoXQPOJc
+Carnot Cycle and Carnot Engine	aAfBSJObd6Y
+Proof: Volume Ratios in a Carnot Cycle	ixRtSV3CXPA
+Proof: S (or Entropy) is a valid state variable	sPz5RrFus1Q
+Thermodynamic Entropy Definition Clarification	PFcGiMLwjeY
+Reconciling Thermodynamic and State Definitions of E...	WLKEVfLFau4
+Entropy Intuition	xJf6pHqLzs0
+Maxwell&#39;s Demon	aKRDvSZ-igA
+More on Entropy	dFFzAP2OZ3E
+Efficiency of a Carnot Engine	M_5KYncYNyc
+Carnot Efficiency 2:  Reversing the Cycle	pQWwP7YYH6o
+Carnot Efficiency 3:  Proving that it is the most ef...	LUoUb4hGMH8
+Enthalpy	fucyI7Ouj2c
+Heat of Formation	PK_JXzYcme0
+Hess&#39;s Law and Reaction Enthalpy Change	chXMpDwjBDk
+Gibbs Free Energy and Spontaneity	ViAmQivKif0
+Gibbs Free Energy Example	sG1ZAdYi13A
+More rigorous Gibbs Free Energy/ Spontaneity Relatio...	7aur5h44pV4
+A look at a seductive but wrong Gibbs/Spontaneity Proof	yYbzJs6vgv8
+Stoichiometry Example Problem 1	jFv6k2OV7IU
+Stoichiometry Example Problem 2	eQf_EAYGo-k
+Limiting Reactant Example Problem 1	YNriRslOk9A
+Empirical and Molecular Formulas from Stoichiometry	FycJ8X67xEU
+Example of Finding Reactant Empirical Formula	66ziUq6vRko
+Stoichiometry of a Reaction in Solution	EKZSwjVR594
+Another Stoichiometry Example in a Solution	_qrQKBB2jt8
+Molecular and Empirical Forumlas from Percent Compos...	_H009sTvYE0
+Acid Base Titration	XjFNmfLv9_Q
+Spectrophotometry Introduction	qbCZbP6_j48
+Spectrophotometry Example	VqAa_cmZ7OY
+Hess&#39;s Law Example	8bCL8TQZFKo
+Vapor Pressure Example	-QpkmwIoMaY
+Change of State Example	tvO0358YUYM
+
+Price and Market Capitalization	fa-VZ-SDxgY
+Introduction to the Income Statement	Z7C4cz2HkeY
+Earnings and EPS	RouNXdkC0do
+Introduction to the Price-to-Earnings Ratio	cppxO67e6eo
+P/E Discussion	V-rko8jgJ9o
+ROA Discussion 1	Oh4H3BJX1ZI
+ROA Discussion 2	R_5slDeVCQk
+Depreciation	a5sFUXkxyGc
+Amortization	XfR3JSkSkJM
+P/E Conundrum	VrFbXxkl9JU
+Enterprise Value	pa92UdJCaos
+EBITDA	v4Fq9LEspzw
+
+Liar Truthteller Brain Teaser	69rDtSpshAw
+Toggler Brain Teaser	l3OkPYhDi9w
+Alien Abduction Brain Teaser	K4pocYXOmTQ
+Brain Teaser: Blue Forehead Room	rBaCDC52NOY
+Blue Forehead Room Solution	-xYkTJFbuM0
+Forehead Numbers Brain Teaser	jqpQPxWj8gE
+Light Bulb Switching Brain Teaser	WNhxkpmVQYw
+Path Counting Brain Teaser	9QduzzW10uA
+3-D Path Counting Brain Teaser	wRxzDOloS3o
+
+Economics of a Cupcake Factory	XDIBJyNnLOU
+Cupcake Economics 2	-LTXzYXaAuk
+Cupcake Economics 3	8x1-TeDxblU
+Inflation, Deflation &amp; Capacity Utilization	LXrPdFn7Gn4
+Inflation, Deflation &amp; Capacity Utilization 2	cugQ4z4cJF8
+Inflation &amp; Deflation 3: Obama Stimulus Plan	sZRkERfzzn4
+Unemployment	vUOiOi-XaoQ
+CPI Index	pRIELoITIHI
+Simple Analysis of Cost per Job Saved from Stimulus	sSqxVMbml_k
+Unemployment Rate Primer	9DGbDx5xQNo
+Floating Exchange Resolving Trade Imbalance	wNYFJsC8TZE
+China Pegs to Dollar to Keep Trade Imbalance	uTlh861MtYk
+China buys US Bonds	Dfkq9SOWxY8
+Review of China US currency situation	DtlFQ_nNaQM
+Data on Chinese M1 Increase in 2010	4Azskeheo_g
+Data on Chinese Foreign Assets Increase in 2010	a3NFAnHxpKw
+Data on Chinese US Balance of Payments	iNemmT1hnzA
+Chinese inflation	R_-V6usZJsc
+Floating Exchange Effect on China	vrGNXAGmfCM
+Floating Exchange Effect on US	K0GF4FT51qY
+
+Geithner Plan I	ervHbKa7R5g
+Geithner Plan II	n-arbfLTCtI
+Geithner Plan 2.5	0FxRYePmogU
+Geithner Plan III	_ka1HZS-Egc
+Geithner Plan IV	ajl1UdtYUCA
+Geithner 5: A better solution	kpqSeXpiM6k
+
+Statistics: The Average	uhxtUt_-GyM
+Statistics: Sample vs. Population Mean	hsPCte_PcVA
+Statistics: Variance of a Population	6JFzI1DDyyk
+Statistics: Sample Variance	Qf3RMGXR-h8
+Statistics: Standard Deviation	HvDqbzu0i0E
+Statistics: Alternate Variance Formulas	sRVGcYGjUk8
+Introduction to Random Variables	IYdiKeQ9xEI
+Probability Density Functions	Fvi9A_tEmXQ
+Binomial Distribution 1	O12yTz_8EOw
+Binomial Distribution 2	FI8xtVaI068
+Binomial Distribution 3	vKNpQ_KTXvE
+Binomial Distribution 4	H0ZgOGWUcJw
+Expected Value: E(X)	j__Kredt7vY
+Expected Value of Binomial Distribution	SqcxYnNlI3Y
+Poisson Process 1	3z-M6sbGIZ0
+Poisson Process 2	Jkr4FSrNEVY
+Law of Large Numbers	VpuN8vCQ--M
+Normal Distribution Excel Exercise	yTGEMoaWDCQ
+Introduction to the Normal Distribution	hgtMWR3TFnY
+ck12.org Normal Distribution Problems: Qualitative s...	79duxPXpyKQ
+ck12.org Normal Distribution Problems: z-score	Wp2nVIzBsE8
+ck12.org Normal Distribution Problems: Empirical Rule	OhRr26AfFBU
+ck12.org Exercise: Standard Normal Distribution and ...	2fzYE-Emar0
+ck12.org: More Empirical Rule and Z-score practice	itQEwESWDKg
+Central Limit Theorem	JNm3M9cqWyc
+Sampling Distribution of the Sample Mean	FXZ2O1Lv-KE
+Sampling Distribution of the Sample Mean 2	NYd6wzYkQIM
+Standard Error of the Mean	J1twbrHel3o
+Sampling Distribution Example Problem	0ZstEh_8bYc
+Confidence Interval 1	bekNKJoxYbQ
+Mean and Variance of Bernoulli Distribution Example	O8vB1eInP_8
+Bernoulli Distribution Mean and Variance Formulas	ry81_iSHt6E
+Margin of Error 1	OwPSuHXmiPw
+Margin of Error 2	YclQE2XtaLw
+Confidence Interval Example	SeQeYVJZ2gE
+Small Sample Size Confidence Intervals	K4KDLWENXm0
+Hypothesis Testing and P-values	-FtlH4svqx4
+One-Tailed and Two-Tailed Tests	mvye6X_0upA
+Z-statistics vs. T-statistics	5ABpqVSx33I
+Type 1 Errors	EowIec7Y8HM
+Small Sample Hypothesis Test	D2sMsmL0ScQ
+T-Statistic Confidence Interval	hV4pdjHCKuA
+Large Sample Proportion Hypothesis Testing	1JT9oODsClE
+Variance of Differences of Random Variables	rLdoKZ7w0xI
+Difference of Sample Means Distribution	TcIDXqmt74A
+Confidence Interval of Difference of Means	hxZ6uooEJOk
+Clarification of Confidence Interval of Difference o...	yQsCMnz9wO8
+Hypothesis Test for Difference of Means	N984XGLjQfs
+Comparing Population Proportions 1	a1Ye5RcWOqg
+Comparing Population Proportions 2	MNbat1lrJW4
+Hypothesis Test Comparing Population Proportions	dvSa_tx04hw
+Squared Error of Regression Line	6OvhLPS7rj4
+Proof (Part 1) Minimizing Squared Error to Regressio...	mIx2Oj5y9Q8
+Proof (Part 3) Minimizing Squared Error to Regressio...	u1HhUB3NP8g
+Proof (Part 4) Minimizing Squared Error to Regressio...	8RSTQl0bQuw
+Regression Line Example	GAmzwIkGFgE
+Proof Part 2 Minimizing Squared Error to Line	f6OnoxctvUk
+R-Squared or Coefficient of Determination	lng4ZgConCM
+Second Regression Example	ww_yT9ckPWw
+Calculating R-Squared	Fc5t_5r_7IU
+Covariance and the Regression Line	ualmyZiPs9w
+[Vidéo supprimée]	saRzb1R3bKQ
+[Vidéo supprimée]	7NnXfpNCGbw
+Chi-Square Distribution Introduction	dXB3cUGnaxQ
+Pearson&#39;s Chi Square Test (Goodness of Fit)	2QeDRsxSF9M
+Contingency Table Chi-Square Test	hpWdDmgsIRE
+ANOVA 1 - Calculating SST (Total Sum of Squares)	EFdlFoHI_0I
+ANOVA 2 - Calculating SSW and SSB (Total Sum of Squa...	j9ZPMlVHJVs
+ANOVA 3 -Hypothesis Test with F-Statistic	Xg8_iSkJpAE
+Correlation and Causality	ROpbdO-gRUo
+
+Raising money for a startup	8OCjwBkMJ_E
+Getting a seed round from a VC	-hJj5NpWUXQ
+Going back to the till: Series B	m28RAgUySGQ
+An IPO	ywOr4OYqXOs
+More on IPOs	opEy6iN9kqc
+Equity vs. Debt	yQtUyBrRBx4
+Bonds vs. Stocks	rs1md3e4aYU
+Chapter 7:Bankruptcy Liquidation	-oW4M3vpuRM
+Chapter 11: Bankruptcy Restructuring	mxVWyzzMOXM
+
+CA Geometry: deductive reasoning	GluohfOedQE
+CA Geometry: Proof by Contradiction	u6O0YHyarlI
+CA Geometry: More Proofs	4PPMnI8-Zsc
+CA Geometry: Similar Triangles 1	bWTtHKSEcdI
+CA Geometry: Similar Triangles 2	iOLN43V1Lmw
+CA Geometry: More on congruent and similar triangles	FVSgVMVZZ-4
+CA Geometry: Triangles and Parallelograms	h0FFEBHBufo
+CA Geometry: Area, Pythagorean Theorem	jRrRqMJbHKc
+CA Geometry: Area, Circumference, Volume	BJSk1joCQsM
+CA Geometry: Pythagorean Theorem, Area	vaOXkt7uuac
+CA Geometry: Exterior Angles	Ncg1HB5uVLc
+CA Geometry: Deducing Angle Measures	_HJljJuVHLw
+CA Geometry: Pythagorean Theorem, Compass Constructions	6EY0E3z-hsU
+CA Geometry: Compass Construction	79lagkER9qY
+CA Geometry: Basic Trigonometry	MyvRxKM0xns
+CA Geometry: More Trig	8YBQQ0GeusM
+CA Geometry: Circle Area Chords Tangent	FJIZPvE3O1A
+CA Geometry: Secants and Translations	Mp838qprwyY
+
+CA Algebra I: Number Properties and Absolute Value	ZouQdHSyelg
+CA Algebra I: Simplifying Expressions	Hfihqi82M4A
+CA Algebra I: Simple Logical Arguments	yIzF_XGX4qk
+CA Algebra I: Graphing Inequalities	KZ8Vw_Nim8U
+CA Algebra I: Slope and Y-intercept	31v-n2ND2VE
+CA Algebra I: Systems of Inequalities	1piZ8oYWh3E
+CA Algebra I: Simplying Expressions	ri-0v6vqcKM
+CA Algebra I: Factoring Quadratics	K5ggNnKTmNM
+CA Algebra I: Completing the Square	8M4c8TB3Cdc
+CA Algebra I: Quadratic Equation	tSNtCg7o7bA
+CA Algebra I: Quadratic Roots	uA6mcx4FMN8
+CA Algebra I: Rational Expressions 1	K4VyHxglUts
+CA Algebra I: Rational Expressions 2	C5xQP8RmHxE
+CA Algebra I: Word Problems	PP23clmV9Hw
+CA Algebra I: More Word Problems	ch5tDNaeuxc
+CA Algebra I: Functions	NRB6s77nx2g
+
+California Standards Test: Algebra II	wzEVAd6ezZU
+California Standards Test: Algebra II (Graphing Ineq...	UzvOjuJZVJ0
+CA Standards: Algebra II (Algebraic Division/Multipl...	sMrmuoehZpY
+CA Standards:  Algebra II	q9m5VZMYEyw
+Algebra II: Simplifying Polynomials	WB7gPfsv6rQ
+Algebra II: Imaginary and Complex Numbers	C-2Ln0pK3kY
+Algebra II: Complex numbers and conjugates	e3W8o6M-7gg
+Algebra II: Quadratics and Shifts	GHDrDdu6vrU
+Algebra II: Shifting Quadratic Graphs	X9rTIwc1wRU
+Algebra ||: Conic Sections	74oju-0NExU
+Algebra II: Circles and Logarithms	QwOcCoHsZfM
+Algebra II: Logarithms Exponential Growth	BcjutHIUjxQ
+Algebra II: Logarithms and more	9Z1WpYN-tBE
+Algebra II: Functions, Combinatorics	Y5BukhTmSHE
+Algebra II: binomial Expansion and Combinatorics	xTxv9Wukjiw
+Algebra II: Binomial Expansions, Geometric Series Sum	EwKWzFv3Ul8
+Algebra II: Functions and Probability	ZGJU7aqE3mY
+Algebra II: Probability and Statistics	UXO9kJ3jlhk
+Algebra II: Mean and Standard Deviation	i0W4KcxE-mI
+
+GMAT Math: 1	jciijU8Mj_Y
+GMAT Math: 2	UlHo2cxKA84
+GMAT Math: 3	G8s3SkAm-gM
+GMAT Math: 4	X58FV7MwdbY
+GMAT Math: 5	fRTx45FJWto
+GMAT: Math 6	Q59w-ACX30M
+GMAT: Math 7	HqiBo62O8bk
+GMAT: Math 8	yZtpr_curdc
+GMAT:  Math 9	HkBFunEh8iY
+GMAT:  Math 10	E8HagppxzxY
+GMAT:  Math 11	YOlP6xmw7zU
+GMAT:  Math 12	VdBZSEF_FhU
+GMAT:  Math 13	9r8Wb7prWZA
+GMAT: Math 14	M8TOJrI6cJc
+GMAT: Math 15	BdSNiuJnZa8
+GMAT: Math 16	dA1u8RD49dU
+GMAT: Math 17	f3TQEpL7dk4
+GMAT: Math 18	ITc5DeU1zaw
+GMAT: Math 19	m44llkkWI0g
+GMAT Math 20	-Jx6vyc_830
+GMAT Math 21	tcm-v12m7hU
+GMAT Math 22	Zplk5NcBt3c
+GMAT Math 23	Qod67l16LfQ
+GMAT Math 24	QR9K8M4u8rk
+GMAT Math 25	A6FP-2d3GnQ
+GMAT Math 26	ucqaqTR6EK8
+GMAT Math 27	SEtkn9S-WHY
+GMAT Math 28	4r6QHJzu8YQ
+GMAT Math 29	WBWV_uvgC6w
+GMAT Math 30	zpnjkbJNp90
+GMAT Math 31	wYGKRP0gD3I
+GMAT Math 32	uG2VpBYd-Hk
+GMAT Math 33	wdINk29ZSMA
+GMAT Math 34	OgxsswJEZ7k
+GMAT Math 35	FEYN0jK1-pI
+GMAT Math 36	x8pEjhCc5ug
+GMAT Math 37	QcAr1552o84
+GMAT Math 38	-y9SELk3UNU
+GMAT Math 39	1bj7FPzUiWc
+GMAT Math 40	oug9h9-komI
+GMAT Math 41	4WOjZ9lQdHE
+GMAT Math 42	q0AkvTchhPI
+GMAT Math 43	xvyQP-oezXc
+GMAT Math 44	IDkhHTjlg0M
+GMAT Math 45	o0azgDKAFNI
+GMAT Math 46	rLI88bU7Fuo
+GMAT Math 47	iwamZ7r2tTE
+GMAT Math 48	nZ90fsoVvmc
+GMAT Math 49	1-9n4Upditg
+GMAT Math 50	OvRAIlok3fA
+GMAT Math 51	AwKTZK8gqZI
+GMAT Math 52	tixLZtDnbTg
+GMAT Math 53	cY-iPEtvJAE
+GMAT Math 54	EiZJzWPTm0I
+
+GMAT: Data Sufficiency 1	GZInN7p1D0M
+GMAT: Data Sufficiency  2	8nod8JWaO1o
+GMAT: Data Sufficiency 3	eg4r1ev0xYs
+GMAT: Data Sufficiency 4	fMTLSOTAzWs
+GMAT: Data Sufficiency 5	wIPriEEti6o
+GMAT: Data Sufficiency 6	qHO1xH4ilZs
+GMAT: Data Sufficiency 7	21680hPTfUc
+GMAT: Data Sufficiency 8	nL-NSia0HiA
+GMAT: Data Sufficiency 9	GviCdNfeXw8
+GMAT: Data Sufficiency 10	Sx_KqnkcJVA
+GMAT: Data Sufficiency 11	gpIJcqY0weE
+GMAT: Data Sufficiency 12	dgZy7Uj8cAI
+GMAT: Data Sufficiency 13	qDsLxwmW_Ms
+GMAT: Data Sufficiency 14	iW3EP2FE5zc
+GMAT: Data Sufficiency  15	ejIjaaocVvE
+GMAT: Data Sufficiency 16	3ia-sGkAVf8
+GMAT: Data Sufficiency 17	bcADF8WgLz4
+GMAT: Data Sufficiency 18	UR4Zr0hE-As
+GMAT: Data Sufficiency 19	C-qg2Lcy6Ts
+GMAT: Data Sufficiency 20	XFuFxgbnkaM
+GMAT: Data Sufficiency 21	V7vCaxe3Rys
+GMAT Data Sufficiency 21 (correction)	Lq-zp5_OgSY
+GMAT: Data Sufficiency 22	CdF-6PJ2jTM
+GMAT: Data Sufficiency 23	QOtyTZGWOmg
+GMAT: Data Sufficiency 24	NrIf451oN30
+GMAT: Data Sufficiency 25	kYWBbu-FXV0
+GMAT: Data Sufficiency 26	Lhop0mfeJMQ
+GMAT: Data Sufficiency 27	OzTqWpAPnrw
+GMAT: Data Sufficiency 28	vD1OROM3Lfo
+GMAT: Data Sufficiency 29	BCEyKQQOl8E
+GMAT: Data Sufficiency 30	o_eNoF1DnZs
+GMAT: Data Sufficiency 31	5BEaqN92vDk
+GMAT: Data Sufficiency 32	qVPtT8CX1eM
+GMAT: Data Sufficiency 33	-uZt8MLeDrg
+GMAT: Data Sufficiency 34	K_uaUQY6MVQ
+GMAT: Data Sufficiency 35	XuDGJ-LUnAU
+GMAT: Data Sufficiency 36	LDyMYyiAsQs
+GMAT: Data Sufficiency 37	wPA2FrET_Ac
+GMAT: Data Sufficiency 38	n1MbK-Qb7Mk
+GMAT: Data Sufficiency 39	lqv9dXXjfWE
+GMAT Data Sufficiency 40	dmN_s286dHc
+GMAT Data Sufficiency 41	cMjJSUsaWvc
+
+Bailout 1: Liquidity vs. Solvency	ZUEjRYe7MRk
+Bailout 2: Book Value	YJBqGM29_64
+Bailout 3: Book value vs. market value	TUOQZjotyAQ
+Bailout 4: Mark-to-model vs. mark-to-market	w_GZqhAR0I4
+Bailout 5: Paying off the debt	I8BLj7cRM7c
+Bailout 6: Getting an equity infusion	jDNalKBb3aA
+Bailout 7: Bank goes into bankruptcy	MdIfefLcdoU
+Bailout 8: Systemic Risk	gX9aKDeAOz4
+Bailout 9: Paulson&#39;s Plan	eBYbnYNl0rw
+Bailout 10: Moral Hazard	roap32sTgPk
+Bailout 11: Why these CDOs could be worth nothing	RkIM0Mbc8YQ
+Bailout 12: Lone Star Transaction	eZZkhSl8lMA
+Bailout 14: Possible Solution	BdmI14oSe4g
+Bailout 15: More on the solution	-KrSxA9NCf0
+
+CNN: Understanding the Crisis	_ZAlj2gu0eM
+Harmonic Motion Part 2 (calculus)	xoUppFlif04
+Calculus Proof that a=v^2/r	YRBRarbMCyE
+Introduction to the yield curve	b_cAxh44aNQ
+Basic Trigonometry	F21S9Wpi0y8
+Introduction to Logarithms	mQTWzLpCcW0
+i and Imaginary numbers	rDLDGQMKT3M
+Why borrowing works	fWan_T0enj4
+Adding and subtracting fractions	52ZlXsFJULI
+
+Banking 1	E-HOz8T6tAo
+Banking 2: A bank&#39;s income statement	h3lMANILkw0
+Banking 3: Fractional Reserve Banking	nH2-37rTA8U
+Banking 4: Multiplier effect and the money supply	F7r7l1VG-Tw
+Banking 5: Introduction to Bank Notes	cNFLqhU4MN0
+Banking 6: Bank Notes and Checks	IOzZVmgK3IM
+Banking 7: Giving out loans without giving out gold	On3c86V5A_E
+Banking 8: Reserve Ratios	VP3nKDUw1jA
+Banking 9: More on Reserve Ratios (Bad sound)	DFPBdbx0vFc
+Banking 10:  Introduction to leverage (bad sound)	8fxilNdEQTo
+Banking 11: A reserve bank	M-4GWomLbpc
+Banking 12:  Treasuries (government debt)	JBWdbzzYbtU
+Banking 13: Open Market Operations	BTNarhvGX88
+Banking 14: Fed Funds Rate	IniG1KkPS2c
+Banking 15: More on the Fed Funds Rate	rgqFXkLAc-4
+Banking 16: Why target rates vs. money supply	yOgGhPIHnlA
+Banking 17: What happened to the gold?	NFDMXwwzyIM
+Banking 18: Big Picture Discussion	T9byZBGtGuw
+The Discount Rate	FxkTSjctXdk
+Repurchase Agreements (Repo transactions)	QWninXOAMXE
+Federal Reserve Balance Sheet	MILF-9GeMDQ
+Fractional Reserve Banking Commentary 1	ZyyaE3DIxhc
+FRB Commentary 2: Deposit Insurance	otstXFxMkl4
+FRB Commentary 3: Big Picture	8SAMey9Gl5I
+LIBOR	wBCowBiXV7A
+
+The housing price conundrum	8IR5LefXVPY
+Housing price conundrum (part 2)	wYAhlTHIBT4
+Housing Price Conundrum (part 3)	aAfMps_VyOY
+Housing Conundrum (part 4)	s6UYa2nwaDw
+Mortgage-Backed Securities I	oosYQHq2hwE
+Mortgage-backed securities II	eYBlfxGIk28
+Mortgage-backed securities III	q0oSKmC3Mfc
+Collateralized Debt Obligation (CDO)	XjoJ9UF2hqg
+Bailout 13: Does the bailout have a chance of working?	R528WbVdC0I
+Credit Default Swaps	a1lVOO9Y080
+Credit Default Swaps 2	neAFEvNsiqw
+[Vidéo supprimée]	8MLtDXQJcTE
+Wealth Destruction 1	Q7HbtnOyKMg
+Wealth Destruction 2	eRImmzuExyg
+[Vidéo supprimée]	JPrW3AUWErk
+
+What is a differential equation	-_POEWfygmU
+Separable Differential Equations	C5-lz0hcqsE
+Separable differential equations 2	xVWCfMe97ws
+Exact Equations Intuition 1 (proofy)	iEpqcdaJNTQ
+Exact Equations Intuition 2 (proofy)	a7wYAtMjORQ
+Exact Equations Example 1	Pb04ntcDJcQ
+Exact Equations Example 2	utQi1ZhF__Q
+Exact Equations Example 3	eu_GFuU7tLI
+Integrating factors 1	j511hg7Hlbg
+Integrating factors 2	0NyeDUhKwBE
+First order homegenous equations	9Wfn-WWV1aY
+First order homogenous equations 2	6YRGEsQWZzY
+2nd Order Linear Homogeneous Differential Equations 1	UFWAu8Ptth0
+2nd Order Linear Homogeneous Differential Equations 2	SPVqgkOZMAc
+2nd Order Linear Homogeneous Differential Equations 3	UyCwAFQt4v0
+2nd Order Linear Homogeneous Differential Equations 4	3uO_uPb9H8w
+Complex roots of the characteristic equations 1	6xEO4BeawzA
+Complex roots of the characteristic equations 2	jJyRrIZ595c
+Complex roots of the characteristic equations 3	rGaM6pwqhB0
+Repeated roots of the characteristic equation	NW9JfMvIsxw
+Repeated roots of the characterisitic equations part 2	YezsgIlcb68
+Undetermined Coefficients 1	znE4Nq9NJCQ
+Undetermined Coefficients 2	hbJ2o9EUmJ0
+Undetermined Coefficients 3	I3vIAzMcm4Y
+Undetermined Coefficients 4	vAepSNDLZRM
+Laplace Transform 1	OiNh2DswFt4
+Laplace Transform 2	33TYoybjqPg
+Laplace Transform 3 (L{sin(at)})	gMcs6RF_LrQ
+Laplace Transform 4	-cApVwKR1Ps
+Laplace Transform 5	E2VxbufzuWQ
+Laplace Transform 6	fyJkXBvcA2Q
+Laplace Transform to solve an equation	3uYb-RhM7lU
+Laplace Transform solves an equation 2	EdQ7Q9VoF44
+More Laplace Transform tools	_X_QwpXsdOs
+Using the Laplace Transform to solve a nonhomogenous eq	nlUG4OKN1IY
+Laplace Transform of : L{t}	qhKJ1DG9kYY
+Laplace Transform of  t^n: L{t^n}	pZIaUx3UQoA
+Laplace Transform of the Unit Step Function	4Mr7aEHQr8E
+Inverse Laplace Examples	BbqbvSig6Mc
+Laplace/Step Function Differential Equation	R0JY8oWsuOY
+Dirac Delta Function	4qfdCwys2ew
+Laplace Transform of the Dirac Delta Function	vhfjEpQWWeE
+Introduction to the Convolution	IW4Reburjpc
+The Convolution and the Laplace Transform	TJgBEI3drUc
+Using the Convolution Theorem to Solve an Initial Va...	rfyq32mHcYs
+
+Introduction to matrices	xyAuNHPsq-g
+Matrix multiplication (part 1)	aKhhYguY0DQ
+Matrix multiplication (part 2)	OAh573i_qn8
+Inverse Matrix (part 1)	iUQR0enP7RQ
+Inverting matrices (part 2)	S4n-tQZnU6o
+Inverting Matrices (part 3)	obts_JDS6_Q
+Matrices to solve a system of equations	AUqeb9Z3y3k
+Matrices to solve a vector combination problem	gsNgdVdAT1o
+Singular Matrices	UqyN7-tRS00
+3-variable linear equations (part 1)	5tB7y_piK6o
+Solving 3 Equations with 3 Unknowns	woqq3Sls1d8
+Linear Algebra: Introduction to Vectors	5cWB52I-SF0
+Linear Algebra: Vector Examples	r4bH66vYjss
+Linear Algebra: Parametric Representations of Lines	hWhs2cIj7Cw
+Linear Combinations and Span	Qm_OS-8COwU
+Linear Algebra: Introduction to Linear Independence	CrV1xCWdY-g
+More on linear independence	Alhcv5d_XOs
+Span and Linear Independence Example	9kW6zFK5E5c
+Linear Subspaces	pMFv6liWK4M
+Linear Algebra: Basis of a Subspace	zntNi3-ybfQ
+Vector Dot Product and Vector Length	WNuIhXo39_k
+Proving Vector Dot Product Properties	rVQ3G9epCjw
+Proof of the Cauchy-Schwarz Inequality	r2PogGDl8_U
+Linear Algebra: Vector Triangle Inequality	PsNidCBr5II
+Defining the angle between vectors	5AWob_z74Ks
+Defining a plane in R3 with a point and normal vector	UJxgcVaNTqY
+Linear Algebra: Cross Product Introduction	pJzmiywagfY
+Proof: Relationship between cross product and sin of...	7MKA2QlKvHc
+Dot and Cross Product Comparison/Intuition	tdwFdzVqito
+Matrices: Reduced Row Echelon Form 1	L0CmbneYETs
+Matrices: Reduced Row Echelon Form 2	lP1DGtZ8Wys
+Matrices: Reduced Row Echelon Form 3	JVDrlTdzxiI
+Matrix Vector Products	7Mo4S2wyMg4
+Introduction to the Null Space of a Matrix	jCwRV1QL_Xs
+Null Space 2: Calculating the null space of a matrix	qvyboGryeA8
+Null Space 3: Relation to Linear Independence	vFctYRhK2M0
+Column Space of a Matrix	st6D5OdFV9M
+Null Space and Column Space Basis	_uTAdf_AsfQ
+Visualizing a Column Space as a Plane in R3	EGNlXtjYABw
+Proof: Any subspace basis has same number of elements	Zn2K8UIT8r4
+Dimension of the Null Space or Nullity	abYAUqs_n6I
+Dimension of the Column Space or Rank	JUgrBkPteTg
+Showing relation between basis cols and pivot cols	BfVjTOjvI30
+Showing that the candidate basis does span C(A)	CkQOCnLWPUA
+A more formal understanding of functions	BQMyeQOLvpg
+Vector Transformations	gAbadNuQEjI
+Linear Transformations	4PCktDZJH8E
+Matrix Vector Products as Linear Transformations	ondmopWLiEg
+Linear Transformations as Matrix Vector Products	PErhLkQcpZ8
+Image of a subset under a transformation	MIAmN5kgp3k
+im(T):  Image of a Transformation	hZ827mfh1Jo
+Preimage of a set	zVsGtU8lIWs
+Preimage and Kernel Example	6yrPU8rYOhs
+Sums and Scalar Multiples of Linear Transformations	wHuY97vss18
+More on Matrix Addition and Scalar Multiplication	Z19-ObbmHJE
+Linear Transformation Examples: Scaling and Reflections	qkfODKmZ-x4
+Linear Transformation Examples: Rotations in R2	lPWfIq5DzqI
+Rotation in R3 around the X-axis	gkyuLPzfDV0
+Unit Vectors	lQn7fksaDq0
+Introduction to Projections	27vT-NWuw0M
+Expressing a Projection on to a line as a Matrix Vec...	JK-8XNIoAkI
+Compositions of Linear Transformations 1	f_DTiXZpb8M
+Compositions of Linear Transformations 2	BuqcKpe5ZQs
+Linear Algebra: Matrix Product Examples	x1z0hOyjapU
+Matrix Product Associativity	Hhc96U_HvQE
+Distributive Property of Matrix Products	oMWTMj78cwc
+Linear Algebra: Introduction to the inverse of a fun...	-eAzhBZgq28
+Proof: Invertibility implies a unique solution to f(...	7GEUgRcnfVE
+Surjective (onto) and Injective (one-to-one) functions	xKNX8BUWR0g
+Relating invertibility to being onto and one-to-one	QIU1daMN8fw
+Determining whether a transformation is onto	eR8vEdJTvd0
+Linear Algebra: Exploring the solution set of Ax=b	1PsNIzUJPkc
+Linear Algebra: Matrix condition for one-to-one trans	M3FuL9qKTBs
+Linear Algebra: Simplifying conditions for invertibi...	Yz2OosyMTmY
+Linear Algebra: Showing that Inverses are Linear	mr9Tow8hpCg
+Linear Algebra: Deriving a method for determining in...	6DpzCKJBsz0
+Linear Algebra: Example of Finding Matrix Inverse	r9aTLTN16V4
+Linear Algebra: Formula for 2x2 inverse	eEUK_ThrHuQ
+Linear Algebra: 3x3 Determinant	0c7dt2SQfLw
+Linear Algebra: nxn Determinant	H9BWRYJNIv4
+Linear Algebra: Determinants along other rows/cols	nu87kfmwNfU
+Linear Algebra: Rule of Sarrus of Determinants	4xFIi0JF2AM
+Linear Algebra: Determinant when row multiplied by s...	32rdijPB-rA
+Linear Algebra: (correction) scalar muliplication of...	WY6QG0mZ7uQ
+Linear Algebra: Determinant when row is added	VrB3LaSD_uo
+Linear Algebra: Duplicate Row Determinant	gYv8sttBIqs
+Linear Algebra: Determinant after row operations	kpG7xySkivg
+Linear Algebra: Upper Triangular Determinant	VX7K8iqoiRc
+Linear Algebra: Simpler 4x4 determinant	QV0jsTiobU4
+Linear Algebra:  Determinant and area of a parallelo...	n-S63_goDFg
+Linear Algebra: Determinant as Scaling Factor	g3MqSdO5Ubc
+Linear Algebra: Transpose of a Matrix	2t0003_sxtU
+Linear Algebra:  Determinant of Transpose	x-GV2v0dRNE
+Linear Algebra: Transpose of a Matrix Product	UdHgWK13x5I
+Linear Algebra:  Transposes of sums and inverses	Br_8t58mdeI
+Linear Algebra: Transpose of a Vector	lSoaMCNKfAg
+Linear Algebra: Rowspace and Left Nullspace	qBfc57x_RSg
+Lin Alg: Visualizations of Left Nullspace and Rowspace	GW8ZPjGlk24
+Linear Algebra: Orthogonal Complements	QOTjdgmNqlg
+Linear Algebra: Rank(A) = Rank(transpose of A)	tqqVOWm9YsU
+Linear Algebra: dim(V) + dim(orthogonoal complelent ...	pGhBfkBqok0
+Lin Alg: Representing vectors in Rn using subspace m...	M6lFqkqvUgo
+Lin Alg:  Orthogonal Complement of the Orthogonal Co...	zlI8mx8Hc8o
+Lin Alg: Orthogonal Complement of the Nullspace	LE_aQAur7nI
+Lin Alg: Unique rowspace solution to Ax=b	czIYvs9zj2g
+Linear Alg: Rowspace Solution to Ax=b example	qdf2CuMGdKs
+Linear Alg: Rowspace Solution to Ax=b example	qdf2CuMGdKs
+Lin Alg: Showing that A-transpose x A is invertible	ESSMQH6Y5OA
+Linear Algebra: Projections onto Subspaces	5B8XluiqdHM
+Linear Alg: Visualizing a projection onto a plane	uWbZlJURkfA
+Lin Alg: A Projection onto a Subspace is a Linear Tr...	cTyNpXB92bQ
+Linear Algebra: Subspace Projection Matrix Example	QTcSBB3uVP0
+Lin Alg: Another Example of a Projection Matrix	XhCSHu6dHb8
+Linear Alg: Projection is closest vector in subspace	b269qpILOpk
+Linear Algebra: Least Squares Approximation	MC7l96tW8V8
+Linear Algebra: Least Squares Examples	8mAZYv5wIcE
+Linear Algebra: Another Least Squares Example	QkepM8Vv3kw
+Linear Algebra: Coordinates with Respect to a Basis	uvgru6FcyxU
+Linear Algebra: Change of Basis Matrix	1j5WnqwMdCk
+Lin Alg: Invertible Change of Basis Matrix	meibWcbGqt4
+Lin Alg: Transformation Matrix with Respect to a Basis	PiuhTj0zCf4
+Lin Alg: Alternate Basis Tranformation Matrix Example	lCRGNykWqFI
+Lin Alg: Alternate Basis Tranformation Matrix Exampl...	EyORbCPUAd4
+Lin Alg: Changing coordinate systems to help find a ...	K_na_j1Msfg
+Linear Algebra: Introduction to Orthonormal Bases	7BFx8pt2aTQ
+Linear Algebra: Coordinates with respect to orthonor...	SWbis2zWIvo
+Lin Alg: Projections onto subspaces with orthonormal...	we829K4NOq8
+Lin Alg: Finding projection onto subspace with ortho...	SUoqA9srY1Q
+Lin Alg: Example using orthogonal change-of-basis ma...	gfVY7cW7VLQ
+Lin Alg:  Orthogonal matrices preserve angles and le...	yDwIfYjKEeo
+Linear Algebra: The Gram-Schmidt Process	rHonltF77zI
+Linear Algebra: Gram-Schmidt Process Example	tu1GPtfsQ7M
+Linear Algebra:  Gram-Schmidt example with 3 basis v...	ZRRG386v6DI
+Linear Algebra: Introduction to Eigenvalues and Eige...	PhfbEr2btGQ
+Linear Algebra: Proof of formula for determining Eig...	rfm0wQObxjk
+Linear Algebra: Example solving for the eigenvalues ...	pZ6mMVEE89g
+Linear Algebra:  Finding Eigenvectors and Eigenspace...	3-xfmbdzkqc
+Linear Algebra: Eigenvalues of a 3x3 matrix	11dNghWC4HI
+Linear Algebra:  Eigenvectors and Eigenspaces for a ...	3Md5KCCQX-0
+Linear Algebra:  Showing that an eigenbasis makes fo...	C2PC9185gIw
+Vector Triple Product Expansion (very optional)	b7JTVLc_aMk
+Normal vector from plane equation	gw-4wltP5tY
+Point distance to plane	7rIFO8hct9g
+Distance Between Planes	v8plb6V8BQo
+
+Singapore Math: Grade 3a, Unit 1 (part 1)	DjCdzM40LDM
+Singapore Math: Grade 3a Unit 1 (part 2)	KdBbnMAuMqw
+Singapore Math: Grade 3a, Unit 1 (part 3)	f1zhOtnCWM4
+Singapore Math: Grade 3a, Unit 1 (part 4)	1TjtFhuMdU8
+Singapore Math: Grade 3a, Unit 1 (part 5)	2eSH9zCAA9Q
+Singapore Math: Grade 3a, Unit 1 (part 6)	3phL9GRSY3g
+Singapore Math: Grade 3a, Unit 1 (part 7)	QNXy9NEKSzE
+Singapore Math: Grade 3a, Unit 1 (part 8)	e9MA-Dpt1_w
+Singapore Math: Grade 3a, Unit 1 (part 9)	kNuBFpN7z18
+Singapore Math: Grade 3a Unit 2 (part 1)	K5xnULMbtH0
+Singapore Math: Grade 3a Unit 2 (part 2)	3ybPmFWZXwk
+Singapore Math: Grade 3a Unit 2 (part 3)	GVVOqaIdxp8
+Singapore Math: Grade 3a Unit 2 (part 4)	Awx6eoc_XYU
+Singapore Math: Grade 3a Unit 2 (part 5)	AJxHM7EDh4o
+Singapore Math: Grade 3a Unit 2 (part 6)	KffRJ3S3jHA
+Singapore Math: Grade 3a Unit 2 (part 7)	CcdhwzN4lzk
+Singapore Math: Grade 3a Unit 2 (part 8)	lbhM1ILFgF8
+Singapore Math: Grade 3a Unit 2 (part 9)	C0avH_H2a5A
+Singapore Math: Grade 3a Unit 2 (part 10)	cD-iQLCg-ss
+Singapore Math:  Grade 3a Unit 2 (part 11)	8-4mIiNtV3k
+
+Basic Probability	uzkc-qNVoOk
+Probability with Playing Cards and Venn Diagrams	obZzOq_wSCg
+Addition Rule for Probability	QE2uR6Z-NcU
+Probability 1 Module Examples	mLE-SlOZToc
+Compound Probability of Independent Events	xSc4oLA9e8o
+Getting At Least One Heads	mkyZ45KQYi4
+Frequency Probability and Unfair Coins	RI874OSJp1U
+Getting Exactly Two Heads (Combinatorics)	8TIben0bJpU
+Exactly Three Heads in Five Flips	udG9KhNMKJw
+Frequency Stability	vVXbgbMp0oY
+Generalizing with Binomial Coefficients (bit advanced)	AOsWph2FNLw
+Probability (part 2)	6E_NVnboMB8
+Probability (part 3)	wBDOCvHYckE
+Probability (part 4)	W581OBM9rAY
+Probability (part 5)	2XToWi9j0Tk
+Probability (part 6)	xf3vfczoCho
+Dependent Probability Example 1	xPUm5SUVzTE
+Dependent Probability Example 2	7BkcNLOf56w
+Probability (part 7)	BLcgeLALLnc
+Probability (part 8)	VVr8snbaxZg
+Permutations	XqQTXW7XfYA
+Combinations	bCxMhncR7PU
+Probability using Combinations	Xqfcy1rqMbI
+Probability and Combinations (part 2)	W7DmsJKLoxc
+Conditional Probability and Combinations	xw6utjoyMi4
+Birthday Probability Problem	9G0w61pZPig
+Introduction to Random Variables	IYdiKeQ9xEI
+Probability Density Functions	Fvi9A_tEmXQ
+Binomial Distribution 1	O12yTz_8EOw
+Binomial Distribution 2	FI8xtVaI068
+Binomial Distribution 3	vKNpQ_KTXvE
+Binomial Distribution 4	H0ZgOGWUcJw
+Expected Value: E(X)	j__Kredt7vY
+Expected Value of Binomial Distribution	SqcxYnNlI3Y
+Poisson Process 1	3z-M6sbGIZ0
+Poisson Process 2	Jkr4FSrNEVY
+Law of Large Numbers	VpuN8vCQ--M
+Term Life Insurance and Death Probability	NSSoMafbBqQ
+Mega Millions Jackpot Probability	gyqodNhM3EU
+LeBron asks about the chances of making 10 free throws	iMqCSgqzmiQ
+
+SAT prep: test 1 section3 part 1	tP9bocr_C2I
+SAT Prep: Test 1 Section 3 Part 2	uFfMl-wGOqA
+SAT Prep: Test 1 Section 3 Part 3	BRX5mWU0pKo
+SAT Prep: Test 1 Section 3 Part 4	THu1yyU350A
+SAT Prep: Test 1 Section 3 Part 5	Pj-dYWwdlDA
+SAT Prep: Test 1 Section 3 Part 6	I1CPivr1Rqs
+SAT Prep: Test 1 Section 3 Part 7	r_MPl6c23cc
+SAT Prep: Test 1 Section 3 Part 8	281GDzKgNIw
+SAT Prep: Test 1 Section 6 Part 1	VUY_9-dl9Ro
+SAT Prep: Test 1 Section 6 Part 2	EWsVUf6ZFgw
+SAT Prep: Test 1 Section 6 Part 3	qCFS9sM3U4w
+SAT Prep: Test 1 Section 6 Part 4	j-G31l9tETk
+SAT Prep: Test 1 Section 6 Part 5	zYltrrFpuRU
+SAT Prep: Test 1 Section 6 Part 6	-UtUjx4nj-E
+SAT Prep: Test 1 Section 9 Part 1	MFAuLptYXFE
+SAT Prep: Test 1 Section 9 Part 2	fX0ZVflYqf0
+SAT Prep: Test 1 Section 9 Part 3	D4UfrKzUVz8
+SAT Prep: Test 1 Section 9 Part 4	5tptL-SjfHY
+SAT Prep: Test 1 Section 9  Part 5	QWtZ9jpN_3k
+SAT Prep: Test 2 Section 3 part 1	0QvGgONYDeA
+SAT Prep: Test 2 Section 3 Part 2	jG_R8MyQ53U
+SAT Prep: Test 2 Section 3 Part 3	x7RYmTE3X-Y
+SAT Prep: Test 2 Section 3 Part 4	t9_by0bbp48
+SAT Prep: Test 2 Section 3 Part 5	oRWMtRqR6yc
+SAT Prep: Test 2 Section 3 Part 6	FEEsj1puK9k
+SAT Prep: Test 2 Section 6 Part 1	4mUAiRKIhj0
+SAT Prep: Test 2 Section 6 Part 2	MuhPEK5_kog
+SAT Prep: Test 2 Section 6 Part 3	JqzTKxFpzco
+SAT Prep: Test 2 Section 6 Part 4	uH5qmnegzcY
+SAT Prep: Test 2 Section 6 Part 5	f4drCCsnOt8
+SAT Prep: Test 2 Section 6 Part 6	EDEg7SY2-VU
+SAT Prep: Test 2 Section 9 Part 1	oVkzin26KJk
+SAT Prep: Test 2 Section 9 Part 2	nognGA0mtcU
+SAT Prep: Test 2 Section 9 Part 3	n30T7Uc6IOg
+SAT Prep: Test 2 Section 9 Part 4	u1FZjRUC9MY
+SAT Prep: Test 3 Section 2 Part 1	pCpLtKdMjSE
+SAT Prep: Test 3 Section 2 Part 2	YsKgw5S7Plg
+SAT Prep: Test 3 Section 2 Part 3	fRRc-3sJuwU
+SAT Prep: Test 3 Section 2 Part 4	79ZwFMRWidQ
+Test 3 Section 2 Part 5	Eh0j5nHhS6I
+SAT Prep: Test 3 Section 4 Part 1	eS-XNHsh4TQ
+SAT Prep: Test 3 Section 4 Part 2	7rt8X3bIhf4
+SAT Prep: Test 3 Section 4 Part 3	eZuR5-Jng0o
+SAT Prep: Test 3 Section 4 Part 4	-rH2wMlppjo
+SAT Prep: Test 3 Section 4 Part 5	z01WJ-HgoCY
+SAT Prep: Test 3 Section 8 Part 1	7FRFzf-MLnw
+SAT Prep: Test 3 Section 8 Part 2	YFV6QFVxxPc
+SAT Prep: Test 3 Section 8 Part 3	5yysruBGqEM
+SAT Prep: Test 3 Section 8 Part 4	eUi6VS3qc9A
+SAT Prep: Test 4 Section 2 Part 1	yMc71el5Bic
+SAT Prep: Test 4 Section 2 Part 2	jKg5oFQXdJU
+SAT Prep: Test 4 Section 2 Part 3	qo2Omdf4UyA
+SAT Prep: Test 4 Section 2 Part 4	KWBa0yxfi7U
+SAT Prep: Test 4 Section 2 Part 5	HIzG0J7He2c
+SAT Prep: Test 4 Section 2 Part 6	bKzw0C-Sh7A
+SAT Prep: Test 4 Section 4 Part 1	xfEZKZDiXqc
+SAT Prep: Test 4 Section 4 Part 2	Nr-EB7BKKJM
+SAT Prep: Test 4 Section 4 Part 3	eRzobkVm1Jg
+SAT Prep: Test 4 Section 4 Part 4	0mMr7iKWAjQ
+SAT Prep: Test 4 Section 8 Part 1	Zkeq0j9CKcc
+SAT Prep: Test 4 Section 8 Part 2	Oyiz3Td1KEI
+SAT Prep: Test 4 Section 8 Part 3	cVEXO42UKd0
+SAT Prep: Test 4 Section 8 Part 4	We1OgfMotaM
+SAT Prep: Test 5 Section 3 Part 1	zKIQYn1quh8
+SAT Prep: Test 5 Section 3 Part 2	s_3msatl-NU
+SAT Prep: Test 5 Section 3 Part 3	bOKhHf58978
+SAT Prep: Test 5 Section 3 Part 4	8Jwy6seAdHY
+SAT Prep: Test 5 Section 3 Part 5	-c2LcmZaT_o
+SAT Prep: Test 5 Section 3 Part 6	0mH04VZ_dOM
+SAT Prep: Test 5  Section 7 Part 1	1jwEEbr2fuU
+SAT Prep: Test 5 Section 7 Part 2	26apAl5onO4
+SAT Prep: Test 5 Section 7 Part 3	1zHTzT4KP80
+SAT Prep: Test 5 Section 7 Part 4	1SC8pC5FKtM
+SAT Prep: Test 5 Section 7 Part 5	KEyCBPe_T5I
+SAT Prep: Test 5 Section 7 Part 6	XizVnQI2d9Q
+SAT Prep: Test 5 Section 9 Part 1	NLBp-Tq3TS4
+SAT Prep: Test 5 Section 9 Part 2	VUg5v5PzGKo
+SAT Prep: Test 5 Section 9 Part 3	7D3ErvtvOaU
+SAT Prep: Test 5 Section 9 Part 4	WV6gftyM3SU
+SAT Prep: Test 6 Section 3 Part 1	Zee_TGgEBsg
+SAT Prep: Test 6 Section 3 Part 2	gWq0WpgBthI
+SAT Prep: Test 6 Section 3 Part 3	QPKMZHYBcTc
+SAT Prep: Test 6 Section 3 Part 4	i1aNc26PsOI
+SAT Prep: Test 6 Section 3 Part 5	PH92iJRiUgg
+SAT Prep: Test 6 Section 7 Part 1	dkN6eSd2AIA
+SAT Prep: Test 6 Section 7 Part 2	j9iKQnnAsgI
+SAT Prep: Test 6 Section 7 Part 3	wXQrhgpMI0o
+SAT Prep: Test 6 Section 7 Part 4	kmP97_diMVM
+SAT Prep: Test 6 Section 7 Part 5	0CIn1_M-BoY
+SAT Prep: Test 6 Section 7 Part 6	aEvm-V7A5s8
+SAT Prep: Test 6 Section 9 Part 1	pplnmRsNDuY
+SAT Prep: Test 6 Section 9 Part 2	ewzoWPBLG3g
+SAT Prep: Test 6 Section 9 Part 3	PMFJCEOWVmc
+SAT Prep: Test 6 Section 9 Part 4	LeNa9s0rdj8
+SAT Prep: Test 7 Section 2 Part 1	k3Wd-9bZCgw
+SAT Prep: Test 7 Section 2 Part 2	FhUj7sF00VM
+SAT Prep: Test 7 Section 2 Part 3	lb3TmicdsCU
+SAT Prep: Test 7 Section 2 Part 4	UDyFevRLKb8
+SAT Prep: Test 7 Section 5 Part 1	R6byhBey7eY
+SAT Prep: Test 7 Section 5 Part 2	va9qsz7Q6b0
+SAT Prep: Test 7 Section 5 Part 3	RpCkWhPqTQM
+SAT Prep: Test 7 Section 5 Part 4	U2FLQYvioeY
+SAT Prep: Test 7 Section 5 Part 5	A-qer1ChzXk
+SAT Prep: Test 7 Section 8 Part 1	GZOp27tWARg
+SAT Prep: Test 7 Section 8 Part 2	Z7fM5fu7LAs
+SAT Prep: Test 7 Section 8 Part 3	Fq1BirUwrLQ
+SAT Prep: Test 7 Section 8 Part 4	RHfnCQCqohk
+SAT Prep: Test 8 Section 2 Part 1	FyoZaqF2dsY
+SAT Prep: Test 8 Section 2 Part 2	lumGHA9JGNY
+SAT Prep: Test 8 Section 2 Part 3	hbsWxarO5d4
+SAT Prep: Test 8 Section 2 Part 4	423zK3ev1vM
+SAT Prep: Test 8 Section 5 Part 1	yKiU7kzjTQw
+SAT Prep: Test 8 Section 5 Part 2	4-JYxNfqp8g
+SAT Prep: Test 8 Section 5 Part 3	lPLm4pM4KXU
+SAT Prep: Test 8 Section 5 Part 4	Q5z0MSvTtRg
+SAT Prep: Test 8 Section 8 Part 1	q2TqEsD1t4U
+SAT Prep: Test 8 Section 8 Part 2	nwW5IMuRCaM
+SAT Prep: Test 8 Section 8 Part 3	Ghy5jasP6Ek
+
+Introduction to Vectors and Scalars	ihNZlp7iUHE
+Calculating Average Velocity or Speed	oRKxmXwLvUU
+Solving for Time	awzOvyMKeMA
+Displacement from Time and Velocity Example	lQ-dvt3V4yQ
+Acceleration	FOkQszg1-j8
+Newton&#39;s First Law of Motion	CQYELiTtUs8
+Newton&#39;s Second Law of Motion	ou9YMWlJgkE
+Newton&#39;s Third Law of Motion	By-ggTfeuJU
+Airbus A380 Take-off Time	p4DTormtEG0
+Airbus A380 Take-off Distance	fQt69_Q2CTw
+Why Distance is Area under Velocity-Time Line	d-_eqgj5-K8
+Average Velocity for Constant Acceleration	MAS6mBRZZXA
+Acceleration of Aircraft Carrier Takeoff	VYgSXBjEA8I
+Race Cars with Constant Speed Around Curve	ITA1rW5UraU
+Introduction to Gravity	Xcel427Ezl0
+Mass and Weight Clarification	IuBoeDihLUc
+Gravity for Astronauts in Orbit	oIZV-ixRTcY
+Would a Brick or Feather Fall Faster	36Rym2q4H94
+Deriving Displacement as a Function of Time, Acceler...	wlB0x9W-qBU
+Plotting Projectile Displacement, Acceleration, and ...	T0zpF_j7Mvo
+Projectile Height Given Time	IYS4Bd9F3LA
+Deriving Max Projectile Displacement Given Time	P7LKEkcNibo
+Impact Velocity From Given Height	2ZgBJxT9pbU
+Visualizing Vectors in 2 Dimensions	xp6ibuI8UuQ
+Projectile at an Angle	ZZ39o1rAZWY
+Different Way to Determine Time in Air	_NWc3C3cTNA
+Launching and Landing on Different Elevations	a5QnXi_lZII
+Total Displacement for Projectile	UXORCpvKYiI
+Total Final Velocity for Projectile	sTp4cI9VyCU
+Correction to Total Final Velocity for Projectile	DNoDJlB0ygU
+Projectile on an Incline	jNESnky3RVg
+Unit Vectors and Engineering Notation	2QjdcVTgTTA
+Clearing the Green Monster at Fenway	2Epyz-OFRn8
+Green Monster at Fenway Part 2	3nwdtdPAjnY
+Optimal angle for a projectile part 1	RhUdv0jjfcE
+Optimal angle for a projectile part 2 - Hangtime	XtAB9GOfLiM
+Optimal angle for a projectile part 3 - Horizontal d...	-h_x8TwC1ik
+Optimal angle for a projectile part 4   Finding the ...	snw0BrCBQYQ
+Normal Force and Contact Force	1WOrgrIcQZU
+Normal Force in an Elevator	hoRsHNSrMpc
+Inclined Plane Force Components	TC23wD34C7k
+Ice Accelerating Down an Incline	Mz2nDXElcoM
+Force of Friction Keeping the Block Stationary	v8ODIMqbQ44
+Correction to Force of Friction Keeping the Block St...	BukTc4q9BMc
+Force of Friction Keeping Velocity Constant	iA7Thhnzc64
+Intuition on Static and Kinetic Friction Comparisons	J9BWNiOSGlc
+Static and Kinetic Friction Example	ZA_D4O6l1lo
+Introduction to Tension	_UrfHFEBIpU
+Tension (part 2)	zwDJ1wVr7Is
+Tension in an accelerating system and pie in the face	52wxpYnS64U
+Moving pulley problem (part 1)	J5GJgtZN6GE
+Moving pulley problem (part 2)	aHro1hCjukQ
+Introduction to Momentum	XFhntPxow0U
+Momentum: Ice skater throws a ball	vPkkCOlGND4
+2-dimensional momentum problem	CFygKiTB-4A
+2-dimensional momentum problem (part 2)	leudxqivIJI
+Introduction to work and energy	2WS1sG9fhOk
+Work and Energy (part 2)	3mier94pbnU
+Conservation of Energy	kw_4Loo1HR4
+Work/Energy problem with Friction	YvacYWgygaA
+Introduction to mechanical advantage	pfzJ-z5Ij48
+Mechanical Advantage (part 2)	DiBXxWBrV24
+Mechanical Advantage (part 3)	vSsK7Rfa3yA
+Center of Mass	VrflZifKIuw
+Introduction to Torque	QhuJn8YBtmg
+Moments	ESusD8HRLBI
+Moments (part 2)	peXbz0frV74
+Unit Vector Notation	FaF3v-ezbSk
+Unit Vector Notation (part 2)	595Tiga1gIg
+Projectile Motion with Unit Vectors	oYpEaB9_am8
+Projectile Motion with Unit Vectors (part 2)	9VBa4o8rz0Y
+Projectile Motion with Ordered Set Notation	jl_gQ-eL3xo
+Centripetal Force and Acceleration Intuition	vZOk8NnjILg
+Visual Understanding of Centripetal Acceleration For...	NH1_sO8QY3o
+Relationship between angular velocity and speed	zAx61CO5mDw
+Calculus proof of centripetal acceleration formula	XjCEumlJBno
+Loop De Loop Question	wjZb3zPuoeA
+Loop De Loop Answer part 1	4SQDybFjhRE
+Loop De Loop Answer part 2	zcnnZz2pCSg
+Acceleration Due to Gravity at the Space Station	R5CRZONOHCU
+Space Station Speed in Orbit	9BNkmfHYYYI
+Conservation of angular momemtum	s_R8d3isJDA
+Introduction to Newton&#39;s Law of Gravitation	391txUI76gM
+Gravitation (part 2)	8i0j3j16yFk
+Intro to springs and Hooke&#39;s Law	ZzwuHS9ldbY
+Potential energy stored in a spring	eVl5zs6Lqy0
+Spring potential energy example (mistake in math)	P3QV9ktuYlQ
+Introduction to Harmonic Motion	Nk2q-_jkJVs
+Harmonic Motion Part 2 (calculus)	xoUppFlif04
+Harmonic Motion Part 3 (no calculus)	oqBHBO8cqLI
+Fluids (part 1)	Pn5YEMwQb4Y
+Fluids (part 2)	lWDtFHDVqqk
+Fluids (part 3)	5EWjlpc0S00
+Fluids (part 4)	i6gz9VFyYks
+Fluids (part 5)	vzID7ds600c
+Fluids (part 6)	wwjtuZ5vTvc
+Fluids (part 7)	G4CgOF4ccXk
+Fluids (part 8)	uqyLOuAzbvo
+Fluids (part 9)	QX2YLR09Q78
+Fluids (part 10)	NGpJPz44JYc
+Fluids (part 11)	HnfBFeLunk4
+Fluids (part 12)	xlJYYM5TWoA
+Thermodynamics (part 1)	tQcB9BLUoVI
+Thermodynamics (part 2)	x34OTtDE5q8
+Thermodynamics (part 3)	HvYUKRMT0VI
+Thermodynamics (part 4)	5B1i26dUwME
+Thermodynamics (part 5)	UekR9J31a2o
+Electrostatics (part 1): Introduction to Charge and ...	NXMgvrS8Gr8
+Electrostatics (part 2)	0YOGrTNgGhE
+Proof (Advanced): Field from infinite plate (part 1)	prLfVucoxpw
+Proof (Advanced): Field from infinite plate (part 2)	TxwE4_dXo8s
+Electric Potential Energy	elJUghWSVh4
+Electric Potential Energy (part 2-- involves calculus)	CqsYCIjSm9A
+Voltage	zqGvUbvVQXg
+Capacitance	ngOC4eUQl8Y
+Circuits (part 1)	3o8_EARoMtg
+Circuits (part 2)	7vHh1sfZ5KE
+Circuits (part 3)	ZrMw7P6P2Gw
+Circuits (part 4)	3NcIK0s3IwU
+Cross product 1	zA0fvwtvgvA
+Cross Product 2	o_puKe_lTKk
+Cross Product and Torque	s38l6nmTrvM
+Introduction to Magnetism	8Y4JSp5U82I
+Magnetism 2	NnlAI4ZiUrQ
+Magnetism 3	LTuGQy4rmmo
+Magnetism 4	b1QFKLZC11U
+Magnetism 5	jQ2nD8ZGeEw
+Magnetism 6: Magnetic field due to current	Ri557hvwhcM
+Magnetism 7	l3hw0twZSCc
+Magnetism 8	4tctB1wZNiI
+Magnetism 9: Electric Motors	pAgPfr7MkkU
+Magnetism 10: Electric Motors	cePkWyXRvIQ
+Magnetism 11: Electric Motors	XMkUDyl1ZRo
+Magnetism 12: Induced Current in a Wire	KuUMUvwvML8
+The dot product	KDHuWxy53uM
+Dot vs. Cross Product	E34CftP455k
+Calculating dot and cross products with unit vector ...	enr7JqvehJs
+Introduction to Waves	c38H6UKt3_I
+Amplitude, Period, Frequency and Wavelength of Perio...	tJW_a6JeXD8
+Introduction to the Doppler Effect	dc7l7Qqa8xk
+Doppler effect formula for observed frequency	kGrk6V8tWDY
+Doppler effect formula when source is moving away	KkJ0wL9f2VY
+When the source and the wave move at the same velocity	4Xgk3vusxT8
+Mach Numbers	VlaGxYjnoPY
+Specular and Diffuse Reflection	sd0BOnN6aNY
+Specular and Diffuse Reflection 2	XR52dXLyz-M
+Refraction and Snell&#39;s Law	y55tzg_jW9I
+Refraction in Water	jxptCXHLxKQ
+Snell&#39;s Law Examples 1	HahjsBApxLE
+Snell&#39;s Law Example 2	10LuSfZZa3E
+Total Internal Reflection	WRuatAcd2WY
+Virtual Image	nrOg85VPQgw
+Parabolic Mirrors and Real Images	8X1AS9qD5AQ
+Parabolic Mirrors 2	7m0u6dxA5Xo
+Convex Parabolic Mirrors	dWY25vb1ZB0
+Convex Lenses	K0sjZ5nqQ7g
+Convex Lens Examples	xxF_mdoZom0
+Concave Lenses	Vh70PyitQzo
+Object Image and Focal Distance Relationship (Proof ...	rse0I7rZ8jM
+Object Image Height and Distance Relationship	acQYX4nwhCk
+Viewing g as the value of Earth&#39;s Gravitational Fiel...	1E3Z_R5AHdg
+
+Euclid as the Father of Geometry	WqzK3UAXaHs
+Language and Notation of Basic Geometry	il0EJrY64qE
+Lines, Line Segments, and Rays	JcqCf762y9w
+Language and Notation of the Circle	U2W7HPyC0cM
+Angle Basics	H-de6Tkxej8
+Measuring Angles in Degrees	92aLiyeQj0w
+Using a Protractor	dw41PMWek6U
+Measuring Angles	wJ37GJyViU8
+Complementary and Supplementary Angles	BTnAlNSgNsY
+Angles at the intersection of two lines	_7aUxFzTG5w
+Proof-Vertical Angles are Equal	wRBMmiNHQaE
+Angles Formed by Parallel Lines and Transversals	H-E5rlpCVu4
+Proof - Sum of Measures of Angles in a Triangle are 180	OPG-9IFnJnI
+Triangle Angle Example 1	hmj3_zbz2eg
+Triangle Angle Example 2	eTwnt4G5xE4
+Triangle Angle Example 3	iqeGTtyzQ1I
+Challenging Triangle Angle Problem	95logvV8nXY
+Proof - Corresponding Angle Equivalence Implies Para...	9_3OxtdqmqE
+Finding more angles	0gzSreH8nUI
+Sum of Interior Angles of a Polygon	qG3HnRccrQU
+Congruent Triangles and SSS	CJrVOf_3dN0
+SSS to Show a Radius is Perpendicular to a Chord tha...	TgDk06Qayxw
+Other Triangle Congruence Postulates	8Ld8Csu4sEs
+Two column proof showing segments are perpendicular	fSu1LKnhM5Q
+Sum of the exterior angles of convex polygon	W9B3VYdC5T8
+Finding Congruent Triangles	d5UCZ9hO8X4
+More on why SSA is not a postulate	f8svAm237xM
+Congruent Triangle Proof Example	RFesGHsuFZw
+Congruent Triangle Example 2	Xc3oHzKXVh8
+Congruent legs and base angles of Isosceles Triangles	7UISwx2Mr4c
+Equilateral Triangle Sides and Angles Congruent	CYNUwiUzlPk
+Equilateral and Isosceles Example Problems	7FTNWE7RTfQ
+Another Isosceles Example Problem	ceDV0QBpcMA
+Example involving an isosceles triangle and parallel...	CVKAro3HUxQ
+Figuring out all the angles for congruent triangles ...	aDCXPdzyS0s
+Perimeter and Area Basics	LoaBd-sPzkU
+Triangle Area Proofs	YOYQys52sPs
+Interesting Perimeter and Area Problems	vWXMDIazHjA
+Koch Snowflake Fractal	azBNsPa1WC4
+Area of an Equilateral Triangle	UKQ65tiIQ6o
+Area of Koch Snowflake (part 1) - Advanced	64bH_27Ehoc
+Area of Koch Snowflake (part 2) - Advanced	vBlR2xNAGmo
+Challenging Perimeter Problem	1uWZNW5PF-s
+Similar Triangle Basics	9ThXDY9Y3oU
+Similarity Postulates	7bO0TmJ6Ba4
+Similar Triangle Example Problems	Ly86lwq_2gc
+Similarity Example Problems	R-6CAr_zEEk
+Challenging Similarity Problem	7aGEvpHaNJ8
+Similarity example where same side plays different r...	Tal_fgREll0
+Finding Area Using Similarity and Congruence	EqNzr56h1Ic
+Pythagorean Theorem Proof Using Similarity	LrS5_l-gk94
+30-60-90 Triangle Side Ratios Proof	SFL4stapeUs
+45-45-90 Triangle Side Ratios	McINBOFCGH8
+30-60-90 Triangle Example Problem	dgHksfBFbjk
+The Golden Ratio	5zosU6XTgSY
+Introduction to angles (old)	2439OIVBgPg
+Angles (part 2)	zrqzG6xKa1A
+Angles (part 3)	NLg6hfoKKlE
+Angles formed between transversals and parallel lines	gRKZaojKeP0
+Angles of parallel lines 2	0eDwckZOffc
+The Angle Game	kqU_ymV581c
+Similar triangles	BI-rtfZVXy0
+Similar triangles (part 2)	qO2cTx6DwCA
+Angle Game (part 2)	ko-cYG3d6ec
+Acute Right and Obtuse Angles	ALhv3Rlydig
+Area and Perimeter	kqqmJiJez6o
+Circles: Radius, Diameter and Circumference	jyLRpr2P0MQ
+Area of a circle	tCrDyJsSFok
+The Pythagorean Theorem	AA6RfgP-AHU
+Pythagorean Theorem II	nMhJLn5ives
+45-45-90 Triangles	tSHitjFIjd8
+Intro to 30-60-90 Triangles	Qwet4cIpnCM
+30-60-90 Triangles II	3mLUJSoh6i0
+Solid Geometry Volume	ZqzAOZ9pP9Q
+Cylinder Volume and Surface Area	gL3HxBQyeg0
+Heron&#39;s Formula	-YI6UC4qVEY
+Part 1 of Proof of Heron&#39;s Formula	AreOMvPCxv8
+Part 2 of the Proof of Heron&#39;s Formula	nZu7IZLhJRI
+Inscribed and Central Angles	MyzGVbCHh5M
+Area of Inscribed Equilateral Triangle (some basic t...	UmiZK6Hgm6c
+Right Triangles Inscribed in Circles (Proof)	b0U1NxbRU4w
+Area of Diagonal Generated Triangles of Rectangle ar...	YTRimTJ5nX4
+Triangle Medians and Centroids	GiGLhXFBtRg
+Triangle Medians and Centroids (2D Proof)	Vc09LURoMQ8
+Rhombus Diagonals	_QTFeOvPcbY
+2003 AIME II Problem 7	jpKjXtywTlQ
+Perpendicular Radius Bisects Chord	q7eF5Ci944U
+Circumcenter of a Triangle	KXZ6w91DioU
+Circumcenter of a Right Triangle	VejCw2NlE60
+Three Points Defining a Circle	4_xhiP6g2ow
+Point Line Distance and Angle Bisectors	yj4oS-27Q3k
+Incenter and incircles of a triangle	21vbBiCVijE
+Angle Bisector Theorem Proof	TpIBLnRAslI
+Inradius Perimeter and Area	5NjgcPri07E
+Angle Bisector Theorem Examples	PlY3e_-9JUA
+Medians divide into smaller triangles of equal area	Xt4sT0fV9Pw
+Exploring Medial Triangles	Rsi5mzEaCPw
+Proving that the Centroid is 2-3rds along the Median	i0VS3eEGjiQ
+Median Centroid Right Triangle Example	k45QTFCHSVs
+Proof - Triangle Altitudes are Concurrent (Orthocenter)	aGwT2-RERXY
+Review of Triangle Properties	KUhdMbx5ges
+Euler Line	tUqyJgmGY7k
+Euler&#39;s Line Proof	t_EgAi574sM
+[Vidéo supprimée]	CxXXpOEeTiE
+Common Orthocenter and Centroid	pDZIvyeqX1o
+Quadrilateral Overview	Ka82QC4QvGA
+Proof - Opposite Sides of Parallelogram Congruent	LhrGS4-Dd9I
+Proof - Diagonals of a Parallelogram Bisect Each Other	TErJ-Yr67BI
+Proof - Opposite Angles of Parallelogram Congruent	oIV1zM8qlpk
+Proof - Rhombus Diagonals are Perpendicular Bisectors	GDcVdBAnBdU
+Proof - Rhombus Area Half Product of Diagonal Length	3FManXv4mZM
+Area of a Parallelogram	tFhBAeZVTMw
+Problem involving angle derived from square and circle	3n0LvI99-KM
+Area of a Regular Hexagon	LrxZMdQ6tiw
+
+Basic Addition	AuX7nPBqDts
+Addition 2	t2L3JFOqTEk
+Level 2 Addition	27Kp7HJYj2c
+Addition 3	e_SpXIw_Qts
+Addition 4	fOXo4p4WDKM
+Basic Subtraction	aNqG4ChKShI
+Subtraction 2	incKJchBCLo
+Subtraction 3:  Introduction to Borrowing or Regrouping	ZaqOUE3H1mE
+Alternate mental subtraction method	GBtcGO44e-A
+Why borrowing works	fWan_T0enj4
+Level 4 Subtraction	omUfrXtHtN0
+Why borrowing works	fWan_T0enj4
+Adding Decimals (Old)	SxZUFA2SGX8
+Subtracting decimals (old)	0mOH-qNGM7M
+Basic Multiplication	mvOkMYCygps
+Multiplication 2: The Multiplication Tables	xO_1bYgoQvA
+Multiplication 3: 10,11,12 times tables	qihoczo1Ujk
+Multiplication 4: 2-digit times 1-digit number	OYYYc7ygd38
+Multiplication 5:  2-digit times a 2-digit number	t8m0NalQtEk
+Multiplication 6: Multiple Digit Numbers	-h3Oqhl8fPg
+Multiplication 7: Old video giving more examples	_k3aWF6_b4w
+Mulitplication 8: Multiplying decimals (Old video)	m5z6pOsxF_8
+Lattice Multiplication	gS6TfWUv97I
+Why Lattice Multiplication Works	S3z4XqC_YSc
+Division 1	MTzTqvzWzm8
+Division 2	8Ft5iHhauJ0
+Division 3: More long division and remainder examples	NcADzGz3bSI
+Level 4 division	gHTH6PKfpMc
+Converting fractions to decimals	Gn2pdkvdbGQ
+Percent and decimals	RvtdJnYFNhc
+Dividing decimal	S0uuK7SQcA8
+Ordering Numeric Expressions	w7k1YEcAaaE
+Greatest Common Divisor	jFd-6EPfnec
+Least Common Multiple	cH-jaMCzIRk
+Equivalent fractions	U2ovEuEUxXQ
+Mixed numbers and improper fractions	1xuf6ZKF1_I
+Time Differences 1	SnkUkc23YC0
+Time Differences in Different Time Zones	2r1naFxn46w
+Prime Numbers	mIStB5X4U8M
+Partial Quotient Division	R486L0M5cWk
+Partial Quotient Method of Division 2	omFelSZvaJc
+
+Negative Numbers Introduction	Hlal9ME2Aig
+Adding/Subtracting negative numbers	C38B33ZywWs
+Multiplying and dividing negative numbers	d8lP5tR2R3Q
+Adding and subtracting fractions	52ZlXsFJULI
+Multiplying fractions (old)	Mnu16kCRW4U
+Dividing fractions	zQMU-lsMb3U
+Introduction to Order of Operations	ClYdw4d4OmA
+More Complicated Order of Operations Example	piIcRV2dx7E
+Level 1 Exponents	8htcZca0JIA
+Level 2 Exponents	1Nt-t9YJM8k
+Level 3 exponents	aYE26a5E1iU
+Negative Exponent Intuition	Tqpcku0hrPU
+Exponent Rules Part 1	kITJ6qH7jS0
+Exponent Rules Part 2	rEtuPhl6930
+Simplifying radicals	6QJtWfIiyZo
+Introduction to Logarithms	mQTWzLpCcW0
+Unit conversion	w0nqd_HXHPQ
+Speed translation	aTjNDKlz8G4
+Introduction to logarithm properties	PupNgv49_WY
+Introduction to logarithm properties (part 2)	TMmxKZaCqe0
+Scientific Notation (old)	trdbaV4TaAo
+Scientific Notation Examples	0Dd-y_apbRw
+Introduction to Ratios (new HD version)	HpdMJaKaXXc
+Unit Conversion Example: Drug Dosage	ScvuRb6vsz4
+Common Divisibility Examples	zWcfVC-oCNw
+Binary Numbers	ry1hpm1GXVI
+Binary, Decimal and Hexadecimal Number Systems	_97OwCkjh3c
+Number Base Conversion Practice	Fpm-E5v6ddc
+Significant Figures	eCJ76hz7jPM
+More on Significant Figures	eMl2z3ezlrQ
+Multiplying and Dividing with Significant Figures	iorZdz4dsBU
+Addition and Subtraction with Significant Figures	xHgPtFUbAeU
+Pure Numbers and Significant Digits	Ym5u5IlYWcg
+Ordering Negative Numbers	VW6UrPKPInA
+Comparing Absolute Values	hKkBlcnU9pw
+Ordering Fractions	N8dIOmk_lHs
+Inverse Property of Multiplication	XMwnJUprid8
+Inverse Property of Addition	bjVn4WGmNis
+Interpreting Linear Graphs	xR9r38mZjK4
+
+Introduction to interest	GtaoP0skPWc
+Interest (part 2)	t4zfiBw0hwM
+Introduction to Present Value	ks33lMoxst0
+Present Value 2	4LSktB7Pk_c
+Present Value 3	3SgVUlEcOBU
+Present Value 4 (and discounted cash flow)	6WCfVjUTTEY
+Introduction to Balance Sheets	mxsYHiDVNlk
+More on balance sheets and equity	U2Nw5T44zvY
+Home equity loans	7rrSuhFC7I0
+Renting vs. Buying a home	YL10H_EcB-E
+Renting vs. buying a home (part 2)	QA2TBiIsdT0
+Renting vs. Buying (detailed analysis)	mtL_plJXv3c
+The housing price conundrum	8IR5LefXVPY
+Housing price conundrum (part 2)	wYAhlTHIBT4
+Housing Price Conundrum (part 3)	aAfMps_VyOY
+Housing Conundrum (part 4)	s6UYa2nwaDw
+What it means to buy a company&#39;s stock	WvITkPn83gc
+Bonds vs. Stocks	rs1md3e4aYU
+Shorting Stock	-IDmLERenrU
+Shorting Stock 2	ucAUriWEFo8
+Is short selling bad?	zAkMhEqWFF0
+Chapter 7:Bankruptcy Liquidation	-oW4M3vpuRM
+Chapter 11: Bankruptcy Restructuring	mxVWyzzMOXM
+Return on capital	9T6ZPYYu_Dk
+Credit Default Swaps (CDS) Intro	ccaCl1GKdJ0
+Mortgage Back Security Overview	dwleadLC2Dw
+Collateralized Debt Obligation Overview	TEfyIsDRGCk
+Mortgage-Backed Securities I	oosYQHq2hwE
+Mortgage-backed securities II	eYBlfxGIk28
+Mortgage-backed securities III	q0oSKmC3Mfc
+Collateralized Debt Obligation (CDO)	XjoJ9UF2hqg
+Introduction to the yield curve	b_cAxh44aNQ
+Introduction to compound interest and e	qEB6y4DklNY
+Compound Interest and e (part 2)	dzMvqJMLy9c
+Compound Interest and e (part  3)	sQYpUJV8foY
+Compound Interest and e (part 4)	VAxHMTJRhmY
+Bailout 1: Liquidity vs. Solvency	ZUEjRYe7MRk
+Bailout 2: Book Value	YJBqGM29_64
+Bailout 3: Book value vs. market value	TUOQZjotyAQ
+Bailout 4: Mark-to-model vs. mark-to-market	w_GZqhAR0I4
+Bailout 5: Paying off the debt	I8BLj7cRM7c
+Bailout 6: Getting an equity infusion	jDNalKBb3aA
+Bailout 7: Bank goes into bankruptcy	MdIfefLcdoU
+Bailout 8: Systemic Risk	gX9aKDeAOz4
+Bailout 9: Paulson&#39;s Plan	eBYbnYNl0rw
+Bailout 10: Moral Hazard	roap32sTgPk
+Credit Default Swaps	a1lVOO9Y080
+Credit Default Swaps 2	neAFEvNsiqw
+Investment vs. Consumption 1	rEiLOB4FulY
+Investment vs. Comsumption 2	xRjfRVXXFxU
+Bailout 11: Why these CDOs could be worth nothing	RkIM0Mbc8YQ
+Bailout 12: Lone Star Transaction	eZZkhSl8lMA
+Bailout 13: Does the bailout have a chance of working?	R528WbVdC0I
+Wealth Destruction 1	Q7HbtnOyKMg
+Wealth Destruction 2	eRImmzuExyg
+Bailout 14: Possible Solution	BdmI14oSe4g
+Bailout 15: More on the solution	-KrSxA9NCf0
+Banking 1	E-HOz8T6tAo
+Banking 2: A bank&#39;s income statement	h3lMANILkw0
+Banking 3: Fractional Reserve Banking	nH2-37rTA8U
+Banking 4: Multiplier effect and the money supply	F7r7l1VG-Tw
+Personal Bankruptcy:  Chapters 7 and 13	9jGufOGo88A
+Introduction to Compound Interest	-qgdMTbTJlA
+The Rule of 72 for Compound Interest	pLG5j6isgRs
+Annual Percentage Rate (APR) and Effective APR	P4h4QenI-uU
+Introduction to Bonds	44cYyG0LSzQ
+Relationship between bond prices and interest rates	kDRqSJIiTqU
+Introduction to Mortgage Loans	mhRL99LqxMc
+Traditional IRAs	2K0ubOpyZt8
+Roth IRAs	HbQ2kmhIlHo
+401(k)s	YPP9igBVdkg
+Payday Loans	BHTMuHvmarU
+Institutional Roles in Issuing and Processing Credit...	tvL7ox0ezCU
+Ponzi Schemes	5UVpLPtgdF4
+Currency Exchange Introduction	itoNb1lb5hY
+Currency Effect on Trade	5HVCFrXQ9pw
+Currency Effect on Trade Review	Ysk1ySejuCQ
+Pegging the Yuan	S-9iY1OgbDE
+Chinese Central Bank Buying Treasuries	MN4SWiEEqKo
+American-Chinese Debt Loop	m5xu4r0szaA
+Debt Loops Rationale and Effects	XBI7DqttyOQ
+American Call Options	nnl3x1wo25g
+Basic Shorting	jAOtWm_WZiE
+American Put Options	6CUcgUeQS-w
+Call Option as Leverage	N8h45mDI80s
+Put vs. Short and Leverage	_q25hz5xLdk
+Call Payoff Diagram	MZQxeQYQCUg
+Put Payoff Diagram	VST_U297pH0
+Long Straddle	2HIRaOQDRho
+Put as Insurance	i65NIcnHS9Y
+Put-Call Parity	m4mrd7sHCPM
+Put Writer Payoff Diagrams	WFuLVSz6n8M
+Call Writer Payoff Diagram	TdW3LdN5SJw
+Arbitrage Basics	AuCH7fHZsZ4
+Put-Call Parity Arbitrage I	SCM4A0rBeOQ
+Put-Call Parity Arbitrage II	MHWmBggmIU0
+Put-Call Parity Clarification	Sc6zc8KR_NU
+Actual Option Quotes	3o82OwR78wU
+Option Expiration and Price	OrRDNKNHtlg
+Forward Contract Introduction	H9UEZdAnnt8
+Futures Introduction	3g6P0lRXotI
+Motivation for the Futures Exchange	iyrOGvbSS2U
+Futures Margin Mechanics	1t42z5U2uoc
+Verifying Hedge with Futures Margin Mechanics	1mnKCkmeaYs
+Futures and Forward Curves	AnATlMVA12E
+Contango from Trader Perspective	C3KlN5kTWAs
+Severe Contango Generally Bearish	hYzN0w8FatU
+Backwardation Bullish or Bearish	1CxRVVGGNJU
+Futures Curves II	UDe6zeabyQM
+Contango	wSqkieBUuo8
+Backwardation	LDuJ1AD7n54
+Contango and Backwardation Review	5YaSL-y46Hk
+Upper Bound on Forward Settlement Price	FcRxdq7KGOQ
+Lower Bound on Forward Settlement Price	_uDb0ZdGb8w
+Arbitraging Futures Contract	0jk6uLZ1Tdc
+Arbitraging Futures Contracts II	5kFnAmmGXM4
+Cash Accounting	FfdpupKByiU
+Accrual Basis of Accounting	NNhyZFHAzaA
+Comparing Accrual and Cash Accounting	LU_6amWC6H8
+Balance Sheet and Income Statement Relationship	hZvjH3Az87A
+Basic Cash Flow Statement	Mioqyv_IW3E
+Doing the example with Accounts Payable growing	57gz50uTPqM
+Expensing a Truck leads to inconsistent performance	0E3PuHiDU9U
+Depreciating the truck	iewvEGWARBY
+Depreciation in Cash Flow	uX2w0b8Qlss
+Amortization and Depreciation	eKw3Aq0vvbo
+Basic Capital Structure Differences	YEZMReBbkP0
+Market Capitalization	5lmHzAHbtzg
+Market Value of Assets	nhW3Ri4b_V8
+LIBOR	wBCowBiXV7A
+Fair Value Accounting	s-5_H3z-Cv0
+Tax Deductions Introduction	GypHy3gnG5E
+Alternative Minimum Tax	yrlLKwmb5dY
+Term Life Insurance and Death Probability	NSSoMafbBqQ
+Back of Envelope Office Space Conundrum	bAU1MLRwh7c
+Corporations and Limited Liability	VnTlKcIigyY
+Is Limited Liability or Double Taxation Fair	IiKKAw38ss0
+Open-Ended Mutual Fund (Part 1)	DzYwB3uSU-c
+Open-End Mutual Fund Redemptions	nW1rxuQft1o
+Closed-End Mutual Funds	VpVu25KhozQ
+Exchange Traded Funds (ETFs)	SFdsY9Rdh6w
+Hedge Funds Intro	Qb7tbWuDc2U
+Hedge Fund Structure and Fees	EX1eFeaTiYM
+Are Hedge Funds Bad?	vD2WJTIEVv0
+Hedge Funds, Venture Capital, and Private Equity	bLQBbA8yh7c
+Treasury Bond Prices and Yields	mS7t91U9Qqg
+Annual Interest Varying with Debt Maturity	YdGZaqJZbGc
+The Yield Curve	SwB9Fq5VRZY
+Fed Open Market Operations	wDuCOxDxMzY
+Quantitative Easing	kc_HjPT4NKo
+More on Quantitative Easing (and Credit Easing)	ZrKw-SLzNrw
+Hedge Fund Strategies - Long Short  1	nTco9qQ2elM
+Hedge Fund Strategies - Long Short  2	5UUa0V-MAqI
+Hedge Fund Strategies - Merger Arbitrage 1	3qP8OOr7pfI
+Stock Dilution	tjQzJ7GY0GY
+Acquisitions with Shares	DMd9mTyzj6k
+Price Behavior After Announced Acquisition	7zBqVOuEKYE
+Simple Merger Arb with Share Acquisition	CzDA0WCdWHQ
+Basic Leveraged Buyout (LBO)	LVMLs2z1JYg
+Corporate Debt versus Traditional Mortgages	rD25slnTqAE
+AMT Overview	T0CwhLHrE2k
+Open market operations and Quantitative Easing Overview	TpLlJ8-AnQM
+Another Quantitative Easing Video	Lmd_CDwBXFs
+US and Japanese Quantitative Easing	a-R8qpea6lc
+Term and Whole Life Insurance Policies 2	MYkR32QOdg0
+Term and Whole Life Insurance Policies	VzhsZHTdZag
+Estate Tax Introduction	eElHlE4j-vw
+Human Capital	ivy1QmWUtQI
+Risk and Reward Introduction	mv5zucjq60k
+Futures Fair Value in the Pre-Market	QiluvhVryI0
+What is Inflation	yahEP620480
+Inflation Data	DK1lCc9b7bg
+Moderate Inflation in a Good Economy	Z_DcXewHHA8
+Stagflation	bTz_tx460EY
+Real and Nominal Return	cNm196bVE5A
+Calculating Real Return in Last Year Dollars	GiB9Mkgkrek
+Relation Between Nominal and Real Returns and Inflation	6ycEasF48zI
+Use Cases for Credit Default Swaps	ewSw9tF9Z0E
+Financial Weapons of Mass Destruction	MNUVuZu6heA
+Deflation	FPh6EDv0Eew
+Velocity of Money Rather than Quantity Driving Prices	stfSnPaaK04
+Deflation Despite Increases in Money Supply	t2AeULH_Ijw
+Deflationary Spiral	snX4Wf7PGts
+Hyperinflation	AC_kjcuHpZw
+Estate Tax Basics	9nEBmsIsIYg
+Term and Whole Life	r4NxMVZf6s4
+Open-Ended Mutual Funds	Dy6SAdpAc8I
+Unemployment Rate Primer (v2)	cR7ycFYKyWo
+Time Value of Money	As1QpFGlGbg
+Mortgage Interest Rates	a58PSBX7BSY
+Inflation Overview	mO6y4KON1e8
+Basics of US Income Tax Rate Schedule	g7bVoRgV0vs
+Carry Trade Basics	8In5PK1yUAA
+Interpretting Futures Fair Value in the PreMarket	owcmu4XxrHM
+Interest Rate Swap 1	PLjyj1FJqig
+Interest Rate Swap 2	xE43JrjCpjE
+
+The Beauty of Algebra	kpCJyQ2usJ4
+Origins of Algebra	_LDR1_Prveo
+Abstract-ness	ZOYRb2sYrL0
+Descartes and Cartesian Coordinates	N4nrdf0yYfM
+Variables Expressions and Equations	vDqOoI-4Z6M
+Simple Equations	9Ek61w1LxSc
+Equations 2	XoEn1LfVoTo
+Equations 3	f15zA0PhSek
+Algebra: Linear Equations 4	9IUEk9fn2Vs
+Algebra: Solving Inequalities	VgDe_D8ojxw
+Algebra: graphing lines 1	2UrcUfBizyw
+Algebra: Slope and Y-intercept intuition	Nhn-anmubYU
+Algebra: Slope	hXP1Gv9IMBo
+Algebra: Slope 2	Kk9IDameJXk
+Algebra: Slope 3	8XffLj2zvf4
+Algebra: Equation of a line	gvwKv6F69F0
+Slope and Y-intercept Intuition	8sz1IPjBRS8
+Averages	9VZsMY15xeU
+Integer sums	W254ewkkMck
+Taking percentages	_SpE4hQ8D_o
+Growing by a percentage	X2jVap1YgwI
+Another Percent Word Problem	d1oNF88SAgg
+More percent problems	4oeoIOan_h4
+systems of equations	nok99JOhcjo
+Introduction to Ratios (new HD version)	HpdMJaKaXXc
+Ratio problem with basic algebra (new HD)	ITVQrzDSekU
+More advanced ratio problem--with Algebra (HD version)	ItA_hhRtUuw
+Alternate Solution to Ratio Problem (HD Version)	-xyTz0WZ1W4
+Introduction to Ratios	UsPmg_Ne1po
+Advanced ratio problems	PASSD2OcU0c
+Age word problems 1	bAUT_Pux73w
+Age word problems 2	pPqPj8CAPvI
+Age word problems 3	DplUpe3oyWo
+Level 1 multiplying expressions	Sc0e6xrRJYY
+Solving a quadratic by factoring	N30tN9158Kc
+Introduction to i and Imaginary Numbers	ysVcAYo7UPI
+Calculating i Raised to Arbitrary Exponents	QiwfF83NWNA
+i as the Principal Root of -1 (a little technical)	rYG1D5lUE4I
+Complex Numbers (part 1)	kpywdu1afas
+Complex Numbers (part 2)	bPqB9a1uk_8
+Introduction to the quadratic equation	IWigvJcCAJ0
+Quadratic Equation part 2	y19jYxzY8Y8
+Completing the square	gzm-uhj06q8
+Quadratic Formula (proof)	mDmRYfma9C0
+Quadratic Inequalities	ZNtzWpU80-0
+Quadratic Inequalities (Visual Explanation)	xdiBjypYFRQ
+Introduction to functions	VhokQhjl5t0
+Functions Part 2	XEblO51pF5I
+Functions (Part III)	5fcRSie63Hs
+Functions (part 4)	rbt51hXmzig
+Domain of a function	U-k5N1WPk4g
+Proof: log a + log b = log ab	FP2arCfAfBY
+Proof: A(log B) = log (B^A), log A - log B = log (A/B)	yEAxG_D1HDw
+Proof: log_a (B) = (log_x (B))/(log_x (A))	cKOtT4WnZb4
+Algebraic Long Division	4u8_AMacu-Y
+Introduction to Conic Sections	0A7RR0oy2ho
+Conic Sections: Intro to Circles	6r1GQCxyMKI
+Conic Sections: Intro to Ellipses	lvAYFUIEpFI
+Conic Sections: Intro to Hyperbolas	pzSyOTkAsY4
+Conic Sections: Hyperbolas 2	hl58vTCqVIY
+Conic Sections: Hyperbolas 3	lGQw-W1PxBE
+Identifying Conics 1	LSJuu4Qm2qQ
+Identifying Conics 2	cvA4VN1dpuY
+Conic Identification 3	Dru0RHgfp2g
+Foci of an Ellipse	QR2vxfwiHAU
+Foci of a Hyperbola	S0Fd2Tg2v7M
+Proof: Hyperbola Foci	HPRFmu7JsKU
+Partial Fraction Expansion 1	S-XKGBesRzk
+Partial Fraction Expansion 2	6FrPLJY0rqM
+Partial Fraction Expansion 3	A52fEdPn9lg
+Parabola Focus and Directrix 1	ZJf9shWlMz0
+Focus and Directrix of a Parabola 2	1Jm9rREA-uA
+Two Passing Bicycles Word Problem	Nx4Xk5S4HQA
+Passed Bike Word Problem	P03ljxjy8Nw
+Passing Trains	qLLjD-g_9ms
+Overtaking Word Problem	LYWUHaWwY0c
+Early Train Word Problem	uA3m8vbd2wc
+Officer on Horseback	IPJAi5zWu9U
+Rational Inequalities	ZjeMdXV0QMg
+Rational Inequalities 2	2RnS3fSHVV8
+Interesting Polynomial Coefficient Problem	hypi8QPsFEk
+Geometric series sum to figure out mortgage payments	i05-okb1EJg
+Introduction to Function Inverses	W84lObmOp8M
+Function Inverse Example 1	wSiamij_i_k
+Function Inverses Example 2	aeyFb2eVH1c
+Function Inverses Example 3	Bq9cq9FZuNM
+Direct and Inverse Variation	92U67CUy9Gc
+Recognizing Direct and Inverse Variation	3_DxJwDTbyQ
+Recognizing Odd and Even Functions	8VgmBe3ulb8
+Connection between even and odd numbers and functions	jFazrvLodrA
+New Operator Definitions	ND-Bbp_q46s
+Proof by Induction	wblW_M_HVQ8
+Alternate Proof to Induction for Integer Sum	1wnIsgUivEQ
+Writing Proportions	96ZEmUbnuU8
+Coverting Repeating Decimals to Fractions 1	FPNhCVZlbJs
+Coverting Repeating Decimals to Fractions 2	Ihws0d-WLzU
+
+Basic Trigonometry	Jsiy4TxgIME
+Basic Trigonometry II	G-T_6hCdMQc
+Radians and degrees	9zspW8u6kQM
+Using Trig Functions	znR9tW4AiZI
+Using Trig Functions Part II	RoXmKYjpLGk
+The unit circle definition of trigonometric function	6Qv_bPlQS8E
+Unit Circle Definition of Trig Functions	ZffZvSH285c
+Graph of the sine function	2zoiW4PdVKo
+Graphs of trig functions	QmxMPPkZpME
+Graphing trig functions	vHYI93UV5Kg
+More trig graphs	NIG3l8oWKYE
+Determining the equation of a trigonometric function	yvW5l9W1hgE
+Trigonometric Identities	OLzXqIqZZz0
+Proof: sin(a+b)  = (cos a)(sin b) + (sin a)(cos b)	zw0waJCEc-w
+Proof: cos(a+b) = (cos a)(cos b)-(sin a)(sin b)	V3-xCPDzQ1Q
+Trig identities part 2 (parr 4 if you watch the proofs)	ZWSoyUxAQW0
+Trig identies part 3 (part 5 if you watch the proofs)	JXCiFbEMTZ4
+Trigonometry word problems (part 1)	1vamogV81Y8
+Trigonometry word problems (part 2)	4CNnPgabrLE
+Law of cosines	pGaDcOMdw48
+Navigation Word Problem	XTWZ_M8d-4g
+Proof: Law of Sines	APNkWrD-U1k
+Ferris Wheel Trig Problem	clXSqjs1wgQ
+Ferris Wheel Trig Problem (part 2)	_Kw4hLGMkm4
+Fun Trig Problem	itpI12TeNIg
+Polar Coordinates 1	jexMSlSDubM
+Polar Coordinates 2	zGpbSGj_vfE
+Polar Coordinates 3	9iqN12hCn10
+Inverse Trig Functions: Arcsin	JGU74wbZMLg
+Inverse Trig Functions: Arctan	Idxeo49szW0
+Inverse Trig Functions: Arccos	eTDaJ4ebK28
+Trigonometry Identity Review/Fun	a70-dYvDJZY
+Tau versus Pi	1jDDfkKKgmc
+IIT JEE Trigonometry Problem 1	X7GT9JKoAbo
+IIT JEE Trigonometric Maximum	tzR9jUCSniQ
+IIT JEE Trigonometric Constraints	EjtjdJZ2x8w
+Trigonometric System Example	Y2ed-g8Lpdc
+2003 AIME II Problem 11.avi	smtrrefmC40
+2003 AIME II Problem 14	Ec-BKdC8vOo
+
+Introduction to Limits (HD)	riXcZT2ICjA
+Introduction to Limits	W0VWO4asgmk
+Limit Examples (part 1)	GGQngIp0YGI
+Limit Examples (part 2)	YRw8udexH4o
+Limit Examples (part3)	gWSDDopD9sk
+Limit Examples w/ brain malfunction on first prob (p...	xjkSE9cPqzo
+Squeeze Theorem	igJdDN-DPgA
+Proof: lim (sin x)/x	Ve99biD1KtA
+More Limits	rkeU8_4nzKo
+Sequences and Series (part 1)	VgVJrSJxkDk
+Sequences and series (part 2)	U_8GRLJplZg
+Permutations	XqQTXW7XfYA
+Combinations	bCxMhncR7PU
+Binomial Theorem (part 1)	Cv4YhIMfbeM
+Binomial Theorem (part 2)	-fFWWt1m9k0
+Binomial Theorem (part 3)	xF_hJaXUNfE
+Introduction to interest	GtaoP0skPWc
+Interest (part 2)	t4zfiBw0hwM
+Introduction to compound interest and e	qEB6y4DklNY
+Compound Interest and e (part 2)	dzMvqJMLy9c
+Compound Interest and e (part  3)	sQYpUJV8foY
+Compound Interest and e (part 4)	VAxHMTJRhmY
+Exponential Growth	JWfTckls59k
+Polar Coordinates 1	jexMSlSDubM
+Polar Coordinates 2	zGpbSGj_vfE
+Polar Coordinates 3	9iqN12hCn10
+Parametric Equations 1	m6c6dlmUT1c
+Parametric Equations 2	wToSIQJ2o_8
+Parametric Equations 3	57BiI_iD3-U
+Parametric Equations 4	IReD6c_njOY
+Introduction to Function Inverses	W84lObmOp8M
+Function Inverse Example 1	wSiamij_i_k
+Function Inverses Example 2	aeyFb2eVH1c
+Function Inverses Example 3	Bq9cq9FZuNM
+Basic Complex Analysis	FwuPXchH2rA
+Exponential form to find complex roots	N0Y8ia57C24
+Complex Conjugates	BZxZ_eEuJBM
+Series Sum Example	A6fbDssPeac
+Complex Determinant Example	E7OkUomRq1Q
+2003 AIME II Problem 8	ZFN63oTeYzc
+Logarithmic Scale	sBhEi4L91Sg
+Vi and Sal Explore How We Think About Scale	4xfOq00BzJA
+Vi and Sal Talk About the Mysteries of Benford&#39;s Law	6KmeGpjeLZ0
+Benford&#39;s Law Explanation (Sequel to Mysteries of Be...	SZUDoEdjTzg
+
+Newton Leibniz and Usain Bolt	EKvHQc3QEow
+Introduction to Limits (HD)	riXcZT2ICjA
+Introduction to Limits	W0VWO4asgmk
+Limit Examples (part 1)	GGQngIp0YGI
+Limit Examples (part 2)	YRw8udexH4o
+Limit Examples (part3)	gWSDDopD9sk
+Limit Examples w/ brain malfunction on first prob (p...	xjkSE9cPqzo
+Squeeze Theorem	igJdDN-DPgA
+Proof: lim (sin x)/x	Ve99biD1KtA
+More Limits	rkeU8_4nzKo
+Epsilon Delta Limit Definition 1	-ejyeII0i5c
+Epsilon Delta Limit Definition 2	Fdu5-aNJTzU
+Calculus: Derivatives 1 (new HD version)	ANyVpMS3HL4
+Calculus: Derivatives 2 (new HD version)	IePCHjMeFkE
+Calculus: Derivatives 2.5 (new HD version)	HEH_oKNLgUU
+Derivative Intuition Module	HtvikVD9aa0
+Calculus: Derivatives 1	rAof9Ld5sOg
+Calculus: Derivatives 2	ay8838UZ4nM
+Calculus: Derivatives 3	z1lwai-lIzY
+The Chain Rule	XIQ-KnsAsbg
+Chain Rule Examples	6_lmiPDedsY
+Even More Chain Rule	DYb-AN-lK94
+Product Rule	h78GdGiRmpM
+Quotient Rule	E_1gEtiGPNI
+Derivatives (part 9)	aEP4C_kvcO4
+Proof: d/dx(x^n)	dZnc3PtNaN4
+Proof: d/dx(sqrt(x))	789aMeepbxI
+Proof: d/dx(ln x) = 1/x	yUpDRpkUhf4
+Proof: d/dx(e^x) = e^x	sSE6_fK3mu0
+Proofs of Derivatives of Ln(x) and e^x	3nQejB-XPoY
+Extreme Derivative Word Problem (advanced)	viaPc8zDcRI
+Implicit Differentiation	sL6MC-lKOrw
+Implicit Differentiation (part 2)	PUsMyhds5S4
+More implicit differentiation	hrg1hCzg3W0
+More chain rule and implicit differentiation intuition	XHBkQW_XuA4
+Trig Implicit Differentiation Example	6xvwyE67CeM
+Calculus: Derivative of x^(x^x)	N5kkwVoAtkc
+Introduction to L&#39;Hopital&#39;s Rule	PdSzruR5OeE
+L&#39;Hopital&#39;s Rule Example 1	BiVOC3WocXs
+L&#39;Hopital&#39;s Rule Example 2	FJo18AwLfuI
+L&#39;Hopital&#39;s Rule Example 3	MeVFZjT-ABM
+Maxima Minima Slope Intuition	tpHz0gZfVss
+Inflection Points and Concavity Intuition	dIE22eL6q90
+Monotonicity Theorem	WrEcQsa-1ME
+Calculus: Maximum and minimum values on an interval	gzmSKrwiG3g
+Calculus: Graphing Using Derivatives	hIgnece9ins
+Calculus Graphing with Derivatives Example	zC_dTaEY2AY
+Graphing with Calculus	ojcp0GJKluM
+Optimization with Calculus 1	Ef22yTJDUZI
+Optimization with Calculus 2	3GYv-BZYYdg
+Optimization with Calculus 3	i8Wtu-kdDC4
+Optimization  Example 4	T8sG4Sb3g7Y
+Introduction to rate-of-change problems	Zyq6TmQVBxk
+Equation of a tangent line	1KwW1v__T_0
+Rates-of-change (part 2)	xmgk8_l3lig
+Ladder rate-of-change problem	hD3U65CcZ0Q
+Mean Value Theorem	bGNMXfaNR5Q
+The Indefinite Integral or Anti-derivative	xRspb-iev-g
+Indefinite integrals (part II)	mHvSYRUEWnE
+Indefinite Integration (part III)	77-najNh4iY
+Indefinite Integration (part IV)	VJ9VRUDQyK8
+Indefinite Integration (part V)	Pra6r20geXU
+Integration by Parts (part 6 of Indefinite Integration)	ouYZiIh8Ctc
+Indefinite Integration (part 7)	F-OsMq7QKEQ
+Another u-subsitution example	IAbSeAk5RJU
+Introduction to definite integrals	0RdI3-8G4Fs
+Definite integrals (part II)	6PaFm_Je5A0
+Definite Integrals (area under a curve) (part III)	7wUHJ7JQ-gs
+Definite Integrals (part 4)	11Bt6OhIeqA
+Definite Integrals (part 5)	CmXmRNFrtFw
+Definite integral with substitution	CbUx0S8BCtA
+Integrals: Trig Substitution 1	n4EK92CSuBE
+Integrals: Trig Substitution 2	fD7MbnXbTls
+Integrals: Trig Substitution 3 (long problem)	sw2p2tUIFpc
+Periodic Definite Integral	CZdziIlYIfI
+Simple Differential Equations	C8mudsCSmcU
+Solid of Revolution (part 1)	R_aqSL-q6_8
+Solid of Revolution  (part 2)	iUzfsUOl3-A
+Solid of Revolution (part 3)	tqfU9mC2yFU
+Solid of Revolution (part 4)	OtmjNuiTHp0
+Solid of Revolution (part 5)	NIdqkwocNuE
+Solid of Revolution (part 6)	F2psxMnGdUw
+Solid of Revolution (part 7)	IZ8W-h764Cc
+Solid of Revolution (part 8)	4Flj9plmKGQ
+Sequences and Series (part 1)	VgVJrSJxkDk
+Sequences and series (part 2)	U_8GRLJplZg
+Maclauren and Taylor Series Intuition	epgwuzzDHsQ
+Cosine Taylor Series at 0 (Maclaurin)	WWe7pZjc4s8
+Sine Taylor Series at 0 (Maclaurin)	LlKvubIqHc8
+Taylor Series at 0 (Maclaurin) for e to the x	JYQqml4-4q4
+Euler&#39;s Formula and Euler&#39;s Identity	mgNtPOgFje0
+Visualizing Taylor Series Approximations	8dMLK2Wueaw
+Generalized Taylor Series Approximation	1LxhXqD3_CE
+Visualizing Taylor Series for e^x	AFMXixBVP-0
+Polynomial approximation of functions (part 1)	sy132cgqaiU
+Polynomial approximation of functions (part 2)	3JG3qn7-Sac
+Approximating functions with polynomials (part 3)	XZDGrbyz0v0
+Polynomial approximation of functions (part 4)	gcJeg4SdIpU
+Polynomial approximations of functions (part 5)	9AoDucUmO20
+Polynomial approximation of functions (part 6)	-gRNRBCG3Ow
+Polynomial approximation of functions (part 7)	bC5Lahh4Aus
+Taylor Polynomials	8SsC5st4LnI
+Exponential Growth	JWfTckls59k
+AP Calculus BC Exams: 2008 1 a	upO6Mh862PI
+AP Calculus BC Exams: 2008 1 b&amp;c	xPb6HLM3xEQ
+AP Calculus BC Exams: 2008 1 c&amp;d	_l0Mfsu__gU
+AP Calculus BC Exams: 2008 1 d	sPTuCE5zd3s
+Calculus BC 2008 2 a	xvvI_QRYxBY
+Calculus BC 2008 2 b &amp;c	S4oOSgTj9C8
+Calculus BC 2008 2d	o_vMb655dFk
+Partial Derivatives	1CMDS4-PKKQ
+Partial Derivatives 2	-u0mqFqpMNY
+Gradient 1	U7HQ_G_N6vo
+Gradient of a scalar field	OB8b8aDGLgE
+Divergence 1	JAXyLhvZ-Vg
+Divergence 2	tOX3RkH2guE
+Divergence 3	U6Re4xT0o4w
+Curl 1	Mt4dpGFVsYc
+Curl 2	hTSyVgBa1T0
+Curl 3	fYzoiWIBjP8
+Double Integral 1	85zGYB-34jQ
+Double Integrals 2	TdLD2Zh-nUQ
+Double Integrals 3	z8BM6cHifPA
+Double Integrals 4	twT-WZChfZ8
+Double Integrals 5	hrIPO8mQqtw
+Double Integrals 6	0pv0QtOi5l8
+Triple Integrals 1	vr0sTKbV7lI
+Triple Integrals 2	vxQvL_WhBGU
+Triple Integrals 3	ZN2PfqZ4ihM
+(2^ln x)/x  Antiderivative Example	C5Lbjbyr1t4
+Introduction to the Line Integral	_60sKaoRmhU
+Line Integral Example 1	uXjQ8yc9Pdg
+Line Integral Example 2 (part 1)	wyTjyQMVvc4
+Line Integral Example 2 (part 2)	Qqanbd3gLhw
+Position Vector Valued Functions	sBldw95xMD4
+Derivative of a position vector valued function	E9Q_Lc0g1xE
+Differential of a vector valued function	FYMn61HLw1k
+Vector valued function derivative example	vcwvzUVLPw0
+Line Integrals and Vector Fields	t3cJYNdQLYg
+Using a line integral to find the work done by a vec...	AFF8FXxt5os
+Parametrization of a Reverse Path	eGRZKkmI_fo
+Scalar Field Line Integral Independent of Path Direc...	99pD1-6ZpuM
+Vector Field Line Integrals Dependent on Path Direction	fuSOY9r1R6w
+Path Independence for Line Integrals	K_fgnCJOI8I
+Closed Curve Line Integrals of Conservative Vector F...	I2dbzp0zHuw
+Example of Closed Line Integral of Conservative Field	Q9t1LghwdGc
+Second Example of Line Integral of Conservative Vect...	LpY8Qa3IP1w
+Green&#39;s Theorem Proof Part 1	l5zJvZKfMYE
+Green&#39;s Theorem Proof (part 2)	qdFD-0OWBRo
+Green&#39;s Theorem Example 1	gGXnILbrhsM
+Green&#39;s Theorem Example 2	sSyPAAyL8nQ
+Introduction to Parametrizing a Surface with Two Par...	owKAHXf1y1A
+Determining a Position Vector-Valued Function for a ...	bJ_09eoCmag
+Partial Derivatives of Vector-Valued Functions	c7ByaI3T7Dc
+Introduction to the Surface Integral	9k97m8oWnaY
+Example of calculating a surface integral part 1	7sQCcGlK2bY
+Example of calculating a surface integral part 2	qQAhhithHa8
+Example of calculating a surface integral part 3	s2_NTiISZl4
+2011 Calculus AB Free Response #1a	ppBJWf_Wdmc
+2011 Calculus AB Free Response #1 parts b c d	QackTJWqOjA
+2011 Calculus AB Free Response #2 (a &amp; b)	Z3X6QqezqUg
+2011 Calculus AB Free Response #2 (c &amp; d)	2axaRJQkfVk
+2011 Calculus AB Free Response #3 (a &amp; b)	9UhChwcVWq8
+2011 Calculus AB Free Response #3 (c)	v-H_7o7EMoU
+2011 Calculus AB Free Response #4a	tnoPnyvVjyc
+2011 Calculus AB Free Response #4b	OvMBNVi5bLY
+2011 Calculus AB Free Response #4c	M_ADc9jkBig
+2011 Calculus AB Free Response #4d	yX3JpmEgNHo
+2011 Calculus AB Free Response #5a	n9UvuzI2fq0
+2011 Calculus AB Free Response #5b	hAAIgNzBGg0
+2011 Calculus AB Free Response #5c.	R-2Uw10QgIo
+2011 Calculus AB Free Response #6a	fr-8tjLoeDw
+2011 Calculus AB Free Response #6b	RuEJzPQ_N10
+2011 Calculus AB Free Response #6c	ucghWyc2_qs
+2011 Calculus BC Free Response #1a	wtLTb_VaI-k
+2011 Calculus BC Free Response #1 (b &amp; c)	73eSiVcg4tQ
+2011 Calculus BC Free Response #1d	v-4QScXlN0o
+2011 Calculus BC Free Response #3a	_G9JwTwjulA
+2011 Calculus BC Free Response #3 (b &amp; c)	lpXCvX6ZenM
+2011 Calculus BC Free Response #6a	1BGlbx67B6s
+2011 Calculus BC Free Response #6b	NQazgcu8c7s
+2011 Calculus BC Free Response #6c	l1hJABkcuYI
+Error or Remainder of a Taylor Polynomial Approximation	wgkRH5Uoavk
+Proof: Bounding the Error or Remainder of a Taylor P...	yUUPP70Fhpo
+2011 Calculus BC Free Response #6d	m6oMgtGsAa4
+

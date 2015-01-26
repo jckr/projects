@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="style.css"/>
+  </head>
+  <body style="margin-left: 40px;">
+<h4>D3 Selection Operators</h4>
+
+Selection operators can accept constants or functions.<br/>
+Function arguments are the current
+ <tt>datum</tt> (d) and <tt>index</tt> (i).
+<br/><br/>
+
+<tt><small>
+d3.select("body").selectAll("div")<br/>
+&nbsp;&nbsp;.data([1,2,3])<br/>
+&nbsp;.enter().append("div")<br/>
+&nbsp;&nbsp;.attr("class", function(d,i) { return "para"+d; })<br/>
+&nbsp;&nbsp;.style("font-family", "Gill Sans")<br/>
+&nbsp;&nbsp;.style("font-size", <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;	function(d,i) { return (16+i)+"pt"; })<br/>
+&nbsp;&nbsp;.text("Div Text!");<br/>
+</small></tt>
+</body>
+</html>

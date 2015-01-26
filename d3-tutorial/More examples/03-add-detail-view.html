@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+svg {
+  font: 10px sans-serif;
+}
+path {
+  fill: steelblue;
+}
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.brush .extent {
+  stroke: #fff;
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+</style>
+<body>
+<script src="../d3.v2.js"></script>
+<script>
+
+var margin = {top: 10, right: 10, bottom: 100, left: 40},
+    margin2 = {top: 430, right: 10, bottom: 20, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom,
+    height2 = 500 - margin2.top - margin2.bottom;
+
+var formatDate = d3.time.format("%b %Y");
+
+// add x, y scales
+var x = d3.time.scale().range([0, width]);
+var y = d3.scale.linear().range([height, 0]);
+
+// map data to an area, use "monotone" interpolation
+var area = d3.svg.area()
+    .interpolate("monotone")
+    .x(function(d) { return x(d.date); })
+    .y0(height)
+    .y1(function(d) { return y(d.price); });
+
+// add svg element to DOM, with desired size
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom);
+
+// add container to hold our chart
+var detail = svg.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+d3.csv("sp500.csv", function(data) {
+
+  data.forEach(function(d) {
+    d.date = formatDate.parse(d.date);
+    d.price = +d.price;
+  });
+
+  // set scale domains based on loaded data
+  x.domain(d3.extent(data.map(function(d) { return d.date; })));
+  y.domain([0, d3.max(data.map(function(d) { return d.price; }))]);
+
+  // render data as a path element, using area function
+  detail.append("path")
+      .data([data])
+      .attr("d", area);
+});
+
+</script>

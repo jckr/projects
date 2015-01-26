@@ -1,0 +1,1646 @@
+17	math	trigonometry	Mp838qprwyY	JXCiFbEMTZ4	515	Trig identies part 3 (part 5 if you watch the proofs)
+18	math	trigonometry	iFbEMTZ4	1vamogV81Y8	596	Trigonometry word problems (part 1)
+19	math	trigonometry	mogV81Y8	4CNnPgabrLE	171	Trigonometry word problems (part 2)
+20	math	trigonometry	nPgabrLE	pGaDcOMdw48	566	Law of cosines
+21	math	trigonometry	DcOMdw48	XTWZ_M8d-4g	480	Navigation Word Problem
+22	math	trigonometry	Z_M8d-4g	APNkWrD-U1k	392	Proof: Law of Sines
+23	math	trigonometry	kWrD-U1k	clXSqjs1wgQ	440	Ferris Wheel Trig Problem
+24	math	trigonometry	Sqjs1wgQ	_Kw4hLGMkm4	547	Ferris Wheel Trig Problem (part 2)
+25	math	trigonometry	4hLGMkm4	itpI12TeNIg	601	Fun Trig Problem
+26	math	trigonometry	I12TeNIg	jexMSlSDubM	620	Polar Coordinates 1
+27	math	trigonometry	MSlSDubM	zGpbSGj_vfE	571	Polar Coordinates 2
+28	math	trigonometry	bSGj_vfE	9iqN12hCn10	457	Polar Coordinates 3
+29	math	trigonometry	N12hCn10	JGU74wbZMLg	636	Inverse Trig Functions: Arcsin
+30	math	trigonometry	74wbZMLg	Idxeo49szW0	606	Inverse Trig Functions: Arctan
+31	math	trigonometry	eo49szW0	eTDaJ4ebK28	818	Inverse Trig Functions: Arccos
+32	math	trigonometry	aJ4ebK28	a70-dYvDJZY	667	Trigonometry Identity Review/Fun
+33	math	trigonometry	-dYvDJZY	1jDDfkKKgmc	982	Tau versus Pi
+34	math	trigonometry	DfkKKgmc	X7GT9JKoAbo	913	IIT JEE Trigonometry Problem 1
+35	math	trigonometry	T9JKoAbo	tzR9jUCSniQ	594	IIT JEE Trigonometric Maximum
+36	math	trigonometry	9jUCSniQ	EjtjdJZ2x8w	769	IIT JEE Trigonometric Constraints
+37	math	trigonometry	jdJZ2x8w	Y2ed-g8Lpdc	662	Trigonometric System Example
+38	math	trigonometry	d-g8Lpdc	smtrrefmC40	995	2003 AIME II Problem 11.avi
+39	math	trigonometry	rrefmC40	Ec-BKdC8vOo	1098	2003 AIME II Problem 14
+1	math	probability	BKdC8vOo	uzkc-qNVoOk	498	Basic Probability
+2	math	probability	c-qNVoOk	yUaI0JriZtY	176	Simple Probability
+3	math	probability	I0JriZtY	obZzOq_wSCg	602	Probability with Playing Cards and Venn Diagrams
+4	math	probability	zOq_wSCg	QE2uR6Z-NcU	643	Addition Rule for Probability
+5	math	probability	uR6Z-NcU	xSc4oLA9e8o	360	Compound Probability of Independent Events
+6	math	probability	4oLA9e8o	mLE-SlOZToc	596	Probability 1 Module Examples
+7	math	probability	-SlOZToc	-SlOZToc	159	Independent Events 1
+8	math	probability	G_eWKiF4	VWAfEbgf1Po	284	Independent Events 2
+9	math	probability	fEbgf1Po	2MYA8Ba2PvM	148	Independent Events 3
+10	math	probability	A8Ba2PvM	3UlE8gyKbkU	134	Coin Flipping Example
+11	math	probability	E8gyKbkU	mkyZ45KQYi4	560	Getting At Least One Heads
+12	math	probability	Z45KQYi4	RI874OSJp1U	538	Frequency Probability and Unfair Coins
+13	math	probability	74OSJp1U	l9ft9jpriNA	143	Probability of Dependent Events
+14	math	probability	t9jpriNA	ccrYD6iX_SY	651	Probability of Dependent Events 2
+15	math	probability	YD6iX_SY	8TIben0bJpU	600	Getting Exactly Two Heads (Combinatorics)
+16	math	probability	ben0bJpU	udG9KhNMKJw	411	Exactly Three Heads in Five Flips
+17	math	probability	9KhNMKJw	AOsWph2FNLw	700	Generalizing with Binomial Coefficients (bit advanced)
+18	math	probability	Wph2FNLw	3ER8OkqBdpE	630	Probability (part 1)
+19	math	probability	8OkqBdpE	6E_NVnboMB8	594	Probability (part 2)
+20	math	probability	NVnboMB8	wBDOCvHYckE	606	Probability (part 3)
+21	math	probability	OCvHYckE	W581OBM9rAY	599	Probability (part 4)
+22	math	probability	1OBM9rAY	2XToWi9j0Tk	607	Probability (part 5)
+23	math	probability	oWi9j0Tk	xf3vfczoCho	556	Probability (part 6)
+24	math	probability	vfczoCho	cdRLBOnLTDk	131	Events and Outcomes 1
+25	math	probability	LBOnLTDk	vB4FuGmfEGY	283	Events and Outcomes 2
+26	math	probability	FuGmfEGY	3_otNr9kRuY	129	Events and Outcomes 3
+27	math	probability	tNr9kRuY	xPUm5SUVzTE	541	Dependent Probability Example 1
+28	math	probability	m5SUVzTE	7BkcNLOf56w	394	Dependent Probability Example 2
+29	math	probability	cNLOf56w	BLcgeLALLnc	605	Probability (part 7)
+30	math	probability	geLALLnc	VVr8snbaxZg	323	Probability (part 8)
+31	math	probability	8snbaxZg	zlqvSLvhIXE	377	Probability of More Complex Outcome
+32	math	probability	vSLvhIXE	XqQTXW7XfYA	611	Permutations
+33	math	probability	TXW7XfYA	bCxMhncR7PU	616	Combinations
+34	math	probability	MhncR7PU	oQpKtm5TtxU	225	Permutations and Combinations 1
+35	math	probability	Ktm5TtxU	v9NLtiVt3XY	139	Permutations and Combinations 2
+36	math	probability	LtiVt3XY	SbpoyXTpC84	462	Permutations and Combinations 3
+37	math	probability	oyXTpC84	DIjlllgq3dc	310	Permutations and Combinations 4
+38	math	probability	lllgq3dc	Xqfcy1rqMbI	550	Probability using Combinations
+39	math	probability	cy1rqMbI	W7DmsJKLoxc	636	Probability and Combinations (part 2)
+40	math	probability	msJKLoxc	gyqodNhM3EU	330	Mega Millions Jackpot Probability
+41	math	probability	odNhM3EU	xw6utjoyMi4	1012	Conditional Probability and Combinations
+42	math	probability	utjoyMi4	9G0w61pZPig	796	Birthday Probability Problem
+43	math	probability	w61pZPig	IYdiKeQ9xEI	724	Introduction to Random Variables
+44	math	probability	iKeQ9xEI	Fvi9A_tEmXQ	602	Probability Density Functions
+45	math	probability	9A_tEmXQ	O12yTz_8EOw	736	Binomial Distribution 1
+46	math	probability	yTz_8EOw	FI8xtVaI068	665	Binomial Distribution 2
+47	math	probability	xtVaI068	vKNpQ_KTXvE	806	Binomial Distribution 3
+48	math	probability	pQ_KTXvE	H0ZgOGWUcJw	646	Binomial Distribution 4
+49	math	probability	gOGWUcJw	j__Kredt7vY	893	Expected Value: E(X)
+50	math	probability	Kredt7vY	SqcxYnNlI3Y	1015	Expected Value of Binomial Distribution
+51	math	probability	xYnNlI3Y	3z-M6sbGIZ0	661	Poisson Process 1
+52	math	probability	M6sbGIZ0	Jkr4FSrNEVY	761	Poisson Process 2
+53	math	probability	4FSrNEVY	VpuN8vCQ--M	539	Law of Large Numbers
+54	math	probability	N8vCQ--M	NSSoMafbBqQ	262	Term Life Insurance and Death Probability
+55	math	probability	oMafbBqQ	iMqCSgqzmiQ	425	LeBron asks about the chances of making 10 free throws
+1	math	statistics	CSgqzmiQ	k3aKKasOmIw	235	Mean Median and Mode
+2	math	statistics	KKasOmIw	7DtWXEPB_AI	123	Range and Mid-range
+3	math	statistics	WXEPB_AI	qrVvpYt3Vl0	141	Reading Pictographs
+4	math	statistics	vpYt3Vl0	kiQ6MUQZHSs	179	Reading Bar Graphs
+5	math	statistics	6MUQZHSs	36v2EXZRzUE	141	u08_l1_t2_we2 Reading Line Graphs
+6	math	statistics	2EXZRzUE	4JqH55rLGKY	189	Reading Pie Graphs (Circle Graphs)
+7	math	statistics	H55rLGKY	gs-OPF3KEGU	293	Misleading Line Graphs
+8	math	statistics	OPF3KEGU	LEFE1km5ROY	358	u08_l1_t2_we3 Stem-and-leaf Plots
+9	math	statistics	E1km5ROY	-M0Fi0ijnJs	605	Box-and-Whisker Plots
+10	math	statistics	Fi0ijnJs	b2C9I8HuCe4	198	Reading Box-and-Whisker Plots
+11	math	statistics	9I8HuCe4	uhxtUt_-GyM	755	Statistics: The Average
+12	math	statistics	tUt_-GyM	hsPCte_PcVA	402	Statistics: Sample vs. Population Mean
+13	math	statistics	Cte_PcVA	6JFzI1DDyyk	743	Statistics: Variance of a Population
+14	math	statistics	zI1DDyyk	Qf3RMGXR-h8	678	Statistics: Sample Variance
+15	math	statistics	RMGXR-h8	HvDqbzu0i0E	787	Statistics: Standard Deviation
+16	math	statistics	qbzu0i0E	sRVGcYGjUk8	737	Statistics: Alternate Variance Formulas
+17	math	statistics	GcYGjUk8	IYdiKeQ9xEI	724	Introduction to Random Variables
+18	math	statistics	iKeQ9xEI	Fvi9A_tEmXQ	602	Probability Density Functions
+19	math	statistics	9A_tEmXQ	O12yTz_8EOw	736	Binomial Distribution 1
+20	math	statistics	yTz_8EOw	FI8xtVaI068	665	Binomial Distribution 2
+21	math	statistics	xtVaI068	vKNpQ_KTXvE	806	Binomial Distribution 3
+22	math	statistics	pQ_KTXvE	H0ZgOGWUcJw	646	Binomial Distribution 4
+23	math	statistics	gOGWUcJw	j__Kredt7vY	893	Expected Value: E(X)
+24	math	statistics	Kredt7vY	SqcxYnNlI3Y	1015	Expected Value of Binomial Distribution
+25	math	statistics	xYnNlI3Y	3z-M6sbGIZ0	661	Poisson Process 1
+26	math	statistics	M6sbGIZ0	Jkr4FSrNEVY	761	Poisson Process 2
+27	math	statistics	4FSrNEVY	VpuN8vCQ--M	539	Law of Large Numbers
+28	math	statistics	N8vCQ--M	yTGEMoaWDCQ	1564	Normal Distribution Excel Exercise
+29	math	statistics	EMoaWDCQ	hgtMWR3TFnY	1584	Introduction to the Normal Distribution
+30	math	statistics	MWR3TFnY	79duxPXpyKQ	653	ck12.org Normal Distribution Problems: Qualitative sense of normal distributions
+31	math	statistics	uxPXpyKQ	Wp2nVIzBsE8	468	ck12.org Normal Distribution Problems: z-score
+32	math	statistics	nVIzBsE8	OhRr26AfFBU	625	ck12.org Normal Distribution Problems: Empirical Rule
+33	math	statistics	r26AfFBU	2fzYE-Emar0	496	ck12.org Exercise: Standard Normal Distribution and the Empirical Rule
+34	math	statistics	YE-Emar0	itQEwESWDKg	357	ck12.org: More Empirical Rule and Z-score practice
+35	math	statistics	EwESWDKg	JNm3M9cqWyc	589	Central Limit Theorem
+36	math	statistics	3M9cqWyc	FXZ2O1Lv-KE	652	Sampling Distribution of the Sample Mean
+37	math	statistics	2O1Lv-KE	NYd6wzYkQIM	800	Sampling Distribution of the Sample Mean 2
+38	math	statistics	6wzYkQIM	J1twbrHel3o	915	Standard Error of the Mean
+39	math	statistics	wbrHel3o	0ZstEh_8bYc	868	Sampling Distribution Example Problem
+40	math	statistics	tEh_8bYc	bekNKJoxYbQ	843	Confidence Interval 1
+41	math	statistics	NKJoxYbQ	O8vB1eInP_8	500	Mean and Variance of Bernoulli Distribution Example
+42	math	statistics	B1eInP_8	ry81_iSHt6E	419	Bernoulli Distribution Mean and Variance Formulas
+43	math	statistics	1_iSHt6E	OwPSuHXmiPw	902	Margin of Error 1
+44	math	statistics	SuHXmiPw	YclQE2XtaLw	605	Margin of Error 2
+45	math	statistics	QE2XtaLw	SeQeYVJZ2gE	1116	Confidence Interval Example
+46	math	statistics	eYVJZ2gE	K4KDLWENXm0	671	Small Sample Size Confidence Intervals
+47	math	statistics	DLWENXm0	-FtlH4svqx4	686	Hypothesis Testing and P-values
+48	math	statistics	lH4svqx4	mvye6X_0upA	394	One-Tailed and Two-Tailed Tests
+49	math	statistics	e6X_0upA	5ABpqVSx33I	399	Z-statistics vs. T-statistics
+50	math	statistics	pqVSx33I	EowIec7Y8HM	204	Type 1 Errors
+51	math	statistics	Iec7Y8HM	D2sMsmL0ScQ	544	Small Sample Hypothesis Test
+52	math	statistics	MsmL0ScQ	hV4pdjHCKuA	707	T-Statistic Confidence Interval
+53	math	statistics	pdjHCKuA	1JT9oODsClE	870	Large Sample Proportion Hypothesis Testing
+54	math	statistics	9oODsClE	rLdoKZ7w0xI	647	Variance of Differences of Random Variables
+55	math	statistics	oKZ7w0xI	TcIDXqmt74A	738	Difference of Sample Means Distribution
+56	math	statistics	DXqmt74A	hxZ6uooEJOk	949	Confidence Interval of Difference of Means
+57	math	statistics	6uooEJOk	yQsCMnz9wO8	161	Clarification of Confidence Interval of Difference of Means
+58	math	statistics	CMnz9wO8	N984XGLjQfs	606	Hypothesis Test for Difference of Means
+59	math	statistics	4XGLjQfs	a1Ye5RcWOqg	647	Comparing Population Proportions 1
+60	math	statistics	e5RcWOqg	MNbat1lrJW4	600	Comparing Population Proportions 2
+61	math	statistics	at1lrJW4	dvSa_tx04hw	973	Hypothesis Test Comparing Population Proportions
+62	math	statistics	a_tx04hw	6OvhLPS7rj4	407	Squared Error of Regression Line
+63	math	statistics	hLPS7rj4	mIx2Oj5y9Q8	635	Proof (Part 1) Minimizing Squared Error to Regression Line
+64	math	statistics	2Oj5y9Q8	u1HhUB3NP8g	654	Proof (Part 3) Minimizing Squared Error to Regression Line
+65	math	statistics	hUB3NP8g	8RSTQl0bQuw	258	Proof (Part 4) Minimizing Squared Error to Regression Line
+66	math	statistics	TQl0bQuw	GAmzwIkGFgE	567	Regression Line Example
+67	math	statistics	zwIkGFgE	f6OnoxctvUk	594	Proof Part 2 Minimizing Squared Error to Line
+68	math	statistics	noxctvUk	lng4ZgConCM	761	R-Squared or Coefficient of Determination
+69	math	statistics	4ZgConCM	ww_yT9ckPWw	555	Second Regression Example
+70	math	statistics	yT9ckPWw	Fc5t_5r_7IU	585	Calculating R-Squared
+71	math	statistics	t_5r_7IU	ualmyZiPs9w	908	Covariance and the Regression Line
+72	math	statistics	myZiPs9w	dXB3cUGnaxQ	623	Chi-Square Distribution Introduction
+73	math	statistics	3cUGnaxQ	3cUGnaxQ	708	Pearson's Chi Square Test (Goodness of Fit)
+74	math	statistics	DRsxSF9M	hpWdDmgsIRE	1057	Contingency Table Chi-Square Test
+75	math	statistics	dDmgsIRE	EFdlFoHI_0I	459	ANOVA 1 - Calculating SST (Total Sum of Squares)
+76	math	statistics	lFoHI_0I	j9ZPMlVHJVs	800	ANOVA 2 - Calculating SSW and SSB (Total Sum of Squares Within and Between).avi
+77	math	statistics	PMlVHJVs	Xg8_iSkJpAE	614	ANOVA 3 -Hypothesis Test with F-Statistic
+78	math	statistics	_iSkJpAE	ROpbdO-gRUo	645	Correlation and Causality
+79	math	statistics	bdO-gRUo	GEId0GonOZM	120	Deductive Reasoning 1
+80	math	statistics	d0GonOZM	VMEV__2wW3E	237	Deductive Reasoning 2
+81	math	statistics	V__2wW3E	lYLaaMObgkw	251	Deductive Reasoning 3
+82	math	statistics	aaMObgkw	MnQ7Lizkpqk	127	U12_L1_T3_we1 Inductive Reasoning 1
+83	math	statistics	7Lizkpqk	ZSsBh4Ybbj8	141	Inductive Reasoning 2
+84	math	statistics	Bh4Ybbj8	pgfWkaySFGY	183	Inductive Reasoning 3
+85	math	statistics	WkaySFGY	GvbrtnEYRpY	394	U03_L1_T1_we2 Inductive Patterns
+1	math	precalculus	rtnEYRpY	riXcZT2ICjA	692	Introduction to Limits (HD)
+2	math	precalculus	cZT2ICjA	W0VWO4asgmk	457	Introduction to Limits
+3	math	precalculus	WO4asgmk	GGQngIp0YGI	536	Limit Examples (part 1)
+4	math	precalculus	ngIp0YGI	YRw8udexH4o	417	Limit Examples (part 2)
+5	math	precalculus	8udexH4o	gWSDDopD9sk	598	Limit Examples (part3)
+6	math	precalculus	DDopD9sk	xjkSE9cPqzo	902	Limit Examples w/ brain malfunction on first prob (part 4)
+7	math	precalculus	SE9cPqzo	igJdDN-DPgA	457	Squeeze Theorem
+8	math	precalculus	dDN-DPgA	Ve99biD1KtA	1085	Proof: lim (sin x)/x
+9	math	precalculus	9biD1KtA	rkeU8_4nzKo	789	More Limits
+10	math	precalculus	U8_4nzKo	VgVJrSJxkDk	588	Sequences and Series (part 1)
+11	math	precalculus	JrSJxkDk	U_8GRLJplZg	603	Sequences and series (part 2)
+12	math	precalculus	GRLJplZg	XqQTXW7XfYA	611	Permutations
+13	math	precalculus	TXW7XfYA	bCxMhncR7PU	616	Combinations
+14	math	precalculus	MhncR7PU	Cv4YhIMfbeM	758	Binomial Theorem (part 1)
+15	math	precalculus	YhIMfbeM	-fFWWt1m9k0	859	Binomial Theorem (part 2)
+16	math	precalculus	WWt1m9k0	xF_hJaXUNfE	719	Binomial Theorem (part 3)
+17	math	precalculus	hJaXUNfE	GtaoP0skPWc	596	Introduction to interest
+18	math	precalculus	oP0skPWc	t4zfiBw0hwM	481	Interest (part 2)
+19	math	precalculus	fiBw0hwM	qEB6y4DklNY	611	Introduction to compound interest and e
+20	math	precalculus	6y4DklNY	dzMvqJMLy9c	614	Compound Interest and e (part 2)
+21	math	precalculus	vqJMLy9c	vqJMLy9c	604	Compound Interest and e (part 3)
+22	math	precalculus	pUJV8foY	VAxHMTJRhmY	484	Compound Interest and e (part 4)
+23	math	precalculus	HMTJRhmY	JWfTckls59k	960	Exponential Growth
+24	math	precalculus	Tckls59k	jexMSlSDubM	620	Polar Coordinates 1
+25	math	precalculus	MSlSDubM	zGpbSGj_vfE	571	Polar Coordinates 2
+26	math	precalculus	bSGj_vfE	9iqN12hCn10	457	Polar Coordinates 3
+27	math	precalculus	N12hCn10	m6c6dlmUT1c	668	Parametric Equations 1
+28	math	precalculus	6dlmUT1c	wToSIQJ2o_8	585	Parametric Equations 2
+29	math	precalculus	SIQJ2o_8	57BiI_iD3-U	772	Parametric Equations 3
+30	math	precalculus	iI_iD3-U	IReD6c_njOY	784	Parametric Equations 4
+31	math	precalculus	D6c_njOY	W84lObmOp8M	545	Introduction to Function Inverses
+32	math	precalculus	lObmOp8M	wSiamij_i_k	404	Function Inverse Example 1
+33	math	precalculus	amij_i_k	aeyFb2eVH1c	432	Function Inverses Example 2
+34	math	precalculus	Fb2eVH1c	Bq9cq9FZuNM	455	Function Inverses Example 3
+35	math	precalculus	cq9FZuNM	FwuPXchH2rA	784	Basic Complex Analysis
+36	math	precalculus	PXchH2rA	N0Y8ia57C24	713	Exponential form to find complex roots
+37	math	precalculus	8ia57C24	BZxZ_eEuJBM	483	Complex Conjugates
+38	math	precalculus	Z_eEuJBM	A6fbDssPeac	858	Series Sum Example
+39	math	precalculus	bDssPeac	E7OkUomRq1Q	778	Complex Determinant Example
+40	math	precalculus	kUomRq1Q	ZFN63oTeYzc	728	2003 AIME II Problem 8
+41	math	precalculus	63oTeYzc	sBhEi4L91Sg	675	Logarithmic Scale
+42	math	precalculus	Ei4L91Sg	4xfOq00BzJA	416	Vi and Sal Explore How We Think About Scale
+43	math	precalculus	Oq00BzJA	Oq00BzJA	485	Vi and Sal Talk About the Mysteries of Benford's Law
+44	math	precalculus	eGpjeLZ0	eGpjeLZ0	387	Benford's Law Explanation (Sequel to Mysteries of Benford's Law)
+1	math	calculus	DoEdjTzg	EKvHQc3QEow	547	Newton Leibniz and Usain Bolt
+2	math	calculus	HQc3QEow	riXcZT2ICjA	692	Introduction to Limits (HD)
+3	math	calculus	cZT2ICjA	W0VWO4asgmk	457	Introduction to Limits
+4	math	calculus	WO4asgmk	GGQngIp0YGI	536	Limit Examples (part 1)
+5	math	calculus	ngIp0YGI	YRw8udexH4o	417	Limit Examples (part 2)
+6	math	calculus	8udexH4o	gWSDDopD9sk	598	Limit Examples (part3)
+7	math	calculus	DDopD9sk	xjkSE9cPqzo	902	Limit Examples w/ brain malfunction on first prob (part 4)
+8	math	calculus	SE9cPqzo	igJdDN-DPgA	457	Squeeze Theorem
+9	math	calculus	dDN-DPgA	Ve99biD1KtA	1085	Proof: lim (sin x)/x
+10	math	calculus	9biD1KtA	rkeU8_4nzKo	789	More Limits
+11	math	calculus	U8_4nzKo	-ejyeII0i5c	768	Epsilon Delta Limit Definition 1
+12	math	calculus	yeII0i5c	Fdu5-aNJTzU	656	Epsilon Delta Limit Definition 2
+13	math	calculus	5-aNJTzU	ANyVpMS3HL4	943	Calculus: Derivatives 1 (new HD version)
+14	math	calculus	VpMS3HL4	IePCHjMeFkE	508	Calculus: Derivatives 2 (new HD version)
+15	math	calculus	CHjMeFkE	HEH_oKNLgUU	665	Calculus: Derivatives 2.5 (new HD version)
+16	math	calculus	_oKNLgUU	HtvikVD9aa0	238	Derivative Intuition Module
+17	math	calculus	ikVD9aa0	rAof9Ld5sOg	564	Calculus: Derivatives 1
+18	math	calculus	f9Ld5sOg	ay8838UZ4nM	570	Calculus: Derivatives 2
+19	math	calculus	838UZ4nM	z1lwai-lIzY	590	Calculus: Derivatives 3
+20	math	calculus	wai-lIzY	XIQ-KnsAsbg	551	The Chain Rule
+21	math	calculus	-KnsAsbg	6_lmiPDedsY	563	Chain Rule Examples
+22	math	calculus	miPDedsY	DYb-AN-lK94	589	Even More Chain Rule
+23	math	calculus	-AN-lK94	h78GdGiRmpM	528	Product Rule
+24	math	calculus	GdGiRmpM	E_1gEtiGPNI	571	Quotient Rule
+25	math	calculus	gEtiGPNI	aEP4C_kvcO4	595	Derivatives (part 9)
+26	math	calculus	4C_kvcO4	dZnc3PtNaN4	423	Proof: d/dx(x^n)
+27	math	calculus	c3PtNaN4	789aMeepbxI	307	Proof: d/dx(sqrt(x))
+28	math	calculus	aMeepbxI	yUpDRpkUhf4	592	Proof: d/dx(ln x) = 1/x
+29	math	calculus	DRpkUhf4	sSE6_fK3mu0	280	Proof: d/dx(e^x) = e^x
+30	math	calculus	6_fK3mu0	3nQejB-XPoY	747	Proofs of Derivatives of Ln(x) and e^x
+31	math	calculus	ejB-XPoY	viaPc8zDcRI	1393	Extreme Derivative Word Problem (advanced)
+32	math	calculus	Pc8zDcRI	sL6MC-lKOrw	957	Implicit Differentiation
+33	math	calculus	MC-lKOrw	PUsMyhds5S4	644	Implicit Differentiation (part 2)
+34	math	calculus	Myhds5S4	hrg1hCzg3W0	690	More implicit differentiation
+35	math	calculus	1hCzg3W0	XHBkQW_XuA4	610	More chain rule and implicit differentiation intuition
+36	math	calculus	kQW_XuA4	6xvwyE67CeM	728	Trig Implicit Differentiation Example
+37	math	calculus	wyE67CeM	N5kkwVoAtkc	542	Calculus: Derivative of x^(x^x)
+38	math	calculus	kwVoAtkc	kwVoAtkc	531	Introduction to L'Hopital's Rule
+39	math	calculus	zruR5OeE	zruR5OeE	463	L'Hopital's Rule Example 1
+40	math	calculus	OC3WocXs	OC3WocXs	315	L'Hopital's Rule Example 2
+41	math	calculus	18AwLfuI	18AwLfuI	470	L'Hopital's Rule Example 3
+42	math	calculus	FZjT-ABM	tpHz0gZfVss	577	Maxima Minima Slope Intuition
+43	math	calculus	z0gZfVss	dIE22eL6q90	823	Inflection Points and Concavity Intuition
+44	math	calculus	22eL6q90	WrEcQsa-1ME	554	Monotonicity Theorem
+45	math	calculus	cQsa-1ME	gzmSKrwiG3g	702	Calculus: Maximum and minimum values on an interval
+46	math	calculus	SKrwiG3g	hIgnece9ins	1231	Calculus: Graphing Using Derivatives
+47	math	calculus	nece9ins	zC_dTaEY2AY	1508	Calculus Graphing with Derivatives Example
+48	math	calculus	dTaEY2AY	ojcp0GJKluM	584	Graphing with Calculus
+49	math	calculus	p0GJKluM	Ef22yTJDUZI	590	Optimization with Calculus 1
+50	math	calculus	2yTJDUZI	3GYv-BZYYdg	716	Optimization with Calculus 2
+51	math	calculus	v-BZYYdg	i8Wtu-kdDC4	1049	Optimization with Calculus 3
+52	math	calculus	tu-kdDC4	tu-kdDC4	588	Optimization Example 4
+53	math	calculus	G4Sb3g7Y	Zyq6TmQVBxk	582	Introduction to rate-of-change problems
+54	math	calculus	6TmQVBxk	1KwW1v__T_0	487	Equation of a tangent line
+55	math	calculus	W1v__T_0	xmgk8_l3lig	337	Rates-of-change (part 2)
+56	math	calculus	k8_l3lig	hD3U65CcZ0Q	659	Ladder rate-of-change problem
+57	math	calculus	U65CcZ0Q	bGNMXfaNR5Q	1008	Mean Value Theorem
+58	math	calculus	MXfaNR5Q	xRspb-iev-g	567	The Indefinite Integral or Anti-derivative
+59	math	calculus	pb-iev-g	mHvSYRUEWnE	568	Indefinite integrals (part II)
+60	math	calculus	SYRUEWnE	77-najNh4iY	590	Indefinite Integration (part III)
+61	math	calculus	najNh4iY	VJ9VRUDQyK8	588	Indefinite Integration (part IV)
+62	math	calculus	VRUDQyK8	Pra6r20geXU	550	Indefinite Integration (part V)
+63	math	calculus	6r20geXU	ouYZiIh8Ctc	573	Integration by Parts (part 6 of Indefinite Integration)
+64	math	calculus	ZiIh8Ctc	F-OsMq7QKEQ	578	Indefinite Integration (part 7)
+65	math	calculus	sMq7QKEQ	IAbSeAk5RJU	357	Another u-subsitution example
+66	math	calculus	SeAk5RJU	0RdI3-8G4Fs	558	Introduction to definite integrals
+67	math	calculus	I3-8G4Fs	6PaFm_Je5A0	555	Definite integrals (part II)
+68	math	calculus	Fm_Je5A0	7wUHJ7JQ-gs	585	Definite Integrals (area under a curve) (part III)
+69	math	calculus	HJ7JQ-gs	11Bt6OhIeqA	591	Definite Integrals (part 4)
+70	math	calculus	t6OhIeqA	CmXmRNFrtFw	597	Definite Integrals (part 5)
+71	math	calculus	mRNFrtFw	CbUx0S8BCtA	534	Definite integral with substitution
+72	math	calculus	x0S8BCtA	n4EK92CSuBE	458	Integrals: Trig Substitution 1
+73	math	calculus	K92CSuBE	fD7MbnXbTls	491	Integrals: Trig Substitution 2
+74	math	calculus	MbnXbTls	sw2p2tUIFpc	1072	Integrals: Trig Substitution 3 (long problem)
+75	math	calculus	p2tUIFpc	CZdziIlYIfI	943	Periodic Definite Integral
+76	math	calculus	ziIlYIfI	C8mudsCSmcU	865	Simple Differential Equations
+77	math	calculus	udsCSmcU	R_aqSL-q6_8	605	Solid of Revolution (part 1)
+78	math	calculus	qSL-q6_8	qSL-q6_8	451	Solid of Revolution (part 2)
+79	math	calculus	fsUOl3-A	tqfU9mC2yFU	539	Solid of Revolution (part 3)
+80	math	calculus	U9mC2yFU	OtmjNuiTHp0	502	Solid of Revolution (part 4)
+81	math	calculus	jNuiTHp0	NIdqkwocNuE	569	Solid of Revolution (part 5)
+82	math	calculus	qkwocNuE	F2psxMnGdUw	559	Solid of Revolution (part 6)
+83	math	calculus	sxMnGdUw	IZ8W-h764Cc	606	Solid of Revolution (part 7)
+84	math	calculus	W-h764Cc	4Flj9plmKGQ	255	Solid of Revolution (part 8)
+85	math	calculus	j9plmKGQ	VgVJrSJxkDk	588	Sequences and Series (part 1)
+86	math	calculus	JrSJxkDk	U_8GRLJplZg	603	Sequences and series (part 2)
+87	math	calculus	GRLJplZg	epgwuzzDHsQ	779	Maclauren and Taylor Series Intuition
+88	math	calculus	wuzzDHsQ	WWe7pZjc4s8	337	Cosine Taylor Series at 0 (Maclaurin)
+89	math	calculus	7pZjc4s8	LlKvubIqHc8	393	Sine Taylor Series at 0 (Maclaurin)
+90	math	calculus	vubIqHc8	JYQqml4-4q4	370	Taylor Series at 0 (Maclaurin) for e to the x
+91	math	calculus	qml4-4q4	qml4-4q4	687	Euler's Formula and Euler's Identity
+92	math	calculus	tPOgFje0	8dMLK2Wueaw	361	Visualizing Taylor Series Approximations
+93	math	calculus	LK2Wueaw	1LxhXqD3_CE	447	Generalized Taylor Series Approximation
+94	math	calculus	hXqD3_CE	AFMXixBVP-0	398	Visualizing Taylor Series for e^x
+95	math	calculus	XixBVP-0	sy132cgqaiU	585	Polynomial approximation of functions (part 1)
+96	math	calculus	32cgqaiU	3JG3qn7-Sac	603	Polynomial approximation of functions (part 2)
+97	math	calculus	3qn7-Sac	XZDGrbyz0v0	433	Approximating functions with polynomials (part 3)
+98	math	calculus	Grbyz0v0	gcJeg4SdIpU	599	Polynomial approximation of functions (part 4)
+99	math	calculus	eg4SdIpU	9AoDucUmO20	564	Polynomial approximations of functions (part 5)
+100	math	calculus	DucUmO20	-gRNRBCG3Ow	599	Polynomial approximation of functions (part 6)
+101	math	calculus	NRBCG3Ow	bC5Lahh4Aus	618	Polynomial approximation of functions (part 7)
+102	math	calculus	Lahh4Aus	8SsC5st4LnI	1085	Taylor Polynomials
+103	math	calculus	C5st4LnI	JWfTckls59k	960	Exponential Growth
+104	math	calculus	Tckls59k	upO6Mh862PI	534	AP Calculus BC Exams: 2008 1 a
+105	math	calculus	6Mh862PI	6Mh862PI	574	AP Calculus BC Exams: 2008 1 b&c
+106	math	calculus	6HLM3xEQ	6HLM3xEQ	560	AP Calculus BC Exams: 2008 1 c&d
+107	math	calculus	Mfsu__gU	sPTuCE5zd3s	322	AP Calculus BC Exams: 2008 1 d
+108	math	calculus	uCE5zd3s	xvvI_QRYxBY	525	Calculus BC 2008 2 a
+109	math	calculus	I_QRYxBY	I_QRYxBY	642	Calculus BC 2008 2 b &c
+110	math	calculus	OSgTj9C8	o_vMb655dFk	268	Calculus BC 2008 2d
+111	math	calculus	Mb655dFk	1CMDS4-PKKQ	671	Partial Derivatives
+112	math	calculus	DS4-PKKQ	-u0mqFqpMNY	626	Partial Derivatives 2
+113	math	calculus	mqFqpMNY	U7HQ_G_N6vo	585	Gradient 1
+114	math	calculus	Q_G_N6vo	OB8b8aDGLgE	654	Gradient of a scalar field
+115	math	calculus	b8aDGLgE	JAXyLhvZ-Vg	620	Divergence 1
+116	math	calculus	yLhvZ-Vg	tOX3RkH2guE	652	Divergence 2
+117	math	calculus	3RkH2guE	U6Re4xT0o4w	648	Divergence 3
+118	math	calculus	e4xT0o4w	Mt4dpGFVsYc	572	Curl 1
+119	math	calculus	dpGFVsYc	hTSyVgBa1T0	617	Curl 2
+120	math	calculus	yVgBa1T0	fYzoiWIBjP8	622	Curl 3
+121	math	calculus	oiWIBjP8	85zGYB-34jQ	629	Double Integral 1
+122	math	calculus	GYB-34jQ	TdLD2Zh-nUQ	590	Double Integrals 2
+123	math	calculus	D2Zh-nUQ	z8BM6cHifPA	483	Double Integrals 3
+124	math	calculus	M6cHifPA	twT-WZChfZ8	564	Double Integrals 4
+125	math	calculus	-WZChfZ8	hrIPO8mQqtw	591	Double Integrals 5
+126	math	calculus	PO8mQqtw	0pv0QtOi5l8	598	Double Integrals 6
+127	math	calculus	0QtOi5l8	vr0sTKbV7lI	638	Triple Integrals 1
+128	math	calculus	sTKbV7lI	vxQvL_WhBGU	446	Triple Integrals 2
+129	math	calculus	vL_WhBGU	ZN2PfqZ4ihM	708	Triple Integrals 3
+130	math	calculus	PfqZ4ihM	PfqZ4ihM	520	(2^ln x)/x Antiderivative Example
+131	math	calculus	bjbyr1t4	_60sKaoRmhU	1128	Introduction to the Line Integral
+132	math	calculus	sKaoRmhU	uXjQ8yc9Pdg	782	Line Integral Example 1
+133	math	calculus	Q8yc9Pdg	wyTjyQMVvc4	773	Line Integral Example 2 (part 1)
+134	math	calculus	jyQMVvc4	Qqanbd3gLhw	598	Line Integral Example 2 (part 2)
+135	math	calculus	nbd3gLhw	sBldw95xMD4	465	Position Vector Valued Functions
+136	math	calculus	dw95xMD4	E9Q_Lc0g1xE	885	Derivative of a position vector valued function
+137	math	calculus	_Lc0g1xE	FYMn61HLw1k	304	Differential of a vector valued function
+138	math	calculus	n61HLw1k	vcwvzUVLPw0	765	Vector valued function derivative example
+139	math	calculus	vzUVLPw0	t3cJYNdQLYg	1006	Line Integrals and Vector Fields
+140	math	calculus	JYNdQLYg	AFF8FXxt5os	692	Using a line integral to find the work done by a vector field example
+141	math	calculus	8FXxt5os	eGRZKkmI_fo	446	Parametrization of a Reverse Path
+142	math	calculus	ZKkmI_fo	99pD1-6ZpuM	982	Scalar Field Line Integral Independent of Path Direction
+143	math	calculus	D1-6ZpuM	fuSOY9r1R6w	951	Vector Field Line Integrals Dependent on Path Direction
+144	math	calculus	OY9r1R6w	K_fgnCJOI8I	1034	Path Independence for Line Integrals
+145	math	calculus	gnCJOI8I	I2dbzp0zHuw	505	Closed Curve Line Integrals of Conservative Vector Fields
+146	math	calculus	bzp0zHuw	Q9t1LghwdGc	662	Example of Closed Line Integral of Conservative Field
+147	math	calculus	1LghwdGc	LpY8Qa3IP1w	619	Second Example of Line Integral of Conservative Vector Field
+148	math	calculus	8Qa3IP1w	8Qa3IP1w	866	Green's Theorem Proof Part 1
+149	math	calculus	JvZKfMYE	JvZKfMYE	1166	Green's Theorem Proof (part 2)
+150	math	calculus	D-0OWBRo	D-0OWBRo	631	Green's Theorem Example 1
+151	math	calculus	nILbrhsM	nILbrhsM	427	Green's Theorem Example 2
+152	math	calculus	PAAyL8nQ	owKAHXf1y1A	1142	Introduction to Parametrizing a Surface with Two Parameters
+153	math	calculus	AHXf1y1A	bJ_09eoCmag	992	Determining a Position Vector-Valued Function for a Parametrization of Two Parameters
+154	math	calculus	09eoCmag	c7ByaI3T7Dc	607	Partial Derivatives of Vector-Valued Functions
+155	math	calculus	yaI3T7Dc	9k97m8oWnaY	1334	Introduction to the Surface Integral
+156	math	calculus	7m8oWnaY	7sQCcGlK2bY	645	Example of calculating a surface integral part 1
+157	math	calculus	CcGlK2bY	qQAhhithHa8	629	Example of calculating a surface integral part 2
+158	math	calculus	hhithHa8	s2_NTiISZl4	594	Example of calculating a surface integral part 3
+159	math	calculus	NTiISZl4	ppBJWf_Wdmc	448	2011 Calculus AB Free Response #1a
+160	math	calculus	JWf_Wdmc	QackTJWqOjA	877	2011 Calculus AB Free Response #1 parts b c d
+161	math	calculus	kTJWqOjA	kTJWqOjA	556	2011 Calculus AB Free Response #2 (a & b)
+162	math	calculus	6QqezqUg	6QqezqUg	447	2011 Calculus AB Free Response #2 (c & d)
+163	math	calculus	aRJQkfVk	aRJQkfVk	493	2011 Calculus AB Free Response #3 (a & b)
+164	math	calculus	ChwcVWq8	v-H_7o7EMoU	399	2011 Calculus AB Free Response #3 (c)
+165	math	calculus	_7o7EMoU	tnoPnyvVjyc	288	2011 Calculus AB Free Response #4a
+166	math	calculus	PnyvVjyc	OvMBNVi5bLY	795	2011 Calculus AB Free Response #4b
+167	math	calculus	BNVi5bLY	M_ADc9jkBig	264	2011 Calculus AB Free Response #4c
+168	math	calculus	Dc9jkBig	yX3JpmEgNHo	346	2011 Calculus AB Free Response #4d
+169	math	calculus	JpmEgNHo	n9UvuzI2fq0	419	2011 Calculus AB Free Response #5a
+170	math	calculus	vuzI2fq0	hAAIgNzBGg0	498	2011 Calculus AB Free Response #5b
+171	math	calculus	IgNzBGg0	R-2Uw10QgIo	555	2011 Calculus AB Free Response #5c.
+172	math	calculus	Uw10QgIo	fr-8tjLoeDw	263	2011 Calculus AB Free Response #6a
+173	math	calculus	8tjLoeDw	RuEJzPQ_N10	315	2011 Calculus AB Free Response #6b
+174	math	calculus	JzPQ_N10	ucghWyc2_qs	449	2011 Calculus AB Free Response #6c
+175	math	calculus	hWyc2_qs	wtLTb_VaI-k	403	2011 Calculus BC Free Response #1a
+176	math	calculus	Tb_VaI-k	Tb_VaI-k	459	2011 Calculus BC Free Response #1 (b & c)
+177	math	calculus	SiVcg4tQ	v-4QScXlN0o	514	2011 Calculus BC Free Response #1d
+178	math	calculus	QScXlN0o	_G9JwTwjulA	341	2011 Calculus BC Free Response #3a
+179	math	calculus	JwTwjulA	JwTwjulA	506	2011 Calculus BC Free Response #3 (b & c)
+180	math	calculus	CvX6ZenM	1BGlbx67B6s	462	2011 Calculus BC Free Response #6a
+181	math	calculus	lbx67B6s	NQazgcu8c7s	599	2011 Calculus BC Free Response #6b
+182	math	calculus	zgcu8c7s	l1hJABkcuYI	178	2011 Calculus BC Free Response #6c
+183	math	calculus	JABkcuYI	wgkRH5Uoavk	687	Error or Remainder of a Taylor Polynomial Approximation
+184	math	calculus	RH5Uoavk	yUUPP70Fhpo	908	Proof: Bounding the Error or Remainder of a Taylor Polynomial Approximation
+185	math	calculus	PP70Fhpo	m6oMgtGsAa4	712	2011 Calculus BC Free Response #6d
+1	math	differential-equations	MgtGsAa4	-_POEWfygmU	662	What is a differential equation
+2	math	differential-equations	OEWfygmU	C5-lz0hcqsE	720	Separable Differential Equations
+3	math	differential-equations	lz0hcqsE	xVWCfMe97ws	337	Separable differential equations 2
+4	math	differential-equations	CfMe97ws	iEpqcdaJNTQ	594	Exact Equations Intuition 1 (proofy)
+5	math	differential-equations	qcdaJNTQ	a7wYAtMjORQ	651	Exact Equations Intuition 2 (proofy)
+6	math	differential-equations	YAtMjORQ	Pb04ntcDJcQ	729	Exact Equations Example 1
+7	math	differential-equations	4ntcDJcQ	utQi1ZhF__Q	481	Exact Equations Example 2
+8	math	differential-equations	i1ZhF__Q	eu_GFuU7tLI	599	Exact Equations Example 3
+9	math	differential-equations	GFuU7tLI	j511hg7Hlbg	616	Integrating factors 1
+10	math	differential-equations	1hg7Hlbg	0NyeDUhKwBE	506	Integrating factors 2
+11	math	differential-equations	eDUhKwBE	9Wfn-WWV1aY	441	First order homegenous equations
+12	math	differential-equations	n-WWV1aY	6YRGEsQWZzY	502	First order homogenous equations 2
+13	math	differential-equations	GEsQWZzY	UFWAu8Ptth0	584	2nd Order Linear Homogeneous Differential Equations 1
+14	math	differential-equations	Au8Ptth0	UFWAu8Ptth0	508	2nd Order Linear Homogeneous Differential Equations 2
+15	math	differential-equations	qgkOZMAc	UFWAu8Ptth0	359	2nd Order Linear Homogeneous Differential Equations 3
+16	math	differential-equations	wAFQt4v0	UFWAu8Ptth0	550	2nd Order Linear Homogeneous Differential Equations 4
+17	math	differential-equations	_uPb9H8w	6xEO4BeawzA	627	Complex roots of the characteristic equations 1
+18	math	differential-equations	O4BeawzA	jJyRrIZ595c	623	Complex roots of the characteristic equations 2
+19	math	differential-equations	RrIZ595c	rGaM6pwqhB0	612	Complex roots of the characteristic equations 3
+20	math	differential-equations	M6pwqhB0	NW9JfMvIsxw	718	Repeated roots of the characteristic equation
+21	math	differential-equations	JfMvIsxw	YezsgIlcb68	532	Repeated roots of the characterisitic equations part 2
+22	math	differential-equations	sgIlcb68	znE4Nq9NJCQ	611	Undetermined Coefficients 1
+23	math	differential-equations	4Nq9NJCQ	hbJ2o9EUmJ0	660	Undetermined Coefficients 2
+24	math	differential-equations	2o9EUmJ0	I3vIAzMcm4Y	489	Undetermined Coefficients 3
+25	math	differential-equations	IAzMcm4Y	vAepSNDLZRM	354	Undetermined Coefficients 4
+26	math	differential-equations	pSNDLZRM	OiNh2DswFt4	481	Laplace Transform 1
+27	math	differential-equations	h2DswFt4	33TYoybjqPg	454	Laplace Transform 2
+28	math	differential-equations	YoybjqPg	gMcs6RF_LrQ	644	Laplace Transform 3 (L{sin(at)})
+29	math	differential-equations	s6RF_LrQ	-cApVwKR1Ps	553	Laplace Transform 4
+30	math	differential-equations	pVwKR1Ps	E2VxbufzuWQ	696	Laplace Transform 5
+31	math	differential-equations	xbufzuWQ	fyJkXBvcA2Q	585	Laplace Transform 6
+32	math	differential-equations	kXBvcA2Q	3uYb-RhM7lU	651	Laplace Transform to solve an equation
+33	math	differential-equations	b-RhM7lU	EdQ7Q9VoF44	646	Laplace Transform solves an equation 2
+34	math	differential-equations	7Q9VoF44	_X_QwpXsdOs	677	More Laplace Transform tools
+35	math	differential-equations	QwpXsdOs	nlUG4OKN1IY	1128	Using the Laplace Transform to solve a nonhomogenous eq
+36	math	differential-equations	G4OKN1IY	qhKJ1DG9kYY	546	Laplace Transform of : L{t}
+37	math	differential-equations	J1DG9kYY	J1DG9kYY	616	Laplace Transform of t^n: L{t^n}
+38	math	differential-equations	aUx3UQoA	4Mr7aEHQr8E	1455	Laplace Transform of the Unit Step Function
+39	math	differential-equations	7aEHQr8E	BbqbvSig6Mc	1155	Inverse Laplace Examples
+40	math	differential-equations	bvSig6Mc	R0JY8oWsuOY	1152	Laplace/Step Function Differential Equation
+41	math	differential-equations	Y8oWsuOY	4qfdCwys2ew	1068	Dirac Delta Function
+42	math	differential-equations	dCwys2ew	vhfjEpQWWeE	733	Laplace Transform of the Dirac Delta Function
+43	math	differential-equations	jEpQWWeE	IW4Reburjpc	1139	Introduction to the Convolution
+44	math	differential-equations	Reburjpc	TJgBEI3drUc	826	The Convolution and the Laplace Transform
+45	math	differential-equations	BEI3drUc	rfyq32mHcYs	734	Using the Convolution Theorem to Solve an Initial Value Prob
+1	math	linear-algebra	q32mHcYs	xyAuNHPsq-g	711	Introduction to matrices
+2	math	linear-algebra	uNHPsq-g	aKhhYguY0DQ	820	Matrix multiplication (part 1)
+3	math	linear-algebra	hYguY0DQ	OAh573i_qn8	877	Matrix multiplication (part 2)
+4	math	linear-algebra	573i_qn8	iUQR0enP7RQ	854	Inverse Matrix (part 1)
+5	math	linear-algebra	R0enP7RQ	S4n-tQZnU6o	1004	Inverting matrices (part 2)
+6	math	linear-algebra	-tQZnU6o	obts_JDS6_Q	816	Inverting Matrices (part 3)
+7	math	linear-algebra	s_JDS6_Q	AUqeb9Z3y3k	992	Matrices to solve a system of equations
+8	math	linear-algebra	eb9Z3y3k	gsNgdVdAT1o	860	Matrices to solve a vector combination problem
+9	math	linear-algebra	gdVdAT1o	UqyN7-tRS00	867	Singular Matrices
+10	math	linear-algebra	N7-tRS00	5tB7y_piK6o	481	3-variable linear equations (part 1)
+11	math	linear-algebra	7y_piK6o	woqq3Sls1d8	926	Solving 3 Equations with 3 Unknowns
+12	math	linear-algebra	q3Sls1d8	5cWB52I-SF0	991	Linear Algebra: Introduction to Vectors
+13	math	linear-algebra	B52I-SF0	r4bH66vYjss	1533	Linear Algebra: Vector Examples
+14	math	linear-algebra	H66vYjss	hWhs2cIj7Cw	1486	Linear Algebra: Parametric Representations of Lines
+15	math	linear-algebra	s2cIj7Cw	Qm_OS-8COwU	1235	Linear Combinations and Span
+16	math	linear-algebra	OS-8COwU	CrV1xCWdY-g	946	Linear Algebra: Introduction to Linear Independence
+17	math	linear-algebra	1xCWdY-g	Alhcv5d_XOs	1058	More on linear independence
+18	math	linear-algebra	cv5d_XOs	9kW6zFK5E5c	1013	Span and Linear Independence Example
+19	math	linear-algebra	6zFK5E5c	pMFv6liWK4M	1409	Linear Subspaces
+20	math	linear-algebra	v6liWK4M	zntNi3-ybfQ	1140	Linear Algebra: Basis of a Subspace
+21	math	linear-algebra	Ni3-ybfQ	WNuIhXo39_k	550	Vector Dot Product and Vector Length
+22	math	linear-algebra	IhXo39_k	rVQ3G9epCjw	645	Proving Vector Dot Product Properties
+23	math	linear-algebra	3G9epCjw	r2PogGDl8_U	1015	Proof of the Cauchy-Schwarz Inequality
+24	math	linear-algebra	ogGDl8_U	PsNidCBr5II	1133	Linear Algebra: Vector Triangle Inequality
+25	math	linear-algebra	idCBr5II	5AWob_z74Ks	1511	Defining the angle between vectors
+26	math	linear-algebra	ob_z74Ks	UJxgcVaNTqY	833	Defining a plane in R3 with a point and normal vector
+27	math	linear-algebra	gcVaNTqY	pJzmiywagfY	947	Linear Algebra: Cross Product Introduction
+28	math	linear-algebra	miywagfY	7MKA2QlKvHc	1089	Proof: Relationship between cross product and sin of angle
+29	math	linear-algebra	A2QlKvHc	tdwFdzVqito	1154	Dot and Cross Product Comparison/Intuition
+30	math	linear-algebra	FdzVqito	L0CmbneYETs	1063	Matrices: Reduced Row Echelon Form 1
+31	math	linear-algebra	mbneYETs	lP1DGtZ8Wys	457	Matrices: Reduced Row Echelon Form 2
+32	math	linear-algebra	DGtZ8Wys	JVDrlTdzxiI	728	Matrices: Reduced Row Echelon Form 3
+33	math	linear-algebra	rlTdzxiI	7Mo4S2wyMg4	1270	Matrix Vector Products
+34	math	linear-algebra	4S2wyMg4	jCwRV1QL_Xs	623	Introduction to the Null Space of a Matrix
+35	math	linear-algebra	RV1QL_Xs	qvyboGryeA8	787	Null Space 2: Calculating the null space of a matrix
+36	math	linear-algebra	boGryeA8	vFctYRhK2M0	695	Null Space 3: Relation to Linear Independence
+37	math	linear-algebra	tYRhK2M0	st6D5OdFV9M	640	Column Space of a Matrix
+38	math	linear-algebra	D5OdFV9M	_uTAdf_AsfQ	1513	Null Space and Column Space Basis
+39	math	linear-algebra	Adf_AsfQ	EGNlXtjYABw	1271	Visualizing a Column Space as a Plane in R3
+40	math	linear-algebra	lXtjYABw	Zn2K8UIT8r4	1295	Proof: Any subspace basis has same number of elements
+41	math	linear-algebra	K8UIT8r4	abYAUqs_n6I	839	Dimension of the Null Space or Nullity
+42	math	linear-algebra	AUqs_n6I	JUgrBkPteTg	768	Dimension of the Column Space or Rank
+43	math	linear-algebra	rBkPteTg	BfVjTOjvI30	513	Showing relation between basis cols and pivot cols
+44	math	linear-algebra	jTOjvI30	CkQOCnLWPUA	820	Showing that the candidate basis does span C(A)
+45	math	linear-algebra	OCnLWPUA	BQMyeQOLvpg	961	A more formal understanding of functions
+46	math	linear-algebra	yeQOLvpg	gAbadNuQEjI	859	Vector Transformations
+47	math	linear-algebra	adNuQEjI	4PCktDZJH8E	832	Linear Transformations
+48	math	linear-algebra	ktDZJH8E	ondmopWLiEg	1024	Matrix Vector Products as Linear Transformations
+49	math	linear-algebra	mopWLiEg	PErhLkQcpZ8	1052	Linear Transformations as Matrix Vector Products
+50	math	linear-algebra	hLkQcpZ8	MIAmN5kgp3k	1091	Image of a subset under a transformation
+51	math	linear-algebra	mN5kgp3k	mN5kgp3k	997	im(T): Image of a Transformation
+52	math	linear-algebra	27mfh1Jo	zVsGtU8lIWs	323	Preimage of a set
+53	math	linear-algebra	GtU8lIWs	6yrPU8rYOhs	923	Preimage and Kernel Example
+54	math	linear-algebra	PU8rYOhs	wHuY97vss18	909	Sums and Scalar Multiples of Linear Transformations
+55	math	linear-algebra	Y97vss18	Z19-ObbmHJE	641	More on Matrix Addition and Scalar Multiplication
+56	math	linear-algebra	-ObbmHJE	qkfODKmZ-x4	913	Linear Transformation Examples: Scaling and Reflections
+57	math	linear-algebra	ODKmZ-x4	lPWfIq5DzqI	1072	Linear Transformation Examples: Rotations in R2
+58	math	linear-algebra	fIq5DzqI	gkyuLPzfDV0	738	Rotation in R3 around the X-axis
+59	math	linear-algebra	uLPzfDV0	lQn7fksaDq0	419	Unit Vectors
+60	math	linear-algebra	7fksaDq0	27vT-NWuw0M	877	Introduction to Projections
+61	math	linear-algebra	T-NWuw0M	JK-8XNIoAkI	1000	Expressing a Projection on to a line as a Matrix Vector prod
+62	math	linear-algebra	8XNIoAkI	f_DTiXZpb8M	741	Compositions of Linear Transformations 1
+63	math	linear-algebra	TiXZpb8M	BuqcKpe5ZQs	990	Compositions of Linear Transformations 2
+64	math	linear-algebra	cKpe5ZQs	x1z0hOyjapU	1094	Linear Algebra: Matrix Product Examples
+65	math	linear-algebra	0hOyjapU	Hhc96U_HvQE	719	Matrix Product Associativity
+66	math	linear-algebra	96U_HvQE	oMWTMj78cwc	592	Distributive Property of Matrix Products
+67	math	linear-algebra	TMj78cwc	-eAzhBZgq28	1133	Linear Algebra: Introduction to the inverse of a function
+68	math	linear-algebra	zhBZgq28	7GEUgRcnfVE	1361	Proof: Invertibility implies a unique solution to f(x)=y
+69	math	linear-algebra	UgRcnfVE	xKNX8BUWR0g	571	Surjective (onto) and Injective (one-to-one) functions
+70	math	linear-algebra	X8BUWR0g	QIU1daMN8fw	391	Relating invertibility to being onto and one-to-one
+71	math	linear-algebra	1daMN8fw	eR8vEdJTvd0	1551	Determining whether a transformation is onto
+72	math	linear-algebra	vEdJTvd0	1PsNIzUJPkc	994	Linear Algebra: Exploring the solution set of Ax=b
+73	math	linear-algebra	NIzUJPkc	M3FuL9qKTBs	1199	Linear Algebra: Matrix condition for one-to-one trans
+74	math	linear-algebra	uL9qKTBs	Yz2OosyMTmY	397	Linear Algebra: Simplifying conditions for invertibility
+75	math	linear-algebra	OosyMTmY	mr9Tow8hpCg	1285	Linear Algebra: Showing that Inverses are Linear
+76	math	linear-algebra	Tow8hpCg	6DpzCKJBsz0	1080	Linear Algebra: Deriving a method for determining inverses
+77	math	linear-algebra	zCKJBsz0	r9aTLTN16V4	382	Linear Algebra: Example of Finding Matrix Inverse
+78	math	linear-algebra	TLTN16V4	eEUK_ThrHuQ	1100	Linear Algebra: Formula for 2x2 inverse
+79	math	linear-algebra	K_ThrHuQ	0c7dt2SQfLw	601	Linear Algebra: 3x3 Determinant
+80	math	linear-algebra	dt2SQfLw	H9BWRYJNIv4	1120	Linear Algebra: nxn Determinant
+81	math	linear-algebra	WRYJNIv4	nu87kfmwNfU	543	Linear Algebra: Determinants along other rows/cols
+82	math	linear-algebra	7kfmwNfU	4xFIi0JF2AM	438	Linear Algebra: Rule of Sarrus of Determinants
+83	math	linear-algebra	Ii0JF2AM	32rdijPB-rA	800	Linear Algebra: Determinant when row multiplied by scalar
+84	math	linear-algebra	dijPB-rA	WY6QG0mZ7uQ	172	Linear Algebra: (correction) scalar muliplication of row
+85	math	linear-algebra	QG0mZ7uQ	VrB3LaSD_uo	1015	Linear Algebra: Determinant when row is added
+86	math	linear-algebra	3LaSD_uo	gYv8sttBIqs	499	Linear Algebra: Duplicate Row Determinant
+87	math	linear-algebra	8sttBIqs	kpG7xySkivg	625	Linear Algebra: Determinant after row operations
+88	math	linear-algebra	7xySkivg	VX7K8iqoiRc	487	Linear Algebra: Upper Triangular Determinant
+89	math	linear-algebra	K8iqoiRc	QV0jsTiobU4	553	Linear Algebra: Simpler 4x4 determinant
+90	math	linear-algebra	jsTiobU4	jsTiobU4	1297	Linear Algebra: Determinant and area of a parallelogram
+91	math	linear-algebra	63_goDFg	g3MqSdO5Ubc	1209	Linear Algebra: Determinant as Scaling Factor
+92	math	linear-algebra	qSdO5Ubc	2t0003_sxtU	517	Linear Algebra: Transpose of a Matrix
+93	math	linear-algebra	003_sxtU	003_sxtU	850	Linear Algebra: Determinant of Transpose
+94	math	linear-algebra	V2v0dRNE	UdHgWK13x5I	530	Linear Algebra: Transpose of a Matrix Product
+95	math	linear-algebra	gWK13x5I	gWK13x5I	521	Linear Algebra: Transposes of sums and inverses
+96	math	linear-algebra	8t58mdeI	lSoaMCNKfAg	726	Linear Algebra: Transpose of a Vector
+97	math	linear-algebra	aMCNKfAg	qBfc57x_RSg	1398	Linear Algebra: Rowspace and Left Nullspace
+98	math	linear-algebra	c57x_RSg	GW8ZPjGlk24	1190	Lin Alg: Visualizations of Left Nullspace and Rowspace
+99	math	linear-algebra	ZPjGlk24	QOTjdgmNqlg	1328	Linear Algebra: Orthogonal Complements
+100	math	linear-algebra	jdgmNqlg	tqqVOWm9YsU	673	Linear Algebra: Rank(A) = Rank(transpose of A)
+101	math	linear-algebra	VOWm9YsU	pGhBfkBqok0	567	Linear Algebra: dim(V) + dim(orthogonoal complelent of V)=n
+102	math	linear-algebra	BfkBqok0	M6lFqkqvUgo	1620	Lin Alg: Representing vectors in Rn using subspace members
+103	math	linear-algebra	FqkqvUgo	FqkqvUgo	738	Lin Alg: Orthogonal Complement of the Orthogonal Complement
+104	math	linear-algebra	8mx8Hc8o	LE_aQAur7nI	207	Lin Alg: Orthogonal Complement of the Nullspace
+105	math	linear-algebra	aQAur7nI	czIYvs9zj2g	1152	Lin Alg: Unique rowspace solution to Ax=b
+106	math	linear-algebra	Yvs9zj2g	qdf2CuMGdKs	1178	Linear Alg: Rowspace Solution to Ax=b example
+107	math	linear-algebra	2CuMGdKs	ESSMQH6Y5OA	754	Lin Alg: Showing that A-transpose x A is invertible
+108	math	linear-algebra	MQH6Y5OA	5B8XluiqdHM	1046	Linear Algebra: Projections onto Subspaces
+109	math	linear-algebra	XluiqdHM	uWbZlJURkfA	568	Linear Alg: Visualizing a projection onto a plane
+110	math	linear-algebra	ZlJURkfA	cTyNpXB92bQ	975	Lin Alg: A Projection onto a Subspace is a Linear Transforma
+111	math	linear-algebra	NpXB92bQ	QTcSBB3uVP0	784	Linear Algebra: Subspace Projection Matrix Example
+112	math	linear-algebra	SBB3uVP0	XhCSHu6dHb8	1295	Lin Alg: Another Example of a Projection Matrix
+113	math	linear-algebra	SHu6dHb8	b269qpILOpk	545	Linear Alg: Projection is closest vector in subspace
+114	math	linear-algebra	9qpILOpk	MC7l96tW8V8	932	Linear Algebra: Least Squares Approximation
+115	math	linear-algebra	l96tW8V8	8mAZYv5wIcE	1130	Linear Algebra: Least Squares Examples
+116	math	linear-algebra	ZYv5wIcE	QkepM8Vv3kw	805	Linear Algebra: Another Least Squares Example
+117	math	linear-algebra	pM8Vv3kw	uvgru6FcyxU	968	Linear Algebra: Coordinates with Respect to a Basis
+118	math	linear-algebra	ru6FcyxU	1j5WnqwMdCk	1075	Linear Algebra: Change of Basis Matrix
+119	math	linear-algebra	WnqwMdCk	meibWcbGqt4	814	Lin Alg: Invertible Change of Basis Matrix
+120	math	linear-algebra	bWcbGqt4	PiuhTj0zCf4	1082	Lin Alg: Transformation Matrix with Respect to a Basis
+121	math	linear-algebra	hTj0zCf4	lCRGNykWqFI	800	Lin Alg: Alternate Basis Tranformation Matrix Example
+122	math	linear-algebra	GNykWqFI	lCRGNykWqFI	756	Lin Alg: Alternate Basis Tranformation Matrix Example Part 2
+123	math	linear-algebra	RbCPUAd4	K_na_j1Msfg	1739	Lin Alg: Changing coordinate systems to help find a transformation matrix
+124	math	linear-algebra	a_j1Msfg	7BFx8pt2aTQ	676	Linear Algebra: Introduction to Orthonormal Bases
+125	math	linear-algebra	x8pt2aTQ	SWbis2zWIvo	928	Linear Algebra: Coordinates with respect to orthonormal bases
+126	math	linear-algebra	is2zWIvo	we829K4NOq8	974	Lin Alg: Projections onto subspaces with orthonormal bases
+127	math	linear-algebra	29K4NOq8	SUoqA9srY1Q	402	Lin Alg: Finding projection onto subspace with orthonormal basis example
+128	math	linear-algebra	qA9srY1Q	gfVY7cW7VLQ	1624	Lin Alg: Example using orthogonal change-of-basis matrix to find transformation matrix
+129	math	linear-algebra	Y7cW7VLQ	Y7cW7VLQ	676	Lin Alg: Orthogonal matrices preserve angles and lengths
+130	math	linear-algebra	IfYjKEeo	rHonltF77zI	1164	Linear Algebra: The Gram-Schmidt Process
+131	math	linear-algebra	nltF77zI	tu1GPtfsQ7M	794	Linear Algebra: Gram-Schmidt Process Example
+132	math	linear-algebra	GPtfsQ7M	GPtfsQ7M	837	Linear Algebra: Gram-Schmidt example with 3 basis vectors
+133	math	linear-algebra	G386v6DI	PhfbEr2btGQ	463	Linear Algebra: Introduction to Eigenvalues and Eigenvectors
+134	math	linear-algebra	bEr2btGQ	rfm0wQObxjk	559	Linear Algebra: Proof of formula for determining Eigenvalues
+135	math	linear-algebra	0wQObxjk	pZ6mMVEE89g	339	Linear Algebra: Example solving for the eigenvalues of a 2x2 matrix
+136	math	linear-algebra	mMVEE89g	mMVEE89g	874	Linear Algebra: Finding Eigenvectors and Eigenspaces example
+137	math	linear-algebra	fmbdzkqc	11dNghWC4HI	848	Linear Algebra: Eigenvalues of a 3x3 matrix
+138	math	linear-algebra	NghWC4HI	NghWC4HI	934	Linear Algebra: Eigenvectors and Eigenspaces for a 3x3 matrix
+139	math	linear-algebra	5KCCQX-0	5KCCQX-0	789	Linear Algebra: Showing that an eigenbasis makes for good coordinate systems
+140	math	linear-algebra	C9185gIw	b7JTVLc_aMk	865	Vector Triple Product Expansion (very optional)
+141	math	linear-algebra	TVLc_aMk	gw-4wltP5tY	598	Normal vector from plane equation
+142	math	linear-algebra	4wltP5tY	7rIFO8hct9g	732	Point distance to plane
+143	math	linear-algebra	FO8hct9g	v8plb6V8BQo	885	Distance Between Planes
+1	math	brain-teasers	lb6V8BQo	69rDtSpshAw	409	Liar Truthteller Brain Teaser
+2	math	brain-teasers	DtSpshAw	l3OkPYhDi9w	672	Toggler Brain Teaser
+3	math	brain-teasers	kPYhDi9w	K4pocYXOmTQ	1019	Alien Abduction Brain Teaser
+4	math	brain-teasers	ocYXOmTQ	rBaCDC52NOY	445	Brain Teaser: Blue Forehead Room
+5	math	brain-teasers	CDC52NOY	-xYkTJFbuM0	660	Blue Forehead Room Solution
+6	math	brain-teasers	kTJFbuM0	jqpQPxWj8gE	729	Forehead Numbers Brain Teaser
+7	math	brain-teasers	QPxWj8gE	WNhxkpmVQYw	679	Light Bulb Switching Brain Teaser
+8	math	brain-teasers	xkpmVQYw	9QduzzW10uA	642	Path Counting Brain Teaser
+9	math	brain-teasers	uzzW10uA	wRxzDOloS3o	735	3-D Path Counting Brain Teaser
+1	math	vi-hart	zDOloS3o	zDOloS3o	355	Doodling in Math: Spirals, Fibonacci, and Being a Plant [1 of 3]
+2	math	vi-hart	IMUkSXX0	IMUkSXX0	374	Doodling in Math Class: Spirals, Fibonacci, and Being a Plant [2 of 3]
+3	math	vi-hart	P_Z_-0Hs	P_Z_-0Hs	367	Doodling in Math: Spirals, Fibonacci, and Being a Plant [Part 3 of 3]
+4	math	vi-hart	NdQwKz9w	NdQwKz9w	228	Doodling in Math Class: Binary Trees
+5	math	vi-hart	SN6IImpI	SN6IImpI	238	Doodling in Math Class: Stars
+6	math	vi-hart	zrmS9UfY	zrmS9UfY	265	Doodling in Math Class: Snakes + Graphs
+7	math	vi-hart	K95DAKms	K95DAKms	276	Doodling in Math Class: Infinity Elephants
+8	math	vi-hart	Z709J2eo	Z709J2eo	328	Doodling in Math: Sick Number Games
+9	math	vi-hart	v5Aeuo_k	v5Aeuo_k	326	Doodling in Math Class: Squiggle Inception
+10	math	vi-hart	CZqsAw28	CZqsAw28	265	Doodling in Math Class: Triangle Party
+11	math	vi-hart	lpIWhbcw	lpIWhbcw	435	Mobius Story: Wind and Mr. Ug
+12	math	vi-hart	EsouIXGM	EsouIXGM	292	Math Improv: Fruit by the Foot
+13	math	vi-hart	a5x9DGjg	a5x9DGjg	319	Wau: The Most Amazing, Ancient, and Singular Number
+14	math	vi-hart	kou8NvJo	kou8NvJo	226	Are Shakespeare's Plays Encoded within Pi?
+15	math	vi-hart	h6vi6J5U	h6vi6J5U	769	What is up with Noises? (The Science and Mathematics of Sound, Frequency, and Pitch)
+16	math	vi-hart	DXxNeaQ0	DXxNeaQ0	118	Open Letter to Nickelodeon, Re: SpongeBob's Pineapple under the Sea
+17	math	vi-hart	eju8dMho	eju8dMho	130	How To Snakes
+18	math	vi-hart	D09s5X6U	D09s5X6U	194	Origami Proof of the Pythagorean Theorem
+19	math	vi-hart	L83wl31E	L83wl31E	601	9.999... reasons that .999... = 1
+20	math	vi-hart	fzxSnnIE	fzxSnnIE	317	Pi Is (still) Wrong.
+21	math	vi-hart	vhMMXagQ	vhMMXagQ	345	Fractal Fractions
+22	math	vi-hart	-OEIfw3s	-OEIfw3s	124	Angle-a-trons
+23	math	vi-hart	6P8JZW0o	6P8JZW0o	148	Binary Hand Dance
+24	math	vi-hart	ZTg3jahU	ZTg3jahU	199	Re: Visual Multiplication and 48/2(9+3)
+25	math	vi-hart	8fzqv3CE	8fzqv3CE	617	The Gauss Christmath Special
+26	math	vi-hart	X5_LbBDU	X5_LbBDU	356	Rhapsody on the Proof of Pi = 4
+27	math	vi-hart	YjiL8yyE	YjiL8yyE	235	Doodle Music
+1	science	biology	Us6xHkUc	GcjgWov7mTM	1059	Introduction to Evolution and Natural Selection
+2	science	biology	gWov7mTM	oFGkYA_diDA	64	Ape Clarification
+3	science	biology	kYA_diDA	qxOEz9aPZNY	695	Intelligent Design and Evolution
+4	science	biology	Ez9aPZNY	nh1R-gyY7es	541	Evolution Clarification
+5	science	biology	R-gyY7es	dR_BFmDMRaI	809	Natural Selection and the Owl Butterfly
+6	science	biology	BFmDMRaI	_-vZ_g7K6P0	1685	DNA
+7	science	biology	Z_g7K6P0	DuArVnT1i-E	1191	Variation in a Species
+8	science	biology	rVnT1i-E	s9HPNwXd9fk	1103	Chromosomes, Chromatids, Chromatin, etc.
+9	science	biology	PNwXd9fk	kaSIjIzAtYA	1103	Mitosis, Meiosis and Sexual Reproduction
+10	science	biology	IjIzAtYA	LLKX_4DHE3I	1242	Phases of Mitosis
+11	science	biology	X_4DHE3I	ijLc52LmFQg	1643	Phases of Meiosis
+12	science	biology	c52LmFQg	-yCIMk1x0Pk	1194	Embryonic Stem Cells
+13	science	biology	IMk1x0Pk	RZhL7LDPk8w	756	Cancer
+14	science	biology	L7LDPk8w	eEUvRrhmcxM	1047	Introduction to Heredity
+15	science	biology	vRrhmcxM	D5ymMYcLtv0	1516	Punnett Square Fun
+16	science	biology	mMYcLtv0	4Kbruik_LOo	897	Hardy-Weinberg Principle
+17	science	biology	ruik_LOo	-ROhfKyxgCo	859	Sex-Linked Traits
+18	science	biology	hfKyxgCo	TDoGrbpJJ14	1106	Bacteria
+19	science	biology	GrbpJJ14	0h5Jd7sgQWY	1397	Viruses
+20	science	biology	Jd7sgQWY	YQfWiDlFEcA	815	ATP: Adenosine Triphosphate
+21	science	biology	WiDlFEcA	2f7YwCtHcgk	859	Introduction to Cellular Respiration
+22	science	biology	YwCtHcgk	orI2m6IarJg	809	Oxidation and Reduction Review From Biological Point-of-View
+23	science	biology	2m6IarJg	_KyyVhlUDNU	1028	Oxidation and Reduction in Cellular Respiration
+24	science	biology	yVhlUDNU	FE2jfTXAJHg	810	Glycolysis
+25	science	biology	jfTXAJHg	juM2ROSLWfw	1067	Krebs / Citric Acid Cycle
+26	science	biology	2ROSLWfw	mfgCcFXUZRk	1036	Electron Transport Chain
+27	science	biology	CcFXUZRk	W_Q17tqw_7A	299	Oxidative Phosphorylation and Chemiosmosis
+28	science	biology	17tqw_7A	-rsYk4eCKnA	817	Photosynthesis
+29	science	biology	Yk4eCKnA	GR2GA7chA_c	1216	Photosynthesis: Light Reactions 1
+30	science	biology	GA7chA_c	GA7chA_c	1131	Photosynthesis: Light Reactions and Photophosphorylation
+31	science	biology	36PMWegg	36PMWegg	808	Photosynthesis: Calvin Cycle
+32	science	biology	6D2VEXYs	EQvTEFCANTM	1023	Photorespiration
+33	science	biology	TEFCANTM	7ynX_F-SwNY	1018	C-4 Photosynthesis
+34	science	biology	X_F-SwNY	xp6Zj24h8uA	517	CAM Plants
+35	science	biology	Zj24h8uA	Hmwvj9X4GNY	1263	Parts of a cell
+36	science	biology	vj9X4GNY	aubZU0iWtgI	1139	Diffusion and Osmosis
+37	science	biology	ZU0iWtgI	SPGRkexI_cs	1233	The Lungs and Pulmonary System
+38	science	biology	RkexI_cs	fLKOBQ6cZHA	990	Red blood cells
+39	science	biology	OBQ6cZHA	QhiVnFvshZg	897	Circulatory System and the Heart
+40	science	biology	VnFvshZg	LWtXthfG9_M	874	Hemoglobin
+41	science	biology	XthfG9_M	ob5U8zPbAX4	373	Anatomy of a Neuron
+42	science	biology	U8zPbAX4	C_H-ONQFjpQ	833	Sodium Potassium Pump
+43	science	biology	-ONQFjpQ	ye3rTjLCvAU	408	Correction to Sodium and Potassium Pump Video
+44	science	biology	rTjLCvAU	gkQtRec2464	1133	Electrotonic and Action Potentials
+45	science	biology	tRec2464	7wgb7ggzFNs	724	Saltatory Conduction in Neurons
+46	science	biology	b7ggzFNs	Tbq-KZaXiL4	953	Neuronal Synapses (Chemical)
+47	science	biology	-KZaXiL4	zopoN2i7ALQ	578	Myosin and Actin
+48	science	biology	oN2i7ALQ	LiOfeSsjrB8	562	Tropomyosin and troponin and their role in regulating muscle contraction
+49	science	biology	feSsjrB8	SauhB2fYQkM	882	Role of the Sarcoplasmic Reticulum in Muscle Cells
+50	science	biology	hB2fYQkM	uY2ZOsCnXIA	992	Anatomy of a muscle cell
+51	science	biology	ZOsCnXIA	O1N2rENXq_Y	980	Role of Phagocytes in Innate or Nonspecific Immunity
+52	science	biology	2rENXq_Y	2rENXq_Y	487	Types of immune responses: Innate and Adaptive. Humoral vs. Cell-Mediated
+53	science	biology	T4IItbtM	Z36dUduOk1Y	853	B Lymphocytes (B cells)
+54	science	biology	dUduOk1Y	j_kSmmEpvQk	693	Professional Antigen Presenting Cells (APC) and MHC II complexes
+55	science	biology	SmmEpvQk	uwMYpTYsNZM	1233	Helper T Cells
+56	science	biology	YpTYsNZM	oqI4skjr6lQ	606	Cytotoxic T Cells
+57	science	biology	4skjr6lQ	4skjr6lQ	667	Review of B cells, CD4+ T cells and CD8+ T cells
+58	science	biology	5ftvZCyI	FXSuEIMrPQk	875	Inflammatory Response
+59	science	biology	uEIMrPQk	cc8sUv2SuaY	1118	The Kidney and Nephron
+60	science	biology	sUv2SuaY	czY5nyvZ7cU	853	Secondary Active Transport in the Nephron
+61	science	biology	5nyvZ7cU	Tmt4zrDK3dA	529	Species
+62	science	biology	4zrDK3dA	oHvLlS_Sc54	761	Taxonomy and the Tree of Life
+63	science	biology	LlS_Sc54	LlS_Sc54	281	Human Prehistory 101: Prologue
+64	science	biology	IxK1GrYE	IxK1GrYE	335	Human Prehistory 101 Part 1: Out of (Eastern) Africa
+65	science	biology	3HPmA2_I	3HPmA2_I	205	Human Prehistory 101 Part 2: Weathering The Storm
+66	science	biology	w66RCMhg	w66RCMhg	421	Human Prehistory 101 Part 3: Agriculture Rocks Our World
+67	science	biology	D9wGlbho	D9wGlbho	166	Human Prehistory 101: Epilogue
+68	science	biology	RXHAo4-U	RXHAo4-U	266	Genetics 101 Part 1: What are genes?
+69	science	biology	4eu_TDFc	4eu_TDFc	121	Genetics 101 Part 2: What are SNPs?
+70	science	biology	XpiWKMyA	XpiWKMyA	261	Genetics 101 Part 3: Where do your genes come from?
+71	science	biology	89GY61DE	89GY61DE	124	Genetics 101 Part 4: What are Phenotypes?
+1	science	chemistry	r6t4-eLI	IFKnq9QM6_A	789	Elements and Atoms
+2	science	chemistry	nq9QM6_A	1xSQlwWGT8M	1265	Introduction to the atom
+3	science	chemistry	QlwWGT8M	yBrp8uvNAhI	818	Orbitals
+4	science	chemistry	p8uvNAhI	FmQoSenbtnU	871	More on orbitals and electron configuration
+5	science	chemistry	oSenbtnU	RJlEH5Jz80w	604	Electron Configurations
+6	science	chemistry	EH5Jz80w	YURReI6OJsg	618	Electron Configurations 2
+7	science	chemistry	ReI6OJsg	1TZA171yxY4	923	Valence Electrons
+8	science	chemistry	A171yxY4	LDHg7Vgzses	711	Groups of the Periodic Table
+9	science	chemistry	g7Vgzses	ywqg9PorTAw	733	Periodic Table Trends: Ionization Energy
+10	science	chemistry	g9PorTAw	XMLd-O6PgVs	939	Other Periodic Table Trends
+11	science	chemistry	d-O6PgVs	CGA8sRwqIFg	802	Ionic, Covalent, and Metallic Bonds
+12	science	chemistry	8sRwqIFg	gfBcM3uvWfs	954	Molecular and Empirical Formulas
+13	science	chemistry	cM3uvWfs	cM3uvWfs	584	The Mole and Avogadro's Number
+14	science	chemistry	EkF7hcII	xatVrAh2U0E	778	Formula from Mass Composition
+15	science	chemistry	VrAh2U0E	sXOIIEZh6qg	401	Another mass composition problem
+16	science	chemistry	IIEZh6qg	RnGu3xO2h74	868	Balancing Chemical Equations
+17	science	chemistry	u3xO2h74	SjQG3rKSZUQ	596	Stoichiometry
+18	science	chemistry	G3rKSZUQ	rESzyhPOJ7I	904	Stoichiometry: Limiting Reagent
+19	science	chemistry	zyhPOJ7I	WScwPIPqZa0	562	Ideal Gas Equation: PV=nRT
+20	science	chemistry	wPIPqZa0	erjMiErRgSQ	608	Ideal Gas Equation Example 1
+21	science	chemistry	MiErRgSQ	GwoX_BemwHs	781	Ideal Gas Equation Example 2
+22	science	chemistry	X_BemwHs	69V-60sga3M	346	Ideal Gas Equation Example 3
+23	science	chemistry	-60sga3M	Osl6HEDZZ-E	303	Ideal Gas Example 4
+24	science	chemistry	6HEDZZ-E	d4bqNf37mBY	909	Partial Pressure
+25	science	chemistry	qNf37mBY	pKvo0XWZtjo	1164	States of Matter
+26	science	chemistry	o0XWZtjo	WenwtcuqOj8	525	States of Matter Follow-Up
+27	science	chemistry	wtcuqOj8	zz4KbvF_X-0	889	Specific Heat, Heat of Fusion and Vaporization
+28	science	chemistry	KbvF_X-0	lsXcKgjg8Hs	683	Chilling Water Problem
+29	science	chemistry	cKgjg8Hs	Qp87Z4m8R-w	756	Phase Diagrams
+30	science	chemistry	7Z4m8R-w	8qfzpJvsp04	699	Van Der Waals Forces
+31	science	chemistry	zpJvsp04	Rw_pDVbnfQk	554	Covalent Networks, Metallic, and Ionic Crystals
+32	science	chemistry	pDVbnfQk	hA5jddDYcyg	1084	Vapor Pressure
+33	science	chemistry	jddDYcyg	3ROWXs3jtQU	837	Suspensions, Colloids and Solutions
+34	science	chemistry	WXs3jtQU	zjIVJh4JLNo	802	Solubility
+35	science	chemistry	VJh4JLNo	z9LxdqYntlU	840	Boiling Point Elevation and Freezing Point Supression
+36	science	chemistry	xdqYntlU	__zy-oOLPug	927	Introduction to Kinetics
+37	science	chemistry	y-oOLPug	CGJjjm7-DJ4	891	Reactions in Equilibrium
+38	science	chemistry	jjm7-DJ4	HBi8xjMchZc	184	Mini-Video on Ion Size
+39	science	chemistry	8xjMchZc	ONBJo7dXJm8	772	Keq Intuition (mathy and not necessary to progress)
+40	science	chemistry	Jo7dXJm8	psLX080RQR8	950	Keq derivation intuition (can skip; bit mathy)
+41	science	chemistry	X080RQR8	TsXlTWgyItw	562	Heterogenous Equilibrium
+42	science	chemistry	lTWgyItw	lTWgyItw	883	Le Chatelier's Principle
+43	science	chemistry	EvpVNTlE	2q4vSKwaBtw	1089	Introduction to pH, pOH, and pKw
+44	science	chemistry	vSKwaBtw	vShCnTY1-T0	1117	Acid Base Introduction
+45	science	chemistry	CnTY1-T0	tS2YJPmKOFQ	889	pH, pOH of Strong Acids and Bases
+46	science	chemistry	YJPmKOFQ	dencuBNp_Ck	1069	pH of a Weak Acid
+47	science	chemistry	cuBNp_Ck	gDJtOIxDu78	780	pH of a Weak Base
+48	science	chemistry	tOIxDu78	0LM6wPpypxM	1006	Conjugate Acids and Bases
+49	science	chemistry	6wPpypxM	3Gm4nAAc3zc	873	pKa and pKb Relationship
+50	science	chemistry	4nAAc3zc	LJmFbcaxDPE	894	Buffers and Hendersen-Hasselbalch
+51	science	chemistry	FbcaxDPE	299o6c-Fkz4	737	Strong Acid Titration
+52	science	chemistry	o6c-Fkz4	gbpc_JBG1F0	624	Weak Acid Titration
+53	science	chemistry	c_JBG1F0	1u0PU2BcxKg	924	Half Equivalence Point
+54	science	chemistry	PU2BcxKg	BBIGR0RAMtY	662	Titration Roundup
+55	science	chemistry	GR0RAMtY	_fNNQfGGYr4	1059	Introduction to Oxidation States
+56	science	chemistry	NQfGGYr4	GA88JI4AymY	1049	More on Oxidation States
+57	science	chemistry	8JI4AymY	YPjtG5PA-iY	142	Hydrogen Peroxide Correction
+58	science	chemistry	tG5PA-iY	yp60-oVxrT4	865	Redox Reactions
+59	science	chemistry	0-oVxrT4	N4L3dDIixSU	1106	Galvanic Cells
+60	science	chemistry	3dDIixSU	3koOwozY4oc	1023	Types of Decay
+61	science	chemistry	OwozY4oc	9REPnibO4IQ	751	Half-Life
+62	science	chemistry	PnibO4IQ	H7nrVDV8ahc	742	Exponential Decay Formula Proof (can skip, involves Calculus)
+63	science	chemistry	rVDV8ahc	HTDop6eEsaA	559	Introduction to Exponential Decay
+64	science	chemistry	op6eEsaA	Hqzakjo_dYg	442	More Exponential Decay Examples
+65	science	chemistry	akjo_dYg	5EU-y1VF7g4	1109	Macrostates and Microstates
+66	science	chemistry	-y1VF7g4	lKq-10ysDb4	877	Quasistatic and Reversible Processes
+67	science	chemistry	-10ysDb4	Xb05CaG7TsQ	1060	First Law of Thermodynamics/ Internal Energy
+68	science	chemistry	5CaG7TsQ	aOSlXuDO4UU	825	More on Internal Energy
+69	science	chemistry	lXuDO4UU	obeGVTOZyfE	763	Work from Expansion
+70	science	chemistry	GVTOZyfE	M5uOIy-JTmo	924	PV-diagrams and Expansion Work
+71	science	chemistry	OIy-JTmo	qSFY7GKhSRs	1016	Proof: U=(3/2)PV or U=(3/2)nRT
+72	science	chemistry	Y7GKhSRs	iiFWoXQPOJc	1143	Work Done by Isothermic Process
+73	science	chemistry	WoXQPOJc	aAfBSJObd6Y	1253	Carnot Cycle and Carnot Engine
+74	science	chemistry	BSJObd6Y	ixRtSV3CXPA	1028	Proof: Volume Ratios in a Carnot Cycle
+75	science	chemistry	tSV3CXPA	sPz5RrFus1Q	938	Proof: S (or Entropy) is a valid state variable
+76	science	chemistry	5RrFus1Q	PFcGiMLwjeY	938	Thermodynamic Entropy Definition Clarification
+77	science	chemistry	GiMLwjeY	WLKEVfLFau4	1706	Reconciling Thermodynamic and State Definitions of Entropy
+78	science	chemistry	EVfLFau4	xJf6pHqLzs0	1155	Entropy Intuition
+79	science	chemistry	6pHqLzs0	6pHqLzs0	807	Maxwell's Demon
+80	science	chemistry	DvSZ-igA	dFFzAP2OZ3E	536	More on Entropy
+81	science	chemistry	zAP2OZ3E	M_5KYncYNyc	844	Efficiency of a Carnot Engine
+82	science	chemistry	KYncYNyc	KYncYNyc	841	Carnot Efficiency 2: Reversing the Cycle
+83	science	chemistry	wP7YYH6o	wP7YYH6o	737	Carnot Efficiency 3: Proving that it is the most efficient
+84	science	chemistry	Ub4hGMH8	fucyI7Ouj2c	907	Enthalpy
+85	science	chemistry	yI7Ouj2c	PK_JXzYcme0	755	Heat of Formation
+86	science	chemistry	JXzYcme0	JXzYcme0	940	Hess's Law and Reaction Enthalpy Change
+87	science	chemistry	MpDwjBDk	ViAmQivKif0	1060	Gibbs Free Energy and Spontaneity
+88	science	chemistry	mQivKif0	sG1ZAdYi13A	597	Gibbs Free Energy Example
+89	science	chemistry	ZAdYi13A	7aur5h44pV4	836	More rigorous Gibbs Free Energy/ Spontaneity Relationship
+90	science	chemistry	r5h44pV4	yYbzJs6vgv8	401	A look at a seductive but wrong Gibbs/Spontaneity Proof
+91	science	chemistry	zJs6vgv8	jFv6k2OV7IU	815	Stoichiometry Example Problem 1
+92	science	chemistry	6k2OV7IU	eQf_EAYGo-k	1133	Stoichiometry Example Problem 2
+93	science	chemistry	_EAYGo-k	YNriRslOk9A	1160	Limiting Reactant Example Problem 1
+94	science	chemistry	iRslOk9A	FycJ8X67xEU	1005	Empirical and Molecular Formulas from Stoichiometry
+95	science	chemistry	J8X67xEU	66ziUq6vRko	1061	Example of Finding Reactant Empirical Formula
+96	science	chemistry	iUq6vRko	EKZSwjVR594	618	Stoichiometry of a Reaction in Solution
+97	science	chemistry	SwjVR594	_qrQKBB2jt8	586	Another Stoichiometry Example in a Solution
+98	science	chemistry	QKBB2jt8	_H009sTvYE0	634	Molecular and Empirical Forumlas from Percent Composition
+99	science	chemistry	09sTvYE0	XjFNmfLv9_Q	751	Acid Base Titration
+100	science	chemistry	NmfLv9_Q	qbCZbP6_j48	786	Spectrophotometry Introduction
+101	science	chemistry	ZbP6_j48	VqAa_cmZ7OY	762	Spectrophotometry Example
+102	science	chemistry	a_cmZ7OY	a_cmZ7OY	728	Hess's Law Example
+103	science	chemistry	L8TQZFKo	-QpkmwIoMaY	962	Vapor Pressure Example
+104	science	chemistry	kmwIoMaY	tvO0358YUYM	458	Change of State Example
+1	science	organic-chemistry	0358YUYM	pMoA65Dj-zk	449	Representing Structures of Organic Molecules
+2	science	organic-chemistry	A65Dj-zk	NRFPvLp3r3g	568	Naming Simple Alkanes
+3	science	organic-chemistry	PvLp3r3g	KKAD-OOOHxg	664	Naming Alkanes with Alkyl Groups
+4	science	organic-chemistry	D-OOOHxg	CFBKfgGTP98	176	Correction - 2-Propylheptane should never be the name!
+5	science	organic-chemistry	KfgGTP98	TJUm860AjNw	812	Common and Systematic Naming-Iso, Sec and Tert Prefixes
+6	science	organic-chemistry	m860AjNw	96D7RHUQvMA	539	More Organic Chemistry Naming Examples 1
+7	science	organic-chemistry	7RHUQvMA	CJRQ8gOjq4E	626	Organic Chemistry Naming Examples 2
+8	science	organic-chemistry	Q8gOjq4E	Se-ekDNhCDk	491	Organic Chemistry Naming Examples 3
+9	science	organic-chemistry	ekDNhCDk	ekDNhCDk	468	Organic Chemistry Naming Examples 4
+10	science	organic-chemistry	xjMBeMxE	6BR0Q5e74bs	604	Organic Chemistry Naming Examples 5
+11	science	organic-chemistry	0Q5e74bs	KWv5PaoHwPA	507	Naming Alkenes Examples
+12	science	organic-chemistry	5PaoHwPA	jiJdNWzETSk	543	Naming Alkyl Halides
+13	science	organic-chemistry	dNWzETSk	u1eGSL6J6Fo	983	sp3 Hybridized Orbitals and Sigma Bonds
+14	science	organic-chemistry	GSL6J6Fo	lJX8DxoPRfk	853	Pi bonds and sp2 Hybridized Orbitals
+15	science	organic-chemistry	8DxoPRfk	IkmM4CPnqF0	862	Newman Projections
+16	science	organic-chemistry	M4CPnqF0	ryJvNEHcuDg	672	Newman Projections 2
+17	science	organic-chemistry	vNEHcuDg	YUEkOBvJSNg	749	Chair and Boat Shapes for Cyclohexane
+18	science	organic-chemistry	kOBvJSNg	I6LsWSXx8fg	878	Double Newman Diagram for Methcyclohexane
+19	science	organic-chemistry	sWSXx8fg	tk-SNvCPLCE	406	Introduction to Chirality
+20	science	organic-chemistry	SNvCPLCE	0XSSPow5oAc	662	Chiral Examples 1
+21	science	organic-chemistry	SPow5oAc	QQMZ1ljepWg	619	Chiral Examples 2
+22	science	organic-chemistry	Z1ljepWg	DfO27juYly8	662	Cahn-Ingold-Prelog System for Naming Enantiomers
+23	science	organic-chemistry	27juYly8	peQsBg9P4ms	668	R,S (Cahn-Ingold-Prelog) Naming System Example 2
+24	science	organic-chemistry	sBg9P4ms	457xnJv80O0	816	Stereoisomers, Enantiomers, Diastereomers, Constitutional Isomers and Meso Compounds
+25	science	organic-chemistry	xnJv80O0	oYoQpDtBLac	296	Cis-Trans and E-Z Naming Scheme for Alkenes
+26	science	organic-chemistry	QpDtBLac	GFiizJ-jGVw	364	Entgegen-Zusammen Naming Scheme for Alkenes Examples
+27	science	organic-chemistry	izJ-jGVw	Z_GWBW_GVGA	682	Introduction to Reaction Mechanisms
+28	science	organic-chemistry	WBW_GVGA	WBW_GVGA	549	Markovnikov's Rule and Carbocations
+29	science	organic-chemistry	Ck3WrGlM	sEiQm7IzUg8	803	Addition of Water (Acid-Catalyzed) Mechanism
+30	science	organic-chemistry	Qm7IzUg8	tR-hzV5Tkxo	724	Polymerization of Alkenes with Acid
+31	science	organic-chemistry	hzV5Tkxo	Z_85KXnBSYc	691	Sn2 Reactions
+32	science	organic-chemistry	5KXnBSYc	3e0ScEkz8oU	722	Sn1 Reactions
+33	science	organic-chemistry	ScEkz8oU	NypbNw1iJ-E	620	Steric Hindrance
+34	science	organic-chemistry	bNw1iJ-E	QxIUeYAQRy0	601	Sn2 Stereochemistry
+35	science	organic-chemistry	UeYAQRy0	8J0ys3z5wzo	855	Solvent Effects on Sn1 and Sn2 Reactions
+36	science	organic-chemistry	ys3z5wzo	Z9Jh-Q59xso	835	Nucleophilicity (Nucleophile Strength)
+37	science	organic-chemistry	h-Q59xso	Mx7KM-k2MMo	767	Nucleophilicity vs. Basicity
+38	science	organic-chemistry	KM-k2MMo	J0gXdEAaSiA	533	E2 Reactions
+39	science	organic-chemistry	XdEAaSiA	U9dGHwsewNk	562	E1 Reactions
+40	science	organic-chemistry	GHwsewNk	GHwsewNk	809	Zaitsev's Rule
+41	science	organic-chemistry	--kC3aqk	12Rvts2NR7M	746	Comparing E2 E1 Sn2 Sn1 Reactions
+42	science	organic-chemistry	vts2NR7M	vinEPfrqfiU	186	E2 E1 Sn2 Sn1 Reactions Example 2
+43	science	organic-chemistry	EPfrqfiU	MtwvLru62Qw	798	E2 E1 Sn2 Sn1 Reactions Example 3
+44	science	organic-chemistry	vLru62Qw	5HgzsltWwK8	825	Free Radical Reactions
+45	science	organic-chemistry	zsltWwK8	nQ7QSV4JRSs	410	Alcohols
+46	science	organic-chemistry	QSV4JRSs	Aa1CMokCch4	564	Alcohol Properties
+47	science	organic-chemistry	CMokCch4	6XOm3Km7r30	711	Resonance
+48	science	organic-chemistry	m3Km7r30	roUGDG1rhPI	659	Ether Naming and Introduction
+49	science	organic-chemistry	GDG1rhPI	5d63YMUxcS4	468	Cyclic ethers and epoxide naming
+50	science	organic-chemistry	3YMUxcS4	hMguUHeYf0g	693	Ring-opening Sn2 reaction of expoxides
+51	science	organic-chemistry	uUHeYf0g	Ordpoq2dHAk	478	Sn1 and Sn2 epoxide opening discussion
+52	science	organic-chemistry	poq2dHAk	poq2dHAk	624	Aromatic Compounds and Huckel's Rule
+53	science	organic-chemistry	I3lAACKg	A5r7wkwDID4	520	Naming Benzene Derivatives Introduction
+54	science	organic-chemistry	7wkwDID4	fpq0eICjuSI	677	Electrophilic Aromatic Substitution
+55	science	organic-chemistry	0eICjuSI	K2tIixiXGOM	776	Bromination of Benzene
+56	science	organic-chemistry	IixiXGOM	Kpov3GS6tjM	411	Amine Naming Introduction
+57	science	organic-chemistry	v3GS6tjM	CJzuu_k9Nv0	343	Amine Naming 2
+58	science	organic-chemistry	uu_k9Nv0	O4dvuimcVBA	885	Amine as Nucleophile in Sn2 Reaction
+59	science	organic-chemistry	vuimcVBA	w8LS4fRQvMk	622	Amine in Sn2 part 2
+60	science	organic-chemistry	S4fRQvMk	pBAwbypjW9s	495	Sn1 Amine Reaction
+61	science	organic-chemistry	wbypjW9s	oeyBfrx5RJY	468	Aldehyde Introduction
+62	science	organic-chemistry	Bfrx5RJY	wD15pD5pCt4	524	Ketone Naming
+63	science	organic-chemistry	5pD5pCt4	vFfriC55fFw	678	Friedel Crafts Acylation
+64	science	organic-chemistry	riC55fFw	0YD5xSvseIw	50	Friedel Crafts Acylation Addendum
+65	science	organic-chemistry	5xSvseIw	SXbc4J1qWjE	483	Keto Enol Tautomerization
+66	science	organic-chemistry	c4J1qWjE	xheOq0XZ-so	531	Carboxlic Acid Introduction
+67	science	organic-chemistry	Oq0XZ-so	z8h7QgevqjM	326	Carboxylic Acid Naming
+68	science	organic-chemistry	7QgevqjM	dbdVMThH1n8	1032	Fisher Esterification
+69	science	organic-chemistry	VMThH1n8	XKk9K5xTgDA	709	Acid Chloride Formation
+70	science	organic-chemistry	9K5xTgDA	SRPQ62dR6b4	528	Amides, Anhydrides, Esters and Acyl Chlorides
+71	science	organic-chemistry	Q62dR6b4	NYI0bJK64MY	669	Relative Stability of Amides Esters Anhydrides and Acyl Chlorides
+72	science	organic-chemistry	0bJK64MY	gMKtGulgGH8	541	Amide Formation from Acyl Chloride
+73	science	organic-chemistry	tGulgGH8	3XiHrsZNZko	701	Aldol Reaction
+1	science	healthcare-and-medicine	HrsZNZko	rPLjSY00JlE	444	Glucose Insulin and Diabetes
+2	science	healthcare-and-medicine	jSY00JlE	JSFiOF7xGfE	535	Blood Sugar Levels
+3	science	healthcare-and-medicine	iOF7xGfE	j37Mx24JHC4	202	Glucose Concentration Conversion
+4	science	healthcare-and-medicine	Mx24JHC4	MOH33-jFOwo	369	A1C Levels
+5	science	healthcare-and-medicine	33-jFOwo	vYnreB1duro	741	Heart Disease and Heart Attacks
+6	science	healthcare-and-medicine	reB1duro	h0207xMD6b8	304	Thrombo-emboli and Thromboembolisms
+7	science	healthcare-and-medicine	07xMD6b8	3858MaULDdI	473	Stenosis, ischemia and heart failure
+8	science	healthcare-and-medicine	8MaULDdI	xbyfeEW56Nc	368	Strokes
+9	science	healthcare-and-medicine	feEW56Nc	fif5ghe8JM0	698	Normal Colon Tissue
+10	science	healthcare-and-medicine	5ghe8JM0	C0frzmxc5KU	327	Hyperplasia in Colon Tissue
+11	science	healthcare-and-medicine	rzmxc5KU	CGrbnripinU	634	Colon Dysplasia
+12	science	healthcare-and-medicine	bnripinU	KyJs9H0vzTM	757	Cancerous Colon Tissue
+13	science	healthcare-and-medicine	s9H0vzTM	cbkTTluHaTw	424	Adequacy of the Lateral Cervical Spine X-Ray
+14	science	healthcare-and-medicine	TTluHaTw	PV5u5xskBKM	452	Assessing Alignment of the Lateral Cervical Spine (neck) X-Ray
+15	science	healthcare-and-medicine	u5xskBKM	DJY89_jC_ZY	638	Cervical Spine Protection in Airway Management (not a substitute for formal training)
+16	science	healthcare-and-medicine	89_jC_ZY	f_Z1zsR9lFM	577	Intro to the Endocrine System
+17	science	healthcare-and-medicine	1zsR9lFM	CnXuSCaCNBo	737	Bacterial Meningitis
+18	science	healthcare-and-medicine	uSCaCNBo	XhYQYVQq6K0	628	Precocious Puberty
+19	science	healthcare-and-medicine	QYVQq6K0	gF0aA-si89Y	756	Childhood Growth
+20	science	healthcare-and-medicine	aA-si89Y	w2QVg9mezcY	528	Ritual of the Bedside Exam
+21	science	healthcare-and-medicine	Vg9mezcY	7zk0ubr_lzo	694	Systemic Thinking About Cancer
+22	science	healthcare-and-medicine	0ubr_lzo	Mp9II8MmuoA	441	Vitamin C and the Limeys
+23	science	healthcare-and-medicine	II8MmuoA	GZ6I3T1RAnQ	549	Inflammation
+24	science	healthcare-and-medicine	I3T1RAnQ	S9xdJgPWO-w	605	Blue Cross and Blue Shield
+25	science	healthcare-and-medicine	dJgPWO-w	8t-Un7yH99g	813	Conversation About Drug Pricing
+26	science	healthcare-and-medicine	Un7yH99g	6YU9HVS2GT0	874	Health Care Costs in US vs Europe
+27	science	healthcare-and-medicine	9HVS2GT0	LMHxxvbzFqc	482	Healthcare System Overview
+28	science	healthcare-and-medicine	xxvbzFqc	4J-dRA3MGc8	727	Paying Doctors
+29	science	healthcare-and-medicine	dRA3MGc8	VpLKdKkpg68	961	Medicare Overview
+1	science	physics	KdKkpg68	ihNZlp7iUHE	519	Introduction to Vectors and Scalars
+2	science	physics	Zlp7iUHE	oRKxmXwLvUU	705	Calculating Average Velocity or Speed
+3	science	physics	xmXwLvUU	awzOvyMKeMA	575	Solving for Time
+4	science	physics	OvyMKeMA	lQ-dvt3V4yQ	300	Displacement from Time and Velocity Example
+5	science	physics	dvt3V4yQ	FOkQszg1-j8	546	Acceleration
+6	science	physics	Qszg1-j8	Qszg1-j8	572	Newton's First Law of Motion
+7	science	physics	ELiTtUs8	ELiTtUs8	434	Newton's Second Law of Motion
+8	science	physics	YMWlJgkE	YMWlJgkE	480	Newton's Third Law of Motion
+9	science	physics	ggTfeuJU	p4DTormtEG0	488	Airbus A380 Take-off Time
+10	science	physics	TormtEG0	fQt69_Q2CTw	329	Airbus A380 Take-off Distance
+11	science	physics	69_Q2CTw	d-_eqgj5-K8	566	Why Distance is Area under Velocity-Time Line
+12	science	physics	eqgj5-K8	MAS6mBRZZXA	850	Average Velocity for Constant Acceleration
+13	science	physics	6mBRZZXA	VYgSXBjEA8I	856	Acceleration of Aircraft Carrier Takeoff
+14	science	physics	SXBjEA8I	ITA1rW5UraU	289	Race Cars with Constant Speed Around Curve
+15	science	physics	1rW5UraU	Xcel427Ezl0	943	Introduction to Gravity
+16	science	physics	l427Ezl0	IuBoeDihLUc	641	Mass and Weight Clarification
+17	science	physics	oeDihLUc	oIZV-ixRTcY	432	Gravity for Astronauts in Orbit
+18	science	physics	V-ixRTcY	36Rym2q4H94	635	Would a Brick or Feather Fall Faster
+19	science	physics	ym2q4H94	wlB0x9W-qBU	598	Deriving Displacement as a Function of Time, Acceleration and Initial Velocity
+20	science	physics	0x9W-qBU	T0zpF_j7Mvo	978	Plotting Projectile Displacement, Acceleration, and Velocity
+21	science	physics	pF_j7Mvo	IYS4Bd9F3LA	531	Projectile Height Given Time
+22	science	physics	4Bd9F3LA	P7LKEkcNibo	429	Deriving Max Projectile Displacement Given Time
+23	science	physics	KEkcNibo	2ZgBJxT9pbU	703	Impact Velocity From Given Height
+24	science	physics	BJxT9pbU	xp6ibuI8UuQ	774	Visualizing Vectors in 2 Dimensions
+25	science	physics	ibuI8UuQ	ZZ39o1rAZWY	766	Projectile at an Angle
+26	science	physics	9o1rAZWY	_NWc3C3cTNA	587	Different Way to Determine Time in Air
+27	science	physics	c3C3cTNA	a5QnXi_lZII	912	Launching and Landing on Different Elevations
+28	science	physics	nXi_lZII	UXORCpvKYiI	826	Total Displacement for Projectile
+29	science	physics	RCpvKYiI	sTp4cI9VyCU	473	Total Final Velocity for Projectile
+30	science	physics	4cI9VyCU	DNoDJlB0ygU	161	Correction to Total Final Velocity for Projectile
+31	science	physics	DJlB0ygU	jNESnky3RVg	1097	Projectile on an Incline
+32	science	physics	Snky3RVg	2QjdcVTgTTA	478	Unit Vectors and Engineering Notation
+33	science	physics	dcVTgTTA	2Epyz-OFRn8	570	Clearing the Green Monster at Fenway
+34	science	physics	yz-OFRn8	3nwdtdPAjnY	750	Green Monster at Fenway Part 2
+35	science	physics	dtdPAjnY	RhUdv0jjfcE	350	Optimal angle for a projectile part 1
+36	science	physics	dv0jjfcE	XtAB9GOfLiM	252	Optimal angle for a projectile part 2 - Hangtime
+37	science	physics	B9GOfLiM	-h_x8TwC1ik	159	Optimal angle for a projectile part 3 - Horizontal distance as a function of angle (and speed)
+38	science	physics	x8TwC1ik	x8TwC1ik	641	Optimal angle for a projectile part 4 Finding the optimal angle and distance with a bit of calculus
+39	science	physics	0BrCBQYQ	1WOrgrIcQZU	438	Normal Force and Contact Force
+40	science	physics	rgrIcQZU	hoRsHNSrMpc	709	Normal Force in an Elevator
+41	science	physics	sHNSrMpc	TC23wD34C7k	762	Inclined Plane Force Components
+42	science	physics	3wD34C7k	Mz2nDXElcoM	637	Ice Accelerating Down an Incline
+43	science	physics	nDXElcoM	v8ODIMqbQ44	521	Force of Friction Keeping the Block Stationary
+44	science	physics	DIMqbQ44	BukTc4q9BMc	51	Correction to Force of Friction Keeping the Block Stationary
+45	science	physics	Tc4q9BMc	iA7Thhnzc64	549	Force of Friction Keeping Velocity Constant
+46	science	physics	Thhnzc64	J9BWNiOSGlc	441	Intuition on Static and Kinetic Friction Comparisons
+47	science	physics	WNiOSGlc	ZA_D4O6l1lo	590	Static and Kinetic Friction Example
+48	science	physics	D4O6l1lo	_UrfHFEBIpU	619	Introduction to Tension
+49	science	physics	fHFEBIpU	zwDJ1wVr7Is	619	Tension (part 2)
+50	science	physics	J1wVr7Is	52wxpYnS64U	568	Tension in an accelerating system and pie in the face
+51	science	physics	xpYnS64U	J5GJgtZN6GE	593	Moving pulley problem (part 1)
+52	science	physics	JgtZN6GE	aHro1hCjukQ	400	Moving pulley problem (part 2)
+53	science	physics	o1hCjukQ	XFhntPxow0U	558	Introduction to Momentum
+54	science	physics	ntPxow0U	vPkkCOlGND4	360	Momentum: Ice skater throws a ball
+55	science	physics	kCOlGND4	CFygKiTB-4A	635	2-dimensional momentum problem
+56	science	physics	gKiTB-4A	leudxqivIJI	572	2-dimensional momentum problem (part 2)
+57	science	physics	dxqivIJI	2WS1sG9fhOk	558	Introduction to work and energy
+58	science	physics	1sG9fhOk	3mier94pbnU	591	Work and Energy (part 2)
+59	science	physics	er94pbnU	kw_4Loo1HR4	606	Conservation of Energy
+60	science	physics	4Loo1HR4	YvacYWgygaA	605	Work/Energy problem with Friction
+61	science	physics	cYWgygaA	pfzJ-z5Ij48	602	Introduction to mechanical advantage
+62	science	physics	J-z5Ij48	DiBXxWBrV24	410	Mechanical Advantage (part 2)
+63	science	physics	XxWBrV24	vSsK7Rfa3yA	634	Mechanical Advantage (part 3)
+64	science	physics	K7Rfa3yA	VrflZifKIuw	576	Center of Mass
+65	science	physics	lZifKIuw	QhuJn8YBtmg	564	Introduction to Torque
+66	science	physics	Jn8YBtmg	ESusD8HRLBI	854	Moments
+67	science	physics	sD8HRLBI	peXbz0frV74	830	Moments (part 2)
+68	science	physics	bz0frV74	FaF3v-ezbSk	594	Unit Vector Notation
+69	science	physics	3v-ezbSk	595Tiga1gIg	553	Unit Vector Notation (part 2)
+70	science	physics	Tiga1gIg	oYpEaB9_am8	610	Projectile Motion with Unit Vectors
+71	science	physics	EaB9_am8	9VBa4o8rz0Y	554	Projectile Motion with Unit Vectors (part 2)
+72	science	physics	a4o8rz0Y	jl_gQ-eL3xo	617	Projectile Motion with Ordered Set Notation
+73	science	physics	gQ-eL3xo	15zliAL4llE	547	Projectile motion (part 1)
+74	science	physics	liAL4llE	emdHj6WodLw	553	Projectile motion (part 2)
+75	science	physics	Hj6WodLw	Y5cSGxdDHz4	544	Projectile motion (part 3)
+76	science	physics	SGxdDHz4	-W3RkgvLrGI	537	Projectile motion (part 4)
+77	science	physics	RkgvLrGI	dlpmllTx5MY	573	Projectile motion (part 5)
+78	science	physics	mllTx5MY	vZOk8NnjILg	647	Centripetal Force and Acceleration Intuition
+79	science	physics	k8NnjILg	NH1_sO8QY3o	588	Visual Understanding of Centripetal Acceleration Formula
+80	science	physics	_sO8QY3o	zAx61CO5mDw	564	Relationship between angular velocity and speed
+81	science	physics	61CO5mDw	XjCEumlJBno	862	Calculus proof of centripetal acceleration formula
+82	science	physics	EumlJBno	wjZb3zPuoeA	181	Loop De Loop Question
+83	science	physics	b3zPuoeA	4SQDybFjhRE	365	Loop De Loop Answer part 1
+84	science	physics	DybFjhRE	zcnnZz2pCSg	288	Loop De Loop Answer part 2
+85	science	physics	nZz2pCSg	R5CRZONOHCU	613	Acceleration Due to Gravity at the Space Station
+86	science	physics	RZONOHCU	9BNkmfHYYYI	396	Space Station Speed in Orbit
+87	science	physics	kmfHYYYI	s_R8d3isJDA	612	Conservation of angular momemtum
+88	science	physics	8d3isJDA	8d3isJDA	517	Introduction to Newton's Law of Gravitation
+89	science	physics	txUI76gM	8i0j3j16yFk	496	Gravitation (part 2)
+90	science	physics	j3j16yFk	j3j16yFk	605	Intro to springs and Hooke's Law
+91	science	physics	uHS9ldbY	eVl5zs6Lqy0	600	Potential energy stored in a spring
+92	science	physics	5zs6Lqy0	P3QV9ktuYlQ	578	Spring potential energy example (mistake in math)
+93	science	physics	V9ktuYlQ	Nk2q-_jkJVs	603	Introduction to Harmonic Motion
+94	science	physics	q-_jkJVs	xoUppFlif04	586	Harmonic Motion Part 2 (calculus)
+95	science	physics	ppFlif04	oqBHBO8cqLI	584	Harmonic Motion Part 3 (no calculus)
+96	science	physics	HBO8cqLI	Pn5YEMwQb4Y	586	Fluids (part 1)
+97	science	physics	YEMwQb4Y	lWDtFHDVqqk	612	Fluids (part 2)
+98	science	physics	tFHDVqqk	5EWjlpc0S00	594	Fluids (part 3)
+99	science	physics	jlpc0S00	i6gz9VFyYks	609	Fluids (part 4)
+100	science	physics	z9VFyYks	vzID7ds600c	521	Fluids (part 5)
+101	science	physics	D7ds600c	wwjtuZ5vTvc	581	Fluids (part 6)
+102	science	physics	tuZ5vTvc	G4CgOF4ccXk	599	Fluids (part 7)
+103	science	physics	gOF4ccXk	uqyLOuAzbvo	608	Fluids (part 8)
+104	science	physics	LOuAzbvo	QX2YLR09Q78	609	Fluids (part 9)
+105	science	physics	YLR09Q78	NGpJPz44JYc	515	Fluids (part 10)
+106	science	physics	JPz44JYc	HnfBFeLunk4	319	Fluids (part 11)
+107	science	physics	BFeLunk4	xlJYYM5TWoA	466	Fluids (part 12)
+108	science	physics	YYM5TWoA	tQcB9BLUoVI	589	Thermodynamics (part 1)
+109	science	physics	B9BLUoVI	x34OTtDE5q8	617	Thermodynamics (part 2)
+110	science	physics	OTtDE5q8	HvYUKRMT0VI	624	Thermodynamics (part 3)
+111	science	physics	UKRMT0VI	5B1i26dUwME	614	Thermodynamics (part 4)
+112	science	physics	i26dUwME	UekR9J31a2o	482	Thermodynamics (part 5)
+113	science	physics	R9J31a2o	NXMgvrS8Gr8	842	Electrostatics (part 1): Introduction to Charge and Coulomb's Law
+114	science	physics	gvrS8Gr8	0YOGrTNgGhE	812	Electrostatics (part 2)
+115	science	physics	GrTNgGhE	prLfVucoxpw	807	Proof (Advanced): Field from infinite plate (part 1)
+116	science	physics	fVucoxpw	TxwE4_dXo8s	688	Proof (Advanced): Field from infinite plate (part 2)
+117	science	physics	E4_dXo8s	elJUghWSVh4	757	Electric Potential Energy
+118	science	physics	UghWSVh4	CqsYCIjSm9A	590	Electric Potential Energy (part 2-- involves calculus)
+119	science	physics	YCIjSm9A	zqGvUbvVQXg	535	Voltage
+120	science	physics	vUbvVQXg	ngOC4eUQl8Y	815	Capacitance
+121	science	physics	C4eUQl8Y	3o8_EARoMtg	699	Circuits (part 1)
+122	science	physics	_EARoMtg	7vHh1sfZ5KE	668	Circuits (part 2)
+123	science	physics	h1sfZ5KE	ZrMw7P6P2Gw	740	Circuits (part 3)
+124	science	physics	w7P6P2Gw	3NcIK0s3IwU	427	Circuits (part 4)
+125	science	physics	IK0s3IwU	zA0fvwtvgvA	602	Cross product 1
+126	science	physics	fvwtvgvA	o_puKe_lTKk	653	Cross Product 2
+127	science	physics	uKe_lTKk	s38l6nmTrvM	600	Cross Product and Torque
+128	science	physics	l6nmTrvM	8Y4JSp5U82I	644	Introduction to Magnetism
+129	science	physics	JSp5U82I	NnlAI4ZiUrQ	538	Magnetism 2
+130	science	physics	AI4ZiUrQ	LTuGQy4rmmo	647	Magnetism 3
+131	science	physics	GQy4rmmo	b1QFKLZC11U	639	Magnetism 4
+132	science	physics	FKLZC11U	jQ2nD8ZGeEw	655	Magnetism 5
+133	science	physics	nD8ZGeEw	Ri557hvwhcM	582	Magnetism 6: Magnetic field due to current
+134	science	physics	57hvwhcM	l3hw0twZSCc	660	Magnetism 7
+135	science	physics	w0twZSCc	4tctB1wZNiI	661	Magnetism 8
+136	science	physics	tB1wZNiI	pAgPfr7MkkU	636	Magnetism 9: Electric Motors
+137	science	physics	Pfr7MkkU	cePkWyXRvIQ	637	Magnetism 10: Electric Motors
+138	science	physics	kWyXRvIQ	XMkUDyl1ZRo	400	Magnetism 11: Electric Motors
+139	science	physics	UDyl1ZRo	KuUMUvwvML8	727	Magnetism 12: Induced Current in a Wire
+140	science	physics	MUvwvML8	KDHuWxy53uM	633	The dot product
+141	science	physics	uWxy53uM	E34CftP455k	645	Dot vs. Cross Product
+142	science	physics	CftP455k	enr7JqvehJs	586	Calculating dot and cross products with unit vector notation
+143	science	physics	7JqvehJs	c38H6UKt3_I	783	Introduction to Waves
+144	science	physics	H6UKt3_I	tJW_a6JeXD8	866	Amplitude, Period, Frequency and Wavelength of Periodic Waves
+145	science	physics	_a6JeXD8	dc7l7Qqa8xk	636	Introduction to the Doppler Effect
+146	science	physics	l7Qqa8xk	kGrk6V8tWDY	613	Doppler effect formula for observed frequency
+147	science	physics	k6V8tWDY	KkJ0wL9f2VY	558	Doppler effect formula when source is moving away
+148	science	physics	0wL9f2VY	4Xgk3vusxT8	455	When the source and the wave move at the same velocity
+149	science	physics	k3vusxT8	VlaGxYjnoPY	244	Mach Numbers
+150	science	physics	GxYjnoPY	sd0BOnN6aNY	660	Specular and Diffuse Reflection
+151	science	physics	BOnN6aNY	XR52dXLyz-M	461	Specular and Diffuse Reflection 2
+152	science	physics	2dXLyz-M	2dXLyz-M	864	Refraction and Snell's Law
+153	science	physics	tzg_jW9I	jxptCXHLxKQ	264	Refraction in Water
+154	science	physics	tCXHLxKQ	tCXHLxKQ	644	Snell's Law Examples 1
+155	science	physics	jsBApxLE	jsBApxLE	685	Snell's Law Example 2
+156	science	physics	uSfZZa3E	WRuatAcd2WY	475	Total Internal Reflection
+157	science	physics	atAcd2WY	nrOg85VPQgw	473	Virtual Image
+158	science	physics	g85VPQgw	8X1AS9qD5AQ	697	Parabolic Mirrors and Real Images
+159	science	physics	AS9qD5AQ	7m0u6dxA5Xo	769	Parabolic Mirrors 2
+160	science	physics	u6dxA5Xo	dWY25vb1ZB0	360	Convex Parabolic Mirrors
+161	science	physics	25vb1ZB0	K0sjZ5nqQ7g	563	Convex Lenses
+162	science	physics	jZ5nqQ7g	xxF_mdoZom0	576	Convex Lens Examples
+163	science	physics	_mdoZom0	Vh70PyitQzo	186	Concave Lenses
+164	science	physics	0PyitQzo	rse0I7rZ8jM	749	Object Image and Focal Distance Relationship (Proof of Formula)
+165	science	physics	0I7rZ8jM	acQYX4nwhCk	142	Object Image Height and Distance Relationship
+166	science	physics	YX4nwhCk	YX4nwhCk	451	Viewing g as the value of Earth's Gravitational Field Near the Surface
+1	science	cosmology-and-astronomy	Z_R5AHdg	Z_R5AHdg	571	Scale of Earth and Sun
+2	science	cosmology-and-astronomy	3U0dbASg	GP53b__h4ew	751	Scale of Solar System
+3	science	cosmology-and-astronomy	3b__h4ew	jEeJkkMXt6c	498	Scale of Distance to Closest Stars
+4	science	cosmology-and-astronomy	JkkMXt6c	rcLnMe1ELPA	775	Scale of the Galaxy
+5	science	cosmology-and-astronomy	nMe1ELPA	JiE_kNk3ucI	650	Intergalactic Scale
+6	science	cosmology-and-astronomy	_kNk3ucI	Wl4re38deh0	252	Hubble Image of Galaxies
+7	science	cosmology-and-astronomy	re38deh0	eUF59jCFcyQ	663	Big Bang Introduction
+8	science	cosmology-and-astronomy	59jCFcyQ	6nVysrZQnOQ	999	Radius of Observable Universe
+9	science	cosmology-and-astronomy	ysrZQnOQ	b6VQv76BQDs	134	(Correction) Radius of Observable Universe
+10	science	cosmology-and-astronomy	Qv76BQDs	mx2M_ZKXM_c	604	Red Shift
+11	science	cosmology-and-astronomy	M_ZKXM_c	sxbPwl_KRuA	696	Cosmic Background Radiation
+12	science	cosmology-and-astronomy	Pwl_KRuA	06z7Q8TWPyU	615	Cosmic Background Radiation 2
+13	science	cosmology-and-astronomy	7Q8TWPyU	DRtLXagrMHw	427	Cosmological Time Scale 1
+14	science	cosmology-and-astronomy	LXagrMHw	LO7-3MpWijU	378	Cosmological Time Scale 2
+15	science	cosmology-and-astronomy	-3MpWijU	FEF6PxWOvsk	629	Four Fundamental Forces
+16	science	cosmology-and-astronomy	6PxWOvsk	i-NNWI8Ccas	478	Birth of Stars
+17	science	cosmology-and-astronomy	NWI8Ccas	kJSOqlcFpJw	690	Becoming a Red Giant
+18	science	cosmology-and-astronomy	OqlcFpJw	EdYyuUUY-nc	774	White and Black Dwarfs
+19	science	cosmology-and-astronomy	yuUUY-nc	0w9R_foNLrg	538	A Universe Smaller than the Observable
+20	science	cosmology-and-astronomy	R_foNLrg	w3IKEa_GOYs	424	Star Field and Nebula Images
+21	science	cosmology-and-astronomy	KEa_GOYs	ETzUpoqZIHY	441	Parallax in Observing Stars
+22	science	cosmology-and-astronomy	UpoqZIHY	omvNINaRdxg	566	Stellar Parallax
+23	science	cosmology-and-astronomy	NINaRdxg	lVadjWOjvV8	700	Stellar Distance Using Parallax
+24	science	cosmology-and-astronomy	djWOjvV8	6FP-hLuAlr4	142	Stellar Parallax Clarification
+25	science	cosmology-and-astronomy	-hLuAlr4	6zV3JEjLoyE	453	Parsec Definition
+26	science	cosmology-and-astronomy	3JEjLoyE	3JEjLoyE	672	Hubble's Law
+27	science	cosmology-and-astronomy	wVmO0Tfg	UhIwMAhZpCo	401	Lifecycle of Massive Stars
+28	science	cosmology-and-astronomy	wMAhZpCo	qOwCpnQsDLM	718	Supernova (Supernovae)
+29	science	cosmology-and-astronomy	CpnQsDLM	QMv4kxATfzs	92	Supernova clarification
+30	science	cosmology-and-astronomy	4kxATfzs	JoL2pO3O0rg	609	Black Holes
+31	science	cosmology-and-astronomy	2pO3O0rg	BWs-ONRDDG4	563	Cepheid Variables 1
+32	science	cosmology-and-astronomy	-ONRDDG4	X_3QAB3o4Vw	430	Why Cepheids Pulsate
+33	science	cosmology-and-astronomy	QAB3o4Vw	RpOHZc6cDIw	493	Why Gravity Gets So Strong Near Dense Objects
+34	science	cosmology-and-astronomy	HZc6cDIw	DxkkAHnqlpY	568	Supermassive Black Holes
+35	science	cosmology-and-astronomy	kAHnqlpY	4LmIyMyAuN0	555	Quasars
+36	science	cosmology-and-astronomy	IyMyAuN0	PX_XSnVWlNc	106	Quasar Correction
+37	science	cosmology-and-astronomy	XSnVWlNc	QXYbGZ3T3_k	214	Galactic Collisions
+38	science	cosmology-and-astronomy	bGZ3T3_k	VbNXh0GaLYo	608	Earth Formation
+39	science	cosmology-and-astronomy	Xh0GaLYo	nYFuxTXDj90	626	Beginnings of Life
+40	science	cosmology-and-astronomy	uxTXDj90	E1P79uFLCMc	596	Ozone Layer and Eukaryotes Show Up in the Proterozoic Eon
+41	science	cosmology-and-astronomy	79uFLCMc	MS7x2hDEhrw	628	Biodiversity Flourishes in Phanerozoic Eon
+42	science	cosmology-and-astronomy	x2hDEhrw	3gUE_P9T-Wk	335	First living things on land clarification
+43	science	cosmology-and-astronomy	E_P9T-Wk	f2BWsPVN7c4	479	Plate Tectonics-- Difference between crust and lithosphere
+44	science	cosmology-and-astronomy	WsPVN7c4	4AxZ-6MOznY	573	Structure of the Earth
+45	science	cosmology-and-astronomy	Z-6MOznY	6EdsBabSZ4g	798	Plate Tectonics -- Evidence of plate movement
+46	science	cosmology-and-astronomy	sBabSZ4g	FK1s1-OJ5BE	718	Plate Tectonics -- Geological Features of Divergent Plate Boundaries
+47	science	cosmology-and-astronomy	s1-OJ5BE	Y0eWnOZpSpQ	364	Plate Tectonics-- Geological features of Convergent Plate Boundaries
+48	science	cosmology-and-astronomy	WnOZpSpQ	f8GK2oEN-uI	362	Plates Moving Due to Convection in Mantle
+49	science	cosmology-and-astronomy	K2oEN-uI	D1eibbfAEVk	481	Hawaiian Islands Formation
+50	science	cosmology-and-astronomy	ibbfAEVk	hHteUIS0OFY	710	Compositional and Mechanical Layers of the Earth
+51	science	cosmology-and-astronomy	eUIS0OFY	NhioAAdYDJM	518	Seismic Waves
+52	science	cosmology-and-astronomy	oAAdYDJM	BTWLwoaNeBA	255	Why S-Waves Only Travel in Solids
+53	science	cosmology-and-astronomy	LwoaNeBA	UNZ171fDja4	562	Refraction of Seismic Waves
+54	science	cosmology-and-astronomy	171fDja4	yAQSucmHrAk	373	The Mohorovicic Seismic Discontinuity
+55	science	cosmology-and-astronomy	SucmHrAk	SucmHrAk	349	How we know about the Earth's core
+56	science	cosmology-and-astronomy	i1RSnpfI	axB6uhEx628	358	Pangaea
+57	science	cosmology-and-astronomy	6uhEx628	5FEjrStgcF8	662	Scale of the Large
+58	science	cosmology-and-astronomy	jrStgcF8	ERKx3Oa2omo	794	Scale of the Small
+59	science	cosmology-and-astronomy	x3Oa2omo	YYEgq1bweN4	783	Detectable Civilizations in our Galaxy 1
+60	science	cosmology-and-astronomy	gq1bweN4	jN03g05TSWM	533	Detectable Civilizations in our Galaxy 2
+61	science	cosmology-and-astronomy	3g05TSWM	LRmwUsxNSL0	438	Detectable Civilizations in our Galaxy 3
+62	science	cosmology-and-astronomy	wUsxNSL0	T5DGZIsfK-0	375	Detectable Civilizations in our Galaxy 4
+63	science	cosmology-and-astronomy	GZIsfK-0	xL9ejqb53ms	309	Detectable Civilizations in our Galaxy 5
+64	science	cosmology-and-astronomy	ejqb53ms	frE1rjhH77Y	746	Human Evolution Overview
+65	science	cosmology-and-astronomy	1rjhH77Y	EKKe7DBZVhI	581	Understanding Calendar Notation
+66	science	cosmology-and-astronomy	e7DBZVhI	N06Jy-gQog8	252	Correction Calendar Notation
+67	science	cosmology-and-astronomy	Jy-gQog8	iU58AIjh3YA	783	Development of Agriculture and Writing
+68	science	cosmology-and-astronomy	8AIjh3YA	rLNM8zI4Q_M	577	Introduction to Light
+69	science	cosmology-and-astronomy	M8zI4Q_M	M8zI4Q_M	279	Seasons Aren't Dictated by Closeness to Sun
+70	science	cosmology-and-astronomy	d5du0T08	d5du0T08	1247	How Earth's Tilt Causes Seasons
+71	science	cosmology-and-astronomy	DIjKevJo	DIjKevJo	777	Milankovitch Cycles Precession and Obliquity
+72	science	cosmology-and-astronomy	THEz18gc	umvNQj-zmq4	437	Are Southern Hemisphere Seasons More Severe?
+73	science	cosmology-and-astronomy	NQj-zmq4	2o-Sef6wllg	724	Precession Causing Perihelion to Happen Later
+74	science	cosmology-and-astronomy	Sef6wllg	nL6LMX8-bPY	126	What Causes Precession and Other Orbital Changes
+75	science	cosmology-and-astronomy	LMX8-bPY	m6lMGoZTJnc	427	Apsidal Precession (Perihelion Precession) and Milankovitch Cycles
+76	science	cosmology-and-astronomy	MGoZTJnc	mwUyaeWxJhA	397	Firestick Farming
+77	science	cosmology-and-astronomy	yaeWxJhA	8wYvKeSK1IY	603	Carbon 14 Dating 1
+78	science	cosmology-and-astronomy	vKeSK1IY	4YUtnod-YuE	255	Carbon 14 Dating 2
+79	science	cosmology-and-astronomy	tnod-YuE	NMZ5kJEviD0	635	Potassium-Argon (K-Ar) Dating
+80	science	cosmology-and-astronomy	5kJEviD0	iLFcSfzrlMk	667	K-Ar Dating Calculation
+81	science	cosmology-and-astronomy	cSfzrlMk	5mNTvtjDnP8	593	Chronometric Revolution
+82	science	cosmology-and-astronomy	TvtjDnP8	NqR_dtZu4Mo	797	Collective Learning
+83	science	cosmology-and-astronomy	_dtZu4Mo	xM8szz4VB28	780	Land Productivity Limiting Human Population
+84	science	cosmology-and-astronomy	szz4VB28	5I9dH5im24U	821	Energy Inputs for Tilling a Hectare of Land
+85	science	cosmology-and-astronomy	dH5im24U	E4rbS0oxg30	667	Random Predictions for 2060
+1	science	computer-science	bS0oxg30	husPzLE6sZc	688	Introduction to Programs Data Types and Variables
+2	science	computer-science	PzLE6sZc	ry1hpm1GXVI	634	Binary Numbers
+3	science	computer-science	hpm1GXVI	zEyEC34MY1A	701	Python Lists
+4	science	computer-science	EC34MY1A	9LgyKiq_hU0	615	For Loops in Python
+5	science	computer-science	yKiq_hU0	D0Nb2Fs3Q8c	319	While Loops in Python
+6	science	computer-science	b2Fs3Q8c	iZAtkS0F-Zo	838	Fun with Strings
+7	science	computer-science	tkS0F-Zo	ZyYp1V84Xqc	489	Writing a Simple Factorial Program. (Python 2)
+8	science	computer-science	p1V84Xqc	dn9XjHz33O8	564	Stepping Through the Factorial Program
+9	science	computer-science	XjHz33O8	EiR6cf8Towc	336	Flowchart for the Factorial Program
+10	science	computer-science	6cf8Towc	WT-gS-8p7KA	322	Python 3 Not Backwards Compatible with Python 2
+11	science	computer-science	gS-8p7KA	JwO_25S_eWE	606	Defining a Factorial Function
+12	science	computer-science	_25S_eWE	6qCQB8E5bkI	552	Diagramming What Happens with a Function Call
+13	science	computer-science	QB8E5bkI	o920mj0NbhE	335	Recursive Factorial Function
+14	science	computer-science	0mj0NbhE	kx6DfrYfWnQ	468	Comparing Iterative and Recursive Factorial Functions
+15	science	computer-science	DfrYfWnQ	Bdbc1ZC-vhw	255	Exercise - Write a Fibonacci Function
+16	science	computer-science	c1ZC-vhw	94O_3QCvfqI	393	Iterative Fibonacci Function Example
+17	science	computer-science	_3QCvfqI	-BE7FEouGeI	579	Stepping Through Iterative Fibonacci Function
+18	science	computer-science	7FEouGeI	urPVT1lymzU	457	Recursive Fibonacci Example
+19	science	computer-science	VT1lymzU	zg-ddPbzcKM	484	Stepping Through Recursive Fibonacci Function
+20	science	computer-science	ddPbzcKM	Qbl-RZS2-4g	132	Exercise - Write a Sorting Function
+21	science	computer-science	-RZS2-4g	lCzQvQr8Utw	472	Insertion Sort Algorithm
+22	science	computer-science	QvQr8Utw	lEA31vHiry4	516	Insertion Sort in Python
+23	science	computer-science	31vHiry4	6pyeMmJTefg	714	Stepping Through Insertion Sort Function
+24	science	computer-science	eMmJTefg	hh3AkOGnnpE	169	Simpler Insertion Sort Function
+1	science	mit-k12	itaMNuWLzJo	itaMNuWLzJo	337	A Crash Course on Indoor Flying Robots
+2	science	mit-k12	BzV6pcFg	BzV6pcFg	509	The Invention of the Battery
+3	science	mit-k12	VeO71_jY	VeO71_jY	512	The Forces on an Airplane
+4	science	mit-k12	zEl5st8s	zEl5st8s	335	Flocculation: Making Clean Water
+5	science	mit-k12	Q77vAV_U	Q77vAV_U	353	A Voyage to Mars: Bone Loss in Space
+6	science	mit-k12	zP6csk9g	zP6csk9g	183	Bread Mold Kills Bacteria
+7	science	mit-k12	fyJc4QPA	fyJc4QPA	497	Bouncing Droplets: Superhydrophobic and Superhydrophilic Surfaces
+1	finance-economics	core-finance	0Khs7uWs	GtaoP0skPWc	596	Introduction to interest
+2	finance-economics	core-finance	oP0skPWc	t4zfiBw0hwM	481	Interest (part 2)
+3	finance-economics	core-finance	fiBw0hwM	ks33lMoxst0	619	Introduction to Present Value
+4	finance-economics	core-finance	3lMoxst0	4LSktB7Pk_c	611	Present Value 2
+5	finance-economics	core-finance	ktB7Pk_c	3SgVUlEcOBU	462	Present Value 3
+6	finance-economics	core-finance	VUlEcOBU	6WCfVjUTTEY	602	Present Value 4 (and discounted cash flow)
+7	finance-economics	core-finance	fVjUTTEY	mxsYHiDVNlk	594	Introduction to Balance Sheets
+8	finance-economics	core-finance	YHiDVNlk	U2Nw5T44zvY	605	More on balance sheets and equity
+9	finance-economics	core-finance	w5T44zvY	7rrSuhFC7I0	516	Home equity loans
+10	finance-economics	core-finance	SuhFC7I0	YL10H_EcB-E	580	Renting vs. Buying a home
+11	finance-economics	core-finance	0H_EcB-E	QA2TBiIsdT0	549	Renting vs. buying a home (part 2)
+12	finance-economics	core-finance	TBiIsdT0	mtL_plJXv3c	917	Renting vs. Buying (detailed analysis)
+13	finance-economics	core-finance	_plJXv3c	8IR5LefXVPY	561	The housing price conundrum
+14	finance-economics	core-finance	5LefXVPY	wYAhlTHIBT4	534	Housing price conundrum (part 2)
+15	finance-economics	core-finance	hlTHIBT4	aAfMps_VyOY	588	Housing Price Conundrum (part 3)
+16	finance-economics	core-finance	Mps_VyOY	s6UYa2nwaDw	413	Housing Conundrum (part 4)
+17	finance-economics	core-finance	Ya2nwaDw	Ya2nwaDw	845	What it means to buy a company's stock
+18	finance-economics	core-finance	TkPn83gc	rs1md3e4aYU	561	Bonds vs. Stocks
+19	finance-economics	core-finance	md3e4aYU	-IDmLERenrU	572	Shorting Stock
+20	finance-economics	core-finance	mLERenrU	ucAUriWEFo8	523	Shorting Stock 2
+21	finance-economics	core-finance	UriWEFo8	zAkMhEqWFF0	835	Is short selling bad?
+22	finance-economics	core-finance	MhEqWFF0	-oW4M3vpuRM	680	Chapter 7:Bankruptcy Liquidation
+23	finance-economics	core-finance	4M3vpuRM	mxVWyzzMOXM	845	Chapter 11: Bankruptcy Restructuring
+24	finance-economics	core-finance	WyzzMOXM	9T6ZPYYu_Dk	588	Return on capital
+25	finance-economics	core-finance	ZPYYu_Dk	ccaCl1GKdJ0	200	Credit Default Swaps (CDS) Intro
+26	finance-economics	core-finance	Cl1GKdJ0	dwleadLC2Dw	123	Mortgage Back Security Overview
+27	finance-economics	core-finance	eadLC2Dw	TEfyIsDRGCk	259	Collateralized Debt Obligation Overview
+28	finance-economics	core-finance	yIsDRGCk	oosYQHq2hwE	476	Mortgage-Backed Securities I
+29	finance-economics	core-finance	YQHq2hwE	eYBlfxGIk28	574	Mortgage-backed securities II
+30	finance-economics	core-finance	lfxGIk28	q0oSKmC3Mfc	557	Mortgage-backed securities III
+31	finance-economics	core-finance	SKmC3Mfc	XjoJ9UF2hqg	582	Collateralized Debt Obligation (CDO)
+32	finance-economics	core-finance	J9UF2hqg	b_cAxh44aNQ	596	Introduction to the yield curve
+33	finance-economics	core-finance	Axh44aNQ	qEB6y4DklNY	611	Introduction to compound interest and e
+34	finance-economics	core-finance	6y4DklNY	dzMvqJMLy9c	614	Compound Interest and e (part 2)
+35	finance-economics	core-finance	vqJMLy9c	vqJMLy9c	604	Compound Interest and e (part 3)
+36	finance-economics	core-finance	pUJV8foY	VAxHMTJRhmY	484	Compound Interest and e (part 4)
+37	finance-economics	core-finance	HMTJRhmY	ZUEjRYe7MRk	686	Bailout 1: Liquidity vs. Solvency
+38	finance-economics	core-finance	jRYe7MRk	YJBqGM29_64	652	Bailout 2: Book Value
+39	finance-economics	core-finance	qGM29_64	TUOQZjotyAQ	632	Bailout 3: Book value vs. market value
+40	finance-economics	core-finance	QZjotyAQ	w_GZqhAR0I4	684	Bailout 4: Mark-to-model vs. mark-to-market
+41	finance-economics	core-finance	ZqhAR0I4	I8BLj7cRM7c	651	Bailout 5: Paying off the debt
+42	finance-economics	core-finance	Lj7cRM7c	jDNalKBb3aA	722	Bailout 6: Getting an equity infusion
+43	finance-economics	core-finance	alKBb3aA	MdIfefLcdoU	625	Bailout 7: Bank goes into bankruptcy
+44	finance-economics	core-finance	fefLcdoU	gX9aKDeAOz4	712	Bailout 8: Systemic Risk
+45	finance-economics	core-finance	aKDeAOz4	aKDeAOz4	665	Bailout 9: Paulson's Plan
+46	finance-economics	core-finance	bnYNl0rw	roap32sTgPk	727	Bailout 10: Moral Hazard
+47	finance-economics	core-finance	p32sTgPk	a1lVOO9Y080	657	Credit Default Swaps
+48	finance-economics	core-finance	VOO9Y080	neAFEvNsiqw	724	Credit Default Swaps 2
+49	finance-economics	core-finance	FEvNsiqw	rEiLOB4FulY	591	Investment vs. Consumption 1
+50	finance-economics	core-finance	LOB4FulY	xRjfRVXXFxU	613	Investment vs. Comsumption 2
+51	finance-economics	core-finance	fRVXXFxU	RkIM0Mbc8YQ	644	Bailout 11: Why these CDOs could be worth nothing
+52	finance-economics	core-finance	M0Mbc8YQ	eZZkhSl8lMA	628	Bailout 12: Lone Star Transaction
+53	finance-economics	core-finance	khSl8lMA	R528WbVdC0I	659	Bailout 13: Does the bailout have a chance of working?
+54	finance-economics	core-finance	8WbVdC0I	Q7HbtnOyKMg	630	Wealth Destruction 1
+55	finance-economics	core-finance	btnOyKMg	eRImmzuExyg	640	Wealth Destruction 2
+56	finance-economics	core-finance	mmzuExyg	BdmI14oSe4g	742	Bailout 14: Possible Solution
+57	finance-economics	core-finance	I14oSe4g	-KrSxA9NCf0	609	Bailout 15: More on the solution
+58	finance-economics	core-finance	SxA9NCf0	E-HOz8T6tAo	709	Banking 1
+59	finance-economics	core-finance	Oz8T6tAo	Oz8T6tAo	719	Banking 2: A bank's income statement
+60	finance-economics	core-finance	MANILkw0	nH2-37rTA8U	708	Banking 3: Fractional Reserve Banking
+61	finance-economics	core-finance	-37rTA8U	F7r7l1VG-Tw	667	Banking 4: Multiplier effect and the money supply
+62	finance-economics	core-finance	7l1VG-Tw	7l1VG-Tw	802	Personal Bankruptcy: Chapters 7 and 13
+63	finance-economics	core-finance	ufOGo88A	-qgdMTbTJlA	416	Introduction to Compound Interest
+64	finance-economics	core-finance	dMTbTJlA	pLG5j6isgRs	568	The Rule of 72 for Compound Interest
+65	finance-economics	core-finance	5j6isgRs	P4h4QenI-uU	450	Annual Percentage Rate (APR) and Effective APR
+66	finance-economics	core-finance	4QenI-uU	44cYyG0LSzQ	541	Introduction to Bonds
+67	finance-economics	core-finance	YyG0LSzQ	kDRqSJIiTqU	813	Relationship between bond prices and interest rates
+68	finance-economics	core-finance	qSJIiTqU	mhRL99LqxMc	1107	Introduction to Mortgage Loans
+69	finance-economics	core-finance	L99LqxMc	2K0ubOpyZt8	822	Traditional IRAs
+70	finance-economics	core-finance	ubOpyZt8	HbQ2kmhIlHo	1009	Roth IRAs
+71	finance-economics	core-finance	2kmhIlHo	YPP9igBVdkg	557	401(k)s
+72	finance-economics	core-finance	9igBVdkg	BHTMuHvmarU	626	Payday Loans
+73	finance-economics	core-finance	MuHvmarU	tvL7ox0ezCU	719	Institutional Roles in Issuing and Processing Credit Cards
+74	finance-economics	core-finance	7ox0ezCU	5UVpLPtgdF4	702	Ponzi Schemes
+75	finance-economics	core-finance	pLPtgdF4	itoNb1lb5hY	724	Currency Exchange Introduction
+76	finance-economics	core-finance	Nb1lb5hY	5HVCFrXQ9pw	860	Currency Effect on Trade
+77	finance-economics	core-finance	CFrXQ9pw	Ysk1ySejuCQ	606	Currency Effect on Trade Review
+78	finance-economics	core-finance	1ySejuCQ	S-9iY1OgbDE	412	Pegging the Yuan
+79	finance-economics	core-finance	iY1OgbDE	MN4SWiEEqKo	730	Chinese Central Bank Buying Treasuries
+80	finance-economics	core-finance	SWiEEqKo	m5xu4r0szaA	927	American-Chinese Debt Loop
+81	finance-economics	core-finance	u4r0szaA	XBI7DqttyOQ	744	Debt Loops Rationale and Effects
+82	finance-economics	core-finance	7DqttyOQ	nnl3x1wo25g	213	American Call Options
+83	finance-economics	core-finance	3x1wo25g	jAOtWm_WZiE	209	Basic Shorting
+84	finance-economics	core-finance	tWm_WZiE	6CUcgUeQS-w	176	American Put Options
+85	finance-economics	core-finance	cgUeQS-w	N8h45mDI80s	184	Call Option as Leverage
+86	finance-economics	core-finance	45mDI80s	_q25hz5xLdk	190	Put vs. Short and Leverage
+87	finance-economics	core-finance	5hz5xLdk	MZQxeQYQCUg	202	Call Payoff Diagram
+88	finance-economics	core-finance	xeQYQCUg	VST_U297pH0	204	Put Payoff Diagram
+89	finance-economics	core-finance	_U297pH0	2HIRaOQDRho	233	Long Straddle
+90	finance-economics	core-finance	RaOQDRho	i65NIcnHS9Y	228	Put as Insurance
+91	finance-economics	core-finance	NIcnHS9Y	m4mrd7sHCPM	209	Put-Call Parity
+92	finance-economics	core-finance	rd7sHCPM	WFuLVSz6n8M	247	Put Writer Payoff Diagrams
+93	finance-economics	core-finance	LVSz6n8M	TdW3LdN5SJw	188	Call Writer Payoff Diagram
+94	finance-economics	core-finance	3LdN5SJw	AuCH7fHZsZ4	171	Arbitrage Basics
+95	finance-economics	core-finance	H7fHZsZ4	SCM4A0rBeOQ	236	Put-Call Parity Arbitrage I
+96	finance-economics	core-finance	4A0rBeOQ	MHWmBggmIU0	234	Put-Call Parity Arbitrage II
+97	finance-economics	core-finance	mBggmIU0	Sc6zc8KR_NU	124	Put-Call Parity Clarification
+98	finance-economics	core-finance	zc8KR_NU	3o82OwR78wU	210	Actual Option Quotes
+99	finance-economics	core-finance	2OwR78wU	OrRDNKNHtlg	207	Option Expiration and Price
+100	finance-economics	core-finance	DNKNHtlg	H9UEZdAnnt8	191	Forward Contract Introduction
+101	finance-economics	core-finance	EZdAnnt8	3g6P0lRXotI	209	Futures Introduction
+102	finance-economics	core-finance	P0lRXotI	iyrOGvbSS2U	161	Motivation for the Futures Exchange
+103	finance-economics	core-finance	OGvbSS2U	1t42z5U2uoc	219	Futures Margin Mechanics
+104	finance-economics	core-finance	2z5U2uoc	1mnKCkmeaYs	228	Verifying Hedge with Futures Margin Mechanics
+105	finance-economics	core-finance	KCkmeaYs	AnATlMVA12E	199	Futures and Forward Curves
+106	finance-economics	core-finance	TlMVA12E	C3KlN5kTWAs	247	Contango from Trader Perspective
+107	finance-economics	core-finance	lN5kTWAs	hYzN0w8FatU	148	Severe Contango Generally Bearish
+108	finance-economics	core-finance	N0w8FatU	1CxRVVGGNJU	206	Backwardation Bullish or Bearish
+109	finance-economics	core-finance	RVVGGNJU	UDe6zeabyQM	231	Futures Curves II
+110	finance-economics	core-finance	6zeabyQM	wSqkieBUuo8	251	Contango
+111	finance-economics	core-finance	kieBUuo8	LDuJ1AD7n54	237	Backwardation
+112	finance-economics	core-finance	J1AD7n54	5YaSL-y46Hk	224	Contango and Backwardation Review
+113	finance-economics	core-finance	SL-y46Hk	FcRxdq7KGOQ	259	Upper Bound on Forward Settlement Price
+114	finance-economics	core-finance	xdq7KGOQ	_uDb0ZdGb8w	253	Lower Bound on Forward Settlement Price
+115	finance-economics	core-finance	b0ZdGb8w	0jk6uLZ1Tdc	247	Arbitraging Futures Contract
+116	finance-economics	core-finance	6uLZ1Tdc	5kFnAmmGXM4	241	Arbitraging Futures Contracts II
+117	finance-economics	core-finance	nAmmGXM4	FfdpupKByiU	239	Cash Accounting
+118	finance-economics	core-finance	pupKByiU	NNhyZFHAzaA	291	Accrual Basis of Accounting
+119	finance-economics	core-finance	yZFHAzaA	LU_6amWC6H8	241	Comparing Accrual and Cash Accounting
+120	finance-economics	core-finance	6amWC6H8	hZvjH3Az87A	220	Balance Sheet and Income Statement Relationship
+121	finance-economics	core-finance	jH3Az87A	Mioqyv_IW3E	224	Basic Cash Flow Statement
+122	finance-economics	core-finance	qyv_IW3E	57gz50uTPqM	245	Doing the example with Accounts Payable growing
+123	finance-economics	core-finance	z50uTPqM	0E3PuHiDU9U	212	Expensing a Truck leads to inconsistent performance
+124	finance-economics	core-finance	PuHiDU9U	iewvEGWARBY	229	Depreciating the truck
+125	finance-economics	core-finance	vEGWARBY	uX2w0b8Qlss	241	Depreciation in Cash Flow
+126	finance-economics	core-finance	w0b8Qlss	eKw3Aq0vvbo	228	Amortization and Depreciation
+127	finance-economics	core-finance	3Aq0vvbo	YEZMReBbkP0	241	Basic Capital Structure Differences
+128	finance-economics	core-finance	MReBbkP0	5lmHzAHbtzg	190	Market Capitalization
+129	finance-economics	core-finance	HzAHbtzg	nhW3Ri4b_V8	252	Market Value of Assets
+130	finance-economics	core-finance	3Ri4b_V8	wBCowBiXV7A	217	LIBOR
+131	finance-economics	core-finance	owBiXV7A	s-5_H3z-Cv0	177	Fair Value Accounting
+132	finance-economics	core-finance	_H3z-Cv0	GypHy3gnG5E	210	Tax Deductions Introduction
+133	finance-economics	core-finance	Hy3gnG5E	yrlLKwmb5dY	235	Alternative Minimum Tax
+134	finance-economics	core-finance	LKwmb5dY	NSSoMafbBqQ	262	Term Life Insurance and Death Probability
+135	finance-economics	core-finance	oMafbBqQ	bAU1MLRwh7c	228	Back of Envelope Office Space Conundrum
+136	finance-economics	core-finance	1MLRwh7c	VnTlKcIigyY	598	Corporations and Limited Liability
+137	finance-economics	core-finance	lKcIigyY	IiKKAw38ss0	618	Is Limited Liability or Double Taxation Fair
+138	finance-economics	core-finance	KAw38ss0	DzYwB3uSU-c	242	Open-Ended Mutual Fund (Part 1)
+139	finance-economics	core-finance	wB3uSU-c	nW1rxuQft1o	349	Open-End Mutual Fund Redemptions
+140	finance-economics	core-finance	rxuQft1o	VpVu25KhozQ	292	Closed-End Mutual Funds
+141	finance-economics	core-finance	u25KhozQ	SFdsY9Rdh6w	302	Exchange Traded Funds (ETFs)
+142	finance-economics	core-finance	sY9Rdh6w	Qb7tbWuDc2U	212	Hedge Funds Intro
+143	finance-economics	core-finance	tbWuDc2U	EX1eFeaTiYM	411	Hedge Fund Structure and Fees
+144	finance-economics	core-finance	eFeaTiYM	vD2WJTIEVv0	470	Are Hedge Funds Bad?
+145	finance-economics	core-finance	WJTIEVv0	bLQBbA8yh7c	174	Hedge Funds, Venture Capital, and Private Equity
+146	finance-economics	core-finance	BbA8yh7c	mS7t91U9Qqg	227	Treasury Bond Prices and Yields
+147	finance-economics	core-finance	t91U9Qqg	YdGZaqJZbGc	190	Annual Interest Varying with Debt Maturity
+148	finance-economics	core-finance	ZaqJZbGc	SwB9Fq5VRZY	256	The Yield Curve
+149	finance-economics	core-finance	9Fq5VRZY	wDuCOxDxMzY	277	Fed Open Market Operations
+150	finance-economics	core-finance	COxDxMzY	kc_HjPT4NKo	255	Quantitative Easing
+151	finance-economics	core-finance	HjPT4NKo	ZrKw-SLzNrw	555	More on Quantitative Easing (and Credit Easing)
+152	finance-economics	core-finance	w-SLzNrw	w-SLzNrw	215	Hedge Fund Strategies - Long Short 1
+153	finance-economics	core-finance	o9qQ2elM	o9qQ2elM	271	Hedge Fund Strategies - Long Short 2
+154	finance-economics	core-finance	a0V-MAqI	3qP8OOr7pfI	301	Hedge Fund Strategies - Merger Arbitrage 1
+155	finance-economics	core-finance	8OOr7pfI	tjQzJ7GY0GY	231	Stock Dilution
+156	finance-economics	core-finance	zJ7GY0GY	DMd9mTyzj6k	227	Acquisitions with Shares
+157	finance-economics	core-finance	9mTyzj6k	7zBqVOuEKYE	244	Price Behavior After Announced Acquisition
+158	finance-economics	core-finance	qVOuEKYE	CzDA0WCdWHQ	262	Simple Merger Arb with Share Acquisition
+159	finance-economics	core-finance	A0WCdWHQ	LVMLs2z1JYg	335	Basic Leveraged Buyout (LBO)
+160	finance-economics	core-finance	Ls2z1JYg	rD25slnTqAE	296	Corporate Debt versus Traditional Mortgages
+161	finance-economics	core-finance	5slnTqAE	T0CwhLHrE2k	225	AMT Overview
+162	finance-economics	core-finance	whLHrE2k	TpLlJ8-AnQM	191	Open market operations and Quantitative Easing Overview
+163	finance-economics	core-finance	lJ8-AnQM	Lmd_CDwBXFs	167	Another Quantitative Easing Video
+164	finance-economics	core-finance	_CDwBXFs	a-R8qpea6lc	195	US and Japanese Quantitative Easing
+165	finance-economics	core-finance	8qpea6lc	MYkR32QOdg0	157	Term and Whole Life Insurance Policies 2
+166	finance-economics	core-finance	R32QOdg0	VzhsZHTdZag	731	Term and Whole Life Insurance Policies
+167	finance-economics	core-finance	sZHTdZag	eElHlE4j-vw	646	Estate Tax Introduction
+168	finance-economics	core-finance	HlE4j-vw	ivy1QmWUtQI	357	Human Capital
+169	finance-economics	core-finance	1QmWUtQI	mv5zucjq60k	699	Risk and Reward Introduction
+170	finance-economics	core-finance	zucjq60k	QiluvhVryI0	189	Futures Fair Value in the Pre-Market
+171	finance-economics	core-finance	uvhVryI0	yahEP620480	210	What is Inflation
+172	finance-economics	core-finance	EP620480	DK1lCc9b7bg	210	Inflation Data
+173	finance-economics	core-finance	lCc9b7bg	Z_DcXewHHA8	175	Moderate Inflation in a Good Economy
+174	finance-economics	core-finance	cXewHHA8	bTz_tx460EY	176	Stagflation
+175	finance-economics	core-finance	_tx460EY	cNm196bVE5A	190	Real and Nominal Return
+176	finance-economics	core-finance	196bVE5A	GiB9Mkgkrek	170	Calculating Real Return in Last Year Dollars
+177	finance-economics	core-finance	9Mkgkrek	6ycEasF48zI	225	Relation Between Nominal and Real Returns and Inflation
+178	finance-economics	core-finance	EasF48zI	ewSw9tF9Z0E	271	Use Cases for Credit Default Swaps
+179	finance-economics	core-finance	w9tF9Z0E	MNUVuZu6heA	288	Financial Weapons of Mass Destruction
+180	finance-economics	core-finance	VuZu6heA	FPh6EDv0Eew	190	Deflation
+181	finance-economics	core-finance	6EDv0Eew	stfSnPaaK04	211	Velocity of Money Rather than Quantity Driving Prices
+182	finance-economics	core-finance	SnPaaK04	t2AeULH_Ijw	244	Deflation Despite Increases in Money Supply
+183	finance-economics	core-finance	eULH_Ijw	snX4Wf7PGts	231	Deflationary Spiral
+184	finance-economics	core-finance	4Wf7PGts	AC_kjcuHpZw	242	Hyperinflation
+185	finance-economics	core-finance	kjcuHpZw	9nEBmsIsIYg	330	Estate Tax Basics
+186	finance-economics	core-finance	BmsIsIYg	r4NxMVZf6s4	899	Term and Whole Life
+187	finance-economics	core-finance	xMVZf6s4	Dy6SAdpAc8I	597	Open-Ended Mutual Funds
+188	finance-economics	core-finance	SAdpAc8I	cR7ycFYKyWo	604	Unemployment Rate Primer (v2)
+189	finance-economics	core-finance	ycFYKyWo	As1QpFGlGbg	514	Time Value of Money
+190	finance-economics	core-finance	QpFGlGbg	a58PSBX7BSY	876	Mortgage Interest Rates
+191	finance-economics	core-finance	PSBX7BSY	mO6y4KON1e8	558	Inflation Overview
+192	finance-economics	core-finance	y4KON1e8	g7bVoRgV0vs	256	Basics of US Income Tax Rate Schedule
+193	finance-economics	core-finance	VoRgV0vs	8In5PK1yUAA	243	Carry Trade Basics
+194	finance-economics	core-finance	5PK1yUAA	owcmu4XxrHM	218	Interpretting Futures Fair Value in the PreMarket
+195	finance-economics	core-finance	mu4XxrHM	PLjyj1FJqig	231	Interest Rate Swap 1
+196	finance-economics	core-finance	yj1FJqig	xE43JrjCpjE	287	Interest Rate Swap 2
+1	finance-economics	valuation-and-investing	3JrjCpjE	fa-VZ-SDxgY	715	Price and Market Capitalization
+2	finance-economics	valuation-and-investing	VZ-SDxgY	Z7C4cz2HkeY	927	Introduction to the Income Statement
+3	finance-economics	valuation-and-investing	4cz2HkeY	RouNXdkC0do	614	Earnings and EPS
+4	finance-economics	valuation-and-investing	NXdkC0do	cppxO67e6eo	887	Introduction to the Price-to-Earnings Ratio
+5	finance-economics	valuation-and-investing	xO67e6eo	V-rko8jgJ9o	934	P/E Discussion
+6	finance-economics	valuation-and-investing	ko8jgJ9o	Oh4H3BJX1ZI	631	ROA Discussion 1
+7	finance-economics	valuation-and-investing	H3BJX1ZI	R_5slDeVCQk	617	ROA Discussion 2
+8	finance-economics	valuation-and-investing	slDeVCQk	a5sFUXkxyGc	753	Depreciation
+9	finance-economics	valuation-and-investing	FUXkxyGc	XfR3JSkSkJM	465	Amortization
+10	finance-economics	valuation-and-investing	3JSkSkJM	VrFbXxkl9JU	821	P/E Conundrum
+11	finance-economics	valuation-and-investing	bXxkl9JU	pa92UdJCaos	1049	Enterprise Value
+12	finance-economics	valuation-and-investing	2UdJCaos	v4Fq9LEspzw	847	EBITDA
+1	finance-economics	venture-capital-and-capital-markets	q9LEspzw	8OCjwBkMJ_E	722	Raising money for a startup
+2	finance-economics	venture-capital-and-capital-markets	jwBkMJ_E	-hJj5NpWUXQ	664	Getting a seed round from a VC
+3	finance-economics	venture-capital-and-capital-markets	j5NpWUXQ	m28RAgUySGQ	714	Going back to the till: Series B
+4	finance-economics	venture-capital-and-capital-markets	RAgUySGQ	ywOr4OYqXOs	869	An IPO
+5	finance-economics	venture-capital-and-capital-markets	r4OYqXOs	opEy6iN9kqc	707	More on IPOs
+6	finance-economics	venture-capital-and-capital-markets	y6iN9kqc	yQtUyBrRBx4	834	Equity vs. Debt
+7	finance-economics	venture-capital-and-capital-markets	UyBrRBx4	rs1md3e4aYU	561	Bonds vs. Stocks
+8	finance-economics	venture-capital-and-capital-markets	md3e4aYU	-oW4M3vpuRM	680	Chapter 7:Bankruptcy Liquidation
+9	finance-economics	venture-capital-and-capital-markets	4M3vpuRM	mxVWyzzMOXM	845	Chapter 11: Bankruptcy Restructuring
+1	finance-economics	credit-crisis	WyzzMOXM	8IR5LefXVPY	561	The housing price conundrum
+2	finance-economics	credit-crisis	5LefXVPY	wYAhlTHIBT4	534	Housing price conundrum (part 2)
+3	finance-economics	credit-crisis	hlTHIBT4	aAfMps_VyOY	588	Housing Price Conundrum (part 3)
+4	finance-economics	credit-crisis	Mps_VyOY	s6UYa2nwaDw	413	Housing Conundrum (part 4)
+5	finance-economics	credit-crisis	Ya2nwaDw	oosYQHq2hwE	476	Mortgage-Backed Securities I
+6	finance-economics	credit-crisis	YQHq2hwE	eYBlfxGIk28	574	Mortgage-backed securities II
+7	finance-economics	credit-crisis	lfxGIk28	q0oSKmC3Mfc	557	Mortgage-backed securities III
+8	finance-economics	credit-crisis	SKmC3Mfc	XjoJ9UF2hqg	582	Collateralized Debt Obligation (CDO)
+9	finance-economics	credit-crisis	J9UF2hqg	R528WbVdC0I	659	Bailout 13: Does the bailout have a chance of working?
+10	finance-economics	credit-crisis	8WbVdC0I	a1lVOO9Y080	657	Credit Default Swaps
+11	finance-economics	credit-crisis	VOO9Y080	neAFEvNsiqw	724	Credit Default Swaps 2
+12	finance-economics	credit-crisis	FEvNsiqw	Q7HbtnOyKMg	630	Wealth Destruction 1
+13	finance-economics	credit-crisis	btnOyKMg	eRImmzuExyg	640	Wealth Destruction 2
+1	finance-economics	paulson-bailout	mmzuExyg	ZUEjRYe7MRk	686	Bailout 1: Liquidity vs. Solvency
+2	finance-economics	paulson-bailout	jRYe7MRk	YJBqGM29_64	652	Bailout 2: Book Value
+3	finance-economics	paulson-bailout	qGM29_64	TUOQZjotyAQ	632	Bailout 3: Book value vs. market value
+4	finance-economics	paulson-bailout	QZjotyAQ	w_GZqhAR0I4	684	Bailout 4: Mark-to-model vs. mark-to-market
+5	finance-economics	paulson-bailout	ZqhAR0I4	I8BLj7cRM7c	651	Bailout 5: Paying off the debt
+6	finance-economics	paulson-bailout	Lj7cRM7c	jDNalKBb3aA	722	Bailout 6: Getting an equity infusion
+7	finance-economics	paulson-bailout	alKBb3aA	MdIfefLcdoU	625	Bailout 7: Bank goes into bankruptcy
+8	finance-economics	paulson-bailout	fefLcdoU	gX9aKDeAOz4	712	Bailout 8: Systemic Risk
+9	finance-economics	paulson-bailout	aKDeAOz4	aKDeAOz4	665	Bailout 9: Paulson's Plan
+10	finance-economics	paulson-bailout	bnYNl0rw	roap32sTgPk	727	Bailout 10: Moral Hazard
+11	finance-economics	paulson-bailout	p32sTgPk	RkIM0Mbc8YQ	644	Bailout 11: Why these CDOs could be worth nothing
+12	finance-economics	paulson-bailout	M0Mbc8YQ	eZZkhSl8lMA	628	Bailout 12: Lone Star Transaction
+13	finance-economics	paulson-bailout	khSl8lMA	BdmI14oSe4g	742	Bailout 14: Possible Solution
+14	finance-economics	paulson-bailout	I14oSe4g	-KrSxA9NCf0	609	Bailout 15: More on the solution
+1	finance-economics	geithner-plan	SxA9NCf0	ervHbKa7R5g	842	Geithner Plan I
+2	finance-economics	geithner-plan	HbKa7R5g	n-arbfLTCtI	749	Geithner Plan II
+3	finance-economics	geithner-plan	rbfLTCtI	0FxRYePmogU	744	Geithner Plan 2.5
+4	finance-economics	geithner-plan	RYePmogU	_ka1HZS-Egc	802	Geithner Plan III
+5	finance-economics	geithner-plan	1HZS-Egc	ajl1UdtYUCA	841	Geithner Plan IV
+6	finance-economics	geithner-plan	1UdtYUCA	kpqSeXpiM6k	618	Geithner 5: A better solution
+1	finance-economics	current-economics	SeXpiM6k	XDIBJyNnLOU	673	Economics of a Cupcake Factory
+2	finance-economics	current-economics	BJyNnLOU	-LTXzYXaAuk	697	Cupcake Economics 2
+3	finance-economics	current-economics	XzYXaAuk	8x1-TeDxblU	778	Cupcake Economics 3
+4	finance-economics	current-economics	-TeDxblU	-TeDxblU	752	Inflation, Deflation & Capacity Utilization
+5	finance-economics	current-economics	PdFn7Gn4	PdFn7Gn4	709	Inflation, Deflation & Capacity Utilization 2
+6	finance-economics	current-economics	Q4z4cJF8	Q4z4cJF8	800	Inflation & Deflation 3: Obama Stimulus Plan
+7	finance-economics	current-economics	kERfzzn4	vUOiOi-XaoQ	773	Unemployment
+8	finance-economics	current-economics	iOi-XaoQ	pRIELoITIHI	929	CPI Index
+9	finance-economics	current-economics	ELoITIHI	sSqxVMbml_k	190	Simple Analysis of Cost per Job Saved from Stimulus
+10	finance-economics	current-economics	xVMbml_k	9DGbDx5xQNo	578	Unemployment Rate Primer
+11	finance-economics	current-economics	bDx5xQNo	wNYFJsC8TZE	246	Floating Exchange Resolving Trade Imbalance
+12	finance-economics	current-economics	FJsC8TZE	uTlh861MtYk	181	China Pegs to Dollar to Keep Trade Imbalance
+13	finance-economics	current-economics	h861MtYk	Dfkq9SOWxY8	171	China buys US Bonds
+14	finance-economics	current-economics	q9SOWxY8	DtlFQ_nNaQM	156	Review of China US currency situation
+15	finance-economics	current-economics	FQ_nNaQM	4Azskeheo_g	192	Data on Chinese M1 Increase in 2010
+16	finance-economics	current-economics	skeheo_g	a3NFAnHxpKw	221	Data on Chinese Foreign Assets Increase in 2010
+17	finance-economics	current-economics	FAnHxpKw	iNemmT1hnzA	257	Data on Chinese US Balance of Payments
+18	finance-economics	current-economics	mmT1hnzA	R_-V6usZJsc	202	Chinese inflation
+19	finance-economics	current-economics	V6usZJsc	vrGNXAGmfCM	206	Floating Exchange Effect on China
+20	finance-economics	current-economics	NXAGmfCM	K0GF4FT51qY	256	Floating Exchange Effect on US
+1	finance-economics	banking-and-money	F4FT51qY	E-HOz8T6tAo	709	Banking 1
+2	finance-economics	banking-and-money	Oz8T6tAo	Oz8T6tAo	719	Banking 2: A bank's income statement
+3	finance-economics	banking-and-money	MANILkw0	nH2-37rTA8U	708	Banking 3: Fractional Reserve Banking
+4	finance-economics	banking-and-money	-37rTA8U	F7r7l1VG-Tw	667	Banking 4: Multiplier effect and the money supply
+5	finance-economics	banking-and-money	7l1VG-Tw	cNFLqhU4MN0	529	Banking 5: Introduction to Bank Notes
+6	finance-economics	banking-and-money	LqhU4MN0	IOzZVmgK3IM	662	Banking 6: Bank Notes and Checks
+7	finance-economics	banking-and-money	ZVmgK3IM	On3c86V5A_E	509	Banking 7: Giving out loans without giving out gold
+8	finance-economics	banking-and-money	c86V5A_E	VP3nKDUw1jA	649	Banking 8: Reserve Ratios
+9	finance-economics	banking-and-money	nKDUw1jA	DFPBdbx0vFc	532	Banking 9: More on Reserve Ratios (Bad sound)
+10	finance-economics	banking-and-money	Bdbx0vFc	Bdbx0vFc	561	Banking 10: Introduction to leverage (bad sound)
+11	finance-economics	banking-and-money	ilNdEQTo	M-4GWomLbpc	688	Banking 11: A reserve bank
+12	finance-economics	banking-and-money	GWomLbpc	GWomLbpc	678	Banking 12: Treasuries (government debt)
+13	finance-economics	banking-and-money	dbzzYbtU	BTNarhvGX88	748	Banking 13: Open Market Operations
+14	finance-economics	banking-and-money	arhvGX88	IniG1KkPS2c	702	Banking 14: Fed Funds Rate
+15	finance-economics	banking-and-money	G1KkPS2c	rgqFXkLAc-4	736	Banking 15: More on the Fed Funds Rate
+16	finance-economics	banking-and-money	FXkLAc-4	yOgGhPIHnlA	700	Banking 16: Why target rates vs. money supply
+17	finance-economics	banking-and-money	GhPIHnlA	NFDMXwwzyIM	612	Banking 17: What happened to the gold?
+18	finance-economics	banking-and-money	MXwwzyIM	T9byZBGtGuw	848	Banking 18: Big Picture Discussion
+19	finance-economics	banking-and-money	yZBGtGuw	FxkTSjctXdk	802	The Discount Rate
+20	finance-economics	banking-and-money	TSjctXdk	QWninXOAMXE	684	Repurchase Agreements (Repo transactions)
+21	finance-economics	banking-and-money	inXOAMXE	MILF-9GeMDQ	597	Federal Reserve Balance Sheet
+22	finance-economics	banking-and-money	F-9GeMDQ	ZyyaE3DIxhc	1153	Fractional Reserve Banking Commentary 1
+23	finance-economics	banking-and-money	aE3DIxhc	otstXFxMkl4	1039	FRB Commentary 2: Deposit Insurance
+24	finance-economics	banking-and-money	tXFxMkl4	8SAMey9Gl5I	1287	FRB Commentary 3: Big Picture
+25	finance-economics	banking-and-money	Mey9Gl5I	wBCowBiXV7A	217	LIBOR
+1	finance-economics	currency	owBiXV7A	itoNb1lb5hY	724	Currency Exchange Introduction
+2	finance-economics	currency	Nb1lb5hY	5HVCFrXQ9pw	860	Currency Effect on Trade
+3	finance-economics	currency	CFrXQ9pw	Ysk1ySejuCQ	606	Currency Effect on Trade Review
+4	finance-economics	currency	1ySejuCQ	S-9iY1OgbDE	412	Pegging the Yuan
+5	finance-economics	currency	iY1OgbDE	MN4SWiEEqKo	730	Chinese Central Bank Buying Treasuries
+6	finance-economics	currency	SWiEEqKo	m5xu4r0szaA	927	American-Chinese Debt Loop
+7	finance-economics	currency	u4r0szaA	XBI7DqttyOQ	744	Debt Loops Rationale and Effects
+8	finance-economics	currency	7DqttyOQ	4aNoZjAhSr8	256	China keeps peg but diversifies holdings
+1	finance-economics	microeconomics	oZjAhSr8	_7VHfuWV-Qg	659	Production Possibilities Frontier
+2	finance-economics	microeconomics	HfuWV-Qg	pkEiHZAtoro	348	Opportunity Cost
+3	finance-economics	microeconomics	iHZAtoro	00fgAG6VrRQ	386	Increasing Opportunity Cost
+4	finance-economics	microeconomics	gAG6VrRQ	MT4akJsAmb0	850	Allocative Efficiency and Marginal Benefit
+5	finance-economics	microeconomics	akJsAmb0	a9aUMpGs6c8	475	Economic Growth through Investment
+6	finance-economics	microeconomics	UMpGs6c8	xx9xNJlPOJo	536	Comparative Advantage Specialization and Gains from Trade
+7	finance-economics	microeconomics	xNJlPOJo	xN3UV5FsBkU	616	Comparative Advantage and Absolute Advantage
+8	finance-economics	microeconomics	UV5FsBkU	ShzPtU7IOXs	496	Law of Demand
+9	finance-economics	microeconomics	PtU7IOXs	-oClpRv7msg	348	Price of Related Products and Demand
+10	finance-economics	microeconomics	lpRv7msg	do1HDIdfQkU	213	Changes in Income, Population, or Preferences
+11	finance-economics	microeconomics	HDIdfQkU	wYuAwm-5-Bk	356	Normal and Inferior Goods
+12	finance-economics	microeconomics	Awm-5-Bk	TAhRoJB34nw	319	Inferior Goods Clarification
+13	finance-economics	microeconomics	RoJB34nw	3xCzhdVtdMI	504	Law of Supply
+14	finance-economics	microeconomics	zhdVtdMI	0isM0GF-rMI	418	Factors Affecting Supply
+15	finance-economics	microeconomics	M0GF-rMI	PEMkfgrifDw	617	Market Equilibrium
+16	finance-economics	microeconomics	kfgrifDw	NgPqyM3I_8o	545	Changes in Market Equilibrium
+17	finance-economics	microeconomics	qyM3I_8o	slP8XZ6Nq40	797	Price Elasticity of Demand
+18	finance-economics	microeconomics	8XZ6Nq40	YOT8ryWzwbY	361	More on Elasticity of Demand
+19	finance-economics	microeconomics	8ryWzwbY	6udRtn5jSWk	581	Perfect Inelasticity and Perfect Elasticity of Demand
+20	finance-economics	microeconomics	Rtn5jSWk	m7qXvQvWlY4	277	Constant Unit Elasticity
+21	finance-economics	microeconomics	XvQvWlY4	Udltkvm9HLc	701	Total Revenue and Elasticity
+22	finance-economics	microeconomics	tkvm9HLc	KgrLUQYgIJE	505	More on Total Revenue and Elasticity
+23	finance-economics	microeconomics	LUQYgIJE	Ngv0Be9NxAw	680	Cross Elasticity of Demand
+24	finance-economics	microeconomics	0Be9NxAw	AAWsuFXojgo	573	Elasticity of Supply
+25	finance-economics	microeconomics	suFXojgo	fUxSB3yYIbs	414	Elasticity and Strange Percent Changes
+26	finance-economics	microeconomics	SB3yYIbs	KrkbbRxdDZ8	353	Demand Curve as Marginal Benefit Curve
+27	finance-economics	microeconomics	bbRxdDZ8	_6kwhF6hoqQ	302	Consumer Surplus Introduction
+28	finance-economics	microeconomics	whF6hoqQ	RBUBIRtn0xQ	346	Total Consumer Surplus as Area
+29	finance-economics	microeconomics	BIRtn0xQ	-V-Y5klejSg	500	Producer Surplus
+30	finance-economics	microeconomics	Y5klejSg	ZrNKHCCVfB8	687	Rent Control and Deadweight Loss
+31	finance-economics	microeconomics	KHCCVfB8	j0c2vmFGbtk	546	Minimum Wage and Price Floors
+32	finance-economics	microeconomics	2vmFGbtk	NuLlNAdrom4	546	Taxation and Dead Weight Loss
+33	finance-economics	microeconomics	lNAdrom4	xwOTlMaerEQ	340	Percentage Tax on Hamburgers
+34	finance-economics	microeconomics	TlMaerEQ	lsn16U5DWD4	471	Taxes and Perfectly Inelastic Demand
+35	finance-economics	microeconomics	16U5DWD4	z1yJPpGC3-o	412	Taxes and Perfectly Elastic Demand
+36	finance-economics	microeconomics	JPpGC3-o	Kf9KhwryQNE	734	Marginal Utility
+37	finance-economics	microeconomics	KhwryQNE	KbW6OiuRa1Y	462	Equalizing Marginal Utility per Dollar Spent
+38	finance-economics	microeconomics	6OiuRa1Y	4-_-wQc3EGE	523	Deriving Demand Curve from Tweaking Marginal Utility per Dollar
+39	finance-economics	microeconomics	-wQc3EGE	Uq5Wzs96tiw	731	Budget Line
+40	finance-economics	microeconomics	Wzs96tiw	nhSSu0Nzs30	564	Optimal Point on Budget Line
+41	finance-economics	microeconomics	Su0Nzs30	kJ43GdU5Uzc	349	Types of Indifference Curves
+42	finance-economics	microeconomics	3GdU5Uzc	06j_zPdPWOY	486	Economic Profit vs Accounting Profit
+43	finance-economics	microeconomics	_zPdPWOY	ckBKDrKVIMU	490	Depreciation and Opportunity Cost of Capital
+44	finance-economics	microeconomics	KDrKVIMU	bBQVaRnHqLs	709	Fixed, Variable, and Marginal Cost.
+45	finance-economics	microeconomics	VaRnHqLs	k1iHDu9GrJE	726	Visualizing Average Costs and Marginal Costs as Slope
+46	finance-economics	microeconomics	HDu9GrJE	7t8gdc3YogM	460	Marginal Cost and Average Total Cost
+47	finance-economics	microeconomics	gdc3YogM	xGkE0oHyNhk	370	Marginal Revenue and Marginal Cost
+48	finance-economics	microeconomics	E0oHyNhk	ni0TL4pXG5w	355	Marginal Revenue Below Average Total Cost
+49	finance-economics	microeconomics	TL4pXG5w	CWiHA5XtqgU	506	Long Term Supply Curve and Economic Profit
+50	finance-economics	microeconomics	HA5XtqgU	_NznT4Cn8As	617	Perfect Competition
+51	finance-economics	microeconomics	nT4Cn8As	77CApfQlTuE	344	Monopoly Basics
+52	finance-economics	microeconomics	ApfQlTuE	jJip-WyQtpk	611	Review of Revenue and Cost Graphs for a Monopoly
+53	finance-economics	microeconomics	p-WyQtpk	cczABrLd_uA	431	Monopolist Optimizing Price (part 1)- Total Revenue.
+54	finance-economics	microeconomics	ABrLd_uA	s1UQQELPyrc	511	Monopolist Optimizing Price (part 2)- Marginal Revenue
+55	finance-economics	microeconomics	QQELPyrc	daxL1ZLrUzg	357	Monopolist Optimizing Price (part 3)- Dead Weight Loss.avi
+56	finance-economics	microeconomics	L1ZLrUzg	atI4QH2acuw	296	Optional Calculus Proof to Show that MR has Twice Slope of Demand
+57	finance-economics	microeconomics	4QH2acuw	PzDthFTzEa0	561	Oligopolies and Monopolisitc Competition
+58	finance-economics	microeconomics	thFTzEa0	RUVsEovktGU	531	Monopolistic Competition and Economic Profit
+59	finance-economics	microeconomics	sEovktGU	N0L00FZnhtg	506	Oligopolies, Duopolies, Collusion, and Cartels
+60	finance-economics	microeconomics	00FZnhtg	00FZnhtg	561	Prisoners' Dilemma and Nash Equilibrium
+61	finance-economics	microeconomics	I-zPcDIM	ewu_7Dmj_18	391	More on Nash Equilibrium
+62	finance-economics	microeconomics	_7Dmj_18	S6TvRDwgQag	679	Why Parties to Cartels Cheat
+63	finance-economics	microeconomics	vRDwgQag	XTMbRDRaviM	560	Game Theory of Cheating Firms
+64	finance-economics	microeconomics	bRDRaviM	nBw6KvU51BE	360	Negative Externalities
+65	finance-economics	microeconomics	6KvU51BE	UYShebe44Xs	345	Taxes for Factoring in Negative Externalities
+66	finance-economics	microeconomics	hebe44Xs	TSTLLFJbaA4	445	Positive Externalities
+67	finance-economics	microeconomics	LLFJbaA4	0b2Tl0x-niw	398	Tragedy of the Commons
+68	finance-economics	microeconomics	Tl0x-niw	z0wg9ZPyL38	361	First Degree Price Discrimination
+69	finance-economics	microeconomics	g9ZPyL38	g9ZPyL38	783	A Firm's Marginal Product Revenue Curve
+70	finance-economics	microeconomics	lnv9Y1Y0	p8PSIpMkEvA	542	How Many People to Hire Given the MPR curve
+71	finance-economics	microeconomics	SIpMkEvA	gHs3zuRek7o	378	Adding Demand Curves
+1	finance-economics	macroeconomics	3zuRek7o	Hfz1bwK5C4o	538	Circular Flow of Income and Expenditures
+2	finance-economics	macroeconomics	1bwK5C4o	zh8XASZxo1Q	719	Parsing Gross Domestic Product
+3	finance-economics	macroeconomics	XASZxo1Q	C1pHvEAKmLA	170	More on Final and Intermediate GDP Contributions
+4	finance-economics	macroeconomics	HvEAKmLA	N9VIsauE0RA	452	Investment and Consumption
+5	finance-economics	macroeconomics	IsauE0RA	Z9b8nnvpim0	289	Income and Expenditure Views of GDP
+6	finance-economics	macroeconomics	8nnvpim0	Rgr1vRjxzFg	298	Components of GDP
+7	finance-economics	macroeconomics	1vRjxzFg	BMNj7-Okclk	357	Examples of Accounting for GDP
+8	finance-economics	macroeconomics	j7-Okclk	lBDT2w5Wl84	484	Real GDP and Nominal GDP
+9	finance-economics	macroeconomics	T2w5Wl84	L-0LuSw2bTM	388	GDP Deflator
+10	finance-economics	macroeconomics	LuSw2bTM	v5YT8GlSxoU	339	Example Calculating Real GDP with a Deflator
+11	finance-economics	macroeconomics	T8GlSxoU	AaR1mPrdbTc	452	Introduction to Inflation
+12	finance-economics	macroeconomics	1mPrdbTc	-JTw7gNwT6Y	448	Actual CPI-U Basket of Goods
+13	finance-economics	macroeconomics	w7gNwT6Y	DK1lCc9b7bg	210	Inflation Data
+14	finance-economics	macroeconomics	lCc9b7bg	Z_DcXewHHA8	175	Moderate Inflation in a Good Economy
+15	finance-economics	macroeconomics	cXewHHA8	bTz_tx460EY	176	Stagflation
+16	finance-economics	macroeconomics	_tx460EY	cNm196bVE5A	190	Real and Nominal Return
+17	finance-economics	macroeconomics	196bVE5A	GiB9Mkgkrek	170	Calculating Real Return in Last Year Dollars
+18	finance-economics	macroeconomics	9Mkgkrek	6ycEasF48zI	225	Relation Between Nominal and Real Returns and Inflation
+19	finance-economics	macroeconomics	EasF48zI	FPh6EDv0Eew	190	Deflation
+20	finance-economics	macroeconomics	6EDv0Eew	stfSnPaaK04	211	Velocity of Money Rather than Quantity Driving Prices
+21	finance-economics	macroeconomics	SnPaaK04	t2AeULH_Ijw	244	Deflation Despite Increases in Money Supply
+22	finance-economics	macroeconomics	eULH_Ijw	snX4Wf7PGts	231	Deflationary Spiral
+23	finance-economics	macroeconomics	4Wf7PGts	AC_kjcuHpZw	242	Hyperinflation
+24	finance-economics	macroeconomics	kjcuHpZw	9DGbDx5xQNo	578	Unemployment Rate Primer
+25	finance-economics	macroeconomics	bDx5xQNo	v7ZWTZ9NgU4	527	Phillips Curve
+26	finance-economics	macroeconomics	WTZ9NgU4	Lru0vKmkzR8	594	Interest as Rent for Money
+27	finance-economics	macroeconomics	0vKmkzR8	vItRHYu-A88	454	Money Supply and Demand Impacting Interest Rates
+28	finance-economics	macroeconomics	RHYu-A88	TXrOpjG4dUs	676	The Business Cycle
+29	finance-economics	macroeconomics	OpjG4dUs	oLhohwfwf_U	833	Aggregate Demand
+30	finance-economics	macroeconomics	ohwfwf_U	scN-1B6plos	318	Shifts in Aggregate Demand
+31	finance-economics	macroeconomics	-1B6plos	8W0iZk8Yxhs	275	Long-Run Aggregate Supply
+32	finance-economics	macroeconomics	iZk8Yxhs	3nbalsyibKU	735	Short Run Aggregate Supply
+33	finance-economics	macroeconomics	alsyibKU	HdqbCvqTb20	558	Demand-Pull Inflation under Johnson
+34	finance-economics	macroeconomics	bCvqTb20	XsD7mqFDJs0	375	Real GDP driving Price
+35	finance-economics	macroeconomics	7mqFDJs0	3A-nAw2tY_4	345	Cost Push Inflation
+36	finance-economics	macroeconomics	nAw2tY_4	ntxMOKXHlfo	534	Monetary and Fiscal Policy
+37	finance-economics	macroeconomics	MOKXHlfo	BRXBCxKjiK8	160	Tax Lever of Fiscal Policy
+38	finance-economics	macroeconomics	BCxKjiK8	1YYy0DEOpoU	744	Breakdown of Gas Prices
+39	finance-economics	macroeconomics	y0DEOpoU	ZxtlcZ-d90o	670	Short-Run Oil Prices
+40	finance-economics	macroeconomics	lcZ-d90o	hPkh8kOldU4	725	Keynesian Economics
+41	finance-economics	macroeconomics	h8kOldU4	EVSkf7l7EuI	494	Risks of Keynesian Thinking
+42	finance-economics	macroeconomics	kf7l7EuI	3mUi9IZb4T4	508	Overview of Fractional Reserve Banking
+43	finance-economics	macroeconomics	i9IZb4T4	1HYSMxu-Dns	454	Weaknesses of Fractional Reserve Lending
+44	finance-economics	macroeconomics	SMxu-Dns	RGMcswR8DnY	452	Full Reserve Banking
+45	finance-economics	macroeconomics	cswR8DnY	_LPh72gx6GE	604	Money Supply- M0 M1 and M2
+46	finance-economics	macroeconomics	h72gx6GE	h72gx6GE	541	Simple Fractional Reserve Accounting part 1
+47	finance-economics	macroeconomics	Vdzicv_I	PASajlCGBTw	425	Simple Fractional Reserve Accounting (part 2)
+48	finance-economics	macroeconomics	ajlCGBTw	O_Oozju3RRI	593	MPC and Multiplier
+49	finance-economics	macroeconomics	ozju3RRI	czfJKPN-HEo	542	Mathy Version of MPC and Multiplier (optional)
+50	finance-economics	macroeconomics	JKPN-HEo	o5iot_ZsoV0	399	Consumption Function Basics
+51	finance-economics	macroeconomics	ot_ZsoV0	N44RZtJ4jj4	719	Generalized Linear Consumption Function
+52	finance-economics	macroeconomics	RZtJ4jj4	wHPGFPIcILM	445	Consumption Function with Income Dependent Taxes
+53	finance-economics	macroeconomics	GFPIcILM	sTw0e-hwYAQ	560	Keynesian Cross
+54	finance-economics	macroeconomics	0e-hwYAQ	xF_Z4QK0tsA	705	Details on Shifting Aggregate Planned Expenditures
+55	finance-economics	macroeconomics	Z4QK0tsA	aSY8XPGChAU	627	Keynesian Cross and the Multiplier
+56	finance-economics	macroeconomics	8XPGChAU	72p6uw5y-Rw	359	Investment and Real Interest Rates
+57	finance-economics	macroeconomics	6uw5y-Rw	AW3bPaErUWU	597	Connecting the Keynesian Cross to the IS-Curve
+58	finance-economics	macroeconomics	bPaErUWU	blbR5f2dq_g	367	Loanable Funds Interpretation of IS Curve
+59	finance-economics	macroeconomics	R5f2dq_g	yro2jLBfyDQ	469	LM part of the IS-LM model
+60	finance-economics	macroeconomics	2jLBfyDQ	pzQnc_0eZA8	429	Government Spending and the IS-LM model
+61	finance-economics	macroeconomics	nc_0eZA8	dirBYVjDk7A	389	Balance of Payments- Current Account
+62	finance-economics	macroeconomics	BYVjDk7A	AimYG1jYD0A	447	Balance of Payments- Capital Account
+63	finance-economics	macroeconomics	YG1jYD0A	tYmMEqro8D4	434	Why Current and Capital Accounts Net Out
+1	humanities	history	MEqro8D4	ghgPq2wjQUQ	1108	US History Overview 1: Jamestown to the Civil War
+2	humanities	history	Pq2wjQUQ	Pq2wjQUQ	361	Appomattox Court House and Lincoln's Assassination
+3	humanities	history	q_A7Ky_Q	zmBV87XA52Q	863	US History Overview 2 - Reconstruction to the Great Depression
+4	humanities	history	V87XA52Q	j2eKaxU-8kA	886	US History Overview 3 - WWII to Vietnam
+5	humanities	history	KaxU-8kA	MmRgMAZyYN0	903	Communism
+6	humanities	history	gMAZyYN0	MEGyRgYJKEY	970	Korean War Overview
+7	humanities	history	yRgYJKEY	XmkbAduMD_E	822	Bay of Pigs Invasion
+8	humanities	history	bAduMD_E	VO40SpSBjbc	1140	Cuban Missile Crisis
+9	humanities	history	0SpSBjbc	9e9GWdT2pEQ	1061	Vietnam War
+10	humanities	history	GWdT2pEQ	aNkrawaaiZQ	559	Pattern of US Cold War Interventions
+11	humanities	history	rawaaiZQ	Um92GZLCQ_Q	901	Allende and Pinochet in Chile
+12	humanities	history	2GZLCQ_Q	8NJEeEUUhaI	828	When Capitalism is Great and Not-so-great
+13	humanities	history	EeEUUhaI	J33nVRyTeyU	861	20th Century Capitalism and Regulation in the United States
+14	humanities	history	nVRyTeyU	BDWqwcTtZa0	1025	French Revolution (Part 1)
+15	humanities	history	qwcTtZa0	0t4MF9ZoppM	891	French Revolution (Part 2)
+16	humanities	history	MF9ZoppM	BZmtnCqTWik	1409	French Revolution (Part 3) - Reign of Terror
+17	humanities	history	tnCqTWik	KYoB2mjNdr0	1008	French Revolution (Part 4) - The Rise of Napoleon Bonaparte
+18	humanities	history	B2mjNdr0	Qz5zFzvbib4	1635	Haitian Revolution (Part 1)
+19	humanities	history	zFzvbib4	gU-5bjpAPmA	1014	Haitian Revolution (Part 2)
+20	humanities	history	5bjpAPmA	OzyH-1p9nAg	798	Napoleon and the Wars of the First and Second Coalitions
+21	humanities	history	H-1p9nAg	yogD_-Op4Wc	1312	Napoleon and the War of the Third Coalition
+22	humanities	history	D_-Op4Wc	O3HxPDH-s7w	978	Napoleon and the War of the Fourth Coalition
+23	humanities	history	xPDH-s7w	xPDH-s7w	1222	Napoleon's Peninsular Campaigns
+24	humanities	history	Gz4r_VF0	F_ySQvjtAxQ	999	French Invasion of Russia
+25	humanities	history	SQvjtAxQ	CH6FQhlZn6k	982	Napoleon Forced to Abdicate
+26	humanities	history	FQhlZn6k	r1ywppAJ1xs	493	Thomas Malthus and Population Growth
+1	humanities	american-civics	wppAJ1xs	oTbvYGH_Hiw	670	Electoral College
+2	humanities	american-civics	vYGH_Hiw	z_QeYCg4yJ8	493	Primaries and Caucuses
+3	humanities	american-civics	eYCg4yJ8	-05OfTp6ZEE	597	Deficit and Debt Ceiling
+4	humanities	american-civics	OfTp6ZEE	OfTp6ZEE	632	Government's Financial Condition
+5	humanities	american-civics	w5aBrm4Y	gLHUCUv1e5Y	389	Social Security Intro
+6	humanities	american-civics	UCUv1e5Y	UP9xy2eVj7s	450	FICA Tax
+7	humanities	american-civics	xy2eVj7s	o1Y0G8Z67iU	472	Medicare Sustainability
+8	humanities	american-civics	0G8Z67iU	tzqMoOk9NWc	675	SOPA and PIPA

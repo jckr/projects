@@ -1,0 +1,22 @@
+#chart {
+  margin-left: -220px;
+  text-align: center;
+}
+
+svg {
+  margin-top: 0px;
+  background: #fff;
+  width: 960px;
+  height: 700px;
+}
+
+#counties path {
+  stroke: #fff;
+  stroke-width: .25px;
+}
+
+#states path {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}

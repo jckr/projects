@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title>Streets of San Francisco by slope</title>
+	
+<link href="//fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css">
+
+	<style>
+	body {
+		font-family: Raleway;
+		font-size: 14px;
+		color: #4A4A4A;
+		line-height: 19px;
+	}
+	h1 {
+		font-family: Raleway;
+		font-weight: 800;
+		font-size: 36px;
+		color: #4A4A4A;
+		line-height: 49px;
+	}
+	h2 {
+		font-family: "Palatino"; 
+		font-style: italic;
+		font-size: 22px;
+		color: #4A4A4A;
+		line-height: 34px;
+	}
+	.bold {
+		font-family: Raleway;
+		font-weight: bold;
+		font-size: 14px;
+		color: #4A4A4A;
+		line-height: 19px;
+	}
+
+	#title {margin-left: 70px;}
+	
+
+
+	
+	#chart {margin: 0 70px 70px 70px; width: 1880px; height: 1440px; overflow: scroll;};
+	</style>
+</head>
+<body>
+<script src="../d3.min.js">
+</script>
+<script src="../queue.min.js"></script>
+<script src="../binaryHeap.js"></script>
+
+
+<h1 id="title">
+	San Francisco streets by slope
+</h1>
+
+
+<div id="chart"></div>
+<script src="elevation.v4.js"></script>
+<script>
+var params = {nodes: "nodes.csv", coastPath: "coastline.csv", coastNodes: "coastNodes.csv", paths: "path.csv", streets: "streets.csv",  width:1880,height:1440};
+var query = window.location.search.substring(1);
+
+var vars = query.split("&");
+vars.forEach(function(v) {
+	p=v.split("=");
+	params[p[0]]=p[1]
+})
+vis.init(params);
+</script>
+</body>
+</html>

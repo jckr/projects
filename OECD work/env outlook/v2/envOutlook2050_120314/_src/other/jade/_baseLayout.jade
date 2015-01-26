@@ -1,0 +1,30 @@
+//- titre de la page
+- var title = 'env Outlook 2050'
+- var d3Path = '_src/d3js/datas/'
+- var ieFallPath = '_src/OECD/bitmaps/fallback/' 
+
+!!! 5
+html(lang="en")
+	include includes/head
+	body
+		.container
+			//if lt IE 9
+				block ieStuff
+					p put static content
+					
+			//if (gt IE 8)|!(IE)
+				// include includes/header
+				// Start of graph navigation
+				
+				//- include includes/nav
+				nav#mainNav
+					.subnav
+				// end of graph navigation
+				// real stuff start here
+				
+				content
+					block realStuff
+						
+				block d3Scripts
+				script(type="text/javascript", src= d3Path+"subnav.js")
+

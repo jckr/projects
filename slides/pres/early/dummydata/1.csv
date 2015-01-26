@@ -1,0 +1,38 @@
+id	label	treeNum
+MC	Material conditions	1
+QL	Quality of life	2
+IW	Income and wealth	1.1
+IW_HADI	Household Net Adjusted Disposable Income	1.1.1
+IW_HNFW	Household Financial Wealth	1.1.2
+JE	Jobs and earnings	1.2
+JE_EMPL	Employment rate	1.2.1
+JE_LTUR	Long-term unemplyoment rate	1.2.2
+JE_AWHW	Average wage per hour worked	1.2.3
+HO	Housing	1.3
+HO_BASE	Dwelling with basic facilities	1.3.1
+HO_SATH	Satisfaction with housing	1.3.2
+WL	Work and life	2.1
+WL_EWLH	Employees working very long hours	2.1.1
+WL_EWCS	Employment rate of women with children of compulsory school age	2.1.2
+WL_TNOW	Time devoted to leisure and personal care	2.1.3
+HS	Health status	2.2
+HS_LEB	Life expectancy at birth	2.2.1
+HS_SFRH	Self-reported health	2.2.2
+ES	Education and skills	2.3
+ES_EDUA	Educational attainment	2.3.1
+ES_STCS	Students' cognitive skills	2.3.2
+SC	Social connections	2.4
+SC_CONTA	Contact with others	2.4.1
+SC_SNTWS	Social network support	2.4.2
+CG	Civic engagement and governance	2.5
+CG_TRASG	Transparency of governance	2.5.1
+CG_VOTO	Voter turn-out	2.5.2
+EQ	Environmental quality	2.6
+EQ_AIRP	Air pollution	2.6.1
+EQ_SATE	Satisfaction with quality of local environment	2.6.2
+PS	Personal security	2.7
+PS_REPH	Reported homicides	2.7.1
+PS_FEIN	Feelings of insecurity	2.7.2
+SW	Subjective well-being	2.8
+SW_LIFS	Life satisfaction	2.8.1
+SW_PNEB	Balance of positive and negative experiences	2.8.2

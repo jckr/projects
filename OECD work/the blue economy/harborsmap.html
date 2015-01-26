@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Harbors map</title>
+
+<link type="text/css" rel="stylesheet" href="tipsy.css"/>
+<link type="text/css" rel="stylesheet" href="fishingmap.css"/>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+.frame {
+ // stroke: #000;
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  fill: #eee;
+  stroke: #eee;
+
+}
+.selected{fill:darkorange;}
+</style>
+<body>
+<div id="navbar"></div>
+<script src="../d3.v2.js"></script>
+<script src="navbardd.js"></script>
+
+
+<div class="container">
+
+<h1 class="title12">Major harbours</h1>
+<p class="interface12-0">Show harbours by:</p>
+<div class="btn-group" data-toggle="buttons-radio">
+  <!--<button id="area" class="btn active">Area</button>-->
+  <button id="tons" class="btn active interface12-1">Cargo volume</button>
+  <button id="container" class="btn interface12-2">Container traffic</button>
+</div>
+<span id="legend" class="interface12-3">Thousands of tons</span>
+
+
+<div class="row"><div id="chart" class="span8"></div><div id="panel" class="span4"></div></div>
+<footer class="span12">
+<p class="interface12-5">Data source: <a href="http://aapa.files.cms-plus.com/PDFs/WORLD%20PORT%20RANKINGS%202009.pdf">AAPA - American Association of Port Authorities</a></p>
+</footer>
+</div>
+<script src="../d3.v2.js">
+</script>
+<script src="jquery-1.7.1.min.js">
+</script>
+<script src="jquery.tipsy.js">
+</script>
+<script type="text/javascript" src="geography.js"></script>
+<script src="data-fishing.js">
+</script>
+<script src="routine-zoom-clic.js">
+</script>
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>

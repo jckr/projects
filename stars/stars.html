@@ -1,0 +1,120 @@
+
+<!-- saved from url=(0031)file:///J:/epu/d3/d3-proto.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Challenge of the Stars</title>
+		<script type="text/javascript" src="d3.js"></script>
+		<!--<script src="http://mbostock.github.com/d3/d3.layout.js?2.7.1" type='text/javascript'></script>-->
+		<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="jquery.tipsy.js"></script>
+
+		<script type="text/javascript" src="bootstrap.min.js"></script>
+		<script type="text/javascript" src="bootstrap-tab.js"></script>
+		<style>
+			@import url("bootstrap.min.css");
+			@import url("tipsy.css");
+			@import url("stars.css");
+		</style>
+		<link href='http://fonts.googleapis.com/css?family=Yellowtail|Coustard|Lobster|Signika|Pacifico' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:400,500,400italic,500italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,700italic' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+
+
+		<div class="container-fluid"><!--style="background-color:#021523;"border-style:solid; border-color:green; border-width=1px;-->
+			<div class="row"><div class="span2">&nbsp;</div><h1 class="span5" style="color:mediumvioletred;line-height:70px;margin-left:40px;">Shooting Stars!</h1>
+			<div class="span7 well" style="padding:9px; margin:5px 0 0 0">Turns out that the most frequently used story types are far from being the most profitable! Don't believe us? Click on the stars to find out!</div>
+			</div>
+			<div class="span2">
+				<div class="well sidebar-nav buttons">
+					<ul class="nav nav-list">
+					<li class="nav-header">Click to close categories</li>
+					</ul>
+					<ul class="nav nav-list">
+					<li class="nav-header"><a href="#nogo" onclick="collapseAll()">Close all</a></li>
+					</ul>
+				</div>
+			</div><!--end span2-->
+			<div class="span13">
+				<div class="row">
+
+						<div id="chart" class="span8"><!--style="border-style:solid; border-color:red; border-width=1px"-->
+						</div>
+						<div class="span4 well sidebar-nav p1">
+							<div id="panel"></div>
+						</div>
+				</div>
+				<div class="row"  style="margin-left:20px;">
+					<div class="span8">
+						<ul class="nav nav-tabs" id="#mytabs">
+						  <li class="active"><a href="#normal" data-toggle="tab">Explore</a></li>
+						  <li><a href="#special" data-toggle="tab">See all movies</a></li>
+						</ul>
+						<div class="tab-content">
+							<div id="normal" class="row tab-pane active" style="height:120px">
+								<div class="row"><div class="span9" style="text-align:center;">See characteristics of <strong>groups of movies</strong>, and click on them to explore at a finer level.</div></div>
+								<div class="span3">
+									<h3>X-Axis</h3>
+									<ul class="nav nav-pills nav-stacked">
+										<li id="rotten" class="active"><a href="#nogo" >RottenTomatoes score</a></li>
+										<li id="audience"><a href="#nogo" >Audience score</a></li>
+										<li id="story1"><a href="#nogo" >Popularity of story genre</a></li>
+									</ul>
+								</div>
+								<div class="span2">
+									<h3>Y-Axis</h3>
+									<ul class="nav nav-pills nav-stacked">
+										<li id="profit" class="active"><a href="#nogo" >Profitability, %</a></li>
+										<li id="avgEarnings1"><a href="#nogo" >Gross earnings</a></li>
+									</ul>
+								</div>
+								<div class="span3">
+									<h3>Size</h3>
+									<ul class="nav nav-pills nav-stacked">
+										<li id="nbItems" class="active"><a href="#nogo" >Number of items in group</a></li>
+										<li id="budget"><a href="#nogo" >Average budget</a></li>
+										<li id="avgEarnings2"><a href="#nogo" >Average earnings</a></li>
+									</ul>
+								</div>
+							</div>
+							<div id="special" class="row tab-pane" style="height:120px">
+								<div class="row"><div class="span9" style="text-align:center;margin-bottom:10px;">See <strong>all the movies</strong> arranged by story type.</div></div>
+								<div class="span4 offset3">
+								<a href="#nogo" id="specialmode1">See all movies by profitability (%)</a>
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+		</div>
+		</div> <!--end container-->
+
+			<div class="row" style="background:#010C14;margin-top:100px;padding-top:30px;margin-left:0px">
+					<div class="span4">
+						<h4 style="color:gold;">About</h4><hr class="myhr">
+						<p style="text-align:justify">This challenge is awesome because movies are awesome. We all love them and can't stop paying for them. We go to movies way more when they have large budgets. This is because Hollywood spends much more to market big budget movies, and we LOVE marketing. We love marketing even more than we love movies, which hardly seems possible.</p>
+					</div>
+					<div class="span4 offset1">
+						<h4 style="color:gold;">Data</h4><hr class="myhr">
+						This viz is an entry for the <a href="http://www.informationisbeautifulawards.com/2012/01/challenge-of-the-stars/"><i>Information is Beautiful </i>awards: Challenge of the Stars</a> and is mostly built on the <a href="http://bit.ly/hollywoodbudgets">supplied datasets</a>, plus bits and pieces we got from <a href="http://www.imdb.com">imdb</a>. This entry is made possible by the awesome <a href="http://d3-js.org">d3</a> and twitter's <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>; kudos to <a href="http://www.imdbapi.com/">imdbapi</a>.
+
+					</div>
+					<div class="span4 offset1">
+						<div class="row"><h4 style="color:gold;">Who We Are</h4><hr class="myhr">
+						<p style="text-align:justify">We are Jen Lowe and Jerome Cukier, a powerfully unstoppable team of data visualizers. Jerome's favorite movies from the set are <a href="#nogo" onclick="updatePanel(movies[612])">Another Earth</a>, <a href="#nogo" onclick="updatePanel(movies[409])">Kick Ass</a> and <a href="#nogo" onclick="updatePanel(movies[564])">Super 8</a>. Jen's picks are <a href="#nogo" onclick="updatePanel(movies[556])">Tree of Life</a>
+, <a href="#nogo" onclick="updatePanel(movies[52])">3:10 to Yuma</a>, <a href="#nogo" onclick="updatePanel(movies[289])">the Hangover </a> and <a href="#nogo" onclick="updatePanel(movies[468])">Winter's Bones</a>.
+Jen is a freelance visualizer and founder of Datatelling while Jerome actually lost count of all the stuff he's doing.</p></div>
+						<div class="row">
+						<div class="span2"><strong>Jen</strong> <br> <a href="http://www.datatelling.com/">www.datatelling.com</a> <br> <a href="https://twitter.com/#!/datatelling"> @datatelling </a> </div>
+						<div class="span2"><strong>Jerome</strong> <br> <a href="http://www.jeromecukier.net/">www.jeromecukier.net</a> <br> <a href="https://twitter.com/#!/jcukier"> @jcukier </a> </div>
+						</div>
+					</div>
+			</div>
+
+		<!--<script type="text/javascript" src="C:\Users\Jen\Documents\datatelling\hollywood\starsv9\data.js"></script>-->
+		<script type="text/javascript" src="data.js"></script>
+		<script type="text/javascript" src="stars.js"></script>	<script type="text/javascript">$('.nav-tabs #normal').tab('show')</script>
+
+
+</body></html>

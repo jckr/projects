@@ -1,0 +1,21 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		h2.span10
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span10
+						.span2
+							button.btn.btn-large.btn-primary
+								| See evolution
+						#text.span7
+				#chart
+		
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"model/supply.js")
+	script(type="text/javascript", src=d3Path+"view/evolution.js")
+		

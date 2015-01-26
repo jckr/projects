@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+	<title>Le découpage des circonscriptions législatives de Paris</title>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="../lib/jquery-ui/tipsy.css"/>
+
+<style>
+
+rect.extent {
+  fill: #000;
+  fill-opacity: .125;
+  stroke: #fff;
+}
+.highlighted{stroke:black;}
+circle{fill:steelblue;}
+.orange{fill:darkorange;}
+#col1{width:490px;}
+#col2{width:450px;}
+#main{width:960px;}
+.axis path{fill:none;stroke:none;}
+.axis line{stroke:#222;}
+.axis text{font-size:10px;fill:#222;}
+</style>
+<!--[if lt IE 9]>
+	<script src="http:/html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<script src="../../d3.v2.min.js?2.8.1">
+</script>
+
+
+<div class="container" id="main">
+	<h1>Le découpage des circonscriptions législatives de Paris</h1>
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<!--<h1>Bootstrap starter template</h1>
+<p>Use this document as a way to quick start any new project.<br> All you get is this message and a barebones HTML document.</p>-->
+<hr>
+<div class="row">
+	<div class="span6" id="col1">
+		<div class="row">
+			<h2>Carte des bureaux de vote</h2>
+			<div id="chart"></div>
+		</div>
+		<div class="row">
+			Critère pour colorier la carte :
+			<div id="chooseColor">
+				<ul class="nav nav-pills">
+				  <li id="color0" value="0" class="active">
+				    <a href="#" >2ème tour</a>
+				  </li>
+				  <li id="color1" value="1"><a href="#">Nombre d'électeurs</a></li>
+				  <li id="color2" value="2"><a href="#">Circonscription</a></li>
+				  <li id="color3" value="3"><a href="#">Arrondissement</a></li>
+				</ul>
+
+			</div>
+		</div>
+	</div>
+	<div class="span6" id="col2">
+		<div class="row">
+			<div>
+				<h2>Nombre d'électeurs par circonscription</h2>
+				<em>Milliers</em><button class="btn btn-mini btn-primary" id="reset" style="opacity:0;float:right;margin-right:25px">Réinitialiser</button>
+				<div id="divBarChart"></div>
+				Cliquez sur une barre pour ajouter des bureaux de vote à la circonscription correspondante</p>
+			</div>
+		</div>
+		<div class="row">
+			<div id="divInfoPanel"></div>
+		</div>
+	</div>	
+</div>
+<hr>
+<footer>
+<div class="span4" id="#about"> Un projet de <a href="http://jeromecukier.net">Jérôme Cukier</a></br>
+<a href="parisBV.csv">données (csv)</a>&nbsp;</div>
+<div class="span2 offset6"><a href="https://twitter.com/jcukier" class="twitter-follow-button" data-show-count="false">Follow @jcukier</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+</div> <!-- /container -->
+
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../lib/jquery/jquery.min.js"></script>
+<script src="../lib/jquery-ui/jquery-1.7.2.min.js"></script>
+<script src="../lib/jquery-ui/jquery.tipsy.js"></script>
+<script src="routine-circonscriptions.js"></script>
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

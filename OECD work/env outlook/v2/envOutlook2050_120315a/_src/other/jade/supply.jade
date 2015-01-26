@@ -1,0 +1,24 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		.span10			h2 Lack of access to water
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span9
+						//- #pages.pagination
+						#text
+				#chart
+				.row
+					.span9
+						#pages.pagination
+		
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"model/supply.js")
+	script(type="text/javascript", src=d3Path+"view/evolution_div.js")
+	
+	
+		

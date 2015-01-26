@@ -1,0 +1,21 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		h2.span10 Emissions, concentration, temperature
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span3
+						button#changeScenario.btn.primary.pagination
+				.row
+					.span9
+						#chart
+						#pages.pagination
+		
+block d3Scripts
+	script(type = "text/javascript", src = d3Path+"model/ect.js")
+	script(type = "text/javascript", src = d3Path+"view/lonelyLine.js")
+		

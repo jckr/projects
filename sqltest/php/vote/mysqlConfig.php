@@ -1,0 +1,10 @@
+<?php
+//$username="jeromecukier01";
+//$password="m1ndkllr";
+//$dsn="jeromecukier01";
+//$link=mysql_connect("mysql5-8",$username,$password);
+$username="root";
+$password="";
+$dsn="vis";
+$link=mysql_connect("127.0.0.1",$username,$password);
+?>

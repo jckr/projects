@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="jquery-ui.css" rel="stylesheet">
+
+<style>
+body {padding-top: 60px;}
+#slider {width:940px;}
+#settings {display:none;}
+#chart {height:520px;}
+.water {stroke: cyan; stroke-linecap:round;fill:none;}
+#success {}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>Colonel Blotto</title>
+</head>
+<body>
+<script src="../../d3.v2.min.js"></script>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+
+
+<div class="navbar navbar-fixed-top">
+<a href="https://twitter.com/share" class="twitter-share-button" 
+
+	data-url="http://jeromecukier.net/projects/models/percolate.html" 
+
+	data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+<div class="container">
+
+<h1><a href="models.html">Interactive models</a> &gt; Colonel Blotto's model</h1>
+<p>Colonel Blotto's model pits two forces in a battlefield. The field is divided in a number of fronts. To ensure victory, one side must overcome the other on a majority of fronts.<br>
+So, a weaker force may triumph over a stronger one by allocating its ressources strategically, and by creating new fronts. <br>
+Here blue is stronger, but spreads its forces evenly across fronts. Can red triumph, or at least win a number of fronts?
+</p>
+<hr>
+<span id="success">&nbsp;</span>
+<input type="range" value="75" min="2" max="100" step="1" id="slider">
+<input type="button" id="launch" value="Fight!">
+
+<hr>
+
+<div class="row">
+	<div id="chart"></div>
+</div>		
+
+<footer class="span12">
+<div class="row">
+	<div class="span4 pull-right">
+	A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+	</div>
+</footer>
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="../bootstrap/js/jquery.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+<script src="routine-blotto.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,30 @@
+extends _baseLayout
+
+block realStuff
+	.row
+		.span10			h2 Biodiversity
+	.row
+		.span10
+			.well
+				.row
+					h3.span9
+						| Evolution of terrestrial mean species abundance in %
+					#chartControl.span2
+						#linesBtn
+							p show / hide
+					.span7
+						#chart
+						#footnotes
+				
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"model/pm10.js")
+	script(type="text/javascript", src=d3Path+"view/lines.js")
+	script
+		| svg.append("svg:line").style("stroke","red").style("stroke-dasharray","4 4")
+		| 	.attr("x1",x(2010))
+		| 	.attr("x2",x(2050))
+		| 	.attr("y1",y(20))
+		| 	.attr("y2",y(20));
+		| svg.append("svg:text").attr("x",x(2050)+10).attr("y",y(20)).text("WHO air quality");
+		| svg.append("svg:text").attr("x",x(2050)+10).attr("y",y(20)).attr("dy","1em").text("guideline (20µg/m³)");
+		

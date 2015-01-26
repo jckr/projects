@@ -1,0 +1,43 @@
+
+extends _baseLayout
+
+block ieStuff
+	.row
+		.span10			h2 Irrigation will face competition from other water users
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span10
+						#text In 2000, irrigation was by far the largest use of water, representing over 2 thirds of the water demand. But by 2050, the amount of water used for irrigation will decrease slightly. Irrigation will only account for less than 40% of demand, while manufacturing water demand will be multiplied by 5.
+				#chart
+				.row
+					.span10
+						img(
+							src=ieFallPath+"water_irrigation.png"
+							alt="chart"
+							title="use Chrome or Firefox for an interactive version"
+							width="636px"
+							height="422px")
+
+
+block realStuff
+	.row
+		.span10			h2 Irrigation will no longer drive water demand
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span10
+						.span2
+							button.btn.btn-large.btn-primary
+								| See evolution
+						#text.span7
+				#chart
+				.row
+					.span10
+						em Place curser on blue boxes to see other water users.
+				
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"irrigation.js")
+		

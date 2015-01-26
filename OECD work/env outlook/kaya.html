@@ -1,0 +1,47 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+		<script type="text/javascript" src="d3.js"></script>
+		<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="jquery.tipsy.js"></script>
+		<link rel="stylesheet" type="text/css" href="tipsy.css">
+
+		<link type="text/css" rel="stylesheet" href="bootstrap.min.css" />
+	</head>
+	<body>
+	<div class="container"><div class="content">
+	<div class="topbar"></div>
+	<div class="row"><div class="span12"><h1>The Kaya identity</h1>
+	Greenhouse gas emissions can be expressed as: emissions= population * (GDP/capita) * (energy use/GDP) * (emissions/energy use).</br>
+	A change in <strong>any of these components</strong> will affect the emissions total. Explore the various components of this equation to understand what drives emissions.
+	</div></div>
+	<div class="row"><div class="span12">
+	<div id="chart"><span id="text"></span></div>
+	</div></div>
+	<div class="row"><hr>
+		<div class="span10">
+		<div class="pagination" id="pages">
+	    </div>
+	    </div>
+	    <div class="span2">
+	    <form>
+	    <div class="control-group">
+		            <label class="control-label" for="select01">Select region</label>
+		            <div class="controls">
+		              <select id="button">
+		                <option value=0 selected>World</option>
+		                <option value=1>OECD</option>
+		                <option value=2>BRIICS countries</option>
+		                <option value=3>Rest of the world</option>
+		              </select>
+		            </div>
+          </div>
+	    </form>
+
+	    </div>
+	</div>
+
+	</div></div>
+	<script type="text/javascript" src="kaya.js"></script>
+	</body>
+</html>

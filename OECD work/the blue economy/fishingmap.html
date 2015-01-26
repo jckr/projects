@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Fishing map</title>
+
+<link type="text/css" rel="stylesheet" href="tipsy.css"/>
+<link type="text/css" rel="stylesheet" href="fishingmap.css"/>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<body>
+<div id="navbar"></div>
+<script src="../d3.v2.js"></script>
+<script src="navbardd.js"></script>
+
+
+<div class="container">
+
+<h1 class="title5">How important is fishing in the worlds economy?</h1>
+
+<div class="row">
+<div style="float:left;margin-left:20px;">
+  <p class="interface0-0">Resize the countries by:</p>
+  <!--<button id="area" class="btn active">Area</button>-->
+  <div class="btn-group" data-toggle="buttons-radio">
+    <button id="population" class="btn active interface0-1">Population</button>
+    <button id="production" class="btn interface0-2">Fish production</button>
+    <button id="consumption" class="btn interface0-3">Fish consumption</button>
+  </div>
+  <span id="legend" class="interface0-4">Population in thousands</span>
+</div>
+
+
+<div class="row">
+	<div class="row"><div id="chart" class="span12"></div></div>
+	<div class="row"><div id="cPanel" class="span12">
+	<p class="span12"></p>
+  </div></div>
+	<div id="pages" class="pagination pagination-centered"></div>
+</div>
+<hr>
+<footer>
+<p class="interface0-5">Countries are coloured according to their fish consumption per capita. Data source: <a href="http://faostat.fao.org/site/617/default.aspx#ancor">FAOSTAT - commodity balances</a></p>
+</footer>
+
+</div>
+</div>
+
+<script src="jquery-1.7.1.min.js">
+</script>
+<script src="jquery.tipsy.js">
+</script>
+<script type="text/javascript" src="geography.js"></script>
+<script src="data-fishing.js">
+</script>
+<script src="routine-fishing.js">
+</script>
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+
+
+

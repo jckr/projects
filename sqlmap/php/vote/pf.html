@@ -1,0 +1,73 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Quelles politiques face à la crise?</title>
+		<script type="text/javascript" src="d3.js"></script>
+		<!--<script type="text/javascript" src="./d3-proto_files/protovis-r3.2.js"></script>-->
+		<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="jquery.tipsy.js"></script>
+
+		<link type="text/css" rel="stylesheet" href="bootstrap.min.css" />
+		<link type="text/css" rel="stylesheet" href="pf.css" />
+		<link type="text/css" rel="stylesheet" href="tipsy.css" />
+	</head>
+	<body>
+		<div class="container span15">
+			<div class="content">
+				<div class="page-header">
+					<h1>Quelles politiques face à la crise?</h1>
+					<p>Déficit, dette, perte du triple A... comment doit-on réagir? Prenez position! Doit-on augmenter ou baisser nos recettes ? Et nos dépenses ? Cliquez dans le carré pour exprimer votre opinion. Vous pourrez la comparer avec les soutiens des principaux candidats à l'élection présidentielle.</p>
+				</div>
+				<div id="myform">
+				<div class="row" style:"margin-bottom:10px;height:40px;">
+
+						<div class="span3"><strong>De quel candidat vous sentez-vous le plus proche?</strong></div>
+						<div class="span4" id="targetCdt">
+							<form id="candidat">
+
+											<select name="normalSelect" id="normalSelect" onchange="updateC(this.value)">
+												<option value=0>Choisissez...</option>
+												<option value=1>François Bayrou</option>
+												<option value=2>François Hollande</option>
+												<option value=3>Eva Joly</option>
+												<option value=4>Marine Le Pen</option>
+												<option value=5>Jean-Luc Mélenchon</option>
+												<option value=6>Nicolas Sarkozy</option>
+												<option value=7>Autre candidat</option>
+											</select>
+
+							</form>
+
+
+
+						</div><div id="msg" class="alert-message success span6">Candidat mis à jour</div>
+
+
+				</div>
+
+					</div><!-- /#myform-->
+				<div class="row">
+					<div class="span3">
+						<div><strong>Augmenter les dépenses</strong><br/>Financer de nouveaux projets pour relancer l'économie</div>
+						<div style="position:relative;top:370px;"><strong>Baisser les dépenses</strong><br/>Être plus rigoureux dans la dépense publique</div>
+					</div>
+					<div class="span9">
+
+						<div class="alert-message warning" id="loading" style="margin-top:10px">Chargement...</div>
+
+						<div id="chart" style="height:500px"></div>
+					</div><!-- /span9-->
+					<div class="span3" id="mover">
+					Regardez les résultats par candidat:
+					</div><!-- /span3-->
+				</div>
+				<div class="row">
+					<div class="span3 offset3"><strong>Baisser les recettes</strong><br/>Moins d'impôts et de taxes, cadeaux fiscaux</div>
+					<div class="span3 offset3"><strong>Augmenter les recettes</strong><br/>Raboter les niches fiscales, nouvelles tranches d'imposition, augmenter les impôts</div>
+				</div><!-- /row-->
+			</div><!-- /content-->
+		</div><!-- /container-->
+
+		<script type="text/javascript" src="pf.js"></script>
+
+
+
+</body></html>

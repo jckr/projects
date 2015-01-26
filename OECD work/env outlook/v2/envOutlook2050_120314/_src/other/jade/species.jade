@@ -1,0 +1,22 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		.span10			h2 Biodiversity by region
+	.row
+		.span10
+			.well
+				.row
+					h3.span10 Evolution of terrestrial mean species abundance in %xx
+					#chartControl.span2
+						#linesBtn
+							p show / hide
+					.span7
+						#chart
+						#footnotes Mean species abundance of 100% represents <em>intact ecosystem</em>.
+		
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"model/species.js")
+	script(type="text/javascript", src=d3Path+"view/lines.js")
+		

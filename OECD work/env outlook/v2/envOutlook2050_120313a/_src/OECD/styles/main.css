@@ -1,0 +1,93 @@
+.container {
+	width: 780px;
+}
+
+header {
+	padding: 10px 0;
+}
+header h1 {
+	font-weight: normal;
+}
+header img {
+	padding-right: 10px;
+	vertical-align: middle;
+}
+	
+
+content h2 {
+	padding: 10px 2px 5px 2px; margin: 0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align: left;
+	font-weight: bold;
+	font-size: 1.7em;
+	}
+
+.well {
+	background: #f9f9f9;
+	background-color: #f9f9f9;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#ffffff), to(#f9f9f9));
+	background-image: -moz-linear-gradient(#ffffff, #f9f9f9);
+	background-image: -ms-linear-gradient(#ffffff, #f9f9f9);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f9f9f9));
+	background-image: -webkit-linear-gradient(#ffffff, #f9f9f9);
+	background-image: -o-linear-gradient(#ffffff, #f9f9f9);
+	
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f9f9f9', GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f9f9f9', GradientType=0)";
+	
+	background-image: linear-gradient(#ffffff, #f9f9f9);
+}
+
+#chart {
+	background: #ffffff;
+	padding: 5px;
+}
+
+// hacks à réorganiser
+
+circle {fill:white;}
+
+#form label {
+	float: left;
+}
+
+#text {
+	min-height: 60px;
+}
+
+#footnotes {
+	background: #fff;
+	padding: 5px;
+	text-align: center;
+}
+#linesBtn p {
+	padding: 35px 1% 5px 1%;
+	margin: 0;
+}
+#linesBtn .btn-group {
+	border-top: 1px solid #dedede;
+}
+#linesBtn .btn {
+	width: 98%;
+	padding:5px 1%;
+	box-shadow: none!important;
+	border: none;
+	border-bottom: 1px solid #dedede;
+	background: no-repeat;
+	text-align: left;
+	color: #333;
+}
+#linesBtn .btn:active {
+}
+
+#linesBtn .btn.active {
+	box-shadow: none;
+	font-weight: bold;
+	color: #333;
+}
+
+.pagination a {
+	padding: 3px 7px;
+	height:  auto;
+}

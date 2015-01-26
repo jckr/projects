@@ -1,0 +1,19 @@
+head
+	meta(charset="UTF-8")
+	meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+	title= title
+	
+	// Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline
+	script(src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js')
+	script window.jQuery || document.write('<script src="other/_fallback/jquery-1.7.1.min.js"><\\/script>')
+	
+	script(src='_src/d3js/d3.js')
+	script(src='_src/other/tipsy/jquery.tipsy.js')
+	script(src='_src/other/bootstrap/js/bootstrap.min.js')
+	
+	//if lt IE 9
+		script(src='http://html5shim.googlecode.com/svn/trunk/html5.js')
+	
+	link(rel='stylesheet', type="text/css", href='_src/other/tipsy/tipsy.css')
+	link(rel='stylesheet', type="text/css", href='_src/other/bootstrap/css/bootstrap.min.css')
+	link(rel='stylesheet', type="text/css", href='_src/OECD/styles/main.css')

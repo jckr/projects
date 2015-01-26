@@ -1,0 +1,40 @@
+<html><head><title>Access to water</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+	<!--[if IE]>
+		</head><body style="font-family:Arial,sans-serif">
+		<div style="width:940px;margin-left:auto;margin-right:auto">
+		<h1 style="font-weight:bold;color:#333;height:36px;margin:0">Water stress</h1>
+		<div style="background-color:#f5f5f5;border:1px solid rgba(0,0,0,.05);padding:19px;width:820px;margin-top:20px;margin-bottom:20px;">In 2050, over 40% of the world population, or nearly 4 billion people, will live in areas under severe water stress (where water demand exceeds 40% of water supply).</div>
+
+		<img src="water_stress.png" alt="chart" title="use Chrome or Firefox for an interactive version" width="820px" height="620px" />
+		</div>
+		</body>
+
+
+	<![endif]-->
+	<!--[if !IE]> -->
+
+		<script type="text/javascript" src="d3.js"></script>
+		<script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+		<script type="text/javascript" src="jquery.tipsy.js"></script>
+		<link rel="stylesheet" type="text/css" href="tipsy.css">
+
+		<link type="text/css" rel="stylesheet" href="bootstrap.min.css" />
+	</head>
+	<body>
+	<div class="container"><div class="content">
+		<div class="row"><h1 class="span10"></h1></div>
+		<div class="row"><div class="span10 well"><div class="span2"><button class="btn btn-large btn-primary">See evolution</button></div><div class="span7" id="text"></div></div></div>
+		<div class="row">
+		<div id="chart" class="span10"></div>
+		</div>
+		<div class="row"><div class="span10"><em>River basins under water stress are those where water withdrawal exceeds 40% of recharge</em></div></div>
+	</div></div>
+	<script type="text/javascript" src="water_stress.js"></script>
+	<script type="text/javascript" src="evolution.js"></script>
+	</body>
+</html>

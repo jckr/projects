@@ -1,0 +1,8 @@
+title,text,link,src
+"Polya process", Colored balls are drawn from an urn; after each drawing| a ball of the same color is added to the urn.  ,polya.html,polya.png
+"Markov processes", Markov processes occur when you have elements in a finite number of states| and fixed probabilities of transition between one state and the other. , markov.html, markov.png
+"Percolation model", Assume that some liquid is poured over some porous material. Will it make it to the bottom?,percolate.html,percolate.png
+"Game of Life", Conway's game of life is the most famous cellular automaton. See cells emerge or die based on their neigbors,life.html,life.png
+"Segregation", Schelling's segregation model| based on tolerance to diversity. , segregate.html, segregate.png
+"1D cellular automata", Each row of shell is generated based on the previous row and a set of rules, ca.html, ca.png
+"Colonel Blotto", Battle simulation on a certain number of fronts, blotto.html, blotto.png

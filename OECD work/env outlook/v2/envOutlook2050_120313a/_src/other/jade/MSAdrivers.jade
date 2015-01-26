@@ -1,0 +1,20 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		h2.span10 Pressures on global biodiversity
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span9
+						p#text
+				.row
+					.span9
+						#chart
+						#pages.pagination
+		
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"MSAdrivers.js")
+		

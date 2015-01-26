@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="jquery-ui.css" rel="stylesheet">
+
+<style>
+body {padding-top: 60px;}
+#slider {width:940px;}
+#settings {display:none;}
+#chart {height:520px;}
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis line, path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.help-inline-right {display: inline-block;
+padding-right: 5px;
+vertical-align: middle;}
+.minor {display:none;}
+input {text-align:right;}
+.dashtitle {font-weight: bold;font-size:12px;}
+#changeSettings {display:none;}
+
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>La nuit blanche</title>
+</head>
+<body>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+<!--<script src="../../d3.v2.min.js">
+</script>-->
+
+
+
+<div class="container">
+	<div class="row">
+		<button class="btn span btn-primary btn-mini" id="run">Launch model</button>
+	  	<button class="btn span btn-mini" id="stop">Pause</button>
+		<button class="btn span btn-mini" id="reset">Reset</button>
+
+	</div>
+	<hr>
+
+	<div class="row">
+		<div id="chart"></div>
+	</div>	
+	<div style="display:none">
+		<input type="radio" name="lyak" id="lyak" value="true">
+	    <input type="radio" name="lyak" id="lyak" value="false" checked>
+		 <input type="text" id="night" value=500>
+		 <input type="text" id="duration" value="100">
+		 <input type="text" id="nbPeople" value=2500>
+		 <input type="text" value=15 id="stepAvg">
+		 <input type="text" value=1 id="stepStd">
+		 <input type="text" id="timePerVisit" value="20">
+		 <input type="checkbox" id="mode" checked>
+		 <input type="text" value="50" id="nbAttractions">
+		 <input type="text" value="0.2" id="o">
+		 <input type="text" value=5 id="minCap">
+		 <input type="text" value=20 id="maxCap">	
+	</div>
+
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="../bootstrap/js/jquery.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+<script src="routine-nuitblanche.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+extends _baseLayout
+
+block realStuff
+	- var regions = ['World', 'OECD', 'BRIICS countries', 'Rest of the world']
+	.row
+		h2.span10 The Kaya identity
+	.row
+		.span10
+			.well
+				#chartControl
+					.control-group
+						label.control-label(for="select01")
+							| Select region
+							.controls
+								select#button
+									each region, r in regions
+										option(value="#{r}")= region
+				#chart
+				#pages.pagination
+		
+block d3Scripts
+	script(type = "text/javascript", src = d3Path+"model/kaya.js")
+	script(type="text/javascript",  src = d3Path+"kaya.js")
+		

@@ -1,0 +1,50 @@
+
+<!-- saved from url=(0049)file:///S:/data/edit/JeromeC/epu/d3/d3-proto.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+		<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js?2.0.0"></script>
+		<script type="text/javascript" src="http://blog.oecdfactblog.org/wp-includes/js/protovis-r3.2.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi?key=oTcss7ZQFHKW+iZGWOcMDFOHvZ+CmEQY"></script>
+		<script type="text/javascript">
+		  google.load("jquery", "1.6.4");
+		</script>
+		<script type="text/javascript" src="http://blog.oecdfactblog.org/wp-includes/js/jquery/jquery.tipsy.js"></script>
+		<style>
+			@import url("http://mbostock.github.com/d3/style.css?1.10.0");
+			@import url("http://mbostock.github.com/d3/syntax.css?1.10.0");
+		</style>
+		<link rel="stylesheet" type="text/css" href="http://blog.oecdfactblog.org/wp-includes/js/jquery/tipsy.css">
+
+		<style type="text/css">
+		body {font:10px verdana;}
+		#chart{height:400;width:600;}
+		.v0 {fill:#e15c12;}
+		.v1 {fill:#009ee0;}
+		.v2 {fill:#0078ba;}
+		.highlighted {fill:#b2b2b2;}
+		.gridline {stroke:white;stroke-opacity:.5;stroke-width:1;}
+		#chart {border:1px solid gold;}
+
+		.slide{height:400;width:400;display:none;}
+		.slide.current{display:block;}
+		ul.buttons {margin-top:3px;}
+		ul.buttons li {padding: 2 5px; display:inline; background:#eee;border:1px solid #222;border-right:none;font-variant: small-caps ;height:18px;}
+		ul.buttons li:hover {background:#ccc;}
+		ul.buttons li.next {border-right:1px solid #222;}
+
+		</style>
+	</head>
+	<body>
+		<div class="slideshow" id="slideshow">
+		<div class="slide" id="1">coucou</div>
+		<div class="slide" id="2">le</div>
+		<div class="slide" id="3">chat</div>
+		</div>
+
+
+		<script type="text/javascript" src="chartfunctions.js"></script>
+		<script>
+			makeSlideShow("#slideshow");
+		</script>
+
+</body></html>

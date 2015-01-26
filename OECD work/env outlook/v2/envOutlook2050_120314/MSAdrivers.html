@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>env Outlook 2050
+    </title>
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="other/_fallback/jquery-1.7.1.min.js"><\/script>')</script><!--[if (gt IE 8)|!(IE)]>
+    <script src="_src/d3js/d3.js"></script>
+    <script src="_src/other/tipsy/jquery.tipsy.js"></script><![endif]-->
+    <!--[if IE]>
+	    	<!-- (loaded if not using IE) -->
+		    <script src="_src/d3js/d3.js"></script>
+		    <script src="_src/other/tipsy/jquery.tipsy.js"></script>
+    <!-- <![endif]-->
+
+    <script src="_src/other/bootstrap/js/bootstrap.min.js"></script><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="_src/other/tipsy/tipsy.css">
+    <link rel="stylesheet" type="text/css" href="_src/other/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="_src/OECD/styles/main.css">
+  </head>
+  <body>
+    <div class="container"><!--[if lt IE 9]>
+      <nav id="mainNav">
+	  	  	<div class="subnav">
+	  	  		<ul class="nav nav-tabs"><li><a href="home.html">Introduction</a></li>
+	  	  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Socio-economic factors<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="GDP.html">Drivers of GDP</a></li></ul></li>
+	  	  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Water<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="irrigation.html">Irrigation</a></li><li><a href="stress.html">Water stress</a></li><li><a href="supply.html">Water supply</a></li><li><a href="sanitation.html">Sanitation</a></li></ul></li>
+	  	  		<li class="dropdown active"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Biodiversity<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="species.html">By region</a></li><li><a href="biome.html">By biome</a></li><li><a href="MSAdrivers.html">Drivers</a></li></ul></li>
+	  	  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Climate change<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="emissionstemperatures.html">Emissions and temperatures</a></li><li><a href="co2BySources.html">CO<sub>2</sub> emissions by sources</a></li><li><a href="kaya.html">Drivers of emissions</a></li></ul></li>
+	  	  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Health &amp; environment<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="PM10.html">Air pollution in cities</a></li></ul></li></ul></div>
+      </nav>
+      <content>
+	          <div class="row">
+	            <div class="span10">
+	              <h2>Pressures on global biodiversity
+	              </h2>
+	            </div>
+	          </div>
+	          <div class="row">
+	            <div class="span10">
+	              <div class="well">
+
+	                <p>A 100% MSA implies an undisturbed state. A decreasing MSA value reflects increasing human pressure on ecosystems and a decline in intactness or naturalness. What is the contribution of different pressures on biodiversity?</p>
+	                <img src="png/MSADrivers1.png" width="600" height="400" />
+
+	                <p><strong>Infrastructure, encroachment and fragmentation: </strong>this represents the impact of urbanisation, roads, small-scale exploitation and the encroachment of human activities into, and fragmentation of natural habitats.</p>
+	                <img src="png/MSADrivers2.png" width="600" height="400" />
+
+	                <p><strong>Climate change </strong>is projected to drive further biodiversity loss.</p>
+	                <img src="png/MSADrivers3.png" width="600" height="400" />
+
+	                <p>This represents the impact of deposition of atmospheric <strong>nitrogen</strong> (e.g. eutrophication and acidification)</p>
+	                <img src="png/MSADrivers4.png" width="600" height="400" />
+
+	                <p>The impact of <strong>former land use </strong>refers to the negative effects on biodiversity that remain after land is abandoned from agriculture.</p>
+	                <img src="png/MSADrivers5.png" width="600" height="400" />
+
+	                <p>This represents the consequences of commercial <strong>forestry</strong> for wood production.</p>
+	                <img src="png/MSADrivers6.png" width="600" height="400" />
+
+	                <p>Impacts of land use change due to <strong>agriculture</strong> (i.e. livestock, food crop, bioenergy).</br>
+					What remains is the measure of the <strong>resulting biodiversity</strong>, once all pressures have been taken into account.</p>
+	                <img src="png/MSADrivers7.png" width="600" height="400" />
+
+
+	              </div>
+	            </div>
+	          </div>
+      </content>
+      <![endif]--><!--[if (gt IE 8)|!(IE)]>
+      <!-- include includes/header-->
+      <!-- Start of graph navigation-->
+      <nav id="mainNav">
+        <div class="subnav">
+        </div>
+      </nav>
+      <!-- end of graph navigation-->
+      <!-- real stuff start here-->
+      <content>
+        <div class="row">
+          <div class="span10">
+            <h2>Pressures on global biodiversity
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span10">
+            <div class="well">
+              <div id="chartControl" class="row">
+                <div class="span9">
+                  <p id="text">
+                  </p>
+                </div>
+              </div>
+              <div id="chart">
+              </div>
+              <div id="pages" class="pagination">
+              </div>
+            </div>
+          </div>
+        </div>
+      </content>
+      <script type="text/javascript" src="_src/d3js/datas/MSAdrivers.js">
+</script>
+      <script type="text/javascript" src="_src/d3js/datas/subnav.js"></script><![endif]-->
+      <p><a href="http://www.oecd.org/environment/outlookto2050">OECD Environmental Outlook to 2050</a></p>
+      <p>Data source: <a href="http://dx.doi.org/10.1787/888932570943">doi: 10.1787/888932570943</a></p>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="jquery-ui.css" rel="stylesheet">
+
+<style>
+body {padding-top: 60px;}
+#slider {width:940px;}
+#settings {display:none;}
+#chart {height:520px;}
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis line, path {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.help-inline-right {display: inline-block;
+padding-right: 5px;
+vertical-align: middle;}
+.minor {display:none;}
+input {text-align:right;}
+.dashtitle {font-weight: bold;font-size:12px;}
+#changeSettings {display:none;}
+
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>La nuit blanche</title>
+</head>
+<body>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+<script src="../../d3.v2.min.js">
+</script>
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" 
+
+	data-url="http://jeromecukier.net/projects/models/nuitblanche.html" 
+
+	data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="container">
+
+	<h1><!--<a href="models.html">Interactive models</a> &gt; -->La nuit blanche</h1>
+	Every year in Paris there's <a href="http://nuitblanche.paris.fr/">an event</a> where art installations are scattered through the city for all to visit during the night. <br>
+	The event attracts millions of visitors every year, but it's less exciting than it sounds: because little information is available to visitors, huge lines form at the most popular installations, so a typical "nuit blanche" involves an awful lot of waiting and walking. <br>
+	This model aims to prove that if the length of the queues at installations were known to the visitors, for instance through the smartphone app which is close to useless as is, everyone would make much smarter choices and as a result the system would generate much less waiting time. Visitors would spend more of their time going from one to another, and, if they are fast enough (that is, if there is suficient transportation capacity between installations), most of the time spending waiting today could be spent enjoying art tomorrow. <br>
+	Conversely, in the current system, even if there are huge queues, most installations will run under capacity.<br>
+	By clicking "under the hood" you can play with all the parameters in the model. Enjoy!
+	</p>
+	<hr>
+	<div class="row">
+		<button class="btn span btn-primary btn-mini" id="run">Launch model</button>
+	  	<div class="span"><span class="help-inline-right" >People know line lengths:&nbsp;</span>
+	    	<input type="radio" style="padding-bottom:5px"name="lyak" id="lyak" value="true">&nbsp;Yes
+	    	<input type="radio" name="lyak" id="lyak" value="false" checked>&nbsp;No
+	  	</div>
+
+		
+
+		<button class="btn span btn-mini" id="stop">Pause</button>
+		<button class="btn span btn-mini" id="reset">Reset</button>
+
+	</div>
+	<hr>
+
+	<div class="row">
+		<div id="chart"></div>
+	</div>	
+	<div class="row">
+		<div id="legend"></div>
+	</div>	
+	<div class="row">
+		<div class="span" id="success"></div>
+	</div>
+	<div class="row">
+		<h4 id="switchSettings">Under the hood</h4>
+		<div id="changeSettings">
+			Any change to the settings will reset the model.
+			<form class="form-horizontal span12">
+				<div class="row">
+					<h4>City</h4>
+					<div class="row">
+						<div class="span3 control-group">
+		    				<label class="control-label" for="night">Length of simulation </label>
+		    				<div class="controls">
+		      					<input type="text" class="span1" id="night" value=500>
+		    				</div>
+		  				</div>
+		  				<div class="span4 control-group">
+		    				<label class="control-label" for="duration">Time per tick (ms)</label>
+		    				<div class="controls">
+		      					<input class="span1" type="text" id="duration" value="100">
+		    				</div>
+		  				</div>
+
+						
+					</div>
+					<h4>Visitors</h4>
+					<strong><div class="row"><div class="span1">Number</div><div class="span4">Speed</div><div class="span2">Time per visit</div></div></strong>
+					<div class="row">
+						<div class="span1"><input type="text" class="span1" id="nbPeople" value=2500></div>
+						<div class="span4">
+							<span class="help-inline-right">Average</span><input type="text" value=15 id="stepAvg" class="span1">
+							<span class="help-inline-right help-inline">std. dev</span><input type="text" value=1 id="stepStd" class="span1">
+						</div>
+						<div class="span2">
+							<input type="text" id="timePerVisit" value="20" class="span1">
+						</div>
+					</div>
+					<div class="row">
+					<div class="control-group span7" >
+		    				<label class="checkbox" for="mode">Visitors start moving at different times 
+		    					<input type="checkbox" id="mode" checked>
+		    				</label>
+		  				</div>
+		  			</div>
+					<h4>Installations</h4>
+					<strong><div class="row">
+						<div class="span1">Number</div>
+						<div class="span2">Ratio outside</div>
+						<div class="span4">Capacity</div>
+					</div></strong>
+					<div class="row">
+						<div class="span1"><input type="text" class="span1" value="50" id="nbAttractions"></div>
+						<div class="span2"><input type="text" class="span1" value="0.2" id="o"></div>
+						<div class="span4">
+							<span class="help-inline-right">Minimum</span><input type="text" value=5 id="minCap" class="span1">
+							<span class="help-inline-right help-inline">Maximum</span><input type="text" value=20 id="maxCap" class="span1">	
+						</div>
+					</div>
+			</form>
+		</div>
+	</div>
+
+	<footer class="span12">
+		<div class="row">
+			<div class="span4 pull-right">
+			A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+			</div>
+		</div>
+	</footer>
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="../bootstrap/js/jquery.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+<script src="routine-nuitblanche.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>ENV Outlook 2050
+    </title>
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="other/_fallback/jquery-1.7.1.min.js"><\/script>')</script>
+    <script src="_src/d3js/d3.js"></script>
+    <script src="_src/other/tipsy/jquery.tipsy.js"></script>
+    <script src="_src/other/bootstrap/js/bootstrap.js"></script><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="_src/other/tipsy/tipsy.css">
+    <link rel="stylesheet" type="text/css" href="_src/other/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="_src/OECD/styles/main.css">
+  </head>
+  <body>
+    <div class="container">
+      <!-- include includes/header-->
+      <!-- Start of graph navigation-->
+      <nav id="mainNav">
+        <div class="subnav">
+          <ul class="nav nav-tabs">
+            <li><a href="index.html">Introduction</a>
+            </li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Water
+<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="irrigation.html">Irrigation</a>
+                </li>
+                <li><a href="stress.html">Stress</a>
+                </li>
+                <li><a href="supply.html">Supply</a>
+                </li>
+                <li><a href="sanitation.html">Sanitation</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Biodiversity
+<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="species.html">by Region</a>
+                </li>
+                <li><a href="biome.html">by Biome</a>
+                </li>
+                <li><a href="MSAdrivers.html">MSA drivers</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">climate
+<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="emissionstemperatures.html">emissions temperatures</a>
+                </li>
+                <li><a href="co2BySources.html">CO2 emissions by sources</a>
+                </li>
+                <li><a href="kaya.html">The Kaya Identity</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Health
+<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="PM10.html">PM10 concentrations in larger cities</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Socio-economics factors
+<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="GDP.html">GDP</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <!-- end of graph navigation-->
+      <!-- real stuff start here-->
+      <content>
+        <div class="row">
+          <div class="span10">
+            <h2>Lack of access to water
+            </h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="span10">
+            <div class="well">
+              <div id="chartControl" class="row">
+                <div class="span9">
+                  <div id="text">
+                  </div>
+                </div>
+              </div>
+              <div id="chart">
+              </div>
+              <div class="row">
+                <div class="span9">
+                  <div id="pages" class="pagination">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </content>
+    </div>
+    <script type="text/javascript" src="_src/d3js/datas/model/supply.js"></script>
+    <script type="text/javascript" src="_src/d3js/datas/view/evolution_div.js">
+</script>
+    <script type="text/javascript" src="_src/d3js/datas/subnav.js"></script>
+  </body>
+</html>

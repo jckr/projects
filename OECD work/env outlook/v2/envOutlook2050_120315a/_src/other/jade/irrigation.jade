@@ -1,0 +1,25 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		.span10			h2 Irrigation will no longer drive water demand
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span10
+						.span2
+							button.btn.btn-large.btn-primary
+								| See evolution
+						#text.span7
+				
+				#chart
+				
+				.row
+					.span10.footnotes
+						em Place curser on blue boxes to see other water users.
+				
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"irrigation.js")
+		

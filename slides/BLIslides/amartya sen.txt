@@ -1,0 +1,51 @@
+Nous devons repenser la notion de progrès
+
+Bonjour, j'ai 5 minutes pour vous parler de l'indicateur vivre mieux.
+
+D'abord je me présente pour ceux d'entre vous qui ne me connaissent pas, je m'appelle Jérôme Cukier, je m'occupe de visualisation de données. Je travaille principalement pour l'OCDE où je m'occupe de tout ce qui est communication avec les données, mais je travaille aussi en freelance donc si vous avez besoin de visualisation, on peut discuter au cocktail!
+
+Alors voilà ce que je voudrais vous raconter pendant nos 5 minutes.
+* Le contexte, (pourquoi on l'a fait ;
+* Les grands choix de design ; 
+* L'usage ;
+* La nouvelle version de l'application. 
+
+Le contexte.
+
+L'OCDE, c'est une organisation internationale qui s'occupe surtout d'économie, qui aide les pays à prendre les meilleures décisions.
+
+Et voilà le graphique le plus vu: la comparaison des PIB des pays. Le PIB, c'est l'ensemble de la richesse produite dans un pays et c'est vrai qu'on l'utilise beaucoup pour classer les pays. Trop peut-être. Parce qu'en fait, on ne sait pas le mesurer très très précisément, donc savoir si tel pays est devant tel autre c'est un peu artificiel.
+
+Surtout, on peut se demander si en se concentrant sur l'argent on passe pas à côte de tout le reste, de ce qui est important. Heureusement, les pays ne prennent pas toutes leurs décisions en ne prenant en compte que la croissance. Alors comment est-ce qu'on peut mesurer si un pays fait bien les choses ou pas? Bon, c'est pas une question nouvelle, la question de la mesure du progrès, d'aller au-delà du PIB. ça fait des dizaines d'années que des gens travaillent dessus.
+
+Là-dessus, le grand spécialiste c'est Amartya Sen, prix nobel d'économie. 
+Bon et en gros ce qu'ils disent c'est que plutôt que de classer les pays, en fait il faut regarder ce qu'ils font bien, ce qu'ils font moins bien dans un certain nombre de domaines. Donc la recherche dit: pas de classements. 
+
+Mais d'un point de vue communication, un classement qui sort tous les ans c'est bien pratique, c'est facile à vendre. Donc problème. 
+
+Alors l'idée qu'on a eue c'est la suivante. Plutôt que de faire un classement, nous, de dire qui est meilleur qu'un autre, on va laisser les gens choisir ce qui est important pour eux, ils vont prioritiser tel ou tel domaine et au final ils vont découvrir quel pays est bien selon leur point de vue.
+
+donc voilà. On a rassemblé une trentaine de séries sur lesquelles on avait des bonnes données sur tous les pays qui nous intéressaient, et donc l'idée c'était qu'on allait laisser les gens gérer des poids ce qui ferait évoluer un classement. Comment on arrive de ça au design final?
+
+(là je vous montre quelques uns des brouillons préparatoires qu'on a fait au tout début)
+Dans le design il y a deux grandes idées que je voudrais vraiment mettre en avant.
+
+La manière naturelle de procéder ce serait de montrer les données. D'expliciter! de dire voilà, tu as mis tel poids à la santé, tel poids à l'éducation etc., les pays ont tel score dans ces domaines, donc le classement c'est ça. 
+
+Et là, ce qu'on a c'est très différent. On voit bien le classement des pays, on voit bien les poids, mais tout le reste, la cuisine, c'est caché. On peut creuser dans le site et aller chercher tout ce qui contribue au score, mais ça n'entre pas en compétition avec le classement. Donc là il y a une décision forte, une priorité nette.
+
+L'autre évidemment, c'est la représentation en fleur! 
+donc là on peut se dire, le gars qu'ils ont pris pour réaliser le truc c'est un super artiste et il a eu cette idée géniale de fleur comme ça tout d'un coup et tout le monde a adoré. 
+en fait ça c'est pas du tout passé comme ça. Et ça, c'est vraiment vraiment le passage intéressant, parce qu'il y a vraiment eu un processus systématique pour aller de là à là, qu'il est possible de reproduire. 
+
+Alors comme c'est le passage important je vais me permettre de faire une parenthèse sur une anecdote qui vient l'art et la peur, le livre de David Bayles et de Ted Orland. Donc ils parlent d'un prof dans une classe de poterie qui divise sa classe en deux. à une moitié de la classe il leur dit: vous, vous allez être notés sur le nombre de pots que vous allez réussir à produire. Alors vous êtes pas obligé de faire des chefs d'oeuvre, mais par contre il en faut beaucoup. Et à l'autre moitié, il leur dit: vous, vous allez être notés sur la qualité de votre meilleur pot. Alors vous en faites un, vous en faites 10, vous en faites 100: ça m'est égal, ce qui compte c'est le meilleur pot. 
+Alors qu'est ce qui se passe? la première moitié de la classe en ont fait beaucoup, effectivement, alors ils ont essayé différentes choses, et sur le tas il y en a certains qui sont vraiment bien. et pendant ce temps là, l'autre moitié de la classe a rien fait, ils se sont à peine mis d'accord sur ce qui faisait un bon pot. 
+Tout ça pour dire qu'il y a eu énormément d'itérations. La première idée, de cacher un peu les données intermédiaires, elle est venue vite mais ensuite il y a eu beaucoup d'epxloration. Et ce n'était pas la fleur qui tenait la corde pendant la plupart du temps. La fleur, c'était l'idée préférée du designer, et la mienne aussi d'ailleurs, par contre, dans le design final, il y a beaucoup beaucoup de choses qui allaient vraiment contre les choix que lui avait fait, et qui je pense qui maintenant sont mieux. 
+
+Alors la réception. là je vous montre une carte qui montre le nombre des partages des index au cours de l'année écoulée. 
+Au fur et à mesure que les gens partageaient les données on a commencé à analyser ce qu'ils choisissaient. En fait le pourcentage de gens qui choisissent de parager leur index était relativement faible, c'est à dire que les gens restent en moyenne 5 minutes sur le site, mais relativement peu envoient leur résultat sur twitter ou facebook, et tant qu'ils le font pas on ne comptabilise pas leur choix, on se dit ils sont encore en train de jouer. Et quand les gens partagent, on leur demande leur âge, leur sexe et leur pays et il n'y en a qu'un tiers de ceux qui partagent qui répondent. Donc on a et les choix, et les informations démographiques sur 1% des visiteurs environ, ce qui fait déjà un gros échantillon. 
+Et en fait on a pas trouvé de motif particulier. il y a pas de grosses préférences homme femme, selon l'âge, ou même selon les pays. 
+
+Donc là, cette année, on a essayé d'aller plus loin et de récupérer plus d'informations des utilisateurs. donc on a déployé plusieurs astuces pour ça. 
+
+

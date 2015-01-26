@@ -1,0 +1,11 @@
+#myform {display:block;}
+#msg {display:none;}
+.button {background:#eee;position:absolute;top:20px;width:100px;height:20px;text-align:center;padding:5px;}
+.pushed {background:#ccc;}
+#build {left:20px;}
+#dig {left:220px;}
+.grid{fill:white;stroke:#ccc;}
+//.cell{stroke:#000;fill:#eee}
+.bary{visibility:hidden;}
+//.row{fill:white;}
+#mover {display:none;}

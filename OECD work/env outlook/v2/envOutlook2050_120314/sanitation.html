@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>env Outlook 2050
+    </title>
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="other/_fallback/jquery-1.7.1.min.js"><\/script>')</script><!--[if (gt IE 8)|!(IE)]>
+    <script src="_src/d3js/d3.js"></script>
+    <script src="_src/other/tipsy/jquery.tipsy.js"></script><![endif]-->
+    <!--[if IE]>
+	    	<!-- (loaded if not using IE) -->
+		    <script src="_src/d3js/d3.js"></script>
+		    <script src="_src/other/tipsy/jquery.tipsy.js"></script>
+    <!-- <![endif]-->
+
+    <script src="_src/other/bootstrap/js/bootstrap.min.js"></script><!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <link rel="stylesheet" type="text/css" href="_src/other/tipsy/tipsy.css">
+    <link rel="stylesheet" type="text/css" href="_src/other/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="_src/OECD/styles/main.css">
+  </head>
+  <body>
+    <div class="container"><!--[if lt IE 9]>
+      <nav id="mainNav">
+		  	<div class="subnav">
+		  		<ul class="nav nav-tabs"><li><a href="home.html">Introduction</a></li>
+		  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Socio-economic factors<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="GDP.html">Drivers of GDP</a></li></ul></li>
+		  		<li class="dropdown active"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Water<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="irrigation.html">Irrigation</a></li><li><a href="stress.html">Water stress</a></li><li><a href="supply.html">Water supply</a></li><li><a href="sanitation.html">Sanitation</a></li></ul></li>
+		  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Biodiversity<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="species.html">By region</a></li><li><a href="biome.html">By biome</a></li><li><a href="MSAdrivers.html">Drivers</a></li></ul></li>
+		  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Climate change<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="emissionstemperatures.html">Emissions and temperatures</a></li><li><a href="co2BySources.html">CO<sub>2</sub> emissions by sources</a></li><li><a href="kaya.html">Drivers of emissions</a></li></ul></li>
+		  		<li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Health &amp; environment<b class="caret"></b></a><ul class="dropdown-menu"><li><a href="PM10.html">Air pollution in cities</a></li></ul></li></ul></div>
+      </nav>
+      <content>
+	          <div class="row">
+	            <div class="span10">
+	              <h2>Lack of access to sanitation
+	              </h2>
+	            </div>
+	          </div>
+	          <div class="row">
+	            <div class="span10">
+	              <div class="well">
+	                <div id="chartControl" class="row">
+	                  <div id="text" class="span9">
+	                   <p>Despite heavy investments over the last 20 years, the number of people without access to sanitation has slightly increased in absolute terms.</p>
+	                  </div>
+	                </div>
+	                <div id="chart"><img src="png/sanitation.png" width="650" height="420" />
+	                </div>
+	              </div>
+	            </div>
+	          </div>
+      </content><![endif]--><!--[if (gt IE 8)|!(IE)]>
+      <!-- include includes/header-->
+      <!-- Start of graph navigation-->
+      <nav id="mainNav">
+        <div class="subnav">
+        </div>
+      </nav>
+      <!-- end of graph navigation-->
+      <!-- real stuff start here-->
+      <content>
+        <div class="row">
+		          <div class="span10">
+		            <h2>Lack of access to sanitation</h2>
+		          </div>
+		        </div>
+		        <div class="row">
+		          <div class="span10">
+		            <div class="well">
+		              <div id="chartControl" class="row">
+		                <div class="span9">
+		                  <div id="text">
+		                  </div>
+		                </div>
+		              </div>
+		              <div class="row">
+		                <div class="span9">
+		                  <div id="chart">
+		                  </div>
+		                  <div id="pages" class="pagination">
+		                  </div>
+		                </div>
+		              </div>
+		            </div>
+		          </div>
+        </div>
+      </content>
+      <script type="text/javascript" src="_src/d3js/datas/model/sanitation.js"></script>
+      <script type="text/javascript" src="_src/d3js/datas/view/evolution_div.js">
+</script>
+      <script type="text/javascript" src="_src/d3js/datas/subnav.js"></script><![endif]-->
+      <p>Source: (OECD, 2012), <a href="http://www.oecd.org/environment/outlookto2050">OECD Environmental Outlook to 2050</a>; IMAGE model suite (PBL)</p>
+      <p>Data source: <a href="http://dx.doi.org/10.1787/888932571380">doi:10.1787/888932571380</a></p>
+    </div>
+  </body>
+</html>

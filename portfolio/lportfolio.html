@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<title>Portfolio</title>
+<link type="text/css" rel="stylesheet" href="../lib/jquery-ui/tipsy.css"/>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="../lib/jquery-ui/jquery-ui.css" rel="stylesheet">
+
+<style>
+//body {padding-top:60px;}
+.card {width:229px;height:282px;margin:2px;padding 1px;border:1px solid #eee;}
+.text {width:219px;height:100px;padding:5px;margin-left:0px !important;}
+.link {margin-left:0px !important;padding:5px;margin-right:20px;}
+.pf {margin-top:20px;}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27690071-1']);
+  _gaq.push(['_setDomainName', 'jeromecukier.net']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+<script src="../../d3.v3.min.js">
+</script>
+<div class="container">
+	<a href="http://www.jeromecukier.net/">jeromecukier.net</a>
+	<div class="row">
+		<div class="span8"><h1>Portfolio</h1>
+		Here is a selection of recent projects. <a href="&#109;&#97;&#105;&#108;&#116;&#111;:&#x6A;&#x65;&#x72;&#111;&#109;&#x65;&#99;&#x75;&#x6B;&#x69;&#101;&#114;&#x40;&#x67;&#109;&#x61;&#x69;&#108;&#x2E;&#99;&#x6F;&#x6D;?subject=" title="">Do you want to work with me? </a></div>
+		<div class="pull-right">
+			<a href="https://twitter.com/jcukier" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @jcukier</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+		</div>
+	</div>
+	<div class="span12" id="portfolio">
+	</div>
+</div>
+<footer>
+
+
+</div> <!-- /container -->
+
+<script>
+
+var lang="en";
+if(window.location.search=="?lang=fr") {lang="fr";}
+
+var data;
+d3.csv("portfolio.csv",function(error,csv) {
+	data=csv;
+	//csv.sort(function(a,b){return Math.random()-.5;}); // randomize sort
+	//csv=csv.slice(0,12);
+	var pf=d3.select("#portfolio");
+	var rows=pf.selectAll(".row").data(d3.range(Math.ceil(csv.length/4))).enter()
+		.append("div").classed("row pf",1);
+	var cards=rows.selectAll(".card").data(function(d,i) {console.log(i);return csv.slice(d*4,d*4+4);}).enter()
+			.append("div").classed("span1 card",1)
+	cards.style("opacity",0).transition().duration(1000).style("opacity",1)
+	cards
+		.append("a").attr("href",function(d){return d.link;})
+			.append("img").attr("src",function(d) {return d.src;})
+	var texts=cards
+		.append("div").classed("span1 text",1);
+		texts
+			.append("h4").html(function(d) {return lang==="en"?d.titleEN:d.titleFR;})
+		texts
+			.append("p").html(function(d) {return lang==="en"?d.textEN:d.textFR;})
+	cards
+		.append("div").classed("link pull-right",1)
+			.append("a").attr("href",function(d){return d.link;}).html(function() {return lang==="en"?"link":"lien";})
+})
+</script>
+
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../lib/jquery/jquery.js"></script>
+<script src="../lib/jquery-ui/jquery-ui.min.js"></script>
+
+<script src="../lib/jquery-ui/jquery.tipsy.js"></script>
+
+<script src="../bootstrap/js/jquery.js"></script>
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<!--<script src="../bootstrap/js/bootstrap-alert.js"></script>-->
+<!--<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>-->
+
+</body>
+</html>

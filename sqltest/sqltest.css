@@ -1,0 +1,7 @@
+.button {background:#eee;position:absolute;top:20px;width:100px;height:20px;text-align:center;padding:5px;}
+.pushed {background:#ccc;}
+#build {left:20px;}
+#dig {left:220px;}
+.cell(stroke:#ccc;fill:#fff}
+.grid{fill:white;}
+.row{fill:white;}

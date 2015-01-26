@@ -1,0 +1,57 @@
+//input#htmlName.input-small{line-height:22px;}
+
+#ruler { visibility: hidden; white-space: nowrap; }
+.c0{color:#0078ba;}.c9{color:#b2b2b2;}.c1{color:#af418e;}.c8{color:#97bf0d;}.c6{color:#ed4e70;}.c3{color:#ffdd00;}.c2{color:#e5352d;}.c4{color:#009036;}.c7{color:#e15c12;}.c5{color:#009ee0;}
+#output {display:none;}
+.v0{fill:#0078ba;}
+.v9{fill:#b2b2b2;}
+.v1{fill:#af418e;}
+.v8{fill:#97bf0d;}
+.v6{fill:#ed4e70;}
+.v3{fill:#ffdd00;}
+.v2{fill:#e5352d;}
+.v4{fill:#009036;}
+.v7{fill:#e15c12;}
+.v5{fill:#009ee0;}
+
+.l0{stroke:#0078ba;}
+.l9{stroke:#b2b2b2;}
+.l1{stroke:#af418e;}
+.l8{stroke:#97bf0d;}
+.l6{stroke:#ed4e70;}
+.l3{stroke:#ffdd00;}
+.l2{stroke:#e5352d;}
+.l4{stroke:#009036;}
+.l7{stroke:#e15c12;}
+.l5{stroke:#009ee0;}
+
+.highlighted {fill:#b2b2b2;}
+.gridline {stroke:#ddd;stroke-opacity:.5;stroke-width:1;}
+.chartBkg {fill:white;stroke:#0078ba};
+
+#htmlName, #SVGName {line-height:22px;}
+
+.titleBox.blue text {fill:white;}
+.titleBox.blue path {fill:white;}
+.titleBox.blue rect {fill:#0078ba;}
+
+//.c0,.c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8, .c9{width:30px;height:20px;float:left;}
+//#formDiv {position:relative;}
+//#col1, #col2 {position:absolute; top:0px;width:500px;}
+//#col1 {left:0px:}
+//#col2 {left:505px;}
+//body{background:#ccc;font:10px verdana;}
+//td {font:10px verdana;}
+//h1,h2,h3,h3,h5,h5, {font-family:georgia;}
+//.tSpan {font: 14px Georgia bold;}
+
+//#formDiv {width: 1005px;}
+//#dataDiv, #titleDiv, #marginsDiv {width: 500px;}
+//#formDiv,#col1,#col2{position:static;width:500px;}
+//#chart {position:absolute;top:20px;left:550px;}
+//#result {position:absolute;top:450px;left:550px;}
+//#svg {position:absolute;top:500px;left:550px;}
+.fix {height:22px;}
+.fix input {height:22px;}
+
+

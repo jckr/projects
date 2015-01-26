@@ -1,0 +1,10 @@
+#chart {
+  width: 960px;
+  height: 500px;
+}
+
+circle {
+  stroke: #000;
+  stroke-width: .5px;
+}
+body {padding-top: 60px;}

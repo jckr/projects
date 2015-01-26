@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Fishing map</title>
+
+<link type="text/css" rel="stylesheet" href="tipsy.css"/>
+<link type="text/css" rel="stylesheet" href="fishingmap.css"/>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<body>
+<div id="navbar"></div>
+<script src="../d3.v2.js"></script>
+<script src="navbardd.js"></script>
+
+
+<div class="container">
+
+<h1>Relative importance of fishing</h1>
+
+<div class="row">
+<div class="btn-group" data-toggle="buttons-radio" style="float:left;margin-left:20px;">
+  <p>Resize the countries by:</p>
+  <!--<button id="area" class="btn active">Area</button>-->
+  <button id="population" class="btn active">Population</button>
+  <button id="production" class="btn">Fish production</button>
+  <button id="consumption" class="btn">Fish consumption</button>
+  <span id="legend">Population in thousands</span>
+</div>
+
+<div id="stories" class="btn-group" data-toggle="buttons-radio" style="float:right;">
+  <p>Show story for:</p>
+  <button id="Korea" class="btn">Korea</button>
+  <button id="Japan" class="btn">Japan</button>
+  <button id="Iceland" class="btn">Iceland</button>
+  <button id="China" class="btn">China</button>
+  <button id="Namibia" class="btn">Namibia</button>
+  <button id="Peru and Chile" class="btn">Peru and Chile</button>
+</div>
+</div>
+
+
+<div class="row">
+	<div id="chart" class="span12"></div>
+	<div id="cPanel" class="span12">
+	<p class="span12"></p>
+	<div id="pages" class="pagination"></div>
+	</div>
+<hr>
+<footer>
+Countries are coloured according to their fish consumption per capita. Data source: <a href="http://faostat.fao.org/site/617/default.aspx#ancor">FAOSTAT - commodity balances</a>
+</footer>
+
+</div>
+</div>
+
+<script src="jquery-1.7.1.min.js">
+</script>
+<script src="jquery.tipsy.js">
+</script>
+<script type="text/javascript" src="geography.js"></script>
+<script src="data-fishing.js">
+</script>
+<script src="routine-fishing.js">
+</script>
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+
+
+

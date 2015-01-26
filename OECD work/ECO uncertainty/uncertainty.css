@@ -1,0 +1,7 @@
+.a1,.a2,.b1,.b2 {opacity:.2}
+
+.avg {stroke:black;stroke-dasharray:4,4;fill:none;stroke-opacity:.5}
+
+.axis,.ticks {
+  stroke:black;stroke-width:1;
+}

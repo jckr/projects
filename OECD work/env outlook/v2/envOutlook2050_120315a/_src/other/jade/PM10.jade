@@ -1,0 +1,23 @@
+extends _baseLayout
+
+block realStuff
+	.row
+		.span10			h2 Biodiversity
+	.row
+		.span10
+			.well
+				.row
+					h3.span9
+						| Evolution of terrestrial mean species abundance in %
+					#chartControl.span2
+						#linesBtn
+							p show / hide
+					.span7
+						#chart
+						#footnotes
+				
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"model/pm10.js")
+	script(type="text/javascript", src=d3Path+"view/lines.js")
+	script(type="text/javascript", src=d3Path+"view/lForPM10.js")
+		

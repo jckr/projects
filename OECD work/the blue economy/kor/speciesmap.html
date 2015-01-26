@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>어느 국가가 어떤 어류를 잡는가?</title>
+
+<link type="text/css" rel="stylesheet" href="tipsy.css"/>
+<link type="text/css" rel="stylesheet" href="fishingmap.css"/>
+<link href="../../bootstrap/css/bootstrap.css" rel="stylesheet">
+<body>
+<div id="navbar"></div>
+<script src="../../d3.v2.js"></script>
+<script src="navbardd.js"></script>
+
+
+<div class="container">
+
+<h1 id="title8">어느 국가가 어떤 어류를 잡는가?</h1>
+
+<div class="row">
+<div style="float:left;margin-left:20px;">
+  <p class="interface3-0">어종 선택:</p>
+  <div class="btn-group" data-toggle="buttons-radio">
+    <button id="anchovies" class="btn interface3-1">멸치류</button>
+    <button id="cod" class="btn interface3-2">대구</button>
+    <button id="mackerel" class="btn interface3-3">고등어</button>
+    <button id="salmon" class="btn interface3-4">연어</button>
+    <button id="sardines" class="btn interface3-5">정어리</button>
+    <button id="tuna" class="btn active interface3-6">정어리</button>
+  </div>
+  <span id="legend" class="interface3-7">톤</span>
+</div>
+
+</div>
+
+
+<div class="row">
+	<div class="row"><div id="chart" class="span12"></div></div>
+	<hr>
+<footer>
+<p class="interface3-8">데이터 출처: <a href="http://www.fao.org/fishery/statistics/software/fishstat/en">FAO - FishStat</a></p>
+</footer>
+
+</div>
+</div>
+
+<script src="jquery-1.7.1.min.js">
+</script>
+<script src="jquery.tipsy.js">
+</script>
+<script type="text/javascript" src="geography.js"></script>
+<script type="text/javascript" src="data-fishing.js"></script>
+<script src="species.js">
+</script>
+<script src="routine-species.js">
+</script>
+
+<script src="../../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../../bootstrap/js/bootstrap-button.js"></script>
+<script src="../../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../../bootstrap/js/bootstrap-typeahead.js"></script>
+
+
+
+

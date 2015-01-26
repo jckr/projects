@@ -1,0 +1,17 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+		<script type="text/javascript" src="d3.js"></script>
+		
+	</head>
+	<body>
+	<div id="chart"></div>
+
+	<script type="text/javascript">
+		chart=d3.select("#chart")
+		d1=chart.append("div").style("width","100px").style("height","100px").style("background-color","red");
+		d1.transition().style("width","200px");
+	</script>
+	
+	</body>
+</html>

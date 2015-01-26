@@ -1,0 +1,258 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+		<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>
+		<script type="text/javascript" src="../../d3.v2.min.js"></script>
+		<script type="text/javascript" src="https://www.google.com/jsapi?key=oTcss7ZQFHKW+iZGWOcMDFOHvZ+CmEQY"></script>
+				<script type="text/javascript">
+					  google.load("jquery", "1.6.4");
+		</script>
+		<script type="text/javascript" src="../../lib/jquery-1.7.1.min.js"></script>
+		
+		<script type="text/javascript" src="http://blog.oecdfactblog.org/wp-includes/js/jquery/jquery.tipsy.js"></script>
+		<script type="text/javascript" src="../../lib/jquery-ui/jquery.tipsy.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="http://blog.oecdfactblog.org/wp-includes/js/jquery/tipsy.css">
+		<script type="text/javascript" src="../../lib/jquery-ui/tipsy.css"></script>
+
+		<script type="text/javascript" src="chartfunctions.js"></script>
+		<link type="text/css" rel="stylesheet" href="bootstrap/css/bootstrap.css" />
+		<link type="text/css" rel="stylesheet" href="charter.css" />
+		<style type="text/css">
+			input.input {height:27px;}
+		</style>
+	</head>
+	<body>
+		<script type="text/javascript" src="charter.js"></script>
+	<div id="message" style:"display:none;"></div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="span6 well">
+				<form id="convertForm" class="form-horizontal" name="convertForm" onsubmit="return false; ">
+					<input type="button" value="Convert" onclick="csvToJson(); " /> <input type="reset" />
+					<div id="formDiv">
+						<h2>Data <small>paste your data in the box:</small></h2>
+						<textarea id="csv" name="csv" class="span6" rows="10"></textarea><br /><br />
+
+							<div class="clearfix">
+								<label class="checkbox"><input type="checkbox" name="legends" checked="true"/>First line is legends</label>
+							</div><!-- /clearfix -->
+
+						<h2>Chart options</h2>
+						<fieldset>
+							<legend>Size and spacing</legend>
+							<div class="clearfix">
+								<label for="size">Size of chart: </label>
+								<div class="input">
+									<select id="size">
+										<option value=0>Very large (800x533)</option>
+										<option value=1>Large (600x400)</option>
+										<option selected value=2>Medium (330x220)</option>
+										<option value=3>Small (260x195)</option>
+										<option value=4>Thumbnail (250x200)</option>
+										<option value=5>Vertical (130x250)</option>
+									</select>
+								</div> <!-- /input -->
+							</div> <!-- /clearfix -->
+							<div class="clearfix">
+								<label for="header">Margins: </label>
+
+									<div class="control-group">
+										top: <input type="text" class="input span1" name="header" value="auto"/>&nbsp;bottom: <input class="input span1" type="text" name="footer" value="auto" size="30"/>&nbsp;
+										left: <input type="text" name="axis" class="input span1" value="auto" size="30"/>&nbsp;right: <input class="input span1" type="text" name="margin" value="auto" size="30"/>
+									</div> <!-- /inline-inputs -->
+								 <!-- /input -->
+							</div> <!-- /clearfix -->
+						</fieldset>
+						<fieldset>
+							<legend>Title</legend>
+							<div class="clearfix">
+								<label for="title">Title and subtitle</label>
+								<div class="input"><textarea id="title" name="title" rows="3" value="My chart" class="span6"></textarea></div>
+							</div><!-- /clearfix -->
+							<div class="clearfix">
+								<div class="input">
+								<label class="checkbox"><input type="checkbox" name="blue" checked="true"/>OECD-blue title box</label>
+								<label class="checkbox"><input type="checkbox" name="logo" checked="true"/>OECD chevron in title</label></div>
+							</div><!-- /clearfix -->
+							<div class="clearfix">
+								<label for="source">Sources</label>
+								<div class="input"><textarea id="source" name="source" rows="1" class="span5">Source: OECD</textarea></div>
+							</div><!-- /clearfix -->
+						</fieldset>
+						<fieldset>
+							<legend>Labels</legend>
+							<div class="clearfix">
+							<div class="input"><strong>Category labels</strong></div>
+							</div><!-- /clearfix -->
+
+
+							<div class="control-group">
+								<label class="control-label" for="lAngle">Angle</label>
+								<div class="controls">
+									<select id="lAngle">
+										<option value=0>0</option>
+										<option value=1>-30&deg;</option>
+										<option value=2>-45&deg;</option>
+										<option value=3>-90&deg;</option>
+									</select>
+								</div>
+          					</div>
+
+							<div class="control-group">
+									<label class="control-label" for="hTicks">Interval between ticks: </label>
+									<div class="controls">
+										<input type="text" name="hTicks" class="input span2" size="30"/>
+									</div>
+          					</div>
+
+							<div class="input"><strong>Value labels</strong></div>
+
+							<div class="control-group">
+									<label class="control-label" for="vTicks">Number of ticks: </label>
+									<div class="controls">
+										<input type="text" name="vTicks" class="input span2" value="5" size="30"/>
+									</div>
+          					</div>
+
+							<div class="control-group">
+									<label class="control-label" for="header">Scale: </label>
+									<div class="controls">
+										<div class="inline-inputs">
+											Minimum: <input type="text" class="input span1" name="fMin" value="auto"/>&nbsp;
+											Maximum: <input type="text" name="fMax" class="input span1" value="auto"/>&nbsp;
+										</div>
+									</div>
+          					</div>
+
+							<div class="control-group">
+									<label class="control-label" for="digits">Number of digits: </label>
+									<div class="controls">
+											<input type="text" name="digits" class="input span1" value="0"/>
+									</div>
+          					</div>
+
+						</fieldset>
+
+						<fieldset>
+							<legend>Chart type</legend>
+							<div class="clearfix">
+								<div class="input">
+									<ul class="inputs-list unstyled">
+										<li><label><input type="radio" name="chartType" checked="true" value="0" />Clustered bars</label></li>
+										<li><label><input type="radio" name="chartType" value="1" />Stacked bars</label></li>
+										<li><label><input type="radio" name="chartType" value="2" />Lines </label></li>
+										<li><label><input type="radio" name="chartType" value="3" />Lines with dots </label></li>
+									</ul>
+								</div> <!-- /input -->
+							</div><!-- /clearfix -->
+						</fieldset>
+
+						<fieldset>
+							<legend>Fonts</legend>
+
+							<div class="control-group">
+								<label class="control-label" for="ffTitle">Title</label>
+							    <div class="controls">
+							        <input type="text" name="ffTitle" value="auto" class="input"/>
+							    </div>
+          					</div>
+
+							<div class="control-group">
+								<label class="control-label" for="ffsTitle">Subtitle</label>
+								<div class="controls">
+									<input type="text" name="ffsTitle" value="auto" class="input"/>
+								</div>
+          					</div>
+
+          					<div class="control-group">
+								<label class="control-label" for="ffLabel">Labels</label>
+								<div class="controls">
+									<input type="text" name="ffLabel" value="auto" class="input"/>
+								</div>
+          					</div>
+
+          					<div class="control-group">
+								<label class="control-label" for="ffUnit">Legends</label>
+								<div class="controls">
+									<input type="text" name="ffUnit" value="auto" class="input"/>
+								</div>
+          					</div>
+
+
+						</fieldset>
+
+						<fieldset>
+							<legend>Color of main series</legend>
+
+							<div class="control-group">
+							            <label class="control-label">Choose first color:</label>
+							            <div class="controls">
+							              <label class="radio">
+							                <input type="radio" name="sColor" value="0" checked="true"><span class="c0">blue</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="1" checked="true"><span class="c9">grey</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="2" checked="true"><span class="c1">magenta</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="3" checked="true"><span class="c8">green</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="4" checked="true"><span class="c6">pink</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="5" checked="true"><span class="c3">yellow</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="6" checked="true"><span class="c2">red</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="7" checked="true"><span class="c4">dark green</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="8" checked="true"><span class="c7">orange</span>
+							              </label>
+							              <label class="radio">
+										  	<input type="radio" name="sColor" value="9" checked="true"><span class="c5">cyan</span>
+							              </label>
+
+
+							            </div>
+          					</div>
+
+
+						</fieldset>
+					&nbsp;
+					</div>
+					</br><input type="button" value="Convert" onclick="csvToJson(); " /> <input type="reset" />
+				</form>
+			</div>
+			<div class="span16 offset1" id="output">
+				<h2>Result</h2>
+				<div id="chart"></div>
+				<hr>
+				<h3>Generate files to download</h3>
+				<!--<form id="result" name="result"><label>Javascript code:</label><input name="code" id="code"></form>-->
+				<form class="form-horizontal">
+				<fieldset>
+					<div class="control-group">
+						<div>
+							<div class="span3"><input type="text" class="input-small" id="htmlName" value="myChart.html"/>
+							<a id="download-html" href="#nogo"><button class="btn btn-small btn-primary">Download HTML</button></a></div>
+							<div class="span3"><input type="text" class="input-small" id="svgName"  value="myChart.svg" />
+							<a id="download-svg" href="#nogo"><button class="btn btn-small">Download SVG</button></a></div>
+						</div>
+					</div>
+				</fieldset></form>
+				<!--<input
+				<form id="svg" name="svg"><label><a href="#nogo" id="download-svg">SVG output:</a></label><input name="svgoutput" id="svgoutput"></form>-->
+			</div>
+		</div>
+	</div>
+</div>
+	<span id="ruler"></span>
+</body>
+</html>

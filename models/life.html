@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="jquery-ui.css" rel="stylesheet">
+
+<style>
+body {padding-top: 60px;}
+#slider {width:960px;}
+#settings {display:none;}
+#chart {height:520px;}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>Game of Life</title>
+</head>
+<body>
+<script src="../../d3.v2.min.js">
+</script>
+
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" 
+
+	data-url="http://jeromecukier.net/projects/models/life.html" 
+
+	data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="container">
+
+<h1><a href="models.html">Interactive models</a> &gt; Game of life</h1>
+<p>This is Conway's game of life. This grid of cells evolves over time. At the end of each period, each live cell with fewer than 2 neighbors or more than 2 disappears. And a live cell appears if it has exactly 3 live neighbors.</br>
+In this implementation you can click on the grid to toggle cells, launch the model and see how your pattern evolves. See also: <a href="http://www.janwillemtulp.com/2011/03/22/tutorial-conways-game-of-life-in-d3/">Jan Willem Tulp's version as a d3 tutorial</a>. See also the <a href="http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">wikipedia page</a> for examples of patterns to try out.</p>
+<hr>
+<input type="button" id="launch" value="Launch model">
+<input type="button" id="reset" value="Empty grid">
+
+<div class="row">
+	<div id="chart"></div>
+</div>		
+
+<footer class="span12">
+<div class="row">
+	<div class="span4 pull-right">
+	A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+	</div>
+</footer>
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="../bootstrap/js/jquery.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+<script src="routine-life.js"></script>
+
+</body>
+</html>

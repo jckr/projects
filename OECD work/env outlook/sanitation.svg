@@ -1,0 +1,14 @@
+<svg width="820" height="620" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect class="pop" style="fill: #f0f8ff; " x="0" y="0" width="820" height="600">
+</rect>
+<rect class="pop" style="fill: none; opacity: 0.5; stroke-dasharray: 4px, 4px; stroke: #000000; " x="0" y="74.95114376260449" width="717.5667701911073" height="525.0488562373955">
+</rect>
+<text style="fill: #000000; opacity: 0.2; font-size: 36px; " x="410" y="121.47096470782549" text-anchor="middle">Population in 2010: 6.9 billion</text>
+<rect class="value" style="fill: #4682b4; " x="0" y="242.94192941565092" width="487.9793631319437" height="357.0580705843491">
+</rect>
+<rect class="value" style="fill: none; opacity: 0.5; stroke-dasharray: 4px, 4px; stroke: #000000; " x="0" y="250.22596226305131" width="478.02451824049655" height="349.7740377369487">
+</rect>
+<text style="fill: #ffffff; opacity: 0.6; font-size: 20px; " x="243.98968156597186" y="421.4709647078255" text-anchor="middle">People with no access to sanitation: 2.4 billion</text>
+<text x="478.02451824049655" y="620" text-anchor="end" style="opacity: 1; ">People with no access to sanitation in 1990</text>
+<text x="717.5667701911073" y="620" text-anchor="end" style="opacity: 1; ">Population in 1990</text>
+</svg>

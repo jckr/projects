@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<style>
+body {padding-top: 60px;}
+#slider {width:960px;}
+
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>The Polya process</title>
+</head>
+<body>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" 
+
+	data-url="http://jeromecukier.net/projects/models/polya.html" 
+
+	data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="container">
+
+<h1><a href="models.html">Interactive models</a> &gt; The Polya process</h1>
+<p>You have an urn with a blue ball and a red ball. At each step, if you pick a blue ball, you add another blue ball to the urn, and if you pick a red ball, you add another red ball. <br>
+	Use the slider to see what the proportion of the balls will be on average after 50 steps. You can see up to 100 distributions.</br>
+	You should find out that any proportion is equally likely on average, even though when you start to draw many balls of one color you are likely to draw even more balls of that color. This process is called past-dependant and can be used to model many phenomena in real life.</p>
+</p>
+<hr>
+<div class="row">
+	<div id="chart"></div>
+</div>
+<div class="row">
+	<div class="span12">
+		<input type="range" value="0" min="0" max="99" step="1" id="slider">
+	</div>
+</div>
+<footer class="span12">
+<div class="row">
+	<div class="span4 pull-right">
+	A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+	</div>
+</footer>
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="../bootstrap/js/jquery.js"></script>
+
+<script src="routine-polya.js"></script>
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+</body>
+</html>

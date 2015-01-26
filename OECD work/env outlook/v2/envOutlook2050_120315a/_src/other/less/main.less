@@ -1,0 +1,140 @@
+
+@import "../../other/less/bootstrap/mixins.less";
+
+.container {
+	width: 780px;
+	padding-top: 7px;
+}
+
+#Cover {
+	padding: 175px 0;
+	h1 {
+		font-weight: normal;
+	}
+	img {
+		padding-right: 10px;
+		vertical-align: text-bottom;
+	}
+}
+
+nav#mainNav {
+	margin: 0; padding: 0;
+	margin-top: 7px;
+	border-top: 2px solid #018fd1;
+	// height: 34px;
+	
+  	#gradient > .vertical(#2973bd,#018fd0);
+	.border-radius(4px);
+	
+	.brighter {
+	  	#gradient > .vertical(#018fd0, #2973bd);
+		.border-radius(4px);
+	}
+}
+.nav-tabs {
+}
+.nav-tabs > li > a {
+	font-size: 15px;
+	color:  white;
+}
+
+.nav-tabs > li > a:hover {
+	background-color: #c5d7ed;
+	color: #2973bd;
+}
+	
+
+content h2 {
+	padding: 10px 2px 5px 2px; margin: 0;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	text-align: left;
+	font-weight: bold;
+	font-size: 1.7em;
+	}
+
+.well {
+  	#gradient > .vertical(#ffffff, #f9f9f9);
+	height:  525px;
+}
+
+#chart {
+	position:  relative;
+	background: #ffffff;
+	padding: 5px;
+}
+#chart > svg{
+	margin: 0 auto;
+}
+#chart #yearView {
+	position:  absolute;
+	right: 150px;
+	top:  60px;
+	background: #ededed;
+	border-radius: 3px;
+	padding: 10px;
+	font-size: 21px;
+	font-weight: bold;
+	color: white;
+}
+// for GDP/rectangles
+
+
+// hacks à réorganiser
+
+circle {fill:white;}
+
+#form label {
+	float: left;
+}
+
+#text {
+	min-height: 60px;
+}
+
+#footnotes {
+	background: #fff;
+	padding: 5px;
+	text-align: center;
+}
+#linesBtn p {
+	padding: 35px 1% 5px 1%;
+	margin: 0;
+}
+#linesBtn .btn-group {
+	border-top: 1px solid #dedede;
+}
+#linesBtn .btn {
+	width: 98%;
+	padding:5px 1%;
+	box-shadow: none!important;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	border: none;
+	border-bottom: 1px solid #dedede;
+	background: no-repeat;
+	text-align: left;
+	color: #333;
+	-webkit-text-shadow: none!important;
+	-moz-text-shadow: none!important;
+	text-shadow: none!important;
+}
+
+#linesBtn .btn:hover, 
+#linesBtn .btn.active:hover {
+	// background: #f9f9f9;
+}
+#linesBtn .btn.active {
+	// background: #eee;
+	box-shadow: none;
+	font-weight: bold;
+}
+
+.pagination {
+	text-align: center;
+}
+/*
+.pagination a {
+	padding: 3px 7px;
+	height:  auto;
+}*/

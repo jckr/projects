@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<link href="../bootstrap/css/bootstrap.css" rel="stylesheet">
+<link href="jquery-ui.css" rel="stylesheet">
+
+<style>
+body {padding-top: 60px;}
+#slider {width:960px;}
+#settings {display:none;}
+#chart {height:500px;}
+</style>
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- Le fav and touch icons -->
+	<link rel="shortcut icon" href="../bootstrap/ico/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../bootstrap/ico/apple-touch-icon-114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../bootstrap/ico/apple-touch-icon-72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" href="../bootstrap/ico/apple-touch-icon-57-precomposed.png">
+	<title>Markov processes</title>
+</head>
+<body>
+<script src="http://d3js.org/d3.v2.min.js">
+</script>
+
+
+
+<div class="navbar navbar-fixed-top">
+	<a href="https://twitter.com/share" class="twitter-share-button" 
+
+	data-url="http://jeromecukier.net/projects/models/markov.html" 
+
+	data-via="jcukier">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+</div>
+
+<div class="container">
+
+<h1><a href="models.html">Interactive models</a> &gt; Markov processes</h1>
+<p>Markov processes is a model that applies to a series of elements which can be in several states. At the end of each period, a fixed proportion of the elements in each state will change states.</br>
+The interesting thing about Markov processes is that <strong>no matter the initial state, the model will eventually reach an equilibrium</strong>.</br>
+</p>
+<input type="button" value="stop" id="button">
+<hr>
+<div class="row">
+	<div id="chart"></div>
+</div>
+
+<div id="changeSettings"><h4 id="switchSettings">Click to change model settings</h2>
+	<div id="settings">
+		<div id="state">
+			<p id="legendState"/>
+			<div id="sliderState"></div>
+		</div>
+
+		<div id="T1">
+			<p id="legendT1"/>
+			<div id="sliderT1"></div>
+		</div>
+
+		<div id="T2">
+			<p id="legendT2"/>
+			<div id="sliderT2"></div>
+		</div>
+
+		<div id="T3">
+			<p id="legendT3"/>
+			<div id="sliderT3"></div>
+		</div>
+	</div>
+</div>
+		
+
+<footer class="span12">
+<div class="row">
+	<div class="span4 pull-right">
+	A visualization by <a href="http://www.twitter.com/jcukier">Jerome Cukier</a></br>
+	</div>
+</footer>
+</div> <!-- /container -->
+
+
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="jquery.min.js"></script>
+<script src="jquery-ui.min.js"></script>
+
+
+
+
+<script src="../bootstrap/js/bootstrap-transition.js"></script>
+<script src="../bootstrap/js/bootstrap-alert.js"></script>
+<script src="../bootstrap/js/bootstrap-modal.js"></script>
+<script src="../bootstrap/js/bootstrap-dropdown.js"></script>
+<script src="../bootstrap/js/bootstrap-scrollspy.js"></script>
+<script src="../bootstrap/js/bootstrap-tab.js"></script>
+<script src="../bootstrap/js/bootstrap-tooltip.js"></script>
+<script src="../bootstrap/js/bootstrap-popover.js"></script>
+<script src="../bootstrap/js/bootstrap-button.js"></script>
+<script src="../bootstrap/js/bootstrap-collapse.js"></script>
+<script src="../bootstrap/js/bootstrap-carousel.js"></script>
+<script src="../bootstrap/js/bootstrap-typeahead.js"></script>
+
+<script src="routine-markov.js"></script>
+
+</body>
+</html>

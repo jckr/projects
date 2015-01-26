@@ -1,0 +1,24 @@
+
+extends _baseLayout
+
+block realStuff
+	.row
+		h2.span10
+			| CO<sub>2</sub> emissions by source
+	.row
+		.span10
+			.well
+				.row#chartControl
+					.span10
+						.pagination
+							form
+								label.checkbox
+									input#stacked(type="checkbox", checked)
+									| Keep stacked
+				.row
+					.span9
+						#chart
+		
+block d3Scripts	
+	script(type="text/javascript", src=d3Path+"co2bysource.js")
+		

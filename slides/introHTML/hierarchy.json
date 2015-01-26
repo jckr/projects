@@ -1,0 +1,64 @@
+{
+    "name": "google",
+    "children": [
+        {
+            "name": "div - ghead",
+        },
+        {
+            "name": "center",
+                    "children": [
+                        {
+                            "name": "div - lga",
+                            "children" : [
+                                {"name":"img"}
+                            ]
+                        },
+                        {
+                            "name": "form",
+                            "children" : [
+                                 {
+                                    "name":"table",
+                                    "children":[
+                                        {
+                                            "name":"tr", 
+                                            "children":[
+                                                {"name":"td"},
+                                                {"name":"td"},
+                                                {"name":"td"}
+                                            ]
+                                        }
+                                    ]
+                                 }
+                            ]
+                        },
+                        {
+                            "name": "div"
+                        },
+                        {
+                            "name": "footer",
+                            "children":[
+                                {
+                                    "name":"div",
+                                    "children":[
+                                        {
+                                            "name":"div - fll",
+                                            "children":[
+                                                {"name":"a - Advertisting programs"},
+                                                {"name":"a - Business solutions"},
+                                                {"name":"a - About google"}
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {   
+                                    "name":"p",
+                                    "chidren":[
+                                        {"name":"a - Privacy"}
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+        },           
+    ]
+}
